@@ -1,0 +1,45 @@
+{
+  "targetId": "harvard-cns",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cns1.rc.fas.harvard.edu/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T17:54:37.523Z",
+  "equipment": [
+    {
+      "name": "Oxford ICP-CVD (CVD-14)",
+      "specifications": "Low Temp",
+      "location": "CNS cleanroom - Dry processing bay at CVD-14",
+      "status": ""
+    },
+    {
+      "name": "GEMStar ALD (ALD-2)",
+      "specifications": "",
+      "location": "Wet Processing Bay - CNS cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Rheometer",
+      "specifications": "",
+      "location": "SEC LL2.226",
+      "status": ""
+    },
+    {
+      "name": "Denton E-beam Evaporator (EE-4)",
+      "specifications": "",
+      "location": "LISE G07 (cleanroom); PVD Bay",
+      "status": ""
+    },
+    {
+      "name": "EL 6",
+      "specifications": "",
+      "location": "EL 7 room",
+      "status": ""
+    },
+    {
+      "name": "EL 7",
+      "specifications": "",
+      "location": "EL 7 room",
+      "status": ""
+    }
+  ]
+}

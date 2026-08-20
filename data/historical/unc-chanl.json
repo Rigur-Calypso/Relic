@@ -1,0 +1,21 @@
+{
+  "targetId": "unc-chanl",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://chanl.unc.edu/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:06:02.157Z",
+  "equipment": [
+    {
+      "name": "High Resolution S/TEM",
+      "specifications": "",
+      "location": "Chapman Hall",
+      "status": ""
+    },
+    {
+      "name": "AFM-IR",
+      "specifications": "",
+      "location": "Chapman Hall",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "targetId": "uoregon-camcor",
+  "analyzedAt": "2026-08-20T18:23:21.421Z",
+  "vitalityScore": 98,
+  "summary": "All 17 historical instruments remain present in the current facility list, with minor naming updates and simplified specification descriptions. No equipment was removed.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Environmental Scanning Electron Microscope (ESEM)",
+      "change": "Renamed to 'SEM' with generalized specification description."
+    },
+    {
+      "name": "Helios FIB-SEM",
+      "change": "Updated to specify model name 'FEI Helios 600i FIB-SEM'."
+    }
+  ]
+}

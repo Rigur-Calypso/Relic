@@ -28,11 +28,10 @@ const NOT_ARCHIVED = /wayback machine has not archived|this url has been exclude
 async function findSnapshot(url, ts, attempt = 0) {
   const api = `https://archive.org/wayback/available?url=${encodeURIComponent(url)}&timestamp=${ts}`;
   try {
+    // Fail fast: archive.org's availability API is consistently rate-limited (429)
+    // from a single IP. One quick attempt for the exact timestamp; on anything else
+    // we drop straight to the Bright-Data-proxied redirect (no slow backoff at scale).
     const res = await fetch(api, { headers: { 'User-Agent': 'RELIC/1.0 (hackathon demo)' } });
-    if (res.status === 429 && attempt < 2) {
-      await sleep(2000 * (attempt + 1));
-      return findSnapshot(url, ts, attempt + 1);
-    }
     const ct = res.headers.get('content-type') || '';
     if (res.ok && ct.includes('json')) {
       const data = await res.json();

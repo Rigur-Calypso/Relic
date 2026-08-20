@@ -80,11 +80,14 @@ export async function generateJSON({ contents, responseSchema, temperature = 0, 
   const state = await loadState();
   const today = laDay();
 
+  // Quota buckets are per-key AND per-model, so track them independently.
+  const sk = (k) => `${model}|${fingerprint(k)}`;
+
   // Keys not marked exhausted today go first; exhausted ones are kept as a
   // last-resort retry (in case the reset already happened).
   const fresh = [], stale = [];
   for (const k of keys) {
-    (state[fingerprint(k)]?.day === today ? stale : fresh).push(k);
+    (state[sk(k)]?.day === today ? stale : fresh).push(k);
   }
   const order = [...fresh, ...stale];
 
@@ -113,7 +116,7 @@ export async function generateJSON({ contents, responseSchema, temperature = 0, 
     } catch (e) {
       lastErr = e;
       if (isQuotaError(e)) {
-        state[fingerprint(key)] = { day: today, at: new Date().toISOString() };
+        state[sk(key)] = { day: today, at: new Date().toISOString() };
         await saveState(state);
         console.warn(`[gemini] key ${fingerprint(key)} exhausted/limited — rotating to next key`);
         continue;

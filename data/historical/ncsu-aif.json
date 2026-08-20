@@ -1,0 +1,45 @@
+{
+  "targetId": "ncsu-aif",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://aif.ncsu.edu/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:04:49.676Z",
+  "equipment": [
+    {
+      "name": "Scanning Electron Microscopes",
+      "specifications": "Extreme-resolution SEM of insulating and soft materials, in situ microscopy during heating, electrical current, immersion in fluids, and in flowing gases",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscopes",
+      "specifications": "Chemically-sensitive atomic-scale imaging, in situ microscopy during heating, electrical current, immersion in fluids, and in flowing gases",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray Scattering and Spectroscopy Instruments",
+      "specifications": "In situ high temperature and electric-field-dependent X-ray diffraction",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Time-of-Flight Mass Spectrometry",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Probe Microscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nanoindentation",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

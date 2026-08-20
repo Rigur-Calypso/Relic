@@ -1,0 +1,63 @@
+{
+  "targetId": "monash-mcem",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.monash.edu/researchinfrastructure/mcem",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:41:15.787Z",
+  "equipment": [
+    {
+      "name": "Thermo Scientific Spectra φ FEGTEM",
+      "specifications": "FEGTEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Double-corrected FEI Titan3 80-300 FEGTEM",
+      "specifications": "80-300, double-corrected, FEGTEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FEI Tecnai G2 F20 S-TWIN TEM",
+      "specifications": "G2 F20 S-TWIN, TEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FEI Tecnai G2 T20 TWIN TEM",
+      "specifications": "G2 T20 TWIN, TEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermo Scientific Verios 5 UC FEGSEM",
+      "specifications": "5 UC, FEGSEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FEI Nova NanoSEM 450 FEGSEM",
+      "specifications": "NanoSEM 450, FEGSEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "JEOL JSM-7001F FEGSEM",
+      "specifications": "JSM-7001F, FEGSEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermo Scientific Helios 5 UX FIB-SEM",
+      "specifications": "5 UX, FIB-SEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FEI Quanta 3D FEGSEM",
+      "specifications": "3D, FEGSEM",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

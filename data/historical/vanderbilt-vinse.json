@@ -1,0 +1,231 @@
+{
+  "targetId": "vanderbilt-vinse",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.vanderbilt.edu/vinse/cleanroom/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:07:07.885Z",
+  "equipment": [
+    {
+      "name": "Electron Beam Lithography System",
+      "specifications": "Raith eLiNE",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Photoplotter",
+      "specifications": "Bungard Filmstar-PLUS Small",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Laser Writer",
+      "specifications": "Heidelberg Instruments μPG 101",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Mask Aligner",
+      "specifications": "Karl Suss MA-6",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Spin Coaters and Hot Plates",
+      "specifications": "Assorted",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Atomic Layer Deposition",
+      "specifications": "PicoSun R-200 Advanced",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Electroplating System",
+      "specifications": "",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Enhanced Chemical Vapor Deposition",
+      "specifications": "Trion Orion II with Triode Upgrade",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Multimode Deposition",
+      "specifications": "Angstrom Amod - Combined E-beam, Resistive & Sputter Deposition Chamber",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Resistive Evaporator",
+      "specifications": "Angstrom Amod - Resistive Chamber",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Sputter Deposition",
+      "specifications": "AJA ATC-2200",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Tube Furnace",
+      "specifications": "Lindberg Blue M Mini-Mite (1\" diameter)",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Tube Furnace",
+      "specifications": "MTI OTF-1200X (4\" diameter)",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Deep Reactive Ion Etch",
+      "specifications": "Oxford PlasmaPro 100 Cobra ICP-RIE",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Microwave Plasma Asher",
+      "specifications": "PVA TePla IoN Wave 10",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Reactive Ion Etch Chlorine",
+      "specifications": "Trion Minilock II RIE",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Reactive Ion Etch Fluorine",
+      "specifications": "Trion Phantom II ICP-RIE",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Plasma Cleaner",
+      "specifications": "Harrick Plasma PDC-32G",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Porous Silicon Etching System",
+      "specifications": "AMMT MPSB 100",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "XeF2 Vapor Etch",
+      "specifications": "SPTS Xactix e2",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "HMDS Oven",
+      "specifications": "Yield Engineering Systems 310TA",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Vacuum Oven",
+      "specifications": "Thermo Scientific Lindberg Blue M VO Series",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Standard Oven",
+      "specifications": "Thermo Scientific Heratherm OGS60",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Standard Oven",
+      "specifications": "Yamato Drying Oven DX 300",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Cleanroom Glovebox",
+      "specifications": "Inert PureLab HE connected to Angstrom Amod deposition chambers",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Microfluidic Flow Control System",
+      "specifications": "Fluigent LineUp Series",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Rapid Thermal Processor",
+      "specifications": "SSI Solaris 150",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Dicing Saw",
+      "specifications": "Disco DAD3220",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Wire Bonder",
+      "specifications": "Westbond 7476D Wedge",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Contact Angle Goniometer",
+      "specifications": "Ossila L2004A1",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Four Point Probe",
+      "specifications": "Ossila T2001A",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Probe Station",
+      "specifications": "Micromanipulator 450PM, Keithley 4200A-SCS",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Solar Testing",
+      "specifications": "Oriel Instruments 100W Xenon Lamp with AM 1.5G filter, Cornerstone 130 Monochromator, Keithley 2400 SMU",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Stylus Profilometer",
+      "specifications": "KLA Tencor P-7",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Optical Microscopes",
+      "specifications": "Assorted optical microscopes for inspection and digital imaging",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "PDMS Aligner",
+      "specifications": "ThorLabs motion control, DinoLite Optics",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Screen Printer",
+      "specifications": "MTI EQ-SPC-2-LD",
+      "location": "Cleanroom",
+      "status": ""
+    }
+  ]
+}

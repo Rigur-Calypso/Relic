@@ -1,0 +1,21 @@
+{
+  "targetId": "ucla-cnsi",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cnsi.ucla.edu/technology-centers/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T17:58:18.528Z",
+  "equipment": [
+    {
+      "name": "Anton Paar Modular Compact Rheometer 302 (MCR 302)",
+      "specifications": "Probes the mechanical properties of materials",
+      "location": "Nano and Pico Characterization Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Transmission Electron Microscopes",
+      "specifications": "Suite of six TEMs operating at scales from micrometers to angstroms with upgraded camera systems for biomolecular, molecular, cell biology, and materials sciences imaging",
+      "location": "Electron Imaging Center for Nanomachines (EICN)",
+      "status": "Available"
+    }
+  ]
+}

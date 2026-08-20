@@ -1,0 +1,27 @@
+{
+  "targetId": "umich-lnf",
+  "analyzedAt": "2026-08-20T17:53:56.312Z",
+  "vitalityScore": 100,
+  "summary": "All 119 historical equipment entries are fully preserved in the current page. Several items underwent minor formatting updates where substrate specifications were moved out of tool names into the specifications column, and room numbers were moved from the location field to the specifications field.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Angstrom Engineering",
+      "change": "Renamed to 'Angstrom Engineering Furnace'."
+    },
+    {
+      "name": "S1T1 – Annealing 4″ & 6″",
+      "change": "Wafer size details ('4″ & 6″') moved from tool name string into the specifications field."
+    },
+    {
+      "name": "S6T1 – Annealing (non-CMOS)",
+      "change": "'(non-CMOS)' designation moved from tool name string into the specifications field."
+    },
+    {
+      "name": "Acid Bench 02",
+      "change": "Room number ('1480C') moved from location string into the specifications field."
+    }
+  ]
+}

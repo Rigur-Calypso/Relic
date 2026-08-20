@@ -1,0 +1,34 @@
+{
+  "targetId": "uh-nanofab",
+  "name": "Houston",
+  "url": "https://uhnf.egr.uh.edu/cleanroom/",
+  "scrapedAt": "2026-08-20T18:29:57.348Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Atomic Force Microscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Focused Ion Beam",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Profilometry: Optical 3D",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

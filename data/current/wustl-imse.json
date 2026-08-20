@@ -1,0 +1,40 @@
+{
+  "targetId": "wustl-imse",
+  "name": "WashU IMSE",
+  "url": "https://imse.washu.edu/facilities/materialscharacterization/",
+  "scrapedAt": "2026-08-20T18:29:37.441Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Transmission Electron Microscopy",
+      "specifications": "",
+      "location": "Scott Rudolph Hall, Lower Level",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscopy & Focused Ion Beam",
+      "specifications": "",
+      "location": "Scott Rudolph Hall, Lower Level",
+      "status": ""
+    },
+    {
+      "name": "X-ray/UV Photoelectron Spectroscopy",
+      "specifications": "",
+      "location": "Scott Rudolph Hall, Lower Level",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscopy",
+      "specifications": "",
+      "location": "Scott Rudolph Hall, Lower Level",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffraction",
+      "specifications": "",
+      "location": "Scott Rudolph Hall, Lower Level",
+      "status": ""
+    }
+  ]
+}

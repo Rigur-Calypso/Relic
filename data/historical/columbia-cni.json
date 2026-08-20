@@ -1,0 +1,93 @@
+{
+  "targetId": "columbia-cni",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cni.columbia.edu/columbia-university-clean-room",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T17:55:41.234Z",
+  "equipment": [
+    {
+      "name": "FEI Nova NanoSEM 450",
+      "specifications": "With Nabity Pattern Generation System for e-beam writing",
+      "location": "Microscopy bay",
+      "status": ""
+    },
+    {
+      "name": "Nikon optical microscopes",
+      "specifications": "With bright/dark field and differential interference contrast",
+      "location": "Microscopy bay",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics thin film characterization systems",
+      "specifications": "Two thin film characterization systems",
+      "location": "Microscopy bay",
+      "status": ""
+    },
+    {
+      "name": "Nanobeam nB4",
+      "specifications": "E-beam lithography system with <10 nm resolution",
+      "location": "North West Corner building",
+      "status": ""
+    },
+    {
+      "name": "ZEISS SIGMA VP SEM",
+      "specifications": "",
+      "location": "Electron Microscopy Lab",
+      "status": ""
+    },
+    {
+      "name": "FEI TALOS F200X STEM",
+      "specifications": "",
+      "location": "Electron Microscopy Lab",
+      "status": ""
+    },
+    {
+      "name": "Angstrom EvoVac Deposition System",
+      "specifications": "E-beam evaporator",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Angstrom UHV E-BEAM Deposition System",
+      "specifications": "Ultra High Vacuum (UHV) e-beam evaporator",
+      "location": "Plasma bay",
+      "status": ""
+    },
+    {
+      "name": "AJA Orion 8 Dielectric Sputtering",
+      "specifications": "Sputtering system dedicated to dielectrics, allows reactive sputtering",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "AJA Orion 3 Metal Sputtering",
+      "specifications": "Sputtering system dedicated to metals, allows reactive sputtering",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Disco dicing saw",
+      "specifications": "",
+      "location": "Back-end bay",
+      "status": ""
+    },
+    {
+      "name": "G&P chemical mechanical planarization (CMP) system",
+      "specifications": "",
+      "location": "Back-end bay",
+      "status": ""
+    },
+    {
+      "name": "SCS Parylene coating system",
+      "specifications": "",
+      "location": "Back-end bay",
+      "status": ""
+    },
+    {
+      "name": "Baltec Critical Point Dryer",
+      "specifications": "",
+      "location": "Back-end bay",
+      "status": ""
+    }
+  ]
+}

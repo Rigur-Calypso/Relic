@@ -1,0 +1,129 @@
+{
+  "targetId": "rice-shared",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://research.rice.edu/sea/instruments",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:02:47.599Z",
+  "equipment": [
+    {
+      "name": "3D Printer: Full color 3D printer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Analytical HPLC",
+      "specifications": "Detection and concentration measurement of small molecules",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ARES G2 Rheometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "BET II: Quantachrome Autosorb-iQ-MP/Kr BET Surface Analyzer",
+      "specifications": "Surface analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "BET III: Quantachrom Autosorb-iQ-MP/KR BET Surface Analyzer",
+      "specifications": "Surface analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "BET: Quantachrome Autosorb-iQ3-MP/Kr BET Surface Analyzer",
+      "specifications": "Surface analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Biorad FPLC",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge: BC Avanti J-E",
+      "specifications": "This compact, energy-efficient centrifuge delivers performance while saving valuable laboratory space. Ideal for cellular, genetic, or protein analysis.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge: BC Avanti J-HC",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge: BC Optima L-90K Ultracentrifuge",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge: BC Optima LE-80K Ultracentrifuge",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge: BC XL-A Analytical Ultracentrifuge",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Chromium X",
+      "specifications": "Unbiased single cell transcriptome 3’ gene expression that enables discovery research",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Circular Dichroism (CD) Spectropolarimeter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Contact Angle/Tensiometer",
+      "specifications": "All-purpose measuring device for content analog measurements and drop shape analysis.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Costech Elemental Combustion System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DNA/RNA analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "EMC Plasma Cleaner",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Excella E25 Incubator Shaker A",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Flow: Guava easyCyte HT BG flow cytometer",
+      "specifications": "Bench top flow cytometry with direct sampling using a microcapillary system",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

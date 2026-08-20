@@ -1,0 +1,34 @@
+{
+  "targetId": "ntu-nanofab",
+  "name": "NTU Singapore",
+  "url": "https://www.ntu.edu.sg/n2fc",
+  "scrapedAt": "2026-08-20T18:38:33.586Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Varian ion Implantation",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Epitaxy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vistec Electron Ebeam Lithography (EBL)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Clusterline Sputter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

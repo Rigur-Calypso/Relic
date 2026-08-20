@@ -1,0 +1,28 @@
+{
+  "targetId": "northwestern-nuance",
+  "name": "Northwestern NUANCE",
+  "url": "https://nuance.northwestern.edu/",
+  "scrapedAt": "2026-08-20T18:10:48.039Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Hitachi S-4800",
+      "specifications": "",
+      "location": "EPIC-SEM",
+      "status": ""
+    },
+    {
+      "name": "Hitachi SU8700",
+      "specifications": "Schottky field emission electron source, Oxford Near-Axis TKD (NA-TKD) system, 170 mm² Ultim Max SDD EDS, Extreme windowless EDS for light-element analysis, On-axis Unity BEX detector, Integrated STEM-in-SEM imaging, Low-kV high-resolution imaging, Automated workflows with Hitachi EM Flow Creator",
+      "location": "EPIC-SEM",
+      "status": "Active"
+    },
+    {
+      "name": "JEOL JIB 4700",
+      "specifications": "",
+      "location": "NUFAB",
+      "status": ""
+    }
+  ]
+}

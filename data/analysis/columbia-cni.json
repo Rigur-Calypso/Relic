@@ -1,0 +1,75 @@
+{
+  "targetId": "columbia-cni",
+  "analyzedAt": "2026-08-20T17:55:54.151Z",
+  "vitalityScore": 78.5,
+  "summary": "While the facility expanded its toolset significantly with new lithography, etching, and deposition tools, three major electron microscopy and lithography systems (Nanobeam nB4, ZEISS SIGMA VP SEM, and FEI TALOS F200X STEM) are no longer listed in the current equipment inventory.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Nanobeam nB4",
+      "severity": "critical",
+      "reason": "E-beam lithography system is no longer present on the current equipment list."
+    },
+    {
+      "name": "ZEISS SIGMA VP SEM",
+      "severity": "critical",
+      "reason": "Scanning electron microscope is missing from the current equipment list."
+    },
+    {
+      "name": "FEI TALOS F200X STEM",
+      "severity": "critical",
+      "reason": "Scanning transmission electron microscope is missing from the current equipment list."
+    }
+  ],
+  "added": [
+    {
+      "name": "Karl Suss Mask Aligner"
+    },
+    {
+      "name": "Manual Laser Writing System"
+    },
+    {
+      "name": "Automatic Laser Writing System"
+    },
+    {
+      "name": "Plasma Ashers"
+    },
+    {
+      "name": "Photoresist Spin-Coaters"
+    },
+    {
+      "name": "Automatic RCA-Clean Bench"
+    },
+    {
+      "name": "Spin-Rinse Dryer"
+    },
+    {
+      "name": "Elionix Boden 50f"
+    },
+    {
+      "name": "Nabity Pattern Generation System (NPGS)"
+    },
+    {
+      "name": "Reactive Ion Etching (RIE) System"
+    },
+    {
+      "name": "Deep RIE System"
+    },
+    {
+      "name": "PECVD System"
+    },
+    {
+      "name": "Atomic Layer Deposition (ALD) System"
+    },
+    {
+      "name": "Thermal Evaporator"
+    },
+    {
+      "name": "Optical Profilometer"
+    },
+    {
+      "name": "Wire Bonder"
+    }
+  ],
+  "modified": []
+}

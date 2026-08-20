@@ -1,0 +1,10 @@
+{
+  "targetId": "kit-nano",
+  "analyzedAt": "2026-08-20T18:36:03.341Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

@@ -1,0 +1,71 @@
+{
+  "targetId": "bu-photonics",
+  "analyzedAt": "2026-08-20T18:15:42.820Z",
+  "vitalityScore": 43,
+  "summary": "Significant loss of documented equipment across facilities. Twelve out of twenty-one historical instruments were removed from the current equipment listing, including multiple substrate preparation tools and OPF facility items.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Spin-coater",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current equipment catalog."
+    },
+    {
+      "name": "Surface profilometer",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current equipment catalog."
+    },
+    {
+      "name": "High-resolution optical microscopes",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current equipment catalog."
+    },
+    {
+      "name": "Ozone stripper",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current equipment catalog."
+    },
+    {
+      "name": "Plasma cleaner",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current equipment catalog."
+    },
+    {
+      "name": "Mask aligner",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current equipment catalog."
+    },
+    {
+      "name": "Thermal evaporators",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current equipment catalog."
+    },
+    {
+      "name": "Sputtering system",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current equipment catalog."
+    },
+    {
+      "name": "Probe station",
+      "severity": "critical",
+      "reason": "Generic probe station entry removed from Central Nanofabrication Facility."
+    },
+    {
+      "name": "Optical mask aligners",
+      "severity": "critical",
+      "reason": "OPF facility equipment removed from listing."
+    },
+    {
+      "name": "Reactive ion etch system",
+      "severity": "critical",
+      "reason": "OPF facility equipment removed from listing."
+    },
+    {
+      "name": "E-gun evaporators",
+      "severity": "critical",
+      "reason": "OPF facility equipment removed from listing."
+    }
+  ],
+  "added": [],
+  "modified": []
+}

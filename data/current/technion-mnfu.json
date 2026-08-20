@@ -1,0 +1,9 @@
+{
+  "targetId": "technion-mnfu",
+  "name": "Technion",
+  "url": "https://mnfu.technion.ac.il/",
+  "scrapedAt": "2026-08-20T18:37:49.267Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

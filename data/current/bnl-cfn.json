@@ -1,0 +1,16 @@
+{
+  "targetId": "bnl-cfn",
+  "name": "Brookhaven CFN",
+  "url": "https://www.bnl.gov/cfn/",
+  "scrapedAt": "2026-08-20T18:32:01.434Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Electron microscope",
+      "specifications": "Five transmission electron microscopes, two of which are capable of extreme levels of resolution.",
+      "location": "Center for Functional Nanomaterials",
+      "status": "Installed"
+    }
+  ]
+}

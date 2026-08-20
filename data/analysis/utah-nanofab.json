@@ -1,0 +1,47 @@
+{
+  "targetId": "utah-nanofab",
+  "analyzedAt": "2026-08-20T18:20:27.341Z",
+  "vitalityScore": 95,
+  "summary": "Almost all historical equipment (49 of 50 items) remains preserved, with several furnace systems expanded into specific process entries. Three new tools (Oxford Cobra, LPKF Protomat, and LPKF Contac 4 Electroplater) were added. One instrument (LaserStar 1900 micro laser welder) was removed.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "LaserStar 1900 micro laser welder",
+      "severity": "critical",
+      "reason": "Instrument absent from the current equipment listing."
+    }
+  ],
+  "added": [
+    {
+      "name": "Oxford Cobra"
+    },
+    {
+      "name": "LPKF Protomat"
+    },
+    {
+      "name": "LPKF Contac 4 Electroplater"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Expertech LPCVD",
+      "change": "Split and detailed into three dedicated furnace listings: LPCVD Furnace LTO/PSG, LPCVD Furnace NITRIDE, and LPCVD Furnace POLY."
+    },
+    {
+      "name": "ProTemp furnace",
+      "change": "Split and detailed into Atmospheric Furnace CLEANOX and Atmospheric Furnace DOPEDOX."
+    },
+    {
+      "name": "Agnitron Agilis-IH",
+      "change": "Specification expanded to include Germanium Oxide deposition in addition to Gallium Oxide."
+    },
+    {
+      "name": "EVG EV-420, Suss MA1006 front & backside mask aligner",
+      "change": "Separated into two distinct instrument entries for EVG EV-420 and Suss MA1006."
+    },
+    {
+      "name": "Heidelberg uPG 101 Laser Pattern Generator (x2)",
+      "change": "Quantity multiplier (x2) removed from instrument name."
+    }
+  ]
+}

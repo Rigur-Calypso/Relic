@@ -1,0 +1,135 @@
+{
+  "targetId": "bu-photonics",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.bu.edu/nano/facilities/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:15:07.892Z",
+  "equipment": [
+    {
+      "name": "Denton Discovery 18",
+      "specifications": "Three RF targets sputtering system used for the deposition of light-emitting materials and nanostructures; allows plasma reactive and direct sputtering of semiconductors and metal films.",
+      "location": "Photonics Center",
+      "status": ""
+    },
+    {
+      "name": "Zeiss SUPRA 40VP SEM",
+      "specifications": "Equipped with Raith Beam Blanker and Nano Pattern Generation System (NPGS); resolution of electron beam at 30 kV is 1 nm, lateral resolution of 10 nm for imaging and writing.",
+      "location": "Photonics Center",
+      "status": ""
+    },
+    {
+      "name": "Spin-coater",
+      "specifications": "Used for substrate preparation for lithography.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Surface profilometer",
+      "specifications": "Used for substrate preparation for lithography.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "High-resolution optical microscopes",
+      "specifications": "Used for substrate preparation for lithography.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Ozone stripper",
+      "specifications": "Used for substrate preparation for lithography.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Plasma cleaner",
+      "specifications": "Used for substrate preparation for lithography.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Mask aligner",
+      "specifications": "Used for substrate preparation for lithography.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Thermal evaporators",
+      "specifications": "Three thermal evaporators for dedicated nonmagnetic deposition and multiple-material deposition.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Sputtering system",
+      "specifications": "For deposition of materials such as niobium, oxides and nitrites.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "JEOL scanning electron microscope (SEM)",
+      "specifications": "Used for structure characterization, checking structural integrity, surface topography, and electrical continuity.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Digital Instruments atomic force microscope (AFM)",
+      "specifications": "Used for structure characterization.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Probe station",
+      "specifications": "Used for structure characterization.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "4-Kelvin dippers",
+      "specifications": "Used for electrical characterization at low temperatures.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Wedge bonder",
+      "specifications": "Used for making electrical contacts between nanoscale structures and contact pads.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Thermal ball bonder",
+      "specifications": "Used for making electrical contacts between nanoscale structures and contact pads.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Four-point probe station",
+      "specifications": "Equipped with precision current sources and LCR meter for room temperature measurement without bonding.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Agilent oscilloscope",
+      "specifications": "Equipped with time-domain reflection characterization capabilities to check electrical continuity with picosecond pulses.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Optical mask aligners",
+      "specifications": "",
+      "location": "Optical Processing Facility (OPF) in Photonics Center",
+      "status": ""
+    },
+    {
+      "name": "Reactive ion etch system",
+      "specifications": "",
+      "location": "Optical Processing Facility (OPF) in Photonics Center",
+      "status": ""
+    },
+    {
+      "name": "E-gun evaporators",
+      "specifications": "",
+      "location": "Optical Processing Facility (OPF) in Photonics Center",
+      "status": ""
+    }
+  ]
+}

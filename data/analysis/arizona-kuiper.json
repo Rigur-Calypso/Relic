@@ -1,0 +1,69 @@
+{
+  "targetId": "arizona-kuiper",
+  "analyzedAt": "2026-08-20T18:29:30.485Z",
+  "vitalityScore": 100,
+  "summary": "Comparing the historical and current equipment lists shows that no historical equipment was removed, representing zero knowledge loss. Instead, several new facilities and instruments were added, and some existing items had their naming or specification details modified or expanded.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Ultra-high-vacuum chemical vapor deposition and molecular deposition tool"
+    },
+    {
+      "name": "Porosimeter"
+    },
+    {
+      "name": "N2-pulsed laser and dye laser system"
+    },
+    {
+      "name": "Hardness testers"
+    },
+    {
+      "name": "Microhardness testers"
+    },
+    {
+      "name": "Impact testers"
+    },
+    {
+      "name": "Fatigue testers"
+    },
+    {
+      "name": "Ultrafast titanium-sapphire, excimer, nitrogen, argon ion and solid-state laser systems"
+    },
+    {
+      "name": "Controlled-environment optical irradiation chamber"
+    },
+    {
+      "name": "2D surface profilometry"
+    },
+    {
+      "name": "Single-wafer MegPie tool"
+    },
+    {
+      "name": "Megbowl process system"
+    },
+    {
+      "name": "External quantum efficiency measurement system"
+    },
+    {
+      "name": "Optoelectronic thin films characterization lab for Hall Effect measurement"
+    },
+    {
+      "name": "Current-voltage and photovoltaic efficiency measurement system"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Gaertner L116E variable-angle ellipsometer",
+      "change": "Renamed and re-specified to Variable-angle ellipsometer with specifications moved to the specifications field."
+    },
+    {
+      "name": "Near-field scanning optical microscope (NSOM)",
+      "change": "Formatting updated to separate acronym into specifications."
+    },
+    {
+      "name": "Atomic force microscope (AFM)",
+      "change": "Formatting updated to separate acronym into specifications."
+    }
+  ]
+}

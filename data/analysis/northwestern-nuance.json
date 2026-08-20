@@ -1,0 +1,36 @@
+{
+  "targetId": "northwestern-nuance",
+  "analyzedAt": "2026-08-20T18:11:29.702Z",
+  "vitalityScore": 25,
+  "summary": "All historical equipment items including the IONTOF M6 ToF-SIMS, Hitachi S-3400, and Hitachi SU8030 are no longer listed on the current page, resulting in significant knowledge loss. New instruments have been added to the facility.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "IONTOF M6 Time-of-Flight Secondary Ion Mass Spectrometry (ToF-SIMS)",
+      "severity": "critical",
+      "reason": "Instrument and its detailed specifications and location details are completely missing from current page."
+    },
+    {
+      "name": "Hitachi S-3400",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list."
+    },
+    {
+      "name": "Hitachi SU8030",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list."
+    }
+  ],
+  "added": [
+    {
+      "name": "Hitachi S-4800"
+    },
+    {
+      "name": "Hitachi SU8700"
+    },
+    {
+      "name": "JEOL JIB 4700"
+    }
+  ],
+  "modified": []
+}

@@ -1,0 +1,130 @@
+{
+  "targetId": "rice-shared",
+  "name": "Rice University",
+  "url": "https://research.rice.edu/sea/instruments",
+  "scrapedAt": "2026-08-20T18:02:22.005Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Analytical HPLC",
+      "specifications": "Detection and concentration measurement of small molecules",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Applied Biosystem QuantStudio 5 qPCR",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ARES G2 Rheometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "BET II: Quantachrome Autosorb-iQ-MP/Kr BET Surface Analyzer",
+      "specifications": "Surface analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "BET III: Quantachrom Autosorb-iQ-MP/KR BET Surface Analyzer",
+      "specifications": "Surface analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "BET: Quantachrome Autosorb-iQ3-MP/Kr BET Surface Analyzer",
+      "specifications": "Surface analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bio-Rad ChemiDoc MP Imaging System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Biorad FPLC",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge JS-15R",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge: BC Avanti J-E",
+      "specifications": "This compact, energy-efficient centrifuge delivers performance while saving valuable laboratory space. Ideal for cellular, genetic, or protein analysis.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge: BC Avanti J-HC",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Centrifuge: BC Optima L-90K Ultracentrifuge",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Chromium X",
+      "specifications": "Unbiased single cell transcriptome 3’ gene expression that enables discovery research",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CIC Combustion Ion Chromatography",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Circular Dichroism (CD) Spectropolarimeter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Contact Angle/Tensiometer",
+      "specifications": "All-purpose measuring device for content analog measurements and drop shape analysis.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Costech Elemental Combustion System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CryoTEM processing station",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DNA/RNA analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "EDXRF",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

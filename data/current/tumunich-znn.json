@@ -1,0 +1,40 @@
+{
+  "targetId": "tumunich-znn",
+  "name": "TU Munich",
+  "url": "https://www.wsi.tum.de/views/areas.php?area=6",
+  "scrapedAt": "2026-08-20T18:36:14.364Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Helium ion microscope",
+      "specifications": "Allows structuring nanoscale materials on a lengthscale of sub-10 nm or even down to the single defect level",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    },
+    {
+      "name": "Focused ion beam",
+      "specifications": "Utilizes Ga+-ions to locally sputter materials such as metals into nanoscale circuits and fabricate thin lamellas",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    },
+    {
+      "name": "Atomic layer deposition system",
+      "specifications": "Thin-film deposition technique based on the sequential use of a gas phase chemical process",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    },
+    {
+      "name": "Atomic force microscope",
+      "specifications": "Allows characterizing the surface of nanoscale materials with a resolution close to the atomic limit",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    },
+    {
+      "name": "XPS/UPS system",
+      "specifications": "Relies on the photoemission of electrons from thin surface layers and allow characterizing their elemental composition",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    }
+  ]
+}

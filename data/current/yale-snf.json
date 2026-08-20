@@ -1,0 +1,88 @@
+{
+  "targetId": "yale-snf",
+  "name": "Yale SNF",
+  "url": "https://research.yale.edu/cores/cleanroom",
+  "scrapedAt": "2026-08-20T17:56:59.853Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Oxford 80+ ICP RIE",
+      "specifications": "Inductively Coupled Plasma Reactive Ion Etcher",
+      "location": "Main Campus Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Oxford 100 ICP-RIE",
+      "specifications": "Inductively Coupled Plasma Reactive Ion Etcher",
+      "location": "Main Campus Cleanroom, West Campus Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Oxford Cryo Bosch DRIE",
+      "specifications": "Cryogenic Bosch Deep Reactive Ion Etcher",
+      "location": "Main Campus Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Autoglow",
+      "specifications": "Plasma cleaner / treatment system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PECVD",
+      "specifications": "Plasma-Enhanced Chemical Vapor Deposition system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "XeF2",
+      "specifications": "Xenon Difluoride Etcher",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RTA",
+      "specifications": "Rapid Thermal Annealer",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ALD",
+      "specifications": "Atomic Layer Deposition system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MPO100",
+      "specifications": "3D Direct Laser Writing / Lithography system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MJB4",
+      "specifications": "Mask Aligner",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MLA150",
+      "specifications": "Maskless Aligner",
+      "location": "YINQE",
+      "status": ""
+    },
+    {
+      "name": "Electron beam evaporator",
+      "specifications": "Physical Vapor Deposition system",
+      "location": "West Campus Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Reactive ion etcher",
+      "specifications": "Dry etching system",
+      "location": "West Campus Cleanroom",
+      "status": ""
+    }
+  ]
+}

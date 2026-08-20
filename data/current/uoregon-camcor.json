@@ -1,0 +1,112 @@
+{
+  "targetId": "uoregon-camcor",
+  "name": "Oregon CAMCOR",
+  "url": "https://camcor.uoregon.edu/",
+  "scrapedAt": "2026-08-20T18:22:27.203Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Titan TEM",
+      "specifications": "High-resolution electron microscopy and microanalysis for studying features ranging in length scale from centimeter to subatomic, morphology, and elemental composition.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "SEM",
+      "specifications": "High-resolution electron microscopy and microanalysis for studying features, morphology, and elemental composition.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "Electron Microprobe",
+      "specifications": "Microanalysis and elemental composition.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "Multi-Ion Source Plasma-FIB",
+      "specifications": "Site-specific material removal, deposition, and imaging for micro and nanofabrication, TEM sample prep, cross-sectional investigation, and elemental composition.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "FEI Helios 600i FIB-SEM",
+      "specifications": "Site-specific material removal, deposition, and imaging for micro and nanofabrication, TEM sample prep, cross-sectional investigation, and elemental composition.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "XPS",
+      "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "ToF-SIMS",
+      "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "Auger",
+      "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "AFM",
+      "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "FTIR Spectrometer",
+      "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "Raman Spectrometer",
+      "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "Liquid and Solid-State NMR",
+      "specifications": "Characterizing molecular constituents, as well as thermal and mechanical properties of materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "TGA",
+      "specifications": "Thermal and mechanical properties of materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "DSC",
+      "specifications": "Thermal and mechanical properties of materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "Rheometer",
+      "specifications": "Rheometry for characterizing thermal and mechanical properties of materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "Small Angle X-Ray Equipment",
+      "specifications": "Determining the crystalline nature of thin-film, powder, and single crystal materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    },
+    {
+      "name": "X-Ray Fluorescence Equipment",
+      "specifications": "Determining the crystalline nature of thin-film, powder, and single crystal materials.",
+      "location": "Lorry I. Lokey Laboratories",
+      "status": ""
+    }
+  ]
+}

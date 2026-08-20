@@ -1,0 +1,64 @@
+{
+  "targetId": "bu-photonics",
+  "name": "Boston University",
+  "url": "https://www.bu.edu/nano/facilities/",
+  "scrapedAt": "2026-08-20T18:14:42.235Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Denton Discovery 18",
+      "specifications": "Three RF targets sputtering system for deposition of light-emitting materials and nanostructures; allows plasma reactive and direct sputtering of semiconductors and metal films.",
+      "location": "Photonics Center",
+      "status": ""
+    },
+    {
+      "name": "Zeiss SUPRA 40VP SEM",
+      "specifications": "Equipped with Raith Beam Blanker and Nano Pattern Generation System (NPGS). Resolution at 30 kV is 1 nm, lateral resolution of 10 nm for imaging and writing.",
+      "location": "Photonics Center",
+      "status": ""
+    },
+    {
+      "name": "JEOL scanning electron microscope (SEM)",
+      "specifications": "Used for structural characterization, surface topography, and electrical continuity checks.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Digital Instruments atomic force microscope (AFM)",
+      "specifications": "Used for surface topography and structural characterization.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "4-Kelvin dippers",
+      "specifications": "Used for electrical characterization at low temperatures.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Wedge bonder",
+      "specifications": "Used for making electrical contacts between nanoscale structures and contact pads.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Thermal ball bonder",
+      "specifications": "Used for making electrical contacts between nanoscale structures and contact pads.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Four-point probe station",
+      "specifications": "Equipped with precision current sources and LCR meter for room temperature measurements without bonding.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    },
+    {
+      "name": "Agilent oscilloscope",
+      "specifications": "Equipped with capabilities for time-domain reflection characterization to check electrical continuity with picosecond pulses.",
+      "location": "Central Nanofabrication Facility",
+      "status": ""
+    }
+  ]
+}

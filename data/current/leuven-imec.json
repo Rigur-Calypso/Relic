@@ -1,0 +1,34 @@
+{
+  "targetId": "leuven-imec",
+  "name": "KU Leuven imec",
+  "url": "https://www.imec-int.com/en/infrastructure",
+  "scrapedAt": "2026-08-20T18:32:38.660Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "High NA EUV prototype scanner",
+      "specifications": "High NA EUV prototype",
+      "location": "Veldhoven, The Netherlands",
+      "status": "operational"
+    },
+    {
+      "name": "Qnano tool",
+      "specifications": "",
+      "location": "Biolabs",
+      "status": "operational"
+    },
+    {
+      "name": "Biacore2000",
+      "specifications": "SPR device",
+      "location": "Biolabs",
+      "status": "operational"
+    },
+    {
+      "name": "Biacore3000",
+      "specifications": "SPR device",
+      "location": "Biolabs",
+      "status": "operational"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "targetId": "bnl-cfn",
+  "snapshotUrl": "http://web.archive.org/web/20240101225430/https://www.bnl.gov/cfn/",
+  "snapshotTimestamp": "20240101225430",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T18:32:17.277Z",
+  "equipment": [
+    {
+      "name": "Transmission electron microscopes",
+      "specifications": "Five transmission electron microscopes, two of which are capable of extreme levels of resolution",
+      "location": "Electron Microscopy Facility",
+      "status": ""
+    }
+  ]
+}

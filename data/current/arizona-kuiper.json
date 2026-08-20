@@ -1,0 +1,220 @@
+{
+  "targetId": "arizona-kuiper",
+  "name": "University of Arizona",
+  "url": "https://mse.engineering.arizona.edu/research/facilities",
+  "scrapedAt": "2026-08-20T18:29:04.504Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Ultra-high-vacuum chemical vapor deposition and molecular deposition tool",
+      "specifications": "Ultra-high-vacuum CVD and molecular deposition",
+      "location": "Carbon Nanoscience Facility",
+      "status": ""
+    },
+    {
+      "name": "Modulated differential scanning calorimeter",
+      "specifications": "TA Instrument Q-1000",
+      "location": "Glass Processing and Characterization Facility",
+      "status": ""
+    },
+    {
+      "name": "Differential scanning calorimeter",
+      "specifications": "Mettler Toledo DSC",
+      "location": "Glass Processing and Characterization Facility",
+      "status": ""
+    },
+    {
+      "name": "Infrared fluorescence spectrometer",
+      "specifications": "Horiba Jobin Yvon 1000M",
+      "location": "Glass Processing and Characterization Facility",
+      "status": ""
+    },
+    {
+      "name": "FTIR spectrometer",
+      "specifications": "Bruker Tensor 27",
+      "location": "Glass Processing and Characterization Facility",
+      "status": ""
+    },
+    {
+      "name": "Spark plasma sintering furnace",
+      "specifications": "Thermal Technology",
+      "location": "High-Temperature Ceramic Processing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "High-temperature tube furnace",
+      "specifications": "Controlled ramp rate up to 1100 °C",
+      "location": "High-Temperature Ceramic Processing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "High-temperature box furnace",
+      "specifications": "Controlled ramp rate up to 1700 °C",
+      "location": "High-Temperature Ceramic Processing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Glass-melting furnaces",
+      "specifications": "Standard box furnace operated up to 800°C",
+      "location": "High-Temperature Ceramic Processing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Thermal gravimetric analyzer",
+      "specifications": "Jupiter by NETZCH",
+      "location": "High-Temperature Ceramic Processing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Oxyacetylene torch test facility",
+      "specifications": "With high-temperature optical pyrometer constructed in observation with ASTM E285-80",
+      "location": "High-Temperature Ceramic Processing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Porosimeter",
+      "specifications": "",
+      "location": "Materials Processing and Characterization",
+      "status": ""
+    },
+    {
+      "name": "Scanning electron microscope",
+      "specifications": "",
+      "location": "Materials Processing and Characterization",
+      "status": ""
+    },
+    {
+      "name": "Variable-angle ellipsometer",
+      "specifications": "Gaertner L116E",
+      "location": "Materials Processing and Characterization",
+      "status": ""
+    },
+    {
+      "name": "N2-pulsed laser and dye laser system",
+      "specifications": "",
+      "location": "Materials Processing and Characterization",
+      "status": ""
+    },
+    {
+      "name": "Stress strain analyzer",
+      "specifications": "",
+      "location": "Mechanical Testing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "MTS tensile testing instrument",
+      "specifications": "",
+      "location": "Mechanical Testing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Hardness testers",
+      "specifications": "",
+      "location": "Mechanical Testing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Microhardness testers",
+      "specifications": "",
+      "location": "Mechanical Testing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Impact testers",
+      "specifications": "",
+      "location": "Mechanical Testing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Fatigue testers",
+      "specifications": "",
+      "location": "Mechanical Testing Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Ultrafast titanium-sapphire, excimer, nitrogen, argon ion and solid-state laser systems",
+      "specifications": "",
+      "location": "Optical Spectroscopic Facility",
+      "status": ""
+    },
+    {
+      "name": "Controlled-environment optical irradiation chamber",
+      "specifications": "With in-situ spectroscopic analysis, closed-loop helium cryogenic cooler",
+      "location": "Optical Spectroscopic Facility",
+      "status": ""
+    },
+    {
+      "name": "Near-field scanning optical microscope",
+      "specifications": "NSOM",
+      "location": "Optical Spectroscopic Facility",
+      "status": ""
+    },
+    {
+      "name": "Atomic force microscope",
+      "specifications": "AFM",
+      "location": "Optical Spectroscopic Facility",
+      "status": ""
+    },
+    {
+      "name": "2D surface profilometry",
+      "specifications": "",
+      "location": "Optical Spectroscopic Facility",
+      "status": ""
+    },
+    {
+      "name": "Single-wafer MegPie tool",
+      "specifications": "",
+      "location": "Surface Chemistry and Electrochemistry Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Megbowl process system",
+      "specifications": "",
+      "location": "Surface Chemistry and Electrochemistry Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Dual-source RF-magnetron sputtering deposition system",
+      "specifications": "",
+      "location": "Thin-Film Deposition Facility",
+      "status": ""
+    },
+    {
+      "name": "External quantum efficiency measurement system",
+      "specifications": "EQE",
+      "location": "Thin-Film Deposition Facility",
+      "status": ""
+    },
+    {
+      "name": "Atomic force microscope system",
+      "specifications": "",
+      "location": "Thin-Film Deposition Facility",
+      "status": ""
+    },
+    {
+      "name": "Universal four-point probe station",
+      "specifications": "",
+      "location": "Thin-Film Deposition Facility",
+      "status": ""
+    },
+    {
+      "name": "Thermal evaporation deposition system",
+      "specifications": "",
+      "location": "Thin-Film Deposition Facility",
+      "status": ""
+    },
+    {
+      "name": "Optoelectronic thin films characterization lab for Hall Effect measurement",
+      "specifications": "",
+      "location": "Thin-Film Deposition Facility",
+      "status": ""
+    },
+    {
+      "name": "Current-voltage and photovoltaic efficiency measurement system",
+      "specifications": "",
+      "location": "Thin-Film Deposition Facility",
+      "status": ""
+    }
+  ]
+}

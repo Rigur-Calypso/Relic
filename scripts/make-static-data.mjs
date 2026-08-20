@@ -15,11 +15,17 @@ const targets = JSON.parse(await readFile(resolve(ROOT, 'targets.json'), 'utf8')
 await writeFile(resolve(OUT, 'targets.json'), JSON.stringify(targets, null, 2));
 
 // all analyses → public/data/analysis.json (array, same shape as GET /api/analysis)
+// Skip any file that fails to parse (e.g. one being written mid-pipeline) so the
+// build can never break on a partially-written snapshot.
 const dir = resolve(ROOT, 'data', 'analysis');
 const files = (await readdir(dir)).filter(f => f.endsWith('.json'));
-const analyses = await Promise.all(
-  files.map(async f => JSON.parse(await readFile(resolve(dir, f), 'utf8'))),
-);
+const analyses = [];
+let skipped = 0;
+for (const f of files) {
+  try { analyses.push(JSON.parse(await readFile(resolve(dir, f), 'utf8'))); }
+  catch { skipped++; }
+}
 await writeFile(resolve(OUT, 'analysis.json'), JSON.stringify(analyses, null, 2));
 
-console.log(`[static-data] wrote ${targets.length} targets + ${analyses.length} analyses to src/frontend/public/data/`);
+console.log(`[static-data] wrote ${targets.length} targets + ${analyses.length} analyses` +
+  (skipped ? ` (${skipped} unparseable file(s) skipped)` : '') + ' to src/frontend/public/data/');

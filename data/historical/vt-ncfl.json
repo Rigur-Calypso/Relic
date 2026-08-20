@@ -1,0 +1,69 @@
+{
+  "targetId": "vt-ncfl",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://ncfl.ictas.vt.edu/index.html",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:03:49.514Z",
+  "equipment": [
+    {
+      "name": "TEM: JEOL 2100",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FEI Quanta 600 FEG",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LEO (Zeiss) 1550",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Helios FIB",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Philips EM 420",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Cameca IMS 7f GEO",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PHI Quantera Hybrid XPS",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Hysitron TriboIndenter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HIROX KH-7700 3D Digital Video Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "JEOL IT-500HR",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

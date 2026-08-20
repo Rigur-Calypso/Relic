@@ -1,0 +1,520 @@
+{
+  "targetId": "ucsd-nano3",
+  "name": "UC San Diego Nano3",
+  "url": "https://nanofab.ucsd.edu/",
+  "scrapedAt": "2026-08-20T18:28:19.078Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Raith Vistec EBPG 5200",
+      "specifications": "100kV electron beam lithography tool",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TEM Talos F200X G2 S/TEM",
+      "specifications": "Thermo Fisher Talos F200X TEM/STEM with EDS analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Anton Paar Julia DSC 500",
+      "specifications": "Differential Scanning Calorimeter",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "Hit 300 Nanoindenter",
+      "specifications": "Anton Paar Hit 300 automated material testing system for mechanical properties at nanometer scale",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "PHI Genesis XPS",
+      "specifications": "X-ray Photoelectron Spectroscopy, Fully Automated Multi-Technique Scanning XPS/HAXPES, Al and Cr dual monochromated X-ray sources",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "Arradiance GEMStar XT-DP Dual Manifold Thermal/PEALD",
+      "specifications": "Atomic Layer Deposition, 2-Zone 1500W Reactor Chamber, up to 300C process temperature, 1.25 in height reactor",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "Lindberg Blue M Tube Furnace for Growth of 2D Materials",
+      "specifications": "Highest temperature 1100 C, diameter of quartz 1",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "Keyence VK-X3000 Laser 3D Surface Profiler",
+      "specifications": "Semiconductor laser, 661 nm, laser confocal and focus variation scanning methods",
+      "location": "room #1429",
+      "status": ""
+    },
+    {
+      "name": "Oxford PlasmaPro 100 Cobra 300",
+      "specifications": "Deep Si etching, Bosch process, Cryo Si etching, Atomic Layer Etching (ALE), -150 C to 400 C temperature range",
+      "location": "room #1435",
+      "status": ""
+    },
+    {
+      "name": "Precision Wafer Polishing & Lapping",
+      "specifications": "15 Precision Polishing Machine for up to one 8 or three 4 wafers",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "Finetech FinePlacer Sigma Sub-Micron Flip-Chip Bonder",
+      "specifications": "Sub-micron placement accuracy, 450 x 150 mm working area, bonding forces up to 1000 N",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "MTI OTF-1200X Tube Furnace",
+      "specifications": "",
+      "location": "room #1416",
+      "status": ""
+    },
+    {
+      "name": "Park NX20 Atomic Force Microscope (AFM)",
+      "specifications": "Z Scanner Range: 15um, XY Scanner Range: 50um x 50um",
+      "location": "room #1416",
+      "status": ""
+    },
+    {
+      "name": "Denton 502B Thermal Evaporator",
+      "specifications": "High vacuum thermal evaporation system for up to 4 substrates up to 4 inches in diameter",
+      "location": "room #1423",
+      "status": ""
+    },
+    {
+      "name": "NanoFrazor",
+      "specifications": "Thermal scanning probe lithography and direct write laser lithography, resolution down to 15 nm features",
+      "location": "room #1405",
+      "status": ""
+    },
+    {
+      "name": "Hot Laminator - GBC Catena 35",
+      "specifications": "Thermal film laminator up to 12 wide",
+      "location": "room #1405",
+      "status": ""
+    },
+    {
+      "name": "Carver Hot Embossing System",
+      "specifications": "Thermoplastic polymers hot embossing system, up to 200C, up to 15tons force",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "Fisher Oven",
+      "specifications": "Fisher Scientific programmable, forced draft furnace, max temp: 650C",
+      "location": "room #1416",
+      "status": ""
+    },
+    {
+      "name": "Lindberg Mini-Mite Tube Furnace",
+      "specifications": "Microprocessor-based self-tuning PID control",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ulvac MILA-3000 Minilamp Annealer",
+      "specifications": "Heating in Nitrogen and Forming Gas at atmospheric pressure, vacuum (~10 Torr), max temperature 1,100°C",
+      "location": "room #1431",
+      "status": ""
+    },
+    {
+      "name": "AccuThermo AW 610 RTP (2)",
+      "specifications": "Manually loaded, single-wafer rapid thermal annealing system, silicon only, up to 100mm in diameter, max temperature 1100C",
+      "location": "room #1431",
+      "status": ""
+    },
+    {
+      "name": "Carbolite HTCR 6/28 High Temperature Clean Room Oven",
+      "specifications": "Working temperature range 50C to 500C, chamber dimensions 12 W x 12 D x 12 H",
+      "location": "room #1443",
+      "status": ""
+    },
+    {
+      "name": "AccuThermo AW 610 RTP (1)",
+      "specifications": "Manually loaded, single wafer rapid thermal annealing system, silicon only, up to 100mm in diameter, max temperature 1100C",
+      "location": "room #1431",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg MLA150 Laser Writer",
+      "specifications": "Direct write lithography tool, light source diode lasers 8 W at 405 nm and 2.8W at 375 nm, min feature size 1 um",
+      "location": "room #1405",
+      "status": ""
+    },
+    {
+      "name": "EVG620 Lithography/NIL System",
+      "specifications": "Semi-automated Double Side Mask Alignment System, broad band UV source, up to 150mm wafer size",
+      "location": "room #1413",
+      "status": ""
+    },
+    {
+      "name": "HTG Mask Aligner",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Karl Suss MA6 Mask Aligner",
+      "specifications": "Wavelength range UV400 350-450 nm, resolution down to 0.6 um in vacuum contact mode, wafer size up to 150 mm",
+      "location": "room #1413",
+      "status": ""
+    },
+    {
+      "name": "Karl Suss MJB3 Mask Aligner",
+      "specifications": "Substrate sizes pieces to 75 mm, alignment down to 1 um",
+      "location": "room #1413",
+      "status": ""
+    },
+    {
+      "name": "Jandel Four Point Probe with RM3000 Test Unit",
+      "specifications": "Measures sheet resistance and volume resistivity, accommodates wafers up to 10 inches",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "DektakXT Stylus Profilometer",
+      "specifications": "Step-height measures of up to 1 mm with repeatability of 0.4 nm",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics Profilm3D Optical Profiler",
+      "specifications": "White light interferometric (WLI) profilometer system, 5x, 10x, 20x, and 50x objectives, 0.1 nm Z resolution",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "J.A. Woollam M-2000D Spectroscopic Ellipsometer",
+      "specifications": "RCE technology, 690 wavelengths in 193-1700 nm range",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "Keyence VHX1000",
+      "specifications": "100x – 1000x magnification range, 16-bit High Dynamic Range imaging mode",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "Agilent B1500A Semiconductor Device Analyzer",
+      "specifications": "I-V and C-V characterization, four SMU's and a CMU",
+      "location": "room #1416",
+      "status": ""
+    },
+    {
+      "name": "Axio Fluorescence Microscope",
+      "specifications": "Upright microscope, LED and mercury arc lamp, objectives: 5x, 10x, 20x, 50x, 100x",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "Dektak 150 Surface Profiler",
+      "specifications": "Step-height repeatability of 0.6nm, samples up to six inches",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "Veeco NT1100 Optical Profiling System",
+      "specifications": "White light interferometry, 0.1 nm – 1mm range",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "Toho Technology FLX-2320 Thin Film Stress Measurement System",
+      "specifications": "Determines thin film stress, sample size 75 to 200mm, measurement range 1 to 4,000MPa",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics F20 (2)",
+      "specifications": "Thickness range of ~15 nm to 70 μm",
+      "location": "room #1409",
+      "status": ""
+    },
+    {
+      "name": "Zeiss Axio Imager Optical Microscope",
+      "specifications": "Reflected and transmitted light bright-field/dark-field, objectives: 5x, 10x, 20x, 50x, 100x, 150x",
+      "location": "room #1409",
+      "status": ""
+    },
+    {
+      "name": "Rudolph Auto EL Ellipsometer",
+      "specifications": "Measures film thickness or index of refraction",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "HP 4155 Parametric Analyzer/Probe Station",
+      "specifications": "Four source/monitor units (SMUs), two voltage source units (VSUs) and two voltage measurement units (VMUs)",
+      "location": "room #1419",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics F20",
+      "specifications": "Thickness range of ~15 nm to 70 μm",
+      "location": "room #1417",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm SLR PECVD",
+      "specifications": "Load-locked system with platen transfer, 150 mm diameter wafers, top electrode max 500W",
+      "location": "room #1429",
+      "status": ""
+    },
+    {
+      "name": "Denton Discovery 635 Sputter System",
+      "specifications": "Three cathode (one RF, two DC) sputter system, stage heats up to 450°C",
+      "location": "room #1423",
+      "status": ""
+    },
+    {
+      "name": "PDS 2010 Parylene Coater",
+      "specifications": "Labcoter 2 Parylene Deposition System, substrates up to 6 inches, film thicknesses up to ~10 microns",
+      "location": "room #1423",
+      "status": ""
+    },
+    {
+      "name": "Beneq TFS200 Atomic Layer Deposition",
+      "specifications": "Hot wall, flow through type reaction chamber, thermal or plasma enhanced ALD mode, 25 – 500C temperature range",
+      "location": "room #1429",
+      "status": ""
+    },
+    {
+      "name": "AJA RF Sputter Deposition Tool",
+      "specifications": "Samples up to four inches, load lock, 5 RF magnetrons, substrates up to 800 C",
+      "location": "room #1435",
+      "status": ""
+    },
+    {
+      "name": "AJA DC Sputter Deposition Tool",
+      "specifications": "Deposition of metals and conductive materials, samples up to four inches, 3 DC magnetrons",
+      "location": "room #1435",
+      "status": ""
+    },
+    {
+      "name": "Emitech K575X Sputter Coater",
+      "specifications": "Sputter coat non-conducting samples with Cr or Ir prior to SEM analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford Plasmalab 80+ PECVD",
+      "specifications": "Plasma-enhanced chemical vapor deposition, samples up to 4″ in diameter",
+      "location": "room #1429",
+      "status": ""
+    },
+    {
+      "name": "Denton Desk IV Sputter Coater",
+      "specifications": "6” OD Pyrex chamber, manual or automatic sputtering time",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "Denton 502A Thermal Evaporator",
+      "specifications": "High vacuum thermal evaporation system for up to 4 substrates up to 4 inches",
+      "location": "room #1423",
+      "status": ""
+    },
+    {
+      "name": "Temescal BJD 1800 Ebeam Evaporator (2)",
+      "specifications": "Electron Beam Deposition System, cryo-pumped, base pressures in low 10e-7 Torr range, four pockets",
+      "location": "room #1425",
+      "status": ""
+    },
+    {
+      "name": "Denton Discovery 18 Sputter System",
+      "specifications": "Three cathode (one RF, two DC) sputter system, stage heats to 300°C",
+      "location": "room #1425",
+      "status": ""
+    },
+    {
+      "name": "Temescal BJD 1800 Ebeam Evaporator (1)",
+      "specifications": "Electron Beam Deposition System, cryo-pumped, base pressures in low 10e-7 Torr range, four pockets",
+      "location": "room #1425",
+      "status": ""
+    },
+    {
+      "name": "Thermofisher Talos F200X G2 S/TEM",
+      "specifications": "Scanning/Transmission Electron Microscope, high-resolution S/TEM and TEM, EDS characterization",
+      "location": "room #1416A",
+      "status": ""
+    },
+    {
+      "name": "Zeiss Sigma 500 SEM",
+      "specifications": "Field-emission SEM, 0.8nm image resolution at 15kV, 1.6nm at 1kV",
+      "location": "room #1416",
+      "status": ""
+    },
+    {
+      "name": "Scios DualBeam FIB/SEM",
+      "specifications": "FEI Scios DualBeam FIB/SEM system, Scanning Electron Microscope and gallium Focused Ion Beam system",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "Microfluidics Workstation",
+      "specifications": "16 independent manifolds with 8ms response time",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "Apreo SEM",
+      "specifications": "Apreo HiVac Schottky Field Emission Scanning Electron Microscope, 0.8nm at 15kV and 1.0nm at 1kV",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "Quanta FEG 250",
+      "specifications": "Three modes of operation: high vacuum, low vacuum and ESEM, resolution 1.2nm at 30kV",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "Veeco Scanning Probe Microscope",
+      "specifications": "Multimode microscope with Nanoscope IV controller",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "GDSII Editor PC",
+      "specifications": "PC dedicated to prepare pattern files for the Raith50 e-beam writer",
+      "location": "room #2400A",
+      "status": ""
+    },
+    {
+      "name": "GDSII Editor PC #2",
+      "specifications": "PC dedicated to prepare pattern files for the e-beam writer and photomasks",
+      "location": "room #1416",
+      "status": ""
+    },
+    {
+      "name": "Vistec EBPG 5200",
+      "specifications": "High-resolution Gaussian Beam System, Thermal Field Emission source with 50/100kV beam energy",
+      "location": "room #1409",
+      "status": ""
+    },
+    {
+      "name": "Idonus HF VPE-150",
+      "specifications": "Hydrofluoric acid vapor phase etcher, substrate temperature 35°C to 60°C",
+      "location": "room#1443",
+      "status": ""
+    },
+    {
+      "name": "Oxford Plasmalab 100 RIE/ICP",
+      "specifications": "Load-locked deep silicon etcher with wafer transfer, ICP 180mm high-density plasma source",
+      "location": "room #1439",
+      "status": ""
+    },
+    {
+      "name": "Oxford Plasmalab 80+ RIE",
+      "specifications": "8-inch diameter parallel plate, turbo-pumped system, 30/300 Watt 13.56 MHz HF generator",
+      "location": "room #1439",
+      "status": ""
+    },
+    {
+      "name": "Plasma Etch PE100",
+      "specifications": "General purpose O2 plasma etcher, power 0 to 300 watts",
+      "location": "room #1439",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm SLR RIE/ICP Plasma Etch System",
+      "specifications": "Load-locked deep silicon etcher with wafer transfer, ICP high-density plasma source with 1000W RF generator at 2 Mhz",
+      "location": "room #1439",
+      "status": ""
+    },
+    {
+      "name": "PVA TePla PS100",
+      "specifications": "Downstream microwave frequency O2 plasma asher for photoresist descum, 2.45 GHz regulated magnetron, 0-300W",
+      "location": "room #1439",
+      "status": ""
+    },
+    {
+      "name": "Trion RIE/ICP Dry Etcher",
+      "specifications": "Load lock equipped, RIE or ICP RF power, operation up to 150C",
+      "location": "room #1439",
+      "status": ""
+    },
+    {
+      "name": "Xactix XeF2 Etcher",
+      "specifications": "XeF2 isotropic silicon etcher, up to 100mm in diameter",
+      "location": "room #1439",
+      "status": ""
+    },
+    {
+      "name": "TPT Wedge / Ball Bonder",
+      "specifications": "Bench top, semi-automatic thermosonic wire bonder (TPT HB16)",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "Vapor Treatment",
+      "specifications": "Vapor treatment system for self assembled monolayer (SAM) with antistiction properties",
+      "location": "room #1413",
+      "status": ""
+    },
+    {
+      "name": "CNC Micro Milling Machine",
+      "specifications": "Minitech 4 axis CNC micro milling machine, XYZ resolution of 1 μm",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "QuikLaze-50 ST2",
+      "specifications": "New Wave Research QuikLaze-50 ST2 using Nd:YAG laser ablation",
+      "location": "room #1435",
+      "status": ""
+    },
+    {
+      "name": "Thinky Mixer",
+      "specifications": "Centrifugal mixer used for mixing viscous fluids up to 2000rpm",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "Tousimis AutoSamdri 815A",
+      "specifications": "Automatic critical point dryer, Process Chamber size: 1.25″ I.D. x 1.25″ Depth",
+      "location": "room #1420",
+      "status": ""
+    },
+    {
+      "name": "Tousimis Autosamdri 815B",
+      "specifications": "Automatic critical point dryer, Process Chamber size: 4.5″ I.D. x 1.25″ Depth",
+      "location": "room #1435",
+      "status": ""
+    },
+    {
+      "name": "West Bond Ball Bonder",
+      "specifications": "Thermosonic ball-wedge wire bonder",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "UVO Cleaner",
+      "specifications": "Utilizes ultraviolet-generated ozone for effective organics removal",
+      "location": "room #1416",
+      "status": ""
+    },
+    {
+      "name": "Disco Automatic Dicing Saw 3220",
+      "specifications": "Precision dicing tool up to 6 inches in diameter and up to 1mm thick",
+      "location": "room #1414",
+      "status": ""
+    },
+    {
+      "name": "West Bond Wedge Bonder",
+      "specifications": "Ultrasonic/thermosonic wedge-wedge wire bonder",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

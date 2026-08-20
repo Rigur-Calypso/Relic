@@ -1,0 +1,39 @@
+{
+  "targetId": "tumunich-znn",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.wsi.tum.de/views/areas.php?area=6",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:36:34.053Z",
+  "equipment": [
+    {
+      "name": "Helium ion microscope (HIM)",
+      "specifications": "Allows structuring nanoscale materials on a lengthscale of sub-10 nm or down to the single defect level",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    },
+    {
+      "name": "Focused ion beam (FIB)",
+      "specifications": "Utilizes Ga+-ions to locally sputter materials into nanoscale circuits and fabricate thin lamellas",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    },
+    {
+      "name": "Atomic layer deposition (ALD)",
+      "specifications": "Thin-film deposition technique based on the sequential use of a gas phase chemical process",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    },
+    {
+      "name": "Atomic force microscope (AFM)",
+      "specifications": "Allows characterizing the surface of nanoscale materials with a resolution close to the atomic limit",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    },
+    {
+      "name": "XPS/UPS",
+      "specifications": "Ultraviolet and x-ray photoelectron spectroscopy relying on photoemission of electrons from thin surface layers",
+      "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+      "status": ""
+    }
+  ]
+}

@@ -45,6 +45,19 @@ async function analyze(id) {
   const current = JSON.parse(await readFile(resolve(ROOT, 'data', 'current', `${id}.json`), 'utf8'));
   const historical = JSON.parse(await readFile(resolve(ROOT, 'data', 'historical', `${id}.json`), 'utf8'));
 
+  // Guard: an empty CURRENT list means the live scrape failed to extract — NOT that
+  // every instrument was removed. Don't fabricate a "total knowledge loss" from it.
+  if (!current.equipment || current.equipment.length === 0) {
+    const record = {
+      targetId: id, analyzedAt: new Date().toISOString(),
+      vitalityScore: null, summary: 'Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.',
+      knowledgeLoss: false, removed: [], added: [], modified: [],
+    };
+    await writeFile(resolve(ROOT, 'data', 'analysis', `${id}.json`), JSON.stringify(record, null, 2));
+    console.log(`[diff] ${id}: current empty — skipped`);
+    return;
+  }
+
   if (!historical.equipment || historical.equipment.length === 0) {
     const record = {
       targetId: id, analyzedAt: new Date().toISOString(),

@@ -1,0 +1,22 @@
+{
+  "targetId": "harvard-cns",
+  "name": "Harvard CNS",
+  "url": "https://cns1.rc.fas.harvard.edu/",
+  "scrapedAt": "2026-08-20T17:54:14.928Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "FIB 4 Helios Dual-Beam FIBSEM",
+      "specifications": "Dual-Beam FIBSEM (Focused Ion Beam Scanning Electron Microscope)",
+      "location": "LISE B15F",
+      "status": ""
+    },
+    {
+      "name": "Jupiter XR Atomic Force Microscope (SPM-12)",
+      "specifications": "Atomic Force Microscopy (AFM)",
+      "location": "Inside Nanofabrication Cleanroom LISE-G07 (cleanroom-metrology bay)",
+      "status": ""
+    }
+  ]
+}

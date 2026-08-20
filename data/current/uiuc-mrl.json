@@ -1,0 +1,9 @@
+{
+  "targetId": "uiuc-mrl",
+  "name": "Illinois MRL",
+  "url": "https://mrl.illinois.edu/",
+  "scrapedAt": "2026-08-20T18:08:58.216Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

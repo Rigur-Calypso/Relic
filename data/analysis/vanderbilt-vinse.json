@@ -1,0 +1,19 @@
+{
+  "targetId": "vanderbilt-vinse",
+  "analyzedAt": "2026-08-20T18:07:34.273Z",
+  "vitalityScore": 100,
+  "summary": "No equipment was removed from the facility list. The Electron Beam Lithography System was upgraded/replaced with a new model (Elionix ELS-BODEN), and Process Hoods were added to the list.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Process Hoods"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Electron Beam Lithography System",
+      "change": "Updated model specification from Raith eLiNE to Elionix ELS-BODEN"
+    }
+  ]
+}

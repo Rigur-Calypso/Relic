@@ -136,5 +136,479 @@
     "name": "Anna University",
     "url": "https://www.annauniv.edu/CGC/facilities.php",
     "strategy": "ai"
+  },
+  {
+    "id": "umich-lnf",
+    "name": "Michigan Lurie Nanofab",
+    "url": "https://lnf.engin.umich.edu/equipment/",
+    "strategy": "ai"
+  },
+  {
+    "id": "harvard-cns",
+    "name": "Harvard CNS",
+    "url": "https://cns1.rc.fas.harvard.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "columbia-cni",
+    "name": "Columbia Nano Initiative",
+    "url": "https://cni.columbia.edu/columbia-university-clean-room",
+    "strategy": "ai"
+  },
+  {
+    "id": "princeton-prism",
+    "name": "Princeton PRISM",
+    "url": "https://mnfc.princeton.edu/home",
+    "strategy": "ai"
+  },
+  {
+    "id": "yale-snf",
+    "name": "Yale SNF",
+    "url": "https://research.yale.edu/cores/cleanroom",
+    "strategy": "ai"
+  },
+  {
+    "id": "ucla-cnsi",
+    "name": "UCLA CNSI",
+    "url": "https://cnsi.ucla.edu/technology-centers/",
+    "strategy": "ai"
+  },
+  {
+    "id": "ucsd-nano3",
+    "name": "UC San Diego Nano3",
+    "url": "https://nanofab.ucsd.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "uci-inrf",
+    "name": "UC Irvine INRF",
+    "url": "https://inrf.uci.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "utexas-mrc",
+    "name": "UT Austin MRC",
+    "url": "https://quantum.utexas.edu/facilities",
+    "strategy": "ai"
+  },
+  {
+    "id": "rice-shared",
+    "name": "Rice University",
+    "url": "https://research.rice.edu/sea/instruments",
+    "strategy": "ai"
+  },
+  {
+    "id": "vt-ncfl",
+    "name": "Virginia Tech NCFL",
+    "url": "https://ncfl.ictas.vt.edu/index.html",
+    "strategy": "ai"
+  },
+  {
+    "id": "ncsu-aif",
+    "name": "NC State AIF",
+    "url": "https://aif.ncsu.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "unc-chanl",
+    "name": "UNC CHANL",
+    "url": "https://chanl.unc.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "vanderbilt-vinse",
+    "name": "Vanderbilt VINSE",
+    "url": "https://www.vanderbilt.edu/vinse/cleanroom/",
+    "strategy": "ai"
+  },
+  {
+    "id": "wisc-wcnt",
+    "name": "Wisconsin Nanoscale",
+    "url": "https://wcnt.wisc.edu/center-for-nanoscale-fabrication-2/",
+    "strategy": "ai"
+  },
+  {
+    "id": "uiuc-mrl",
+    "name": "Illinois MRL",
+    "url": "https://mrl.illinois.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "northwestern-nuance",
+    "name": "Northwestern NUANCE",
+    "url": "https://nuance.northwestern.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "lehigh-emf",
+    "name": "Lehigh",
+    "url": "https://ifmd.lehigh.edu/facilities",
+    "strategy": "ai"
+  },
+  {
+    "id": "rpi-cbis",
+    "name": "RPI",
+    "url": "https://cmdis.rpi.edu/facilities",
+    "strategy": "ai"
+  },
+  {
+    "id": "bu-photonics",
+    "name": "Boston University",
+    "url": "https://www.bu.edu/nano/facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "arizona-kuiper",
+    "name": "University of Arizona",
+    "url": "https://mse.engineering.arizona.edu/research/facilities",
+    "strategy": "ai"
+  },
+  {
+    "id": "unm-cint",
+    "name": "New Mexico",
+    "url": "https://ncf.unm.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "utah-nanofab",
+    "name": "Utah Nanofab",
+    "url": "https://www.nanofab.utah.edu/cleanroom-capabilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "oregonstate-nano",
+    "name": "Oregon State",
+    "url": "https://engineering.oregonstate.edu/masc",
+    "strategy": "ai"
+  },
+  {
+    "id": "uoregon-camcor",
+    "name": "Oregon CAMCOR",
+    "url": "https://camcor.uoregon.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "washington-moles",
+    "name": "UW Molecular Analysis",
+    "url": "https://research.washington.edu/centers/molecular-analysis-f",
+    "strategy": "ai"
+  },
+  {
+    "id": "wustl-imse",
+    "name": "WashU IMSE",
+    "url": "https://imse.washu.edu/facilities/materialscharacterization/",
+    "strategy": "ai"
+  },
+  {
+    "id": "uh-nanofab",
+    "name": "Houston",
+    "url": "https://uhnf.egr.uh.edu/cleanroom/",
+    "strategy": "ai"
+  },
+  {
+    "id": "texasam-mcf",
+    "name": "Texas A&M",
+    "url": "https://mcf.tamu.edu/instruments/",
+    "strategy": "ai"
+  },
+  {
+    "id": "msu-ceo",
+    "name": "Michigan State",
+    "url": "https://www.egr.msu.edu/cmsc/equipments/all",
+    "strategy": "ai"
+  },
+  {
+    "id": "lbnl-foundry",
+    "name": "LBNL Molecular Foundry",
+    "url": "https://foundry.lbl.gov/about/facilities/nanofabrication/",
+    "strategy": "ai"
+  },
+  {
+    "id": "bnl-cfn",
+    "name": "Brookhaven CFN",
+    "url": "https://www.bnl.gov/cfn/",
+    "strategy": "ai"
+  },
+  {
+    "id": "leuven-imec",
+    "name": "KU Leuven imec",
+    "url": "https://www.imec-int.com/en/infrastructure",
+    "strategy": "ai"
+  },
+  {
+    "id": "kth-electrum",
+    "name": "KTH",
+    "url": "http://intranet.myfab.se/KTHAcreo/Resources/Alltools.aspx",
+    "strategy": "ai"
+  },
+  {
+    "id": "aalto-micronova",
+    "name": "Aalto Micronova",
+    "url": "https://www.aalto.fi/en/otanano/about-micronova",
+    "strategy": "ai"
+  },
+  {
+    "id": "kit-nano",
+    "name": "KIT",
+    "url": "https://www.knmf.kit.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "tumunich-znn",
+    "name": "TU Munich",
+    "url": "https://www.wsi.tum.de/views/areas.php?area=6",
+    "strategy": "ai"
+  },
+  {
+    "id": "weizmann-nano",
+    "name": "Weizmann Institute",
+    "url": "https://www.weizmann.ac.il/condmat/submicron/home-page",
+    "strategy": "ai"
+  },
+  {
+    "id": "technion-mnfu",
+    "name": "Technion",
+    "url": "https://mnfu.technion.ac.il/",
+    "strategy": "ai"
+  },
+  {
+    "id": "ntu-nanofab",
+    "name": "NTU Singapore",
+    "url": "https://www.ntu.edu.sg/n2fc",
+    "strategy": "ai"
+  },
+  {
+    "id": "kaist-nanofab",
+    "name": "KAIST",
+    "url": "https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+    "strategy": "ai"
+  },
+  {
+    "id": "melbourne-mcn",
+    "name": "Melbourne MCN",
+    "url": "https://nanomelbourne.com/",
+    "strategy": "ai"
+  },
+  {
+    "id": "monash-mcem",
+    "name": "Monash MCEM",
+    "url": "https://www.monash.edu/researchinfrastructure/mcem",
+    "strategy": "ai"
+  },
+  {
+    "id": "mcgill-nano",
+    "name": "McGill",
+    "url": "https://www.mcgill.ca/microfab/about",
+    "strategy": "ai"
+  },
+  {
+    "id": "alberta-nanofab",
+    "name": "Alberta",
+    "url": "https://www.nanofab.ualberta.ca/",
+    "strategy": "ai"
+  },
+  {
+    "id": "iith-crf",
+    "name": "IIT Hyderabad",
+    "url": "https://che.iith.ac.in/Research%20Facilities.HTML",
+    "strategy": "ai"
+  },
+  {
+    "id": "iitgn-cif",
+    "name": "IIT Gandhinagar",
+    "url": "https://iitgn.ac.in/cif/",
+    "strategy": "ai"
+  },
+  {
+    "id": "iitmandi-c4dfed",
+    "name": "IIT Mandi",
+    "url": "https://amrc.iitmandi.ac.in/",
+    "strategy": "ai"
+  },
+  {
+    "id": "iitp-cif",
+    "name": "IIT Patna",
+    "url": "https://saif.iitp.ac.in/",
+    "strategy": "ai"
+  },
+  {
+    "id": "iiserb-cif",
+    "name": "IISER Bhopal",
+    "url": "https://www.iiserb.ac.in/cif/other_facility",
+    "strategy": "ai"
+  },
+  {
+    "id": "iisertvm-cif",
+    "name": "IISER Thiruvananthapuram",
+    "url": "https://www.iisertvm.ac.in/pages/cif",
+    "strategy": "ai"
+  },
+  {
+    "id": "du-usic",
+    "name": "University of Delhi USIC",
+    "url": "https://www.usic.du.ac.in/?product_cat=instruments",
+    "strategy": "ai"
+  },
+  {
+    "id": "pu-chd-cil",
+    "name": "Panjab University",
+    "url": "https://rsic.puchd.ac.in/",
+    "strategy": "ai"
+  },
+  {
+    "id": "saha-scf",
+    "name": "Saha Institute",
+    "url": "https://www.saha.ac.in/web/home-ecmpd/nmr-facilities",
+    "strategy": "ai"
+  },
+  {
+    "id": "annamalai-cif",
+    "name": "Annamalai University",
+    "url": "https://annamalaiuniversity.ac.in/laboratory_cisl.php",
+    "strategy": "ai"
+  },
+  {
+    "id": "jadavpur-cif",
+    "name": "Jadavpur University",
+    "url": "https://jadavpuruniversity.in/academics/instrumentation-scie",
+    "strategy": "ai"
+  },
+  {
+    "id": "vit-cif",
+    "name": "VIT University",
+    "url": "https://crf.vit.ac.in/research/facilities",
+    "strategy": "ai"
+  },
+  {
+    "id": "srm-cif",
+    "name": "SRM University",
+    "url": "https://www.srmist.edu.in/research/research-wings/nrc/",
+    "strategy": "ai"
+  },
+  {
+    "id": "manipal-cif",
+    "name": "Manipal",
+    "url": "https://cif.manipal.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "ucdavis-cnm",
+    "name": "UC Davis",
+    "url": "https://cnm2.ucdavis.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "ucr-cfamm",
+    "name": "UC Riverside",
+    "url": "https://cfamm.ucr.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "northeastern-nano",
+    "name": "Northeastern",
+    "url": "https://cmc.sites.northeastern.edu/facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "colostate-arc",
+    "name": "Colorado State",
+    "url": "https://www.research.colostate.edu/arc/",
+    "strategy": "ai"
+  },
+  {
+    "id": "texastech-nano",
+    "name": "Texas Tech",
+    "url": "https://www.depts.ttu.edu/coe/research/mcc/facilities.php",
+    "strategy": "ai"
+  },
+  {
+    "id": "iowastate-mario",
+    "name": "Iowa State",
+    "url": "https://www.biotech.iastate.edu/marl/",
+    "strategy": "ai"
+  },
+  {
+    "id": "oxford-dmc",
+    "name": "Oxford Materials",
+    "url": "https://www-em.materials.ox.ac.uk/instruments.html",
+    "strategy": "ai"
+  },
+  {
+    "id": "ethz-brnc",
+    "name": "ETH Zurich BRNC",
+    "url": "https://www.zurich.ibm.com/brnc/",
+    "strategy": "ai"
+  },
+  {
+    "id": "stuttgart-mpg",
+    "name": "Max Planck Stuttgart",
+    "url": "https://www.fkf.mpg.de/6731663/25_Tools",
+    "strategy": "ai"
+  },
+  {
+    "id": "warwick-rtp",
+    "name": "Warwick",
+    "url": "https://warwick.ac.uk/research/rtp/",
+    "strategy": "ai"
+  },
+  {
+    "id": "standrews-nano",
+    "name": "St Andrews",
+    "url": "https://www.st-andrews.ac.uk/chemistry/research/facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "unist-ucrf",
+    "name": "UNIST",
+    "url": "https://ucrf.unist.ac.kr/",
+    "strategy": "ai"
+  },
+  {
+    "id": "nthu-taiwan",
+    "name": "NTHU Taiwan",
+    "url": "https://nscric.site.nthu.edu.tw/p/404-1186-124139.php",
+    "strategy": "ai"
+  },
+  {
+    "id": "nit-trichy",
+    "name": "NIT Trichy",
+    "url": "https://www.nitt.edu/rc/sif/",
+    "strategy": "ai"
+  },
+  {
+    "id": "nit-rourkela",
+    "name": "NIT Rourkela",
+    "url": "https://crf.nitrkl.ac.in/",
+    "strategy": "ai"
+  },
+  {
+    "id": "sppu-pune",
+    "name": "Savitribai Phule Pune University",
+    "url": "https://cif.unipune.ac.in/",
+    "strategy": "ai"
+  },
+  {
+    "id": "gauhati-usic",
+    "name": "Gauhati University",
+    "url": "https://gauhati.ac.in/saif/",
+    "strategy": "ai"
+  },
+  {
+    "id": "amrita-cif",
+    "name": "Amrita University",
+    "url": "https://www.amrita.edu/center/major-analytical-instrumentati",
+    "strategy": "ai"
+  },
+  {
+    "id": "ssn-cif",
+    "name": "SSN College",
+    "url": "https://www.ssn.edu.in/research-centre/facilities-and-servic",
+    "strategy": "ai"
+  },
+  {
+    "id": "thapar-cif",
+    "name": "Thapar University",
+    "url": "https://see.thapar.edu/pages/instrumental-facility",
+    "strategy": "ai"
   }
 ]

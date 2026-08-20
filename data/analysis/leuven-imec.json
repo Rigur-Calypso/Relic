@@ -1,0 +1,15 @@
+{
+  "targetId": "leuven-imec",
+  "analyzedAt": "2026-08-20T18:33:05.818Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment is preserved with an upgraded ASML scanner noted, resulting in no knowledge loss.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "ASML scanner equipment",
+      "change": "Upgraded to High NA EUV prototype scanner with updated specifications and location"
+    }
+  ]
+}

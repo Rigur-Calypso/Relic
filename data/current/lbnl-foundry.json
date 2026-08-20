@@ -1,0 +1,9 @@
+{
+  "targetId": "lbnl-foundry",
+  "name": "LBNL Molecular Foundry",
+  "url": "https://foundry.lbl.gov/about/facilities/nanofabrication/",
+  "scrapedAt": "2026-08-20T18:31:28.953Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

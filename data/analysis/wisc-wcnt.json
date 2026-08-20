@@ -1,0 +1,10 @@
+{
+  "targetId": "wisc-wcnt",
+  "analyzedAt": "2026-08-20T18:08:15.056Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

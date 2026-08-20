@@ -1,0 +1,9 @@
+{
+  "targetId": "unm-cint",
+  "name": "New Mexico",
+  "url": "https://ncf.unm.edu/",
+  "scrapedAt": "2026-08-20T18:17:43.380Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

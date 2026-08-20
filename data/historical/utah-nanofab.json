@@ -1,0 +1,309 @@
+{
+  "targetId": "utah-nanofab",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.nanofab.utah.edu/cleanroom-capabilities/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:20:06.269Z",
+  "equipment": [
+    {
+      "name": "Nanoscribe Professional GT-2 micro/nano 3D printer",
+      "specifications": "200nm-mm scale printing on silicon and glass. IP-DIP, IP-S, IP-Q, IP-Visio, IP-PDMS, GP-Silica, IP-n162 Resins",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg DWL66+ Laser Pattern Generator",
+      "specifications": "submicron 0.3mm (300nm) min lines and spaces, gray-scale patterning, direct write up to 200mm substrates and 9 inch photomasks",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg uPG 101 Laser Pattern Generator (x2)",
+      "specifications": "0.9mm, 2.5mm write heads, gray scale lithography",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "Nanofrazor",
+      "specifications": "30nm-200nm nanolithography tool",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "EVG EV-420, Suss MA1006 front & backside mask aligner",
+      "specifications": "front & backside mask aligner",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "OAI Models 200 & 810 (with BSA)",
+      "specifications": "contact aligners",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "SSEC 3305 Auto spin/bake HMDS/PR/EBR track",
+      "specifications": "Auto spin/bake track",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "CEE Apogee spinner/bakeplate",
+      "specifications": "spinner/bakeplate",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "YES HMDS vapor prime vacuum oven",
+      "specifications": "vapor prime vacuum oven",
+      "location": "Lithography (Class 100)",
+      "status": ""
+    },
+    {
+      "name": "TMV SS-40C",
+      "specifications": "8 dedicated cathodes, dual cryo-pumped",
+      "location": "Thin Film Deposition (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Denton Discovery 18",
+      "specifications": "3 user config 3 inch cathodes, RF/DC/Reactive/Heated sputtering",
+      "location": "Thin Film Deposition (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Denton 635LL",
+      "specifications": "4-cathodes, RGA, OES-feedback reactive oxygen or nitrogen sputter, heated/cooled chuck to 500C, co-sputtering, coats up to 200mm diameter substrates",
+      "location": "Thin Film Deposition (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Denton e-beam DV-SJ/20C",
+      "specifications": "four hearths, user configurable",
+      "location": "Thin Film Deposition (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Oxford Plasmalab 80+",
+      "specifications": "PECVD (a-Si, low-stress Si3N4, SiO2) and RIE (SF6, CF4, O2, Ar)",
+      "location": "Thin Film Deposition / Etch (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "SCS PDS 2010 Parylene-C",
+      "specifications": "CVD",
+      "location": "Thin Film Deposition (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Agnitron Agilis-IH",
+      "specifications": "MOCVD Gallium Oxide",
+      "location": "Thin Film Deposition (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Cambridge Fiji F200",
+      "specifications": "thermal & plasma dep modes, H2O plasma (Pt, HfO2, ZnO, Al2O3, SiO2, TiO2, MgO, ZrO2)",
+      "location": "Thin Film Deposition (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Expertech LPCVD",
+      "specifications": "LTO / PSG / low-stress, silicon-rich and stoichiometric Si3N4, a & P-doped polysilicon",
+      "location": "Furnaces and Diffusion (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Allwin 610 RTP/RTA",
+      "specifications": "with O2, N2, Ar, H2 forming gas, 200-1250 C",
+      "location": "Furnaces and Diffusion (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "ProTemp furnace",
+      "specifications": "wet/dry thermal silicon oxidation",
+      "location": "Furnaces and Diffusion (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Blue-M box furnace",
+      "specifications": "N2 purge",
+      "location": "Furnaces and Diffusion (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Vacuum oven",
+      "specifications": "250 C",
+      "location": "Furnaces and Diffusion (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Oxford Plasmalab 100+ ICP DRIE",
+      "specifications": "Bosch & cryo, SF6, CF4, CHF3, O2, Ar, N2",
+      "location": "Etch (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Technics PEII",
+      "specifications": "H2O vapor, O2 descum & resist strip",
+      "location": "Etch (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Xactix Xetch XeF2",
+      "specifications": "silicon isotropic dry etch",
+      "location": "Etch (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Plasmatherm 790 metal etch",
+      "specifications": "Cl2, BCl3, SF6, CF4, O2, Ar",
+      "location": "Etch (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Bold & WAFAB wet benches (x6)",
+      "specifications": "acids, bases, organics",
+      "location": "Etch (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "Gold wet-etch station",
+      "specifications": "",
+      "location": "Etch (Class 1000)",
+      "status": ""
+    },
+    {
+      "name": "KOH bulk Si micromachining etch station",
+      "specifications": "",
+      "location": "Micromachining / Meso-Scale Prototyping",
+      "status": ""
+    },
+    {
+      "name": "LaserStar 1900 micro laser welder",
+      "specifications": "1064nm, 150J",
+      "location": "Micromachining / Meso-Scale Prototyping",
+      "status": ""
+    },
+    {
+      "name": "ULS CO2 flatbed laser",
+      "specifications": "dual laser cartridge, 25W + 75W, 1090nm",
+      "location": "Micromachining / Meso-Scale Prototyping",
+      "status": ""
+    },
+    {
+      "name": "DPSS Samurai UV laser",
+      "specifications": "355nm, 10um spot size, 3 W",
+      "location": "Micromachining / Meso-Scale Prototyping",
+      "status": ""
+    },
+    {
+      "name": "EVG 520IS wafer bonder",
+      "specifications": "anodic, eutectic, polymer, fusion",
+      "location": "Backend Processes & Packaging",
+      "status": ""
+    },
+    {
+      "name": "Disco DAD 641 & Disco 3220 dicing saws",
+      "specifications": "std or UV tape",
+      "location": "Backend Processes & Packaging",
+      "status": ""
+    },
+    {
+      "name": "MEI wedge wirebonder",
+      "specifications": "with Au and Al wire",
+      "location": "Backend Processes & Packaging",
+      "status": ""
+    },
+    {
+      "name": "Omnicure 1000 UV curing",
+      "specifications": "320-500nm",
+      "location": "Clean (Class 10,000) Microfluidics",
+      "status": ""
+    },
+    {
+      "name": "JEOL JSM-IT200LV Inspection SEM",
+      "specifications": "Inspection SEM",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "Keyence VHX-5000 3D measuring microscope",
+      "specifications": "3D measuring microscope",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "n&k NKT 1500 thin film analyzer",
+      "specifications": "wafer mapping",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "Nanometrics NanoSpec 3000",
+      "specifications": "film thickness",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics F20 & F40",
+      "specifications": "small spot film thickness and refractive index",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "Magnetron Instruments 4-point probe",
+      "specifications": "4-point probe",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "Polyvar Met with DIC",
+      "specifications": "optical microscope with DIC",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "Tencor P-10 and P-20 stylus profilometers",
+      "specifications": "stylus profilometer",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "Tencor Flexus 2320 film stress analyzer",
+      "specifications": "film stress analyzer",
+      "location": "Cleanroom (Class 1000) Metrology",
+      "status": ""
+    },
+    {
+      "name": "Verigy 9300 SOC IC tester",
+      "specifications": "SOC IC tester",
+      "location": "Electrical / Magnetic Testing",
+      "status": ""
+    },
+    {
+      "name": "Keysight 404A Mixed Signal O-scope",
+      "specifications": "Mixed Signal Oscilloscope",
+      "location": "Electrical / Magnetic Testing",
+      "status": ""
+    },
+    {
+      "name": "Keysight E5061B Network Analyzer",
+      "specifications": "Network Analyzer",
+      "location": "Electrical / Magnetic Testing",
+      "status": ""
+    },
+    {
+      "name": "Keithley 4200A semiconductor parameter analyzer",
+      "specifications": "four SMUs + positioning microprobes",
+      "location": "Electrical / Magnetic Testing",
+      "status": ""
+    },
+    {
+      "name": "Micromanipulator light-tight micro probe station",
+      "specifications": "light-tight micro probe station",
+      "location": "Electrical / Magnetic Testing",
+      "status": ""
+    }
+  ]
+}

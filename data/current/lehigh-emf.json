@@ -1,0 +1,9 @@
+{
+  "targetId": "lehigh-emf",
+  "name": "Lehigh",
+  "url": "https://ifmd.lehigh.edu/facilities",
+  "scrapedAt": "2026-08-20T18:11:50.274Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

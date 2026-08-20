@@ -1,0 +1,60 @@
+{
+  "targetId": "rice-shared",
+  "analyzedAt": "2026-08-20T18:03:00.553Z",
+  "vitalityScore": 70,
+  "summary": "Several historical items including 3D printers, specific ultracentrifuges, plasma cleaner, incubator shaker, and flow cytometer were removed from the lab list, while several new pieces of analytical equipment were added.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "3D Printer: Full color 3D printer",
+      "severity": "critical",
+      "reason": "Instrument no longer listed on the current page."
+    },
+    {
+      "name": "Centrifuge: BC Optima LE-80K Ultracentrifuge",
+      "severity": "critical",
+      "reason": "Instrument no longer listed on the current page."
+    },
+    {
+      "name": "Centrifuge: BC XL-A Analytical Ultracentrifuge",
+      "severity": "critical",
+      "reason": "Instrument no longer listed on the current page."
+    },
+    {
+      "name": "EMC Plasma Cleaner",
+      "severity": "critical",
+      "reason": "Instrument no longer listed on the current page."
+    },
+    {
+      "name": "Excella E25 Incubator Shaker A",
+      "severity": "critical",
+      "reason": "Instrument no longer listed on the current page."
+    },
+    {
+      "name": "Flow: Guava easyCyte HT BG flow cytometer",
+      "severity": "critical",
+      "reason": "Instrument no longer listed on the current page."
+    }
+  ],
+  "added": [
+    {
+      "name": "Applied Biosystem QuantStudio 5 qPCR"
+    },
+    {
+      "name": "Bio-Rad ChemiDoc MP Imaging System"
+    },
+    {
+      "name": "Centrifuge JS-15R"
+    },
+    {
+      "name": "CIC Combustion Ion Chromatography"
+    },
+    {
+      "name": "CryoTEM processing station"
+    },
+    {
+      "name": "EDXRF"
+    }
+  ],
+  "modified": []
+}

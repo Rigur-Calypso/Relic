@@ -1,0 +1,15 @@
+{
+  "targetId": "bnl-cfn",
+  "analyzedAt": "2026-08-20T18:32:23.792Z",
+  "vitalityScore": 90,
+  "summary": "The transmission electron microscope facility entry was consolidated and updated with location and status details, maintaining core instrument capabilities.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Transmission electron microscopes",
+      "change": "Updated location and added operational status while preserving equipment specifications."
+    }
+  ]
+}

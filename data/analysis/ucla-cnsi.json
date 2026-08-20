@@ -1,0 +1,58 @@
+{
+  "targetId": "ucla-cnsi",
+  "analyzedAt": "2026-08-20T17:58:30.369Z",
+  "vitalityScore": 50,
+  "summary": "The Anton Paar Rheometer was removed from the lab inventory. The generic 'Transmission Electron Microscopes' entry was expanded into specific individual instrument listings, along with several new tools added across different lab facilities.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Anton Paar Modular Compact Rheometer 302 (MCR 302)",
+      "severity": "critical",
+      "reason": "Instrument is no longer present in the updated equipment list."
+    }
+  ],
+  "added": [
+    {
+      "name": "Stimulated Emission Depletion (STED) Confocal Microscope"
+    },
+    {
+      "name": "Titan Krios G4"
+    },
+    {
+      "name": "FEI Titan 80-300"
+    },
+    {
+      "name": "Teneo"
+    },
+    {
+      "name": "Quanta 650"
+    },
+    {
+      "name": "ThermoFisher Scientific Spectra 300 C-TWIN X-CFEG (Spectra 300C)"
+    },
+    {
+      "name": "Karl Suss MA6"
+    },
+    {
+      "name": "Heidelberg DW66"
+    },
+    {
+      "name": "Nova 600"
+    },
+    {
+      "name": "Raith EBPG5000+ES"
+    },
+    {
+      "name": "BioAFM (NanoWizard)"
+    },
+    {
+      "name": "CellXpress.AI"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Transmission Electron Microscopes",
+      "change": "Generic summary entry was expanded into detailed individual instrument records including Titan Krios G4 and FEI Titan 80-300."
+    }
+  ]
+}

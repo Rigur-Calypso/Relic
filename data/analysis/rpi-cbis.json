@@ -1,0 +1,15 @@
+{
+  "targetId": "rpi-cbis",
+  "analyzedAt": "2026-08-20T18:14:27.770Z",
+  "vitalityScore": 100,
+  "summary": "All 76 historical equipment items are preserved in the current inventory. Item specifications have been updated with standardized category tags, and minor corrections were made to tool parameters.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Headway Spin Coater",
+      "change": "Corrected maximum spin speed from 800RPM to 8000RPM and added category tag."
+    }
+  ]
+}

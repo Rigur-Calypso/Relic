@@ -1,0 +1,45 @@
+{
+  "targetId": "vt-ncfl",
+  "analyzedAt": "2026-08-20T18:04:01.649Z",
+  "vitalityScore": 80,
+  "summary": "Two historical instruments (LEO (Zeiss) 1550 and Cameca IMS 7f GEO) are no longer listed, while the Helios FIB was updated to Helios 5 UC. Several new JEOL instruments were added to the current equipment list.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "LEO (Zeiss) 1550",
+      "severity": "critical",
+      "reason": "Instrument no longer listed on current facility page."
+    },
+    {
+      "name": "Cameca IMS 7f GEO",
+      "severity": "critical",
+      "reason": "Instrument no longer listed on current facility page."
+    }
+  ],
+  "added": [
+    {
+      "name": "JEOL JEM 1400"
+    },
+    {
+      "name": "JEOL JEM ARM200f NEOARM"
+    },
+    {
+      "name": "JEOL JXA-iHP200F"
+    },
+    {
+      "name": "JEOL JBX-8100FS"
+    },
+    {
+      "name": "JEOL IB-19520CCP Cooling Cross Section Polisher"
+    },
+    {
+      "name": "JEOL JSM-IT800 SHL"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Helios FIB",
+      "change": "Updated instrument designation to Helios 5 UC"
+    }
+  ]
+}

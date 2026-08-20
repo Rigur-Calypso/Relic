@@ -1,0 +1,41 @@
+{
+  "targetId": "ucsd-nano3",
+  "analyzedAt": "2026-08-20T18:28:53.495Z",
+  "vitalityScore": 95,
+  "summary": "The comparison shows that the lab facility has generally preserved its historical equipment base, with high continuity in tools and instruments. A few specific items were reformatted or renamed in the current list, and new equipment such as the Anton Paar Julia DSC 500 and PHI Genesis XPS were added.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Anton Paar Julia DSC 500"
+    },
+    {
+      "name": "Hit 300 Nanoindenter"
+    },
+    {
+      "name": "PHI Genesis XPS"
+    },
+    {
+      "name": "Arradiance GEMStar XT-DP Dual Manifold Thermal/PEALD"
+    },
+    {
+      "name": "Lindberg Blue M Tube Furnace for Growth of 2D Materials"
+    },
+    {
+      "name": "Keyence VK-X3000 Laser 3D Surface Profiler"
+    },
+    {
+      "name": "Oxford PlasmaPro 100 Cobra 300"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Raith Vistec EBPG 5200",
+      "change": "Updated name and description format."
+    },
+    {
+      "name": "TEM Talos F200X G2 S/TEM",
+      "change": "Renamed/reformatted from Thermofisher Talos F200X G2 S/TEM."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "targetId": "unc-chanl",
+  "name": "UNC CHANL",
+  "url": "https://chanl.unc.edu/",
+  "scrapedAt": "2026-08-20T18:05:20.952Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

@@ -1,0 +1,9 @@
+{
+  "targetId": "washington-moles",
+  "name": "UW Molecular Analysis",
+  "url": "https://research.washington.edu/centers/molecular-analysis-f",
+  "scrapedAt": "2026-08-20T18:23:53.125Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

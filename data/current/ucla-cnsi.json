@@ -1,0 +1,82 @@
+{
+  "targetId": "ucla-cnsi",
+  "name": "UCLA CNSI",
+  "url": "https://cnsi.ucla.edu/technology-centers/",
+  "scrapedAt": "2026-08-20T17:57:58.567Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Stimulated Emission Depletion (STED) Confocal Microscope",
+      "specifications": "~70 nm spatial resolution, fluorescence imaging",
+      "location": "Advanced Light Microscopy and Spectroscopy (ALMS) Lab",
+      "status": ""
+    },
+    {
+      "name": "Titan Krios G4",
+      "specifications": "CryoEM microscope equipped with direct electron cameras, energy filters, and CryoFlow software",
+      "location": "Electron Imaging Center for Nanosystems (EICN)",
+      "status": ""
+    },
+    {
+      "name": "FEI Titan 80-300",
+      "specifications": "S/TEM mode operation, 1.3 Å resolution, 80-300 kV, Ultrascan 2k x 2k camera, Direct Electron DE-64 camera, Oxford X-MaxN 100TLE EDS detector",
+      "location": "Electron Imaging Center for Nanosystems (EICN)",
+      "status": ""
+    },
+    {
+      "name": "Teneo",
+      "specifications": "Scanning electron microscope (SEM), SE detector, LVD detector, multi-segment BSE detector, in-lens detectors, Oxford Ultim Max 100 mm² EDS detector",
+      "location": "Electron Imaging Center for Nanosystems (EICN)",
+      "status": ""
+    },
+    {
+      "name": "Quanta 650",
+      "specifications": "Scanning electron microscope (SEM), SE detector, LVD detector for low vacuum imaging",
+      "location": "Electron Imaging Center for Nanosystems (EICN)",
+      "status": ""
+    },
+    {
+      "name": "ThermoFisher Scientific Spectra 300 C-TWIN X-CFEG (Spectra 300C)",
+      "specifications": "High-Throughput Transmission Electron Microscope (TEM), X-CFEG cold field emission gun, Ceta-D CMOS camera, Falcon 3 camera, Panther STEM detector",
+      "location": "BioPACIFIC MIP",
+      "status": ""
+    },
+    {
+      "name": "Karl Suss MA6",
+      "specifications": "Mask Aligner for direct-contact photolithography",
+      "location": "UCLA NanoLab",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg DW66",
+      "specifications": "Laser writer used to expose photomasks",
+      "location": "UCLA NanoLab",
+      "status": ""
+    },
+    {
+      "name": "Nova 600",
+      "specifications": "Focused Ion Beam nanofabrication tool used for TEM sample preparation, failure analysis, and SEM imaging",
+      "location": "UCLA NanoLab",
+      "status": ""
+    },
+    {
+      "name": "Raith EBPG5000+ES",
+      "specifications": "Electron Beam Lithography system, 100kV high resolution patterning over 6 inch substrate",
+      "location": "UCLA NanoLab",
+      "status": ""
+    },
+    {
+      "name": "BioAFM (NanoWizard)",
+      "specifications": "Integrated with a Zeiss confocal microscope, enables simultaneous AFM, optical, and confocal imaging",
+      "location": "Nano & Pico Characterization Laboratory (NPC)",
+      "status": ""
+    },
+    {
+      "name": "CellXpress.AI",
+      "specifications": "AI and robotics device for automated cell imaging and biomedical research",
+      "location": "UCLA",
+      "status": ""
+    }
+  ]
+}

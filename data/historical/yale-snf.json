@@ -1,0 +1,27 @@
+{
+  "targetId": "yale-snf",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://research.yale.edu/cores/cleanroom",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T17:57:28.108Z",
+  "equipment": [
+    {
+      "name": "Oxford 80+ ICP RIE",
+      "specifications": "Inductively coupled plasma reactive ion etching tool",
+      "location": "Becton Engineering and Applied Science Center, 5th floor",
+      "status": ""
+    },
+    {
+      "name": "Oxford 100 ICP-RIE",
+      "specifications": "Inductively coupled plasma reactive ion etching tool",
+      "location": "Becton Engineering and Applied Science Center, 5th floor",
+      "status": ""
+    },
+    {
+      "name": "Oxford Cryo Bosch DRIE",
+      "specifications": "Cryo Bosch deep reactive ion etching tool",
+      "location": "Becton Engineering and Applied Science Center, 5th floor",
+      "status": ""
+    }
+  ]
+}

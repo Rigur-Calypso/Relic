@@ -1,0 +1,15 @@
+{
+  "targetId": "uci-inrf",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://inrf.uci.edu/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:00:57.079Z",
+  "equipment": [
+    {
+      "name": "SPTS APS PM",
+      "specifications": "ICP-based high density plasma source, designed to etch materials which are difficult to etch using conventional RIE or ICP sources.",
+      "location": "BiON",
+      "status": ""
+    }
+  ]
+}

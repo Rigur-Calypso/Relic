@@ -1,0 +1,9 @@
+{
+  "targetId": "utexas-mrc",
+  "name": "UT Austin MRC",
+  "url": "https://quantum.utexas.edu/facilities",
+  "scrapedAt": "2026-08-20T18:01:37.056Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

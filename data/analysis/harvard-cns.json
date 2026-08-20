@@ -1,0 +1,48 @@
+{
+  "targetId": "harvard-cns",
+  "analyzedAt": "2026-08-20T17:54:49.705Z",
+  "vitalityScore": 0,
+  "summary": "All six historical equipment items were removed from the listing, resulting in complete knowledge loss for those entries, while two new instruments were added.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Oxford ICP-CVD (CVD-14)",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list."
+    },
+    {
+      "name": "GEMStar ALD (ALD-2)",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list."
+    },
+    {
+      "name": "Rheometer",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list."
+    },
+    {
+      "name": "Denton E-beam Evaporator (EE-4)",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list."
+    },
+    {
+      "name": "EL 6",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list."
+    },
+    {
+      "name": "EL 7",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list."
+    }
+  ],
+  "added": [
+    {
+      "name": "FIB 4 Helios Dual-Beam FIBSEM"
+    },
+    {
+      "name": "Jupiter XR Atomic Force Microscope (SPM-12)"
+    }
+  ],
+  "modified": []
+}

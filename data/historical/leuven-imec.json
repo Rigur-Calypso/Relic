@@ -1,0 +1,33 @@
+{
+  "targetId": "leuven-imec",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.imec-int.com/en/infrastructure",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:32:59.577Z",
+  "equipment": [
+    {
+      "name": "ASML scanner equipment",
+      "specifications": "EUV – Extreme ultraviolet lithography",
+      "location": "300mm semiconductor cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Biacore2000",
+      "specifications": "SPR device",
+      "location": "Biolabs",
+      "status": ""
+    },
+    {
+      "name": "Biacore3000",
+      "specifications": "SPR device",
+      "location": "Biolabs",
+      "status": ""
+    },
+    {
+      "name": "Qnano tool",
+      "specifications": "",
+      "location": "Biolabs",
+      "status": ""
+    }
+  ]
+}

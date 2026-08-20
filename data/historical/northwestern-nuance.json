@@ -1,0 +1,27 @@
+{
+  "targetId": "northwestern-nuance",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://nuance.northwestern.edu/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:11:15.398Z",
+  "equipment": [
+    {
+      "name": "Hitachi S-3400",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Hitachi SU8030",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "IONTOF M6 Time-of-Flight Secondary Ion Mass Spectrometry (ToF-SIMS)",
+      "specifications": "Time-of-Flight Secondary Ion Mass Spectrometry instrument with advanced ion beam and mass analyzer technologies.",
+      "location": "Keck-II Facility, Technological Institute, AG95",
+      "status": ""
+    }
+  ]
+}

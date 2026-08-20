@@ -1,0 +1,21 @@
+{
+  "targetId": "ntu-nanofab",
+  "analyzedAt": "2026-08-20T18:39:12.780Z",
+  "vitalityScore": 66.6,
+  "summary": "The lab facility page lost two equipment listings compared to the historical snapshot: ICP RIE and Ion Implanter System.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "ICP RIE",
+      "severity": "critical",
+      "reason": "Instrument completely removed from the current equipment list."
+    },
+    {
+      "name": "Ion Implanter System",
+      "severity": "critical",
+      "reason": "Instrument completely removed from the current equipment list."
+    }
+  ],
+  "added": [],
+  "modified": []
+}

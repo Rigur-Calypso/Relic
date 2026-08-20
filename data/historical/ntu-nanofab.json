@@ -1,0 +1,45 @@
+{
+  "targetId": "ntu-nanofab",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.ntu.edu.sg/n2fc",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:39:03.633Z",
+  "equipment": [
+    {
+      "name": "Varian ion Implantation",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Epitaxy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vistec Electron Ebeam Lithography (EBL)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Clusterline Sputter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ICP RIE",
+      "specifications": "",
+      "location": "",
+      "status": "Preventive Maintenance"
+    },
+    {
+      "name": "Ion Implanter System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}
