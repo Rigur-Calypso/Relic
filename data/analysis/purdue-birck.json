@@ -1,0 +1,15 @@
+{
+  "targetId": "purdue-birck",
+  "analyzedAt": "2026-08-20T14:20:32.748Z",
+  "vitalityScore": 98,
+  "summary": "All historical equipment is present. Minor rephrasing occurred in specifications and TEM location details were slightly abbreviated.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Transmission Electron Microscope (TEM)",
+      "change": "Location detail 'Birck Nanotechnology Center' was removed, leaving 'TEM laboratory'."
+    }
+  ]
+}

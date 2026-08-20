@@ -1,0 +1,760 @@
+{
+  "targetId": "cornell-cnf",
+  "name": "Cornell NanoScale Facility (CNF)",
+  "url": "https://www.cnf.cornell.edu/equipment",
+  "scrapedAt": "2026-08-20T13:58:56.874Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Fluidic Probe Station",
+      "specifications": "The Corsolutions Fluidic probe station is for quick testing of microfluidic devices. It features special fluid probes for contacting the device and precision pumps with integrated flow meters for measuring flow.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Malvern Nano ZS Zetasizer",
+      "specifications": "The Zetasizer characterizes nanomaterials in a solution. It uses Dynamic Light Scattering to determine the polydispersity of a sample and measure particle charge and size.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Malvern NS300 NanoSight",
+      "specifications": "The NanoSight uses the technology of Nanoparticle Tracking Analysis (NTA) to characterize nanoparticles from 30 to 800 nanometers in liquid.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atmospheric General Material Anneal Furnace",
+      "specifications": "Anneal furnace for category 5 samples. Nitrogen and Argon inert gas ambients, Wet and Dry oxidation processes. Can process pieces, 100mm and 150mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atmospheric POCL3 Doping Furnace",
+      "specifications": "POCl3 doping furnace for N+ Phosphorus doping on silicon compatible materials. Pieces, 100mm and 150mm substrates.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD Silicon Nitride Furnace for III-V substrates",
+      "specifications": "LPCVD furnace for depositing silicon nitride on Category 3/III-V substrates. Capable of deposition on pieces, 100mm and 150mm substrates.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD Silicon Carbide",
+      "specifications": "LPCVD Silicon Carbide furnace capably of depositing undoped and doped (nitrogen) poly-crystaline silicon carbide films. Depostion temperatures range from 800 to 900 C.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atmospheric Silicon Anneal Furnace",
+      "specifications": "Anneal furnace for silicon based substrate materials. 1100 C max temperature, N2, Ar, 5%H2/N2, 5%H2/Ar , and dry oxidation processes. Pieces, 100mm and 150mm substrates.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atmospheric High Temperature Wet Oxidation",
+      "specifications": "Wet and dry oxidation for silicon based substrates up to 1200 C. Pieces, 100mm and 150mm wafers can be processed.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD LTO",
+      "specifications": "LPCVD Low Temperature Oxide using SiH4 and O2. Deposition temperature of 450 C, 100mm and 150mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD Silicon Nitride",
+      "specifications": "LPCVD Silicon Nitride for depositon on silicon based substrates. Deposition of Silicon Nitride, Low Stress Silicon Nitride, High Temperature Oxide and Oxynitride films. Depositon on pieces, 100mm and 150mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atmospheric MOS Metal Anneal Furnace",
+      "specifications": "Atmospheric anneal furnace for category 2 MOS metal samples. Nitrogen, Argon, H2/N2 or H2/Ar 5% forming gas, and Dry Oxidation are available gas ambients. 1100 C max temperature, pieces, 100mm and 150 mm substrates.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD N+/P+ Polysilicon Furnace",
+      "specifications": "LPCVD Polysilicon furnace capable of undoped, N+/Phosphorus, P+/Boron in-situ doped films. 100mm and 150mm compatible.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Solid Source Boron Doping Furnace",
+      "specifications": "Boron Doping furnace set up with 100mm planer diffusion sources. Can be equipped with 150mm sources if needed.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Solid Source Phosphorus Doping Furnace",
+      "specifications": "Phosphorus Doping furnace set up with 100mm planer diffusion sources. Can be equipped with 150mm sources if needed.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD N+ Polysilicon Furnace",
+      "specifications": "LPCVD Polysilicon furnace capable of undoped and N+/Phosphorus in-situ doped films deposited on CMOS compatible silicon based substrates. 100mm and 150mm compatible.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD P+ Polysilicon Furnace",
+      "specifications": "LPCVD Polysilicon furnace capable of undoped and P+/Boron in-situ doped films deposited on CMOS compatible silicon based substrates. 100mm and 150mm compatible.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atmospheric Gate Oxide Furnace",
+      "specifications": "Dry oxidation for CMOS compatible silicon based substrates. 1100 C max temperature, O2, HCL and N2O oxidations.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atmospheric Wet Oxidation Furnace",
+      "specifications": "CMOS compatible wet oxidation for silicon based substrates. 1100 C maximum temperature.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD Undoped Polysilicon Furnace",
+      "specifications": "LPCVD Polysilicon furnace capable of undoped films deposited on CMOS compatible silicon based substrates. 100mm and 150mm compatible.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LPCVD CMOS Silicon Nitride",
+      "specifications": "LPCVD Silicon Nitride for depositon on silicon based CMOS compatible substrates. Deposition of Silicon Nitride, Low Stress Silicon Nitride, High Temperature Oxide and Oxynitride films. Depositon on pieces, 100mm and 150mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AG 610 Rapid Thermal Annealers",
+      "specifications": "Rapid Thermal Annealers (AG Heatpulse 610) use high intensity, visible radiation to heat samples (up to 150mm) for short periods (1-600 seconds) at high temperatures (400-1150 C) in an annealing ambient of oxygen, argon, nitrogen, or forming gas (5% H2 in Ar).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AJA Ion Mill",
+      "specifications": "22 cm diameter Kaufman RF-ICP gridded ion source producing a collimated Argon ion beam which provides uniform etching of samples up to 6 inch diameter. Cryo Pumped with a base pressure in the 10-8 torr range.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Anatech Resist Strip",
+      "specifications": "Oxygen plasma Asher, 10 inch diameter all quartz barrel asher, ICP powered 13.56 MHz up to 900 Watts. Processes small pieces and up to 200 mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Glen 1000 Resist Strip",
+      "specifications": "Oxygen plasma source for stripping of photoresist and other organics. Direct ion bombardment or downstream ion mode.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford 100 ICP",
+      "specifications": "ICP system dedicated to silicon based dielectrics (SiO2, Si3N4, SiOxNy) with a gas ring in addition to traditional shower head gas delivery. Mechanically clamped up to 100mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford 80s",
+      "specifications": "Two open load reactive ion etching systems configured with various fluorocarbon gases, primarily for etching silicon based films.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford Cobra ALE Quantum",
+      "specifications": "Atomic Layer Etching (ALE) tool configured for etching materials used in quantum devices such as Niobium and Tantalum.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford Cobra ICP Dielectric",
+      "specifications": "Inductively coupled plasma based system configured for dielectric etching, primarily with Fluoropolymers. Helium backside cooling and 10C electrode.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford Cobra",
+      "specifications": "ICP system configured with chlorine, bromine, and fluorine chemistry. Accommodates up to 100mm diameter wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PlasmaTherm Versaline Deep Silicon Etcher",
+      "specifications": "Advanced deep Silicon etcher configured for fast switching Bosch processes.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm Singulator",
+      "specifications": "Etches through Silicon wafers with photoresist mask all the way to the edge of the wafer. Works with chips or wafers up to 200mm.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm Takachi ALE",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Primaxx Vapor HF Etcher",
+      "specifications": "Isotropically etches silicon dioxide using anhydrous vapor HF.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma Therm System 72",
+      "specifications": "Open load reactive ion etching systems configured with various fluorocarbon gases, primarily for etching silicon based films.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma Therm 720/740",
+      "specifications": "Dual chamber RIE loadlocked system with both chlorine and fluorine based chemistry. Accommodates up to 200mm diameter wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma Therm Dual Chamber 770",
+      "specifications": "Dual chamber loadlocked ICP system with both chlorine and fluorine based chemistry. Accommodates up to 100mm diameter wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RAD-2500m/8 Wafer Mounter",
+      "specifications": "Semi-Automatic Wafer Mounter for mounting 200mm, 150mm, 100mm wafers as well as pieces to dicing frames, plus Semi Corp Model 365 UV Exposure System.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Samco UV/Ozone System",
+      "specifications": "Utilizes UV light, heat, and Ozone for removal of organic contamination, descumming, UV curing, and stripping of resist.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Trion Minilock III ICP Etcher",
+      "specifications": "Small load-locked ICP system with BCl3, Cl, CHF3, CF4, O2, N2, O2, and Ar for etching a wide variety of materials.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PlasmaTherm Unaxis 770 Deep Silicon Etcher",
+      "specifications": "Deep silicon etcher that utilizes the Bosch process as well as other unique processes.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Xactix XeF2",
+      "specifications": "Isotropically etches silicon, Ge, Mo and materials that react spontaneously with atomic fluorine.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Xenon Difluoride SPTS",
+      "specifications": "XeF2 based vapor phase etch system for isotropic and selective silicon etching.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Y.E.S. Asher",
+      "specifications": "Vacuum system with Oxygen Plasma for Resist Stripping and Descum. 9 inch diameter Hot Plate stage, strips resist off single wafers up to 8 inch diameter.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "YES EcoClean Asher",
+      "specifications": "Single wafer, downstream ICP stripper designed for photoresist and polyimide strip, descum, and inorganic substrate cleaning. Processes 2, 3, 4, 5, 6, and 8 inch wafers. 3,000 W RF power.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Everbeing 4-Point Probe",
+      "specifications": "A manual 4 point probe stand.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Everbeing Probe Station and Keithley 4200 SCS",
+      "specifications": "Manual EB-6 probe station with Keithley 4200 SCS configured with 4 SMUs and a CVIV measurement card.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics RS50 4 Point Probe System",
+      "specifications": "Mapping 4 point Probe system. 1mohm/sq to 200 Mohm/sq sheet resistance. 200mm wafers capable.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HFTL DC Probe Station",
+      "specifications": "Cascade Summit 12K probe station, Kelvin probes, Agilent 4156C parameter analyzer, Agilent 4294A impedance analyzer, Temptronic TPO3000 ThermoChuck system.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HFTL 50-GHz Small-Signal Probe Station",
+      "specifications": "Cascade Summit 9600 probe station, Mitutoyo 378-134-4 microscope, thermal chuck (-50 to 200 C), Agilent E8364B vector network analyzer, Agilent 4156C parameter analyzer.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HFTL Terahertz 4-Port Large-Signal Probe Station",
+      "specifications": "Cascade Summit 11K probe station with 200-mm wafer chuck, Anritsu MS4647B 4-Port VNA, VDI 110-170 GHz frequency extenders.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HFTL Terahertz 4-Port Small-Signal Probe Station",
+      "specifications": "MPI TS2000-IFE 200-mm automated probe station, Anritsu 4-Port ME7838G vector network analyzer (70 kHz to 220 GHz), thermal chuck (-60 to +200 C).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Xallent SAKYIWA NanoProber",
+      "specifications": "Sheet resistance, resistivity, and IV-curve measurement tool compatible with up to 100mm wafers utilizing fine pitch (10um) four point probes.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Zyvex Nanoprobes",
+      "specifications": "Installed on the Zeiss Ultra-55 SEM, three individually controlled nanoprobes with precision of 5 nm and minimum tip radius of 50 nm.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "JEOL 6300 Electron Beam Lithography",
+      "specifications": "JBX 6300FS advanced direct write ebeam lithography system for up to 150mm wafers. Fifth lens for sub-10 nm features.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "JEOL JBX-9500FS EBL System",
+      "specifications": "Electron Beam Lithography System for 10 mm pieces to 300 mm wafers, features less than 10 nm, 100 kV accelerating voltage, 100 MHz clock, 1 mm x 1 mm write field.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nabity Nanometer Pattern Generator System (NPGS)",
+      "specifications": "Pattern generator that turns an SEM into an e beam lithography system for low energy exposures.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Brewer Science 300 mm Hot Plate",
+      "specifications": "Hot plate for heating 300 mm wafers and large substrates.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Brewer Science 300 mm Spinner",
+      "specifications": "Spinner for applying resist on 300 mm wafers, photomasks, and large glass plates.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Cee 1300X Hotplates",
+      "specifications": "Configured for proximity baking of resist and other films from 90C to 205C.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Cee Apogee Spinners (Class 1 Photolithography)",
+      "specifications": "Manual resist spinners accommodating small pieces to 200mm wafers, spin speeds over 6000 rpm, acceleration up to 30,000 rpm/sec.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Edge Bead Removal System",
+      "specifications": "Brewer Science Cee Flange Spinner Model 200 platform, Nordson 752 Series Diaphragm Dispense Valve, ValveMate 8000 Controller, 4-axis arm.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SUSS Gamma",
+      "specifications": "Automated photoresist and wet processing system for cassettes of wafers up to 200 mm. Incorporates AltaSpray spray coating system.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Hamatech HMx900s",
+      "specifications": "Single wafer automated chemical processors (6 units total) configured for cleaning, stripping, and resist development.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "YES Process Ovens",
+      "specifications": "Four Yield Engineering Systems ovens: Vapor Priming vacuum oven, Ammonia Image Reversal oven, Polyimide Curing oven for 150mm wafers, Polyimide oven for 200mm samples.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tousimis Critical Point Dryer",
+      "specifications": "Prevents surface tension while drying MEMS and microfluidics. Handles samples from small pieces up to 6 inch wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Disco Dicing Saw",
+      "specifications": "Dices device sizes from small pieces up to 8 inch wafers on simple X Y axis or multiple angles.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Disco Wafer Grinder",
+      "specifications": "DA810 compact automatic grinder for thinning work pieces up to 8 inch diameter.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electroplating Hood - Au",
+      "specifications": "Gold electroplating hood.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electroplating Hood - Cu",
+      "specifications": "Copper Electroplating Hood.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electroplating Hood - Ni",
+      "specifications": "Tanks and solutions for electroplating on substrates up to 6 inch wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Logitech Orbis CMP (Chemical Mechanical Polishing)",
+      "specifications": "CMP tool for polishing 4 and 6 inch whole wafers with automatic multistep polishing and diamond disk pad conditioning.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MVD100",
+      "specifications": "Deposits conformal monolayer coatings on substrates using vapor phase process from liquid precursors.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ON NANO nanoBOND and nanoDEBOND System",
+      "specifications": "nanoBOND 200 for manual bonding individual wafers temporarily onto carriers; nanoDEBOND 200 for debonding under thermal influence.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Pico MA FinePlacer FlipChip Bonder",
+      "specifications": "Optical system to align small chips (up to 20 x 20 mm) over substrates (up to 100 x 100 mm), alignment accuracy 5 microns, force up to 20 N, temperature up to 450 C, UV source.",
+      "location": "Phillips Hall 154",
+      "status": ""
+    },
+    {
+      "name": "Reynolds Tech Custom Plating Hood - Indium/SAC305",
+      "specifications": "Electroplating of Indium and Silver/Tin/Antimony/Copper Solder Alloys for substrates up to 200mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Suss SB8e Substrate Bonder",
+      "specifications": "Universal tool for bonding processes up to 150mm wafers. Vacuum down to 5x10e-5 mbar, overpressure up to 3 bar.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Versalaser Engraver/Cutter Tool",
+      "specifications": "Universal Laser Systems VersaLaser VLS3.50 CO2 laser emitting in infrared spectrum to cut or etch patterns.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Westbond 7400A Ultrasonic Wire Bonder",
+      "specifications": "Wedge-wedge ultrasonic wire bonder used with 1.25 mil aluminum wire. Minimum bond pad size 100 microns square. Equipped with Trinocular Stereo microscope.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nanonex NX-2500",
+      "specifications": "Multi-level nanoimprint machine for thermoplastic, photo-curable and embossing imprints.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ABM Contact Aligner",
+      "specifications": "High resolution mask aligner with Near-UV (405-365 nm) and Mid-/Deep-UV (254 nm, 220 nm) light sources for proximity or contact modes.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ASML PAS 5500/300C DUV Wafer Stepper",
+      "specifications": "KrF excimer laser exposure tool for features under 0.2 micrometers, layer-to-layer registration better than 45 nm, DUV (248nm) lens column (0.63 N.A.), 4:1 reduction.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "C&D Automated Liftoff Tool",
+      "specifications": "Automatic high pressure solvent dispense tool for metal liftoff on 100 and 150mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GCA 6300 DSW 5X g-line Wafer Stepper",
+      "specifications": "5X reduction stepper using mercury g-line (436 nm), resolution 0.9 micrometers, 0.30 N.A. lens column.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GCA AutoStep 200 DSW i-line Wafer Stepper",
+      "specifications": "5X reduction wafer exposure tool for up to 200mm wafers, automated loading/aligning, resolution better than 0.65um.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg Mask Writer - DWL2000",
+      "specifications": "Laser writing system for mask fabrication, minimum feature size 0.8 micrometers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg MLA 150 Maskless Aligner",
+      "specifications": "Maskless aligner for direct-write lithography, feature sizes down to 0.6 um, 405 nm and 375 nm wavelengths, substrates 5 mm to 225 mm.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nanoscribe GT2",
+      "specifications": "Two-photon polymerization (2PP) volumetric printer using NIR femtosecond laser, minimum feature size 0.2 μm.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Suss MA6 Contact Aligner 2",
+      "specifications": "Contact lithography system for 100 mm wafers with front/back video alignment.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SUSS MA6-BA6 Contact Aligner",
+      "specifications": "Contact lithography system for up to 150 mm wafers with front/back video alignment.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SUSS MJB4 Contact Aligner",
+      "specifications": "Topside and Backside Infrared Alignment for 5mm to 100mm substrates, prints 0.7um lines using 365-436nm source.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "YES PB8 Bake Oven",
+      "specifications": "High temperature vacuum oven with programmable controller for curing polyimide, SU8, BCB, and other films.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AJA Orion Sputtering Systems",
+      "specifications": "Three magnetron sputtering systems, load locked, each with five S-gun type sputtering sources (DC and RF).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AJA Quantum Materials Deposition System",
+      "specifications": "Multifunctional PVD tool with loadlock in situ ion mill, oxidation system, 3 magnetron sources, 1 proximity sputter source, 6 pocket e-beam evaporator.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AJA Quantum Materials Sputter Deposition System",
+      "specifications": "Loadlocked UHV sputter deposition system with two adjustable opposing sputter sources for low energy sputter deposition.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Angstrom E-Beam Evaporator",
+      "specifications": "Load locked electron-beam evaporator for substrates up to 150 mm, high vacuum (10-8 to 10-9 Torr), 6-pocket turret, variable angle deposition stage, in-situ ion beam precleaning.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Angstrom-Q",
+      "specifications": "Tool designed for deposition and oxidation of thin films to create Josephson Junctions.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CHA SE600 Thermal Evaporator",
+      "specifications": "Thermal evaporator designated for thin films composed of high vapor pressure materials.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CHA Mark 50 Electron Beam Evaporator",
+      "specifications": "Large chamber electron beam evaporator capable of conformal evaporation on 4 and 6 inch wafers and liftoff platens for 4, 6, and 8 inch wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "OEM Endeavor M1",
+      "specifications": "Specialized magnetron sputtering tool for deposition of piezoelectric Aluminum Nitride on up to 150 mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Lesker PVD 75",
+      "specifications": "Small box coater for reactive sputtering Indium Tin Oxide (ITO) and Titanium Dioxide (TiO2).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CVC 4500 Electron Beam Evaporator",
+      "specifications": "Two cryopumped evaporators: Odd-Hour for thermal/e-beam evaporation, Even-Hour for low temp oxide/nitride depositions.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Arradiance ALD",
+      "specifications": "Thermal ALD with precursors for Al, Ti, Hf, Zr, ozone generator, capable of ALD on nanoparticles. Deposited films: HfO2, Al2O3, TiO2, TiN, ZrO2.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford ALD FlexAL",
+      "specifications": "Thermal and remote plasma enhanced ALD, precursors for Al, Ta, Hf, Si up to 400C.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford ASP ALD",
+      "specifications": "Plasma Enhanced ALD system. Processes include Al2O3, AlN, SiO2, Si3N4, HfO2, HfN, TaO5, TaN, TiO2, TiN, ZrO2, and ZrN.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford PECVD",
+      "specifications": "Plasma Enhanced Chemical Vapor Deposition system for Silicon Oxide, Silicon Nitride, amorphous Silicon, etc. Capable of 3, 4, 150mm, 200mm wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm Takachi HDP-CVD",
+      "specifications": "High density plasma deposition for Silicon Oxide and Silicon Nitride films at low temperatures.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Seki Diamond CVD",
+      "specifications": "CVD tool for depositing polycrystalline and crystalline diamond on 2 inch substrates.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Veeco Savannah – Metal ALD",
+      "specifications": "Atomic Layer Deposition of metals (Al2O3, Platinum, Ruthenium).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AFM Bruker Icon",
+      "specifications": "Atomic force microscope operating in contact and tapping mode, scans 100 um x 100 um, measures trenches up to 13.7 um deep.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Stylus Profilometers",
+      "specifications": "Tencor P-10, Tencor P-7, and Dektak stylus profilometers for measuring step heights.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Hummer Au/Pd Sputtering System",
+      "specifications": "Small sputter system for Gold/Palladium conductive coatings prior to SEM or EBL imaging.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Keyence VHX-7100 Digital Microscope",
+      "specifications": "Automated digital microscope with 20-6,000x magnification range, stitching, focus stacking, and 3D profile extraction.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Zeiss Gemini SEM",
+      "specifications": "Field emission scanning electron microscope, sub-nanometer imaging below 1 kV, beam energies 50 V to 30 kV, load lock for up to 8-inch wafers.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Zeiss SEMs",
+      "specifications": "Two digital field emission scanning electron microscopes (Ultra 55 and Supra 55VP with EDX).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker Energy-dispersive X-ray Spectrometer (EDS)",
+      "specifications": "QUANTAX 200 EDS with XFlash 6 silicon drift detector for qualitative and quantitative microanalysis.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FilMetrics F50",
+      "specifications": "Spectrophotometers for measuring effective thickness of transparent thin films, microspot measurement, and wafer mapping.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FleXus Film Stress Measurement",
+      "specifications": "Laser scan technique measuring wafer surface curvature before/after processing with 670 nm and 780 nm wavelengths.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Metricon Model 2010/M Prism Coupler",
+      "specifications": "Prism coupler for precision measurement of optical index and loss in transparent thin films.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "P7 Profilometer",
+      "specifications": "Stylus-based surface profiler with motorized XY stage for measuring step heights, surface roughness, and film thickness.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rudolph FTM",
+      "specifications": "Measurement tool for resist thickness and uniformity (range 300 nm to 5 microns).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Schott IR Inspector",
+      "specifications": "Semi-automatic IR inspection tool for front side, buried layers, and backside inspection up to 200mm diameter.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "VCA Optima Contact Angle",
+      "specifications": "Measures water contact angle on wafer surfaces up to 6 inch in diameter.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Woollam RC2 Spectroscopic Ellipsometer",
+      "specifications": "Automated variable angle spectroscopic ellipsometer for extracting optical indexes and film thicknesses.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Woollam Spectroscopic Ellipsometer",
+      "specifications": "V-VASE variable angle spectroscopic ellipsometer for optical indexes and thin film stack thicknesses.",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

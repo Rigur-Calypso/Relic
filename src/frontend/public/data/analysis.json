@@ -1,0 +1,769 @@
+[
+  {
+    "targetId": "anna-caf",
+    "analyzedAt": "2026-08-20T14:24:27.482Z",
+    "vitalityScore": 95,
+    "summary": "All 28 historical instruments remain listed in the current page. Some specifications were expanded with new capability details, while a few instruments (TEM, Powder XRD, FTIR) had detailed sub-component or attachment information truncated from their specification strings.",
+    "knowledgeLoss": true,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Transmission electron microscopy (TEM)",
+        "change": "Specification truncated: removed mentions of Fast EDS mapping and Ceta 16M pixel CMOS camera."
+      },
+      {
+        "name": "Powder X-Ray Diffractometer",
+        "change": "Specification truncated: omitted details regarding Flat/Spinning Sample Stage, Proportional Counter detector, Monochromator, and HiScore Plus Software."
+      },
+      {
+        "name": "FTIR Spectrometer",
+        "change": "Specification truncated: omitted ATR PRO470-H and IRT-5000-32 Infrared Microscope accessory details."
+      },
+      {
+        "name": "Scanning Electron Microscope with EDS",
+        "change": "Specifications updated to add Low vacuum mode resolution (BSD) and Sputter Coater details."
+      },
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "change": "Specifications updated with detailed low-current Conductive AFM/STM parameters and I-V spectroscopy."
+      },
+      {
+        "name": "Dynamic Light Scattering",
+        "change": "Specifications expanded with minimum sample volume and fluid viscosity ranges."
+      }
+    ]
+  },
+  {
+    "targetId": "bits-pilani",
+    "analyzedAt": "2026-08-20T13:18:44.179Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment records and specifications remain intact in the current listing. Only minor cosmetic typography adjustments (such as punctuation and spacing) were detected across time, with zero loss of equipment or functional capability.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "cambridge-nano",
+    "analyzedAt": "2026-08-20T14:21:26.149Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "cense-iisc",
+    "analyzedAt": "2026-08-20T13:18:23.552Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "cornell-cnf",
+    "analyzedAt": "2026-08-20T14:19:58.317Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "crf-iitd",
+    "analyzedAt": "2026-08-20T13:18:23.549Z",
+    "vitalityScore": 88,
+    "summary": "Most historical equipment has been preserved and updated with detailed specifications. However, a few specialized instruments (such as Cryo-HR TEM, MALDI-TOF/TOF, ESI-LC-MS, BIO-AFM, AECL, and HR-TEM Tecnai G2 20) are no longer listed in the current inventory.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Advanced Electrical Characterization (AECL)",
+        "severity": "critical",
+        "reason": "Facility/equipment entry absent in current inventory."
+      },
+      {
+        "name": "BIO - AFM",
+        "severity": "critical",
+        "reason": "Specific Bio-AFM facility no longer listed."
+      },
+      {
+        "name": "Cryo - HR TEM",
+        "severity": "critical",
+        "reason": "Cryo-HR TEM instrument missing from current list."
+      },
+      {
+        "name": "ESI-LC- MASS Spectrometry",
+        "severity": "critical",
+        "reason": "ESI-LC-MS instrument no longer listed in current inventory."
+      },
+      {
+        "name": "HR-TEM Tecnai G2 20",
+        "severity": "critical",
+        "reason": "Tecnai G2 20 model HR-TEM removed or superseded."
+      },
+      {
+        "name": "MALDI-TOF/TOF MASS Spectrometry",
+        "severity": "critical",
+        "reason": "MALDI-TOF/TOF mass spectrometer absent from current list."
+      },
+      {
+        "name": "SQUID Magnetometer (Physics IIT Delhi)",
+        "severity": "moderate",
+        "reason": "Separate Physics department SQUID magnetometer entry no longer present."
+      }
+    ],
+    "added": [
+      {
+        "name": "Blue Laser System with Welding Head (Sonipat Campus)"
+      },
+      {
+        "name": "FESEM with 5 PFIB Helios (Sonipat Campus)"
+      },
+      {
+        "name": "Flex SEM 1000 II Hitachi (Ex Hall IIT Delhi)"
+      },
+      {
+        "name": "HR-TEM Talos F200x G2(S) (Sonipat Campus)"
+      },
+      {
+        "name": "Laser Cutting (3D Lab IIT Delhi)"
+      },
+      {
+        "name": "Physical Property Measurement System / PPMS (Hauz Khas Campus)"
+      },
+      {
+        "name": "Precision Polishing Machine Facility (IIT Delhi)"
+      },
+      {
+        "name": "Single Crystal XRD Facility (IIT Delhi)"
+      },
+      {
+        "name": "Thermal Desorption-Gas Chromatography (TD-GC-MS) IIT Delhi"
+      },
+      {
+        "name": "Transcranial Magnetic Stimulator Facility (IIT Delhi)"
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy / XPS AXIS Supra+ (Sonipat Campus)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "3D Printer",
+        "change": "Updated listing name to '3D Printer (3D Lab IIT Delhi)' and added detailed capability specifications."
+      },
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "change": "Added comprehensive technical specifications describing nanoscale imaging and force measurement functions."
+      },
+      {
+        "name": "Brunauer - Emmett - Teller (BET)",
+        "change": "Added detailed specifications covering multi-point gas adsorption method."
+      },
+      {
+        "name": "Confocal Microscope",
+        "change": "Entries now specified as 'Confocal Microscope Facility' with detailed capabilities for cell imaging."
+      },
+      {
+        "name": "NMR Spectrometers",
+        "change": "Added detailed specifications on field strength, probe types, and analytical applications."
+      }
+    ]
+  },
+  {
+    "targetId": "decoy",
+    "analyzedAt": "2026-08-20T13:17:27.612Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "duke-smif",
+    "analyzedAt": "2026-08-20T14:19:58.429Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "iiser-pune",
+    "analyzedAt": "2026-08-20T13:18:36.430Z",
+    "vitalityScore": 100,
+    "summary": "All historical lab equipment and specifications have been fully preserved without any removals or modifications.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "iitkgp-crf",
+    "analyzedAt": "2026-08-20T14:22:31.433Z",
+    "vitalityScore": 88,
+    "summary": "Most major facility equipment remains available with minor renaming and several new advanced instruments added, though four historical systems (including Micro and Nano Scratch Tester, INSTRON Mechanical Testing System, FEG Cryo-TEM, and Zeiss Supra 40 FEG-SEM) were removed.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Micro and Nano Scratch Tester",
+        "severity": "critical",
+        "reason": "Instrument no longer listed in current facility equipment."
+      },
+      {
+        "name": "INSTRON Mechanical Testing System",
+        "severity": "critical",
+        "reason": "Instrument no longer listed in current facility equipment."
+      },
+      {
+        "name": "Field Emission Gun-Scanning Electron Microscope (Zeiss Supra 40)",
+        "severity": "critical",
+        "reason": "Zeiss Supra 40 FEG-SEM variant is no longer listed."
+      },
+      {
+        "name": "FEG-High Resolution-Cryo-Analytical TEM",
+        "severity": "critical",
+        "reason": "Cryo-Analytical TEM facility is no longer listed in current equipment."
+      }
+    ],
+    "added": [
+      {
+        "name": "Sigma 300 VP-FESEM"
+      },
+      {
+        "name": "Photoluminescence Spectrometer"
+      },
+      {
+        "name": "Variable Temperature Powder X-ray Diffractometer"
+      },
+      {
+        "name": "JEOL FESEM"
+      },
+      {
+        "name": "Multi-Mode Atomic Force Microscope (Bruker JPK NanoWizard)"
+      },
+      {
+        "name": "Ultra-High Performance Liquid Chromatograph (UPLC)"
+      },
+      {
+        "name": "High End Super-resolution Microscope"
+      },
+      {
+        "name": "Preparative Ultracentrifuge"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Optical Microscope and Mechanical Testing System",
+        "change": "Renamed to 'Optical Microscope', mechanical testing capability details omitted."
+      },
+      {
+        "name": "Thermal Analysis Instrument",
+        "change": "Renamed to 'Thermal Analysis System'."
+      }
+    ]
+  },
+  {
+    "targetId": "jncasr",
+    "analyzedAt": "2026-08-20T14:24:05.442Z",
+    "vitalityScore": 70,
+    "summary": "Several major historical instruments were removed or no longer listed (e.g., Atomic Force Microscope, Leica Confocal Microscope, Dynamic Light Scattering, TGA-GC-MS, two Powder XRD units), while several new bio-imaging and cytometry instruments were added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Atomic force microscope (Bruker)",
+        "severity": "critical",
+        "reason": "Instrument is no longer listed on the current page."
+      },
+      {
+        "name": "Confocal Micro Raman Microscope (Horiba)",
+        "severity": "critical",
+        "reason": "Horiba Confocal Micro Raman Microscope is absent from current listing."
+      },
+      {
+        "name": "Confocal microscopy (LEICA)",
+        "severity": "critical",
+        "reason": "Leica confocal microscope facility is no longer available."
+      },
+      {
+        "name": "Diamond wire Saw (DWS)",
+        "severity": "moderate",
+        "reason": "Sample preparation tool removed from listing."
+      },
+      {
+        "name": "Dynamic Light Scattering (DLS)",
+        "severity": "critical",
+        "reason": "DLS instrument removed from current listing."
+      },
+      {
+        "name": "Powder XRD (Bruker)",
+        "severity": "critical",
+        "reason": "Bruker Powder XRD unit removed."
+      },
+      {
+        "name": "Powder XRD (Pan Analytical)",
+        "severity": "critical",
+        "reason": "Pan Analytical Powder XRD unit removed."
+      },
+      {
+        "name": "Thermogravimetric analysis, Gas Chromatography and mass Spectroscopy (TGA-GC-MS)",
+        "severity": "critical",
+        "reason": "Hyphenated TGA-GC-MS system removed."
+      },
+      {
+        "name": "Thermogravimetric analysis (TGA) (Perkin Elmer)",
+        "severity": "moderate",
+        "reason": "Perkin Elmer TGA unit removed."
+      },
+      {
+        "name": "UV-VIS spectroscopy (Perkin Elmer)",
+        "severity": "minor",
+        "reason": "Perkin Elmer UV-VIS spectrometer removed."
+      }
+    ],
+    "added": [
+      {
+        "name": "Axio Scan Z1 (SLIDE SCANNER)"
+      },
+      {
+        "name": "BD FACS Aria Fusion Sorter"
+      },
+      {
+        "name": "BD FACS Aria III Sorter"
+      },
+      {
+        "name": "BD FACSymphony A3 Cell Analyzer"
+      },
+      {
+        "name": "High Content Imaging Confocal Quantitative Image Cytometer CQ1 (YOKOGAWA)"
+      },
+      {
+        "name": "Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)"
+      },
+      {
+        "name": "LSM 880 Airy Scan Microscope"
+      },
+      {
+        "name": "LSM 880 Live Cell Microscope"
+      },
+      {
+        "name": "Multiphoton Microscope (OLYMPUS)"
+      },
+      {
+        "name": "Nuclear Magnetic resonance (NMR)(500 MHz, JEOL)"
+      },
+      {
+        "name": "Powder XRD (Rigaku Smartlab - New)"
+      },
+      {
+        "name": "Q Exactive HF Mass Spectrometer"
+      },
+      {
+        "name": "Superconducting Quantum Interference Device (SQUID)"
+      },
+      {
+        "name": "TapeStation System 4150"
+      },
+      {
+        "name": "Varioskan LUX Multimode Plate Reader"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Photoluminescence (temperature Dependent)",
+        "change": "Updated specifications to note 'Currently without quantum yield measurement'."
+      },
+      {
+        "name": "Transmission electron microscopy",
+        "change": "Updated JEOL 200kV to specific models: JEOL JEM F200 and JEOL JEM 2100 Plus."
+      }
+    ]
+  },
+  {
+    "targetId": "mit-mrsec",
+    "analyzedAt": "2026-08-20T13:19:05.031Z",
+    "vitalityScore": 35,
+    "summary": "Significant loss of lab equipment entries across time. Four major equipment categories (Prototyping/machining, Furnaces/presses, Tensile testing, and Nanoscale imaging) were removed entirely, and the Environmental SEM was updated/replaced with a general SEM entry.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Prototyping and machining equipment",
+        "severity": "critical",
+        "reason": "Equipment listing is completely missing from current page."
+      },
+      {
+        "name": "Furnaces and presses",
+        "severity": "critical",
+        "reason": "Equipment listing is completely missing from current page."
+      },
+      {
+        "name": "Tensile testing equipment",
+        "severity": "critical",
+        "reason": "Equipment listing is completely missing from current page."
+      },
+      {
+        "name": "Nanoscale imaging and testing equipment",
+        "severity": "critical",
+        "reason": "Equipment listing is completely missing from current page."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "Environmental SEM",
+        "change": "Replaced/updated to 'Scanning Electron Microscope (SEM)' with altered specifications (magnetic and electronic properties) and updated locations (4-141ba, 13-5027)."
+      }
+    ]
+  },
+  {
+    "targetId": "notredame-ndnf",
+    "analyzedAt": "2026-08-20T14:21:25.943Z",
+    "vitalityScore": 88,
+    "summary": "Three tools (Denton Evaporator, Dual-Chamber Sputtering System, and Teledyne TAC Probe) were removed from the lab equipment list. Specifications were updated for Angstrom Evaporation and Sputter systems, and one new tool (Veeco Fiji G2 ALD) was added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Denton Evaporator",
+        "severity": "critical",
+        "reason": "Tool is no longer present in the lab equipment list."
+      },
+      {
+        "name": "Dual-Chamber Sputtering System",
+        "severity": "critical",
+        "reason": "Tool is no longer listed on the facility page."
+      },
+      {
+        "name": "Teledyne TAC Probe",
+        "severity": "critical",
+        "reason": "Tool is no longer listed in current equipment roster."
+      }
+    ],
+    "added": [
+      {
+        "name": "Veeco Fiji G2 ALD"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Angstrom Evaporation System",
+        "change": "Specifications updated with detailed system capabilities and installation status removed."
+      },
+      {
+        "name": "Angstrom Sputter System",
+        "change": "Specifications expanded with detailed magnetron and loadlock info, installation status cleared."
+      }
+    ]
+  },
+  {
+    "targetId": "npl-csir",
+    "analyzedAt": "2026-08-20T13:18:31.711Z",
+    "vitalityScore": 66.7,
+    "summary": "Five calibration and testing facilities/setups present in the 2024 historical snapshot were removed from the current equipment listing, resulting in notable knowledge loss. Existing items received minor specification refinements.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Testing facility for IR Clinical Thermometers",
+        "severity": "critical",
+        "reason": "Entire testing facility present historically is no longer listed."
+      },
+      {
+        "name": "Setup for calibration of clinical thermometers (mercury and digital)",
+        "severity": "critical",
+        "reason": "Entire setup delivered and listed historically is missing from current page."
+      },
+      {
+        "name": "Set-up for testing of thermal imagers",
+        "severity": "critical",
+        "reason": "Entire setup under development historically is absent from current page."
+      },
+      {
+        "name": "Ultrasonic Energy Calibration Setup",
+        "severity": "critical",
+        "reason": "Entire calibration setup listed historically is missing from current page."
+      },
+      {
+        "name": "Calibration/testing system for non-invasive blood pressure monitoring system",
+        "severity": "critical",
+        "reason": "Entire testing system listed historically is absent from current page."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "Stylus based surface texture parameters measuring instrument",
+        "change": "Location updated to include CSIR-NPL explicit suffix; listed measured parameters removed from specification text."
+      },
+      {
+        "name": "C-type Goniophotometer System",
+        "change": "Status updated from Established to Installed."
+      },
+      {
+        "name": "Gas Flow Calibration Facility",
+        "change": "Specific component details (PT-100 sensors, digital thermometer, barometric pressure monitor) omitted from description."
+      },
+      {
+        "name": "Primary Water Flow Calibration Facility",
+        "change": "Detailed line size breakdowns omitted from specifications."
+      }
+    ]
+  },
+  {
+    "targetId": "pennstate-mri",
+    "analyzedAt": "2026-08-20T14:20:42.712Z",
+    "vitalityScore": 100,
+    "summary": "All equipment items from the historical snapshot remain present with minor updates to item titles and specification text formatting. No knowledge loss occurred.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Rigaku Micro-Max 007 rotating anode X-ray generator",
+        "change": "Title updated to include '(copper)' explicitly."
+      },
+      {
+        "name": "Leica MZ7.5 stereomicroscope",
+        "change": "Title updated to include '10-80X' magnification detail."
+      }
+    ]
+  },
+  {
+    "targetId": "purdue-birck",
+    "analyzedAt": "2026-08-20T14:20:32.748Z",
+    "vitalityScore": 98,
+    "summary": "All historical equipment is present. Minor rephrasing occurred in specifications and TEM location details were slightly abbreviated.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Transmission Electron Microscope (TEM)",
+        "change": "Location detail 'Birck Nanotechnology Center' was removed, leaving 'TEM laboratory'."
+      }
+    ]
+  },
+  {
+    "targetId": "saif-iitb",
+    "analyzedAt": "2026-08-20T13:18:07.658Z",
+    "vitalityScore": 100,
+    "summary": "All 26 historical equipment items remain present in the facility's current listing, with minor formatting or name standardization updates. One new instrument, Dynamic Mechanical Analyzer (DMA), has been added.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Dynamic Mechanical Analyzer(DMA)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Environmental Scanning Electron Microscope (ESEM)",
+        "change": "Specification detail 'Quanta 200' was removed in the current listing."
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer",
+        "change": "Updated instrument title to include '(NMR 600 MHz)'."
+      },
+      {
+        "name": "Field Emission Gun-Scanning Electron Microscopes(FIB-SEM)",
+        "change": "Updated instrument name to 'Focused Ion Beam -Scanning Electron Microscope(FIB-SEM)'."
+      },
+      {
+        "name": "Field Emission Gun-Transmission Electron Microscope (FEG-TEM) (120/200 kV)",
+        "change": "Updated instrument name to include '(FEG-TEM 200 kV)'."
+      }
+    ]
+  },
+  {
+    "targetId": "snsf-stanford",
+    "analyzedAt": "2026-08-20T13:19:14.820Z",
+    "vitalityScore": 100,
+    "summary": "No historical knowledge or equipment capability was lost. The lab updated its listings from broad generic equipment categories (e.g., SEM, TEM, XRD) to specific instrument models (e.g., Zeiss Gemini 560, TFS Spectra 300, Empyrean), providing greater detail.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "EBPG 5200+"
+      },
+      {
+        "name": "Velion S"
+      },
+      {
+        "name": "Zeiss Gemini 560"
+      },
+      {
+        "name": "TFS Apreo"
+      },
+      {
+        "name": "TFS Spectra 300"
+      },
+      {
+        "name": "FEI Titan"
+      },
+      {
+        "name": "Empyrean"
+      },
+      {
+        "name": "VersaProbe 3"
+      },
+      {
+        "name": "Bruker Icon"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Electron Beam Lithography",
+        "change": "Replaced high-level category name with specific EBL model EBPG 5200+"
+      },
+      {
+        "name": "Scanning Electron Microscope (SEM)",
+        "change": "Expanded from generic SEM category to specific models including Zeiss Gemini 560, TFS Apreo, Hitachi TM4000+, and FEI Magellan"
+      },
+      {
+        "name": "Transmission Electron Microscope (TEM)",
+        "change": "Expanded from generic TEM category to specific models TFS Spectra 300 and FEI Titan"
+      },
+      {
+        "name": "Focused Ion Beam (FIB)",
+        "change": "Expanded from generic FIB category to specific models FEI Helios and TFS Hydra PFIB"
+      },
+      {
+        "name": "X-ray Diffraction (XRD)",
+        "change": "Expanded from generic XRD category to specific models Empyrean, X'Pert 2, Multiwire Laue, and D8 Venture"
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy (XPS)",
+        "change": "Expanded from generic XPS category to specific models VersaProbe 3 and VersaProbe 4"
+      },
+      {
+        "name": "Scanning Probe Microscopy",
+        "change": "Expanded from generic SPM category to specific models Asylum Cypher ES, Park FX-40, Park NX-10, and Bruker Icon"
+      }
+    ]
+  },
+  {
+    "targetId": "tifr-cf",
+    "analyzedAt": "2026-08-20T14:22:58.770Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and specifications are retained in the current listing. Some entries were combined (e.g., MBE and RF/DC sputtering systems), names were updated/shortened, and facility locations were added or refined for several instruments without any loss of critical equipment or technical details.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Molecular beam epitaxy systems / RF/DC sputtering systems",
+        "change": "Combined into a single entry 'Molecular beam epitaxy & RF/DC sputtering systems'."
+      },
+      {
+        "name": "Nikon Spinning disk microscope",
+        "change": "Renamed to 'Nikon Spinning disk with 355 nm pulsed laser So-Ra system'."
+      },
+      {
+        "name": "Laser lithography system / SEM / E-beam lithography system",
+        "change": "Names updated/shortened and facility location updated to 'Thin film Deposition and Cleanroom Facility'."
+      },
+      {
+        "name": "TA Q800 DMA dynamic mechanical analyser",
+        "change": "Added location 'Dynamic Mechanical Analyser Facility' and slightly updated specification phrasing."
+      },
+      {
+        "name": "Agilent 6545 Q tof LC MS / Postnova PN3621 MALS detector",
+        "change": "Added location 'LC MS and MALS Facility'."
+      }
+    ]
+  },
+  {
+    "targetId": "toronto-tnfc",
+    "analyzedAt": "2026-08-20T14:21:47.210Z",
+    "vitalityScore": 95,
+    "summary": "The Raith EBPG5000+ Electron Beam Lithography System remains in the current list with slightly trimmed location details.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Raith EBPG5000+ Electron Beam Lithography System",
+        "change": "Location detail 'basement of the Wallberg building' was removed."
+      }
+    ]
+  },
+  {
+    "targetId": "ucsb-nano",
+    "analyzedAt": "2026-08-20T14:21:03.461Z",
+    "vitalityScore": 88,
+    "summary": "Most equipment from the historical list remains active and accounted for. However, several tools including Stepper 1 (GCA 6300), RIE 3 (MRC), Panasonic E640 ICP Etcher, Unaxis VLR ICP Etcher, Critical Point Dryer, and Goniometer are no longer listed in the current facility list.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Stepper 1 (GCA 6300)",
+        "severity": "critical",
+        "reason": "i-line stepper no longer listed in current equipment."
+      },
+      {
+        "name": "RIE 3 (MRC)",
+        "severity": "moderate",
+        "reason": "RIE system removed from active list."
+      },
+      {
+        "name": "ICP Etch 2 (Panasonic E640)",
+        "severity": "critical",
+        "reason": "Panasonic E640 etcher missing from current list."
+      },
+      {
+        "name": "ICP-Etch (Unaxis VLR)",
+        "severity": "critical",
+        "reason": "Unaxis VLR dry etching tool removed from inventory."
+      },
+      {
+        "name": "Critical Point Dryer",
+        "severity": "moderate",
+        "reason": "MEMS release / CPD processing equipment removed."
+      },
+      {
+        "name": "Goniometer (Ram&eacute;-Hart A-100)",
+        "severity": "minor",
+        "reason": "Surface hydrophobicity characterization tool missing."
+      }
+    ],
+    "added": [
+      {
+        "name": "Maskless Aligner (Raith PicoMaster XF)"
+      },
+      {
+        "name": "Gold Plating Bench (Semcon)"
+      },
+      {
+        "name": "Near-IR Inspection Scope (MJB-IR)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "E-Beam Lithography System (JEOL JBX-6300FS)",
+        "change": "Updated to Raith EBPG 5150 system."
+      },
+      {
+        "name": "E-Beam Lithography (FEI Sirion Nabity v9)",
+        "change": "Integrated/updated to Nabity v9 / JEOL IT800SHL configuration."
+      },
+      {
+        "name": "Photo-emission & Thermal IR Microscope (QFI)",
+        "change": "Renamed/updated to Thermal HotSpot IR Microscope (QFI)."
+      }
+    ]
+  },
+  {
+    "targetId": "uohyd-cif",
+    "analyzedAt": "2026-08-20T14:24:13.363Z",
+    "vitalityScore": 100,
+    "summary": "All 10 historical equipment items remain present in the current listing with identical specifications, location, and status. No knowledge loss detected.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "targetId": "jncasr",
+  "analyzedAt": "2026-08-20T14:24:05.442Z",
+  "vitalityScore": 70,
+  "summary": "Several major historical instruments were removed or no longer listed (e.g., Atomic Force Microscope, Leica Confocal Microscope, Dynamic Light Scattering, TGA-GC-MS, two Powder XRD units), while several new bio-imaging and cytometry instruments were added.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Atomic force microscope (Bruker)",
+      "severity": "critical",
+      "reason": "Instrument is no longer listed on the current page."
+    },
+    {
+      "name": "Confocal Micro Raman Microscope (Horiba)",
+      "severity": "critical",
+      "reason": "Horiba Confocal Micro Raman Microscope is absent from current listing."
+    },
+    {
+      "name": "Confocal microscopy (LEICA)",
+      "severity": "critical",
+      "reason": "Leica confocal microscope facility is no longer available."
+    },
+    {
+      "name": "Diamond wire Saw (DWS)",
+      "severity": "moderate",
+      "reason": "Sample preparation tool removed from listing."
+    },
+    {
+      "name": "Dynamic Light Scattering (DLS)",
+      "severity": "critical",
+      "reason": "DLS instrument removed from current listing."
+    },
+    {
+      "name": "Powder XRD (Bruker)",
+      "severity": "critical",
+      "reason": "Bruker Powder XRD unit removed."
+    },
+    {
+      "name": "Powder XRD (Pan Analytical)",
+      "severity": "critical",
+      "reason": "Pan Analytical Powder XRD unit removed."
+    },
+    {
+      "name": "Thermogravimetric analysis, Gas Chromatography and mass Spectroscopy (TGA-GC-MS)",
+      "severity": "critical",
+      "reason": "Hyphenated TGA-GC-MS system removed."
+    },
+    {
+      "name": "Thermogravimetric analysis (TGA) (Perkin Elmer)",
+      "severity": "moderate",
+      "reason": "Perkin Elmer TGA unit removed."
+    },
+    {
+      "name": "UV-VIS spectroscopy (Perkin Elmer)",
+      "severity": "minor",
+      "reason": "Perkin Elmer UV-VIS spectrometer removed."
+    }
+  ],
+  "added": [
+    {
+      "name": "Axio Scan Z1 (SLIDE SCANNER)"
+    },
+    {
+      "name": "BD FACS Aria Fusion Sorter"
+    },
+    {
+      "name": "BD FACS Aria III Sorter"
+    },
+    {
+      "name": "BD FACSymphony A3 Cell Analyzer"
+    },
+    {
+      "name": "High Content Imaging Confocal Quantitative Image Cytometer CQ1 (YOKOGAWA)"
+    },
+    {
+      "name": "Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)"
+    },
+    {
+      "name": "LSM 880 Airy Scan Microscope"
+    },
+    {
+      "name": "LSM 880 Live Cell Microscope"
+    },
+    {
+      "name": "Multiphoton Microscope (OLYMPUS)"
+    },
+    {
+      "name": "Nuclear Magnetic resonance (NMR)(500 MHz, JEOL)"
+    },
+    {
+      "name": "Powder XRD (Rigaku Smartlab - New)"
+    },
+    {
+      "name": "Q Exactive HF Mass Spectrometer"
+    },
+    {
+      "name": "Superconducting Quantum Interference Device (SQUID)"
+    },
+    {
+      "name": "TapeStation System 4150"
+    },
+    {
+      "name": "Varioskan LUX Multimode Plate Reader"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Photoluminescence (temperature Dependent)",
+      "change": "Updated specifications to note 'Currently without quantum yield measurement'."
+    },
+    {
+      "name": "Transmission electron microscopy",
+      "change": "Updated JEOL 200kV to specific models: JEOL JEM F200 and JEOL JEM 2100 Plus."
+    }
+  ]
+}

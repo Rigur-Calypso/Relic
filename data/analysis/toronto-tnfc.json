@@ -1,0 +1,15 @@
+{
+  "targetId": "toronto-tnfc",
+  "analyzedAt": "2026-08-20T14:21:47.210Z",
+  "vitalityScore": 95,
+  "summary": "The Raith EBPG5000+ Electron Beam Lithography System remains in the current list with slightly trimmed location details.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Raith EBPG5000+ Electron Beam Lithography System",
+      "change": "Location detail 'basement of the Wallberg building' was removed."
+    }
+  ]
+}

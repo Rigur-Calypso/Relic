@@ -1,0 +1,16 @@
+{
+  "targetId": "toronto-tnfc",
+  "name": "Toronto Nanofab Centre",
+  "url": "https://www.ece.utoronto.ca/toronto-nanofabrication-centre-tnfc/",
+  "scrapedAt": "2026-08-20T14:04:30.653Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Raith EBPG5000+ Electron Beam Lithography System",
+      "specifications": "Enclosed in an environmental chamber maintaining temperature stability of 21 ± 0.25 ºC, 0.1 ºC/hr",
+      "location": "Wallberg Nanolithography Facility",
+      "status": ""
+    }
+  ]
+}

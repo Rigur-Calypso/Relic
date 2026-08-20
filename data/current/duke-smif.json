@@ -1,0 +1,70 @@
+{
+  "targetId": "duke-smif",
+  "name": "Duke SMIF",
+  "url": "https://smif.pratt.duke.edu/",
+  "scrapedAt": "2026-08-20T13:59:37.242Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "SEM",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "TEM",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "Mass Spec",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "Micro-CT",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "Optical Spectroscopy",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "AFM",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "Soft Materials Characterization Equipment",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "X-ray Characterization Equipment",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "Cryo-TEM",
+      "specifications": "Allows the analysis of biological samples under cryogenic conditions, enabling the determination of high-resolution 3D structures.",
+      "location": "SMIF",
+      "status": ""
+    },
+    {
+      "name": "Raman",
+      "specifications": "",
+      "location": "SMIF",
+      "status": ""
+    }
+  ]
+}

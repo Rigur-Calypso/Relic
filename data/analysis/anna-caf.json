@@ -1,0 +1,35 @@
+{
+  "targetId": "anna-caf",
+  "analyzedAt": "2026-08-20T14:24:27.482Z",
+  "vitalityScore": 95,
+  "summary": "All 28 historical instruments remain listed in the current page. Some specifications were expanded with new capability details, while a few instruments (TEM, Powder XRD, FTIR) had detailed sub-component or attachment information truncated from their specification strings.",
+  "knowledgeLoss": true,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Transmission electron microscopy (TEM)",
+      "change": "Specification truncated: removed mentions of Fast EDS mapping and Ceta 16M pixel CMOS camera."
+    },
+    {
+      "name": "Powder X-Ray Diffractometer",
+      "change": "Specification truncated: omitted details regarding Flat/Spinning Sample Stage, Proportional Counter detector, Monochromator, and HiScore Plus Software."
+    },
+    {
+      "name": "FTIR Spectrometer",
+      "change": "Specification truncated: omitted ATR PRO470-H and IRT-5000-32 Infrared Microscope accessory details."
+    },
+    {
+      "name": "Scanning Electron Microscope with EDS",
+      "change": "Specifications updated to add Low vacuum mode resolution (BSD) and Sputter Coater details."
+    },
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "change": "Specifications updated with detailed low-current Conductive AFM/STM parameters and I-V spectroscopy."
+    },
+    {
+      "name": "Dynamic Light Scattering",
+      "change": "Specifications expanded with minimum sample volume and fluid viscosity ranges."
+    }
+  ]
+}

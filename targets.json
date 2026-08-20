@@ -1,0 +1,140 @@
+[
+  {
+    "id": "decoy",
+    "name": "Decoy University Lab (Demo-Controlled)",
+    "url": "https://YOUR_GH_USERNAME.github.io/relic-decoy/",
+    "strategy": "selector",
+    "note": "We control this. Delete the AFM row live to trigger knowledge-loss detection."
+  },
+  {
+    "id": "saif-iitb",
+    "name": "SAIF IIT Bombay",
+    "url": "http://www.saif.iitb.ac.in/facility.html",
+    "strategy": "ai",
+    "note": "Ancient HTML, confirmed Wayback history — the hero real-world case."
+  },
+  {
+    "id": "crf-iitd",
+    "name": "IIT Delhi Central Research Facility",
+    "url": "https://crf.iitd.ac.in/All-Facilities-/CRF_Facilities.html",
+    "strategy": "ai"
+  },
+  {
+    "id": "cense-iisc",
+    "name": "IISc CeNSE — Nanofab (NNfC)",
+    "url": "https://nnfc.cense.iisc.ac.in/",
+    "strategy": "ai",
+    "snapshotTs": "20220101"
+  },
+  {
+    "id": "npl-csir",
+    "name": "CSIR–National Physical Laboratory",
+    "url": "https://www.nplindia.in/index.php/new_facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "iiser-pune",
+    "name": "IISER Pune Physics Facilities",
+    "url": "https://www.iiserpune.ac.in/research/research-facilities/physics",
+    "strategy": "ai",
+    "snapshotTs": "20220101"
+  },
+  {
+    "id": "bits-pilani",
+    "name": "BITS Goa Sophisticated Instruments",
+    "url": "https://gad.bits-goa.ac.in/Sophisticated-Instruments/",
+    "strategy": "ai",
+    "snapshotTs": "20220101"
+  },
+  {
+    "id": "mit-mrsec",
+    "name": "MIT DMSE Shared Facilities",
+    "url": "https://dmse.mit.edu/research-impact/research-facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "snsf-stanford",
+    "name": "Stanford Nano Shared Facilities",
+    "url": "https://snsf.stanford.edu/equipment/",
+    "strategy": "ai",
+    "snapshotTs": "20200101"
+  },
+  {
+    "id": "cornell-cnf",
+    "name": "Cornell NanoScale Facility (CNF)",
+    "url": "https://www.cnf.cornell.edu/equipment",
+    "strategy": "ai"
+  },
+  {
+    "id": "duke-smif",
+    "name": "Duke SMIF",
+    "url": "https://smif.pratt.duke.edu/",
+    "strategy": "ai"
+  },
+  {
+    "id": "purdue-birck",
+    "name": "Purdue Birck Nanotechnology Center",
+    "url": "https://birck.research.purdue.edu/equipment/",
+    "strategy": "ai"
+  },
+  {
+    "id": "pennstate-mri",
+    "name": "Penn State Materials Research Institute",
+    "url": "https://science.psu.edu/chem/research/facilities",
+    "strategy": "ai"
+  },
+  {
+    "id": "ucsb-nano",
+    "name": "UC Santa Barbara Nanofab",
+    "url": "https://wiki.nanofab.ucsb.edu/wiki/Tool_List",
+    "strategy": "ai"
+  },
+  {
+    "id": "notredame-ndnf",
+    "name": "Notre Dame Nanofab Facility",
+    "url": "https://nanofabrication.nd.edu/facilities/equipment/",
+    "strategy": "ai"
+  },
+  {
+    "id": "cambridge-nano",
+    "name": "Cambridge Nanoscience Centre",
+    "url": "https://elec.eng.cam.ac.uk/facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "toronto-tnfc",
+    "name": "Toronto Nanofab Centre",
+    "url": "https://www.ece.utoronto.ca/toronto-nanofabrication-centre-tnfc/",
+    "strategy": "ai"
+  },
+  {
+    "id": "iitkgp-crf",
+    "name": "IIT Kharagpur Central Research Facility",
+    "url": "https://crf.iitkgp.ac.in/",
+    "strategy": "ai"
+  },
+  {
+    "id": "tifr-cf",
+    "name": "TIFR Central Facilities",
+    "url": "https://www.tifrh.res.in/research/facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "jncasr",
+    "name": "JNCASR Facilities",
+    "url": "https://arf.jncasr.ac.in/facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "uohyd-cif",
+    "name": "University of Hyderabad CIF",
+    "url": "https://uohyd.ac.in/central-instrumentations-lab/",
+    "strategy": "ai"
+  },
+  {
+    "id": "anna-caf",
+    "name": "Anna University",
+    "url": "https://www.annauniv.edu/CGC/facilities.php",
+    "strategy": "ai"
+  }
+]

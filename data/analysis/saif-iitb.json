@@ -1,0 +1,31 @@
+{
+  "targetId": "saif-iitb",
+  "analyzedAt": "2026-08-20T13:18:07.658Z",
+  "vitalityScore": 100,
+  "summary": "All 26 historical equipment items remain present in the facility's current listing, with minor formatting or name standardization updates. One new instrument, Dynamic Mechanical Analyzer (DMA), has been added.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Dynamic Mechanical Analyzer(DMA)"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Environmental Scanning Electron Microscope (ESEM)",
+      "change": "Specification detail 'Quanta 200' was removed in the current listing."
+    },
+    {
+      "name": "Nuclear Magnetic Resonance Spectrometer",
+      "change": "Updated instrument title to include '(NMR 600 MHz)'."
+    },
+    {
+      "name": "Field Emission Gun-Scanning Electron Microscopes(FIB-SEM)",
+      "change": "Updated instrument name to 'Focused Ion Beam -Scanning Electron Microscope(FIB-SEM)'."
+    },
+    {
+      "name": "Field Emission Gun-Transmission Electron Microscope (FEG-TEM) (120/200 kV)",
+      "change": "Updated instrument name to include '(FEG-TEM 200 kV)'."
+    }
+  ]
+}

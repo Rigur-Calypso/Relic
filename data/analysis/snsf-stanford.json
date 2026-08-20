@@ -1,0 +1,67 @@
+{
+  "targetId": "snsf-stanford",
+  "analyzedAt": "2026-08-20T13:19:14.820Z",
+  "vitalityScore": 100,
+  "summary": "No historical knowledge or equipment capability was lost. The lab updated its listings from broad generic equipment categories (e.g., SEM, TEM, XRD) to specific instrument models (e.g., Zeiss Gemini 560, TFS Spectra 300, Empyrean), providing greater detail.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "EBPG 5200+"
+    },
+    {
+      "name": "Velion S"
+    },
+    {
+      "name": "Zeiss Gemini 560"
+    },
+    {
+      "name": "TFS Apreo"
+    },
+    {
+      "name": "TFS Spectra 300"
+    },
+    {
+      "name": "FEI Titan"
+    },
+    {
+      "name": "Empyrean"
+    },
+    {
+      "name": "VersaProbe 3"
+    },
+    {
+      "name": "Bruker Icon"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Electron Beam Lithography",
+      "change": "Replaced high-level category name with specific EBL model EBPG 5200+"
+    },
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "change": "Expanded from generic SEM category to specific models including Zeiss Gemini 560, TFS Apreo, Hitachi TM4000+, and FEI Magellan"
+    },
+    {
+      "name": "Transmission Electron Microscope (TEM)",
+      "change": "Expanded from generic TEM category to specific models TFS Spectra 300 and FEI Titan"
+    },
+    {
+      "name": "Focused Ion Beam (FIB)",
+      "change": "Expanded from generic FIB category to specific models FEI Helios and TFS Hydra PFIB"
+    },
+    {
+      "name": "X-ray Diffraction (XRD)",
+      "change": "Expanded from generic XRD category to specific models Empyrean, X'Pert 2, Multiwire Laue, and D8 Venture"
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy (XPS)",
+      "change": "Expanded from generic XPS category to specific models VersaProbe 3 and VersaProbe 4"
+    },
+    {
+      "name": "Scanning Probe Microscopy",
+      "change": "Expanded from generic SPM category to specific models Asylum Cypher ES, Park FX-40, Park NX-10, and Bruker Icon"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "targetId": "uohyd-cif",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://uohyd.ac.in/central-instrumentations-lab/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T14:18:25.993Z",
+  "equipment": [
+    {
+      "name": "Scanning Electron Microscope",
+      "specifications": "",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Circular Dichroism (CD) Spectropolarimeter",
+      "specifications": "",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "X-ray Diffarctometer (XRD)",
+      "specifications": "Philips: PW1830",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Confocal Laser Scanning Microscope",
+      "specifications": "Leica TCS SP2",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Electron Spin Resonance (ESR) Spectrometer",
+      "specifications": "JEOL: JES-FA200",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Vibrating Sample Magnetometer",
+      "specifications": "Lakeshore 665",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Fluorescence Spectrophotometer",
+      "specifications": "Hitachi: F-3010",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Amino Acid Analyzer",
+      "specifications": "Shimadzu Detector-RF10AXL; column CT0-10AVP",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Protein Sequencer",
+      "specifications": "Shimadzu PPSQ-21A",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    },
+    {
+      "name": "Differential Scanning Calorimeter",
+      "specifications": "",
+      "location": "Central Instruments Laboratory",
+      "status": "Available"
+    }
+  ]
+}

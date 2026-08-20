@@ -1,0 +1,101 @@
+{
+  "targetId": "crf-iitd",
+  "analyzedAt": "2026-08-20T13:18:23.549Z",
+  "vitalityScore": 88,
+  "summary": "Most historical equipment has been preserved and updated with detailed specifications. However, a few specialized instruments (such as Cryo-HR TEM, MALDI-TOF/TOF, ESI-LC-MS, BIO-AFM, AECL, and HR-TEM Tecnai G2 20) are no longer listed in the current inventory.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Advanced Electrical Characterization (AECL)",
+      "severity": "critical",
+      "reason": "Facility/equipment entry absent in current inventory."
+    },
+    {
+      "name": "BIO - AFM",
+      "severity": "critical",
+      "reason": "Specific Bio-AFM facility no longer listed."
+    },
+    {
+      "name": "Cryo - HR TEM",
+      "severity": "critical",
+      "reason": "Cryo-HR TEM instrument missing from current list."
+    },
+    {
+      "name": "ESI-LC- MASS Spectrometry",
+      "severity": "critical",
+      "reason": "ESI-LC-MS instrument no longer listed in current inventory."
+    },
+    {
+      "name": "HR-TEM Tecnai G2 20",
+      "severity": "critical",
+      "reason": "Tecnai G2 20 model HR-TEM removed or superseded."
+    },
+    {
+      "name": "MALDI-TOF/TOF MASS Spectrometry",
+      "severity": "critical",
+      "reason": "MALDI-TOF/TOF mass spectrometer absent from current list."
+    },
+    {
+      "name": "SQUID Magnetometer (Physics IIT Delhi)",
+      "severity": "moderate",
+      "reason": "Separate Physics department SQUID magnetometer entry no longer present."
+    }
+  ],
+  "added": [
+    {
+      "name": "Blue Laser System with Welding Head (Sonipat Campus)"
+    },
+    {
+      "name": "FESEM with 5 PFIB Helios (Sonipat Campus)"
+    },
+    {
+      "name": "Flex SEM 1000 II Hitachi (Ex Hall IIT Delhi)"
+    },
+    {
+      "name": "HR-TEM Talos F200x G2(S) (Sonipat Campus)"
+    },
+    {
+      "name": "Laser Cutting (3D Lab IIT Delhi)"
+    },
+    {
+      "name": "Physical Property Measurement System / PPMS (Hauz Khas Campus)"
+    },
+    {
+      "name": "Precision Polishing Machine Facility (IIT Delhi)"
+    },
+    {
+      "name": "Single Crystal XRD Facility (IIT Delhi)"
+    },
+    {
+      "name": "Thermal Desorption-Gas Chromatography (TD-GC-MS) IIT Delhi"
+    },
+    {
+      "name": "Transcranial Magnetic Stimulator Facility (IIT Delhi)"
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy / XPS AXIS Supra+ (Sonipat Campus)"
+    }
+  ],
+  "modified": [
+    {
+      "name": "3D Printer",
+      "change": "Updated listing name to '3D Printer (3D Lab IIT Delhi)' and added detailed capability specifications."
+    },
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "change": "Added comprehensive technical specifications describing nanoscale imaging and force measurement functions."
+    },
+    {
+      "name": "Brunauer - Emmett - Teller (BET)",
+      "change": "Added detailed specifications covering multi-point gas adsorption method."
+    },
+    {
+      "name": "Confocal Microscope",
+      "change": "Entries now specified as 'Confocal Microscope Facility' with detailed capabilities for cell imaging."
+    },
+    {
+      "name": "NMR Spectrometers",
+      "change": "Added detailed specifications on field strength, probe types, and analytical applications."
+    }
+  ]
+}

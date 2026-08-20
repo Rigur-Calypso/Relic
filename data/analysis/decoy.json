@@ -1,0 +1,10 @@
+{
+  "targetId": "decoy",
+  "analyzedAt": "2026-08-20T13:17:27.612Z",
+  "vitalityScore": null,
+  "summary": "No historical snapshot to compare against.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

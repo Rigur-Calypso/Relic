@@ -1,0 +1,76 @@
+{
+  "targetId": "iiser-pune",
+  "name": "IISER Pune Physics Facilities",
+  "url": "https://www.iiserpune.ac.in/research/research-facilities/physics",
+  "scrapedAt": "2026-08-20T13:04:50.598Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Closed cycle Cryostat",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Integrated AFM and inverted Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thin Film coating unit – Langmuir-Blodgett Method",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV - Vis - NIR Spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electrochemical thin film deposition system",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fluorescence Corrleation Spectrometer (FCS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Integrated FCS--Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Powder X-Ray Diffractometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Single crystal X-Ray Diffractometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "500MHz NMR Spectrometer",
+      "specifications": "500MHz",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "400MHz NMR Spectrometer",
+      "specifications": "400MHz",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

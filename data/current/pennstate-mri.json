@@ -1,0 +1,28 @@
+{
+  "targetId": "pennstate-mri",
+  "name": "Penn State Materials Research Institute",
+  "url": "https://science.psu.edu/chem/research/facilities",
+  "scrapedAt": "2026-08-20T14:00:55.125Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Rigaku Micro-Max 007 rotating anode (copper) generator",
+      "specifications": "equipped with Osmic Varimax monochromator, four-circle universal goniometer and HyPix Arc150 detector",
+      "location": "Room 8, Althouse Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Oxford cobra cryo-system",
+      "specifications": "used for sample cooling down to 100K",
+      "location": "Room 8, Althouse Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Leica MZ7.5 10-80X stereomicroscope",
+      "specifications": "10-80X stereomicroscope for inspection of sample prior to data collection",
+      "location": "Room 8, Althouse Laboratory",
+      "status": ""
+    }
+  ]
+}

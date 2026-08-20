@@ -1,0 +1,65 @@
+{
+  "targetId": "iitkgp-crf",
+  "analyzedAt": "2026-08-20T14:22:31.433Z",
+  "vitalityScore": 88,
+  "summary": "Most major facility equipment remains available with minor renaming and several new advanced instruments added, though four historical systems (including Micro and Nano Scratch Tester, INSTRON Mechanical Testing System, FEG Cryo-TEM, and Zeiss Supra 40 FEG-SEM) were removed.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Micro and Nano Scratch Tester",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current facility equipment."
+    },
+    {
+      "name": "INSTRON Mechanical Testing System",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current facility equipment."
+    },
+    {
+      "name": "Field Emission Gun-Scanning Electron Microscope (Zeiss Supra 40)",
+      "severity": "critical",
+      "reason": "Zeiss Supra 40 FEG-SEM variant is no longer listed."
+    },
+    {
+      "name": "FEG-High Resolution-Cryo-Analytical TEM",
+      "severity": "critical",
+      "reason": "Cryo-Analytical TEM facility is no longer listed in current equipment."
+    }
+  ],
+  "added": [
+    {
+      "name": "Sigma 300 VP-FESEM"
+    },
+    {
+      "name": "Photoluminescence Spectrometer"
+    },
+    {
+      "name": "Variable Temperature Powder X-ray Diffractometer"
+    },
+    {
+      "name": "JEOL FESEM"
+    },
+    {
+      "name": "Multi-Mode Atomic Force Microscope (Bruker JPK NanoWizard)"
+    },
+    {
+      "name": "Ultra-High Performance Liquid Chromatograph (UPLC)"
+    },
+    {
+      "name": "High End Super-resolution Microscope"
+    },
+    {
+      "name": "Preparative Ultracentrifuge"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Optical Microscope and Mechanical Testing System",
+      "change": "Renamed to 'Optical Microscope', mechanical testing capability details omitted."
+    },
+    {
+      "name": "Thermal Analysis Instrument",
+      "change": "Renamed to 'Thermal Analysis System'."
+    }
+  ]
+}

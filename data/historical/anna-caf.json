@@ -1,0 +1,177 @@
+{
+  "targetId": "anna-caf",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.annauniv.edu/CGC/facilities.php",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T14:19:56.065Z",
+  "equipment": [
+    {
+      "name": "Transmission electron microscopy (TEM)",
+      "specifications": "Talos F200S; Total beam current FEG > 150 nA, Probe current 0.6 nA @ 1 nm probe (200 kV), EDS system 2 SDD windowless design, shutter-protected, Energy resolution <=136 eV for Mn-Ka and 10 kcps (output), Fast EDS mapping, Ceta 16M pixel CMOS camera",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope with EDS",
+      "specifications": "Carl Zeiss MA15 / EVO 18; Oxford Instruments NanoAnalysis INCA Energy 250 Microanalysis System (EDS); Resolution 3.0 nm at 30 kV with SE detector, Tungsten hairpin filament, Magnification 5x to 1,000,000x",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "specifications": "Park XE-100; Contact AFM, Non-contact AFM, Intermittent / Dynamic / Tapping Mode, MFM, Conductive AFM / Low current STM, 5 um XY scanner, EFM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SPM coupled Nanoindenter",
+      "specifications": "Hysitron TI950 Triboindenter",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Powder X-Ray Diffractometer",
+      "specifications": "PANalytical X'Pert Powder XRD System; Flat Sample Stage, Proportional Counter detector, HiScore Plus Software, Monochromator, Spinning Sample Stage",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Resolution X-Ray diffraction (HRXRD)",
+      "specifications": "PANalytical X-Pert Pro MRD; Resolution 0.0001 deg / 0.36 arcsec, Ge-(220) monochromator, Triple axis (Xe) detector, Pixel detector",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FTIR Spectrometer",
+      "specifications": "JASCO FTIR-6300; Wave number Range: 7,800 - 350 cm-1, Resolution: 0.07 cm-1, ATR PRO470-H, IRT-5000-32 Infrared Microscope",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Photo-luminescence (PL)",
+      "specifications": "Spectra physics Argon ion-488nm and 514nm tunable laser, Horiba jobin Monochromator, 330nm and 550 nm PMT detector",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Portable Laser Raman Spectrometer",
+      "specifications": "Raman Systems, 200-1000 Cm-1",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fluorimeter",
+      "specifications": "JASCO Make, Emission Range : 200-750 nm",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Integrated measurement system",
+      "specifications": "IMS-2000; IV and CV measurements",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Dynamic Light Scattering",
+      "specifications": "ZEN3600; He - Ne laser (633 nm), size range - 0.3 nm to 10 um, Conductivity range: 0 to 200 mS/cm, Molecular weight range: 342 Da to 2x107Da, Temp range: 0 C to 90 C",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Metrological Optical Microscope",
+      "specifications": "Carl Zeiss Aixoscope; Reflected and Transmitted light illumination, Magnification 50x-1000x",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Optical Stereo Microscope",
+      "specifications": "Stereo discovery V8; Magnification 460 X, Halogen lamp 15 V - 150 W, Transmitted light with bright/dark field",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DC Polling Unit",
+      "specifications": "Field: 50kV/cm, Resolution 1%, Input 220 V AC 50 Hz",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Metal Organic Chemical Vapour Deposition (MOCVD) system",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope with EDX for Elemental Analysis",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffraction Spectrometer with Orientation Goniometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Visible Spectrophotometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Temperature Furnaces",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Autoclaves",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thin Film Coating Units",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electrocrystallisation unit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Crystal Pullers",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Low temperature crystal growth units",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Liquid Phase Epitaxy and Vapour Phase Epitaxy Systems",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Optical Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Cutting and Polishing Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

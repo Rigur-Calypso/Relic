@@ -1,0 +1,51 @@
+{
+  "targetId": "mit-mrsec",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://dmse.mit.edu/research-impact/research-facilities/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T13:16:38.130Z",
+  "equipment": [
+    {
+      "name": "Prototyping and machining equipment",
+      "specifications": "for fabrication, sample preparation, and general machining needs",
+      "location": "4-131b, 4-043",
+      "status": ""
+    },
+    {
+      "name": "Furnaces and presses",
+      "specifications": "",
+      "location": "13-5016",
+      "status": ""
+    },
+    {
+      "name": "Tensile testing equipment",
+      "specifications": "",
+      "location": "8-241",
+      "status": ""
+    },
+    {
+      "name": "Nanoscale imaging and testing equipment",
+      "specifications": "for imaging and testing mechanical and magnetic response at the nanoscale",
+      "location": "8-114",
+      "status": ""
+    },
+    {
+      "name": "Environmental SEM",
+      "specifications": "permits materials to be imaged without conductive coatings and doesn't require high-vacuum conditions",
+      "location": "4-141",
+      "status": ""
+    },
+    {
+      "name": "Pulsed laser deposition system",
+      "specifications": "for film growth",
+      "location": "8-140",
+      "status": ""
+    },
+    {
+      "name": "Rapid thermal annealer",
+      "specifications": "",
+      "location": "8-140",
+      "status": ""
+    }
+  ]
+}

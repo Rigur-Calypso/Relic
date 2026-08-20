@@ -1,0 +1,298 @@
+{
+  "targetId": "iitkgp-crf",
+  "name": "IIT Kharagpur Central Research Facility",
+  "url": "https://crf.iitkgp.ac.in/",
+  "scrapedAt": "2026-08-20T14:04:57.734Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "ZEISS Scanning Electron Microscope",
+      "specifications": "EVO 60",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectrometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "TEM Sample Preparation System",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Optical Microscope",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "X-Ray Micro-CT (Non-Destructive Imaging)",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Cross/Dual beam FIB-FEG Microscope",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Gun-Scanning Electron Microscope",
+      "specifications": "Merlin",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Sigma 300 VP-FESEM",
+      "specifications": "Sigma 300 VP",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Nano-Indentation & Nano-Tribology System",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Analytical Ultracentrifuge",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Raman Spectrometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "3D Optical Surface Profilometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Real Time PCR System",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Isothermal Titration Calorimeter",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatograph (HPLC)",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Fluorescence Activated Cell Sorter (FACS)",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "DNA Sequencer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "2D-GEL Electrophoresis System",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Universal Testing Machine (UTM)",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Vickers Micro-Hardness Tester",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Thermal Analysis System",
+      "specifications": "DSC, DTA, TGA, TMA",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Vibrating Sample Magnetometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "SQUID",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Hall Effect Measurement System",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "2D-X-Ray Diffractometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-ray Diffractometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Small Angle X-ray Scattering System",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High Resolution XRD",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "X-ray Protein Crystallography System",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Scanning Auger Nanoprobe",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Analytical Transmission Electron Microscope",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Pulsed Electron Spin Paramagnetic Resonance Spectrometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Micro Raman Spectrometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Fourier Transform-Infrared Spectrometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance Spectrometer",
+      "specifications": "600 MHz",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Matrix Assisted Laser Desorption Ionization Mass Spectrometer",
+      "specifications": "MALDI-ToF MS",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Liquid Chromatography - MS / MS",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High Resolution Mass Spectrometer (HRMS)",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Circular Dichroism Spectropolarimeter",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Photoluminescence Spectrometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High-resolution Transmission Electron Microscope",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Variable Temperature Powder X-ray Diffractometer",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "JEOL FESEM",
+      "specifications": "Field Emission Scanning Electron Microscope",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Multi-Mode Atomic Force Microscope",
+      "specifications": "Bruker JPK NanoWizard",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Ultra-High Performance Liquid Chromatograph (UPLC)",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High End Super-resolution Microscope",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Preparative Ultracentrifuge",
+      "specifications": "",
+      "location": "Central Research Facility, IIT Kharagpur",
+      "status": ""
+    }
+  ]
+}

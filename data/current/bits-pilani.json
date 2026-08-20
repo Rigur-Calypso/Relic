@@ -1,0 +1,622 @@
+{
+  "targetId": "bits-pilani",
+  "name": "BITS Goa Sophisticated Instruments",
+  "url": "https://gad.bits-goa.ac.in/Sophisticated-Instruments/",
+  "scrapedAt": "2026-08-20T13:06:01.521Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Preparative HPLC",
+      "specifications": "Identification of different organic compounds present in solution",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "n-Situ Sterilizable Fermenter 50L",
+      "specifications": "Fermantation. (Model: Bio-Spin 50I):",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "Continuous Centrifuge Floor Model",
+      "specifications": "Separate solid particles from solution. (Avanti JXN26)",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "CM500 TFF system, Table top TFF System, Pall make",
+      "specifications": "compact portable unit for process development in ultrafiltration (UF) and microfiltration (MF) applications",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "Size Exclusion Chromatography",
+      "specifications": "Identification of different organic compounds based on their sizes present in solution. (Bio Frac Fraction Collector)",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "FPLC",
+      "specifications": "Liquid chromatography used to analyze or purify proteins and other biomolecules",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "JASCO Circular Dichroism Spectrometer",
+      "specifications": "Model J-1500 ( 150W) with Spectra Manager-2 Software. Provide information about the secondary and tertiary structures of biomolecules, particularly proteins and nucleic acids",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "Contact Angle Measurement",
+      "specifications": "determine the wettability of a solid substrate by a liquid.",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "X-Ray Photoelectron Spectroscopy",
+      "specifications": "Elemental analysis of solids",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "QSense® Analyzer",
+      "specifications": "To study molecular interactions at surfaces and interfaces in real-time",
+      "location": "DBT-BUILDER",
+      "status": ""
+    },
+    {
+      "name": "BET Surface Area Analyser",
+      "specifications": "(Make: Micromeritics, Model: 3 Flex). Determines the specific surface area of solid (powdered) samples. Multipoint BET (Brunauer, Emmett, and Teller) surface area, thickness, pore area distributions (BJH method), Median pore width, pore volume, and pore surface area, Langmuir surface area, Temkin and Freundlich isotherm analyses, DFT Pore size.",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "Thermogravimetric Analyser-Differtial Scanning Calorimetry",
+      "specifications": "(Make: Waters India Pvt Ltd, Model: Discovery SDT650). TGA measures change in the mass of the sample with respect to change in temperature and DSC measures the difference in heat flow rate between sample and reference pan as a function of time and temperature",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "UV-VIS Spectrophotometer",
+      "specifications": "(Make: Shimadzu, Model: UV-2600). Measures the concentration of unknown sample (photometric mode) and maximum wavlength (spectrum mode), for solid or liquid samples",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "UV-VIS Spectrophotometer",
+      "specifications": "(Make: LabIndia, Model: UV-3000+). Measures the concentration of unknown sample (photometric mode) and maximum wavlength (spectrum mode), only liquid samples",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "Total Organic Carbon",
+      "specifications": "(Make: Skalar, Model: Formacs HT TOC, Primacs MCS, ND25 Detector). Measures total carbon, total inorganic carbon, total organic carbon(solid and liquid samples), total nitrogen, total inorganic nitrogen, Total Khejdal nitrogen(only liquid samples)",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "Gas Chromatography-Mass Spectroscopy/ Mass Spectroscopy",
+      "specifications": "(Make: Agilent, Model: 8890 GC & 7000D TQ). Used to separate complex mixtures, quantify analytes, identify unknown chemical species and determine trace levels of contamination in samples",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma-Optical Emission Spectroscopy",
+      "specifications": "(Make: Agilent, Model:5800). Measures elemental concentration of liquid samples",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "STEMI-STEREO Microscope",
+      "specifications": "(Make: Zeiss, Model: Stemi 2000-C). Provides brilliant, sharp, distortion-free and highly resolved images, even at low magnifications",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "CHNS/O Elemental Analyser",
+      "specifications": "(Make: Elementar, Model:Unicube). This instrument provides information about elements such as Carbon, Hydrogen, Nitrogen, Sulphur and Oxygen presents in the sample.",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatography",
+      "specifications": "(Make: Jasco, Model: LC-4000). This chromatographic technique can separate a mixture of compounds, identify, quantify and purify the individual components of the mixture.",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "Surface Tensiometer",
+      "specifications": "(Make: Biolin Scientific, Model: Sigma Force Tensiometer 701) Measures Surface tension using Du Nouy ring and Wilhelmy plate method. It can also measure the density of liquids.",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "ATR - Fourier Transform Infrared Spectrometer",
+      "specifications": "(Make: Shimadzu, Model: IR Spirit-X ). Used to obtain Infrared spectrum based on absorption or transmission of infrared light through a solid or liquid samples",
+      "location": "Chemical Engineering Department",
+      "status": ""
+    },
+    {
+      "name": "Physical Property Measurements System",
+      "specifications": "PPMS Evercool-II : a cryogen-free system for the Physical Properties measurement platform using a GM Cryocooler Nominal Liquid Helium Capacity: 6 liters Temperature range: 3 – 370 K Magnetic field up to 9 Tesla Vibrating Sample Magnetometer Option: * Coil-set bore: 6.3 mm * Calibrated oscillation frequency: 40 Hz * Typical oscillation amplitude: 2 mm peak * Typical rms sensitivity: <10-6 emu * Powder samples, films with substrate 3 mm x 5 mm are possible * Liquid samples are not possible",
+      "location": "Physics Department",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscopy (AFM)",
+      "specifications": "perating modes : Static mode, dynamic mode, Phase imaging, Magnetic force microscopy, Electrostatic force microscopy Maximum scan range : 100 micrometer Maximum Z range : 12 micrometer",
+      "location": "Physics Department",
+      "status": ""
+    },
+    {
+      "name": "Combiflash NEXTGEN Automated Flash Chromatography.",
+      "specifications": "It offers adjustable flow rates, pressure limits, and UV detection. It supports various column sizes and sample loads.it has a flow rate range of 1 to 100 mL/min and pressure limit of 150 psi (10 bar).",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Low end Bench-Top NMR Spectrometer System.",
+      "specifications": "It is capable of performing a variety of measurements, including 1D and 2D spectra, T1 and T2 relaxation times, and various correlation experiments like HETCOR, COSY, HSQC, and HMBC.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "FTIR Spectrophotometer",
+      "specifications": "It is capable of measuring mid-infrared (4000-400 cm-1), It provides absorbance and transmittance information for various sample types, including powders, solids, gels, emulsions, liquids, and polymer films.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Electrochemical Workstation",
+      "specifications": "It is capable of potentiostatic, galvanostatic, and electrochemical impedance spectroscopy (EIS) measurements. it can measure low currents up to 100pA.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Ion Chromatography",
+      "specifications": "It can perform simultaneous analysis of common anions like fluoride, chloride, nitrate, and sulfate, as well as cations like lithium, sodium, potassium, magnesium, and calcium.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Viscometer",
+      "specifications": "It measures viscosity in a range from 100 cP to 13 million cP (or 13 mPa·s to 13,000,000 mPa·s). It offers 18 different rotational speeds for measurement and can display viscosity, speed, and percentage of torque directly.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Spectrofluorometer with peltier facility",
+      "specifications": "It is capable of various fluorescence measurements, including excitation and emission spectra, 3D spectral mapping, and phosphorescence studies.A spectrofluorometer with Peltier facility uses a Peltier device (thermoelectric cooler) to control the temperature of the sample holder within the instrument. This allows for precise temperature regulation, often in the range of -15°C to 105°C, which is essential for many fluorescence experiments requiring controlled thermal conditions",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Elemental Analyser- Vario Micro Cube CHNS",
+      "specifications": "To estimate the percentages of carbon, hydrogen, nitrogen, and sulfur present in organic and inorganic samples.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Microwave Synthesis System",
+      "specifications": "It offers precise measurement capabilities for temperature and pressure, crucial for controlled reactions. It utilizes an infrared (IR) sensor for non-contact temperature measurement and can handle pressures up to 300 psi and temperatures up to 300°C. The system also features variable-speed magnetic stirring and rapid cooling capabilities for efficient reaction control.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "SpectraMax ID3 Multi-Mode Microplate Reader",
+      "specifications": "It is capable of measuring absorbance, fluorescence, and luminescence,it offers flexible temperature control, allowing experiments to be conducted within a range of ambient temperature up to 66°C",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Spectrophotometer V-770ST UV/VS/NIR with Spectramanager 2",
+      "specifications": "It can measure absorbance, transmittance, and reflectance of samples across the UV to NIR spectrum (typically 190 to 900 nm, with optional extension up to 3200 nm)",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "TOC Analyzer.",
+      "specifications": "TC,IC & TOC by substraction method NPOC with auto sparging and acidification, high temp 680oc combustion NDIR Analyzer.range:- TC:- 4ppb to 25,000ppm (with auto dilution).",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Differential Scanning Calorimeter",
+      "specifications": "It can measure temperatures from -140°C to 600°C, and has a calorimetric measurement range of ±150 mW",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope",
+      "specifications": "Its measurement capabilities, includes topography imaging, force measurements, and various other material property characterizations at the nanoscale.It generates images by scanning a small cantilever over the surface of a sample. The sharp tip on the end of the cantilever contacts the surface, bending the cantilever and changing the amount of laser light reflected into the photodiode",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Polarimeter",
+      "specifications": "It is capable of measuring optical rotation, specific rotation, optical purity, concentration, sugar scale.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "XRD",
+      "specifications": "It is capable for qualitative and quantitative phase analysis, crystallite size determination, and lattice parameter refinement. It utilizes a 600W X-ray source and a 2-theta measurement range of 5-70 degrees",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "UV-VIS Spectrophotometer, UV-1780",
+      "specifications": "It is capable of measuring absorbance and transmittance of light across the ultraviolet and visible spectrum, from 190 to 1100 nm",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Density Meter",
+      "specifications": "It has a measurement range of 0 to 3 g/cm³ for density, 0°C to 95°C for temperature, and 0 to 10 bars for pressure. It can perform density measurements in continuous, single, or multiple modes using the mechanical oscillating U-tube method",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Tube Furnace",
+      "specifications": "It is used for calcination of samples and activating carbon samples and photocatalysts. Working temperatutre is 1350º C,Working tube type is 80% Alumina , insulation non cacinogenic fibre insulation. Heating rate with quartz andmetal tube can be as high as 25º C/min while ceramic upto 800º C and 5º C/min above 800º C.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Electrochemical Workstation with RRDE setup",
+      "specifications": "( M/s Pine Research Instruments). Experiments that can be carried out are : Rotar Methods 1)Rotary Disc voltamtery(RDE) 2) Rotating Diks Chronopotentiometry CP-RDE) 3)Rotating Disk Ramp Chronopotensiometry(RCp-RDE) ,4)Rotating Ring Disc Voltametry (RRDE), 5)Rotating Ring Disc Electrolysis (BE-RRDE),5)Rotating Ring Disc Koutecky-levich (KL-RRDE) , 6)Rotating Disc Staircase Voltametry (SCV-RDE) 7)Rotating Disc Staircase Potentiometry(SCP-RDE)",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Spectrophotometer, V-730 ST UV/VIS",
+      "specifications": "Double beam spectrophotometer allows spectra measurment,time course studies, quantitative measurments, fixed wavelength measurements, Absorbance/%Transmittance measurements.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "BET Surface Analyzer (NOVA 2200e)",
+      "specifications": "Measures the surface area of materials (surface area range 0.01 m2/g ), adsoption isotherms & desorption isotherm.It also measures the pore size( pore size range: 0.35 to 500 nm)",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Arium Mini Plus Water System for Type I and RO",
+      "specifications": "(M/s. Sartorius). The system is a combined ultrapure water system developed to provide ASTM Type 1(filtered through 0.2um filter) and Type 3 water",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Liquid Chromatography-Mass Spectrometry Single Quad",
+      "specifications": "(M/s Agilent Technologies). Liquid Chromatography (LC) separates components in mixture of sample, and the resulting eluent sample is passed to Mass Spectrometry (MS) for detection, identification, and mass determination. Ionisation technique used :Electronspray Ionisation, allows to study 4 signals at a time : SIM and SCAN mode with positive and negative polarity measurments.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Electrochemical Workstation (Biologic Science Instruments)",
+      "specifications": "Instrument used to control and analyze electrochemical process. Measurement type: Cyclic Voltametry, Linear Sweep Voltamtery,Impedance,Chrono Amperometry,Chrono Potentiometry.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Gas Chromatography-Mass Spectrometry Single Quad",
+      "specifications": "(M/s Agilent Technologies). Gas chromatography separates the components of a mixture, and mass spectrometry characterizes each of the components individually. The combination of the two techniques allows for both qualitative and quantitative evaluations of a sample containing a number of organic compounds.Apart from Mass Detector other detector present are FID (capable of detecting, substance that contain carbon atoms), TCD (It commonly used for permanent gas analysis like O2, N2, CO, CO2, H2S, NO etc) & ECD(can detect organic halogen substances, organic metal compounds,).",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatography",
+      "specifications": "(M/s Shimadzu). System is used for the seperation, identification, qualitative and quantitative analyis . The PDA detector allows simultaneous measurement of the entire UV-Vis absorption spectrum.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatography",
+      "specifications": "(M/s Agilent Technologies). System is used for the seperation, identification, qualitative and quantitative analyis . The PDA detector allows simultaneous measurement of the entire UV-Vis absorption spectrum.Fluorescence detector measures fluorescence emitted by compounds.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Lyophilizer (Bio Era)",
+      "specifications": "Equipment used to dehydrate heat sensitive material/sample by freezing and then reducing surrounding pressure to sublimate effectively removing moisture without damaging the sample.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Water Purification System Type I & RO (M/s Merck)",
+      "specifications": "The system is a combined ultrapure water system developed to provide ASTM Type 1(filtered through 0.2um filter) and Type 3 water",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "ElectraSyn 2.0 (IKA)",
+      "specifications": "Device runs electrosynthesis (at constant current/constant voltage), cyclic voltammetry with room temperature stirring",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Muffle Furnace (Ants Innovation)",
+      "specifications": "Used for ashing and heat treating samples. Max working temperature : 1350º C ,Max heating Rate: 8º /min. Min heating rate:1.5º C/min.",
+      "location": "Chemistry Department",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Scanning Electron Microscope (FESEM); Quanta FEG 250",
+      "specifications": "i)4 nm resolution with ETD imaging detectors. ii) Attached with STEM detector with EDX spectra for detection of elemental composition with area mapping and line profile; iii) Sputter coater, iv) Critical Point Drying (CPD)",
+      "location": "CSIF",
+      "status": ""
+    },
+    {
+      "name": "Liquid Chromatography-Mass Spectrometry (LC-MS); Agilent 6460 Triple Quadrupole LC/MS",
+      "specifications": "i) Femtogram-level of detection and quantitation. ii) Triple Quadrupole LC-MS consists of 1290 auto sampler and Diode array detector.",
+      "location": "CSIF",
+      "status": ""
+    },
+    {
+      "name": "Laser Scanning Confocal Microscope; Olympus FV3000",
+      "specifications": "i) Double deck Motorized Frame with Motorized sextuple revolving nosepiece. ii) Diode lasers: 405, 488, 514, 561, 594, and 640 nm along with infinity corrected objectives 1.25x, 4x, 10x, 40x, 60x and 100x. iii) Live cell imaging and tissue samples in CO2 incubator.",
+      "location": "CSIF",
+      "status": ""
+    },
+    {
+      "name": "X-Ray Diffractometer; Bruker D8 Advance",
+      "specifications": "i) Micro and crystalline structure analysis. ii) Powder diffraction analysis and phase identification. iii) High temperature attachment (up to1600 oC).",
+      "location": "CSIF",
+      "status": ""
+    },
+    {
+      "name": "Raman Microscope; LAB RAM HR Horiba",
+      "specifications": "i) Spectral range from 100-3000 cm-1 and attached with an objectives of 10x, 20x,50x, 50x LWD and 100x. ii) lasers: 325, 532, 633, and 785 nm.iii) Additional cooling and heating stage.",
+      "location": "CSIF",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance Spectrometer (NMR); Bruker Avance Neo 500 MHz",
+      "specifications": "i) Equipped with smart liquid-state probe and solid state CP-MAS probe with 15 kHz spinning speed. ii) Various 1D and 2D NMR with homo and hetero nuclear experiments like COSY, NOESY, HSQC, and HMBC.",
+      "location": "CSIF",
+      "status": ""
+    },
+    {
+      "name": "Particle Analyzer & Zeta Potential; Nanoplus AT",
+      "specifications": "i) Measures particle size of samples in liquid form and range of 0.6 nm to 10 μm with sample suspension concentration from 0.00001% to 40%. ii) Measures zeta-potential of a sample suspension in the range of -200mV to +200mV with concentrations from 0.001% to 40%.",
+      "location": "CSIF",
+      "status": ""
+    },
+    {
+      "name": "High Resolution Transmission Electron Microscopy (HRTEM); Talos F200S G2",
+      "specifications": "i) Accelerating voltage - 80 & 200 kV, ii) TEM imaging (bright fied, dark field), SAED, low dose imaging and HRTEM, iii) Resolution: TEM <0.12 nm, STEM < 0.16 nm (Au-Pd grating) the resolution of microscope is 0.12 nm with CETA camera, ii) The TEM magnification is 1 Mx and STEM mode is 10 Mx, iii) EDX (line and area mapping), iv) STEM-HADDF imaging, iv) Velox software",
+      "location": "CSIF",
+      "status": ""
+    },
+    {
+      "name": "Logic Analyser",
+      "specifications": "102 Channel: 25 GHz MagniVu Timing: 333 MHz State Clock: 8 Mb Record Length Logic Analyzer with four 17-Channel General Purpose Probe",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Keithley 2612B Source Measure Unit",
+      "specifications": "Dual channel SMU with triax connectors, 200 V DC + pulsed sourcing, automated characterization suite, capability to connect in daisy chain",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Xe arc lamp (300W) extended range light source",
+      "specifications": "180-2000nm range with output power of 300W",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Keithley 4200A-SCS Parameter Analyzer",
+      "specifications": "Advanced measurement hardware for DC I-V, C-V, and pulsed I-V measurement types.",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Eltech VACUUM O2 PLASMA CLEANER",
+      "specifications": "The plasma cleaner can be used for modifying surfaces of various materials such as Polymers, Glass, Metals & Ceramics.",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Fume hood",
+      "specifications": "Used for wet chemical processes",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Conductive ink printer",
+      "specifications": "Printing conductive inks for printed electronics",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Probe Sonicator",
+      "specifications": "Synthesis of nanomaterials",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "LCR Meter",
+      "specifications": "10Hz to 300KHz Precision LCR Meter",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Thermo Fisher Scientific tube furnace",
+      "specifications": "upto 1100 degree",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Keithley 2470 SMU",
+      "specifications": "single channel with 1000 V",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Muffle furnace",
+      "specifications": "Upro 1100 degree C",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "KAB series Analytical Balance",
+      "specifications": "min: 0.1 mg and Max: 220 g",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Formlabs 3D printer 4B",
+      "specifications": "print micro structures",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "Laser cutter",
+      "specifications": "Cut acrylic, paper, textile",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "24-27 GHz RF Synthesizer",
+      "specifications": "Used to generate high frequency RF signal",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "High Precision Linear Stage",
+      "specifications": "used to generate various linear motions",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "DMACE S2C Acoustic Network Emulator Box",
+      "specifications": "Emulator for underwater acoustic networks",
+      "location": "EEE",
+      "status": ""
+    },
+    {
+      "name": "CORDINATE MEASURING MACHINE (CMM)",
+      "specifications": "CRT-A C 500 Series, 191-222-ID- Basic Machine beyond cystra C574 220V, 06ABQ 041 C - Ceramic Master Ball with certificate, 517-660- Surface plate cleaner. Capable of precise 3D coordinate measurement of features like points, lines, circles, planes, cylinders, spheres, cones, etc",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Surface Roughness Tester 178-583-02E",
+      "specifications": "Surftest, SJ-412 (4mN type) with accessories. It can measure roughness parameters like Ra, Rz, Rq, Rt and measuring range up to 800 μm vertically and traverse lengths up to 50 mm.",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "5-Axis Vertical Machining Center with accessories.",
+      "specifications": "Simultaneous 5-axis machining for intricate parts with curves, angles, and undercuts.",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Universal Testing Machine",
+      "specifications": "– Capacity 100 Ton, (UTM) Electronic/Computer based, Servo Controlled, 100T Regular Closed Cross Head. For performing tensile, compression, bending, and shear tests on specimens like metal bars, concrete cubes, pipes, polymers, and structural components. The machine measures important material properties such as ultimate tensile strength, yield strength, elongation, compressive strength, and modulus of elasticity.",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Vickers Hardness Testing Machine",
+      "specifications": "- FIE Make, Computerized Touch Screen. Model.VM50 TS with All Standard Accessories. Machine that measures Vickers hardness (VHN) using a diamond indenter. It offers automatic loading, digital readings, and is ideal for small parts and surface testing",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Rheometer with accessories",
+      "specifications": ": 1.1: HR 20 Discovery Hybrid Rheometer, 1.2: HR x0 Environmental Test Chamber, 1.3: HR x0, DHR & AR-Series ETC Flow Meter Kit, 1.4: HR x0 ETC Parallel Plate Accessory Kit, 1.5: HR x0 ETC Disposable Parallel Plate Accessory Kit, 1.6: Stainless Steel, 25 mm Disposable Plates (w/drip) (pkg. of 20)",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Multi-Component Piezo-Electric Cutting Force Dynamometer",
+      "specifications": "Type 9272, With components: a) Piezo-Multicomponent Dynamometer Measurement of 4 Components (Fx,Fy, Fz, Mz)- Measuring Range Fx,y: -5... 5 kN- Measuring Range Fz: -5 ... 20 kN- Measuring Range Mz: -200 ...AD6200 N·m- Connection: Fischer Flange, b) Connecting Cable, High Insulation Fischer 9 pin pos., 8-conductor, L = 5 m- Input: Fischer Flange 9 pin pos.- Output: Fischer 9 pin pos.- Ground-isolated- Degree of Protection: IP67 - IP65- Flexible Cable Metal Shield Sheath, ø12,3 mm- Used for: 6-Component Measurement, c) Tool holder suitable for Dynamometer Type 9272Included Accessories:- 4x Cylinder head screw M8x40, d) Multichannel Charge Amplifier 4-Ch Fischer 9 pin neg., 200 000 pC Housing: Desktop Version with Support Bracket- Number of Channels: 4- Measuring Signal Connection :Fischer 9 pin neg.-Measuring Range: ±200 ... 200 000 pC- Interface: RS-232C Included accessories, e) Data Acquisition System with Software Dyno-Ware (Full Version) Connection to PC via USB- Acquisition of up to 28 channels- Input: D-Sub 15 pin pos.-Output: USB Type B, neg.- incl. Dyno-Ware Software Type 2825A., f) Connecting Cable, Low Impedance D-Sub 15 pin neg. - D-Sub 15 pin pos.- Length: l = 2 m- Number of Conductors: 15 AND g) Serial interface cable, l = 5 m, for connection type 2852A.../ 2853A.../ 2854A.../ 5015A.../5018A.../ 5070A.../5080A... to Desktop/Laptop(RS-232C)",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "High Speed Camera",
+      "specifications": "MotionBLITZ EoSens Cube6, base unit, Color Camera (Mikrotron company)1-506 fps @ 1.280(H) x 1.024(V) and up to 6.48 sec. recording time at full resolution (4GB)",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Twin Cylinder (Dual Fuel / Turbocharged) Diesel Research Engine",
+      "specifications": "Set-up with Open ECU System. (Add-ons: Dual Fuel Mode, Turbocharger, CNG Fuel System, H2 Fuel System, Constant RPM Mode / Constant Torque Mode, Gasoline Fuel System, DPF Filter, LPG System, Laptop with dual display)",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "NVH ANALYSIS SYSTEM",
+      "specifications": "SENSORS & CABLES, ELECTRODYNAMIC SHAKER with accessories. Single axis and triaxial accelerometers, 1/2\" ans 1/4\" microphones, 8 channel data aquisition system, impact hammer, impedence head",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "100 kN Median Test System",
+      "specifications": "1) AC-01-0010 Load Frame, 2) AC-02-0210 Axial Actuator, 3) AC-06-0045: Load Cell, 4) AC-03-0021 Hydraulic Power Pack, 5) AC-04-2370 Octa Station Digital Servo Controller, 6) AC-08-0020 Test Builder, 7) DELL Host computer system - Test work station, 8) Fracture Mechanics Test Package (Room Temperature) along with 8.1) AC-05-01F3 Fracture Mechanics Clevis Grips, 8.2) AC-05-01F4 Fracture Mechanics Clevis Grips, 8.3) AC-07-0015 COD gauge, 8.4) AC-08-0005 Fracture toughness for K1c. J1c & CTOD, Application software as per ASTM E1820, E399, 8.5) AC-08-0002 Fracture mechanics application software as per ASTM E647 (Details specification is as per quotation). KIC & JIC tests, Low cycle & High Cycle fatigue tests, Tensile, Compression & 3 point bend tests",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Phantom MIRO C210 High speed camera",
+      "specifications": "",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Plasma Cleaner- harrick Plasma",
+      "specifications": "",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Laser : IPG 1000-Watt Multi mode Fiber laser model",
+      "specifications": "YLR-1000 with Compatible Chiller. Make: Gemorion and IPG Water cooled collimator with F300 Focusing lens and mounting. Collimator D50. Preplaced Laser Cladding, Laser Welding, Laser engraving and Laser Polishing",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "PVD Deposition Systems",
+      "specifications": "",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Filament Extruder with High Temperature Advanced Extrusion Kit",
+      "specifications": "Temperature control up to 450 °C (multi-zone heating) Adjustable screw speed and material throughput Compatible with high-performance polymers (PEEK, PEKK, etc.) Optional diameter sensor for filament consistency (±0.05 mm) Real-time display of process parameters (temp, RPM, fan speed)",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "3D Printer for Ultra Performance and High Temprature Polymer",
+      "specifications": "Compatible with ultra high-performance materials, including PEEK, CF-PEEK, PAEK, and PEKK. Features a maximum nozzle temperature of 500°C.",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "WIND TUNNEL",
+      "specifications": "made out of Teakwood and BWT Plywood, Test Section Size:- 600mm X 600mm X 2000mm Maximum Speed: 50 mtr/sec, Contraction ratio: 12, Honey comb L/D: 8, 22kw AC Motor with controller, Total length of the tunnel 12 mtr Approx. Power for motor is 3phase, 440 volts, 50HZ, 22KW, 65Amp MCB. With * Projection type manometer* Inclined Multitube manometer (30 tubes) * Pitot Static tube 600mm movement* Traverse backclash free - X, Y & Z 600mm movement",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "Stereo + Volumetric PIV System",
+      "specifications": "(Make: Dantec Dynamics, Denmark)",
+      "location": "Mechanical Department",
+      "status": ""
+    },
+    {
+      "name": "FASTCAM Mini AX200-200K-M-16GB",
+      "specifications": "",
+      "location": "Mechanical Department",
+      "status": ""
+    }
+  ]
+}

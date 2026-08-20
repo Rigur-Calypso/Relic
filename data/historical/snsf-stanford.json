@@ -1,0 +1,57 @@
+{
+  "targetId": "snsf-stanford",
+  "snapshotUrl": "http://web.archive.org/web/20200101000000/https://snsf.stanford.edu/equipment/",
+  "snapshotTimestamp": "~20200101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T13:17:11.128Z",
+  "equipment": [
+    {
+      "name": "Electron Beam Lithography",
+      "specifications": "",
+      "location": "Spilker building",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "specifications": "",
+      "location": "McCullough, Moore and Spilker buildings",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscope (TEM)",
+      "specifications": "",
+      "location": "McCullough, Moore and Spilker buildings",
+      "status": ""
+    },
+    {
+      "name": "Focused Ion Beam (FIB)",
+      "specifications": "",
+      "location": "McCullough, Moore and Spilker buildings",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffraction (XRD)",
+      "specifications": "",
+      "location": "McCullough and Spilker buildings",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy (XPS)",
+      "specifications": "",
+      "location": "McCullough and Spilker buildings",
+      "status": ""
+    },
+    {
+      "name": "NanoSIMS",
+      "specifications": "",
+      "location": "McCullough and Spilker buildings",
+      "status": ""
+    },
+    {
+      "name": "Scanning Probe Microscopy",
+      "specifications": "",
+      "location": "McCullough and Spilker buildings",
+      "status": ""
+    }
+  ]
+}

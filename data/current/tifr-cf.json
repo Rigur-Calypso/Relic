@@ -1,0 +1,88 @@
+{
+  "targetId": "tifr-cf",
+  "name": "TIFR Central Facilities",
+  "url": "https://www.tifrh.res.in/research/facilities/",
+  "scrapedAt": "2026-08-20T14:05:43.034Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "High-Field NMR Spectrometers",
+      "specifications": "Houses six spectrometers",
+      "location": "National Facility for High-Field NMR",
+      "status": ""
+    },
+    {
+      "name": "Fluorescence-activated Cell Sorter",
+      "specifications": "Sterile cell sorting at speeds up to 30,000 cells/sec, sorts based on up to 18 fluorochromes into 4 separate populations simultaneously, single cell 96 well plate sorting",
+      "location": "Fluorescence-activated Cell Sorting Facility",
+      "status": ""
+    },
+    {
+      "name": "Olympus FV3000 Confocal point scanning microscope",
+      "specifications": "7 laser 4 detectors; FRAP, FLIM and FRET with Pico Quant laser",
+      "location": "Confocal Microscopy Facility",
+      "status": ""
+    },
+    {
+      "name": "Leica Stellaris 5 Confocal Upright microscope",
+      "specifications": "",
+      "location": "Confocal Microscopy Facility",
+      "status": ""
+    },
+    {
+      "name": "Nikon Spinning disk with 355 nm pulsed laser So-Ra system",
+      "specifications": "355 nm pulsed laser So-Ra system",
+      "location": "Confocal Microscopy Facility",
+      "status": ""
+    },
+    {
+      "name": "Molecular beam epitaxy & RF/DC sputtering systems",
+      "specifications": "Thin film growth of metals, inter-metallic alloys, superconductors and chalcogenides",
+      "location": "Thin film Deposition and Cleanroom Facility",
+      "status": ""
+    },
+    {
+      "name": "Laser Lithography",
+      "specifications": "",
+      "location": "Thin film Deposition and Cleanroom Facility",
+      "status": ""
+    },
+    {
+      "name": "SEM",
+      "specifications": "",
+      "location": "Thin film Deposition and Cleanroom Facility",
+      "status": ""
+    },
+    {
+      "name": "E-beam Lithography",
+      "specifications": "",
+      "location": "Thin film Deposition and Cleanroom Facility",
+      "status": ""
+    },
+    {
+      "name": "TA Q800 DMA dynamic mechanical analyser",
+      "specifications": "Can analyse thin films, polymer and ceramic composite pellets, fibres; measures static and dynamic moduli; temperature range from room temperature to high temperatures",
+      "location": "Dynamic Mechanical Analyser Facility",
+      "status": ""
+    },
+    {
+      "name": "Agilent 6545 Q tof LC MS",
+      "specifications": "Used for intact mass analysis of peptides and proteins",
+      "location": "LC MS and MALS Facility",
+      "status": ""
+    },
+    {
+      "name": "Postnova PN3621 MALS detector",
+      "specifications": "Can be connected to a suitable SEC column to determine the molar mass and Rg of macromolecules",
+      "location": "LC MS and MALS Facility",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-Ray Diffractometer (SCXRD)",
+      "specifications": "Examines the solid state molecular structure to address the bonding situation of a new class of molecules",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

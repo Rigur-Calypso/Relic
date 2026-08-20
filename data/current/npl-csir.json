@@ -1,0 +1,70 @@
+{
+  "targetId": "npl-csir",
+  "name": "CSIR–National Physical Laboratory",
+  "url": "https://www.nplindia.in/index.php/new_facilities/",
+  "scrapedAt": "2026-08-20T13:04:25.624Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Robotic Mass Comparator",
+      "specifications": "5 g capacity",
+      "location": "CSIR-NPL",
+      "status": "Installation and commencing under process"
+    },
+    {
+      "name": "Vacuum Mass Comparator",
+      "specifications": "1 kg capacity, computer operated electronic vacuum mass comparator, vacuum chamber, load alternator with 8 positions",
+      "location": "CSIR-NPL",
+      "status": ""
+    },
+    {
+      "name": "50 kg Mass Comparator (AX64004)",
+      "specifications": "Automatic mass comparator based on computer operation, 4 positions for weight alternator, independent draft shields, self-centric mechanism",
+      "location": "CSIR-NPL",
+      "status": ""
+    },
+    {
+      "name": "Stylus based surface texture parameters measuring instrument",
+      "specifications": "Working range of 200 mm in X axis, probe measurement range of 12 mm in Z axis, probe Z-axis resolution 0.8 nm, motorized/CNC column length of 500 mm in Z axis",
+      "location": "Length, Dimension and Nanometrology section, CSIR-NPL",
+      "status": "Established"
+    },
+    {
+      "name": "Thunder Scientific-2500 Humidity Generator",
+      "specifications": "Based on temperature-pressure parameters, stability better than 0.1%, calibration range 10% to 95% RH with uncertainty of 0.3% RH",
+      "location": "Temperature and Humidity Metrology Section, CSIR-NPL",
+      "status": ""
+    },
+    {
+      "name": "C-type Goniophotometer System",
+      "specifications": "Measures luminous flux and other optical radiation parameters for LED lighting",
+      "location": "Optical Radiation Metrology Section, CSIR-NPL",
+      "status": "Installed"
+    },
+    {
+      "name": "Optical Radiation Test System",
+      "specifications": "Tests photobiological safety of LED based luminaires",
+      "location": "Optical Radiation Metrology Section, CSIR-NPL",
+      "status": "Installed"
+    },
+    {
+      "name": "3000 kN Force Calibration Machine",
+      "specifications": "3000 kN capacity using build-up system by comparison method",
+      "location": "CSIR-NPL",
+      "status": "Established"
+    },
+    {
+      "name": "Gas Flow Calibration Facility",
+      "specifications": "Flow range 1 mL/min to 1200 L/min, expanded uncertainty 0.2% at k=2, includes laminar flow elements, sonic nozzles, mass flow terminal, and 1000 L air receiver",
+      "location": "Fluid Flow Metrology Section, CSIR-NPL",
+      "status": "Established"
+    },
+    {
+      "name": "Primary Water Flow Calibration Facility",
+      "specifications": "For flowmeters DN2 to DN200, flow range up to 650 m3/h using weighing method (ISO 4185), includes 3 weighing systems (300 kg, 3000 kg, 6000 kg capacities)",
+      "location": "Fluid Flow Metrology Section, CSIR-NPL",
+      "status": "Fully functional"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "targetId": "uohyd-cif",
+  "analyzedAt": "2026-08-20T14:24:13.363Z",
+  "vitalityScore": 100,
+  "summary": "All 10 historical equipment items remain present in the current listing with identical specifications, location, and status. No knowledge loss detected.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

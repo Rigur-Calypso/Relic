@@ -1,0 +1,22 @@
+{
+  "targetId": "purdue-birck",
+  "name": "Purdue Birck Nanotechnology Center",
+  "url": "https://birck.research.purdue.edu/equipment/",
+  "scrapedAt": "2026-08-20T14:00:29.948Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Transmission Electron Microscope (TEM)",
+      "specifications": "Located in a specialized laboratory with tight temperature controls, specialized airflow patterns, and acoustic wall and floor materials.",
+      "location": "TEM laboratory",
+      "status": ""
+    },
+    {
+      "name": "Ultra-pure water (UPW) system",
+      "specifications": "Supplies nano-grade water below measurement limits of 15 parts per trillion of boron, less than 225 parts per trillion of total oxidizable carbon (TOC), and less than 1 part per billion of dissolved oxygen.",
+      "location": "Birck Nanotechnology Center",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "targetId": "mit-mrsec",
+  "name": "MIT DMSE Shared Facilities",
+  "url": "https://dmse.mit.edu/research-impact/research-facilities/",
+  "scrapedAt": "2026-08-20T13:06:47.553Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "specifications": "Used for measuring magnetic and electronic properties",
+      "location": "4-141ba, 13-5027",
+      "status": ""
+    },
+    {
+      "name": "Pulsed laser deposition system",
+      "specifications": "For film growth",
+      "location": "8-140",
+      "status": ""
+    },
+    {
+      "name": "Rapid thermal annealer",
+      "specifications": "",
+      "location": "8-140",
+      "status": ""
+    }
+  ]
+}

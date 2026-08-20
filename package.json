@@ -1,0 +1,27 @@
+{
+  "name": "hackathon_web-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "api": "node src/api/server.js",
+    "scrape": "node src/scraper/scrape.js",
+    "heal": "node src/scraper/heal.js",
+    "wayback": "node src/analyzer/wayback.js",
+    "analyze": "node src/analyzer/diff.js",
+    "pipeline": "node src/scraper/scrape.js && node src/analyzer/wayback.js && node src/analyzer/diff.js",
+    "static-data": "node scripts/make-static-data.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^2.18.0",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}

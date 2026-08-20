@@ -1,0 +1,31 @@
+{
+  "targetId": "tifr-cf",
+  "analyzedAt": "2026-08-20T14:22:58.770Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment and specifications are retained in the current listing. Some entries were combined (e.g., MBE and RF/DC sputtering systems), names were updated/shortened, and facility locations were added or refined for several instruments without any loss of critical equipment or technical details.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Molecular beam epitaxy systems / RF/DC sputtering systems",
+      "change": "Combined into a single entry 'Molecular beam epitaxy & RF/DC sputtering systems'."
+    },
+    {
+      "name": "Nikon Spinning disk microscope",
+      "change": "Renamed to 'Nikon Spinning disk with 355 nm pulsed laser So-Ra system'."
+    },
+    {
+      "name": "Laser lithography system / SEM / E-beam lithography system",
+      "change": "Names updated/shortened and facility location updated to 'Thin film Deposition and Cleanroom Facility'."
+    },
+    {
+      "name": "TA Q800 DMA dynamic mechanical analyser",
+      "change": "Added location 'Dynamic Mechanical Analyser Facility' and slightly updated specification phrasing."
+    },
+    {
+      "name": "Agilent 6545 Q tof LC MS / Postnova PN3621 MALS detector",
+      "change": "Added location 'LC MS and MALS Facility'."
+    }
+  ]
+}

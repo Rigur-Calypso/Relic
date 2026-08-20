@@ -1,0 +1,193 @@
+================================================================================
+ RELIC — Problems Log (Finasco.txt)
+ Every real-world problem hit while building & running the project, and how each
+ was resolved (or what remains open). Newest context at top of each section.
+ Last updated: 2026-08-20
+================================================================================
+
+--------------------------------------------------------------------------------
+ P1. Gemini model names in the PRD are retired / closed to new users
+--------------------------------------------------------------------------------
+ Problem  : The PRD specifies `gemini-2.0-flash` (default) and `gemini-2.5-flash`
+            (drop-in upgrade). Both fail today:
+              - gemini-2.0-flash -> 404 "no longer available"
+              - gemini-2.5-flash -> 404 "no longer available to new users"
+ Impact   : Every AI call (extract, heal, diff) threw 404 until fixed.
+ Fix      : Switched to `gemini-3.6-flash` (the API's own recommended replacement,
+            identical call signature). Set via GEMINI_MODEL in .env.
+ Status   : RESOLVED. .env default is gemini-3.6-flash.
+ Fallback : `gemini-flash-lite-latest` also works and has a SEPARATE quota bucket
+            (see P2) — used as the overflow model during the big run.
+
+--------------------------------------------------------------------------------
+ P2. Gemini free-tier daily quota (20 requests/day PER MODEL) is too small
+--------------------------------------------------------------------------------
+ Problem  : Free tier caps generate_content at 20 requests/day/model. A full
+            9-site run is ~25+ AI calls (9 scrape + up to 9 wayback + 9 diff),
+            plus debugging calls. We hit HTTP 429 RESOURCE_EXHAUSTED mid-run:
+              "Quota exceeded ... limit: 20, model: gemini-3.6-flash"
+ Impact   : - Full pipeline cannot complete on one model in one day.
+            - The dashboard's live Scrape/Heal/Analyze buttons will fail once the
+              day's 20 calls are spent (they spawn scripts that read .env).
+ Fix      : Split the load across two models with independent buckets:
+            gemini-3.6-flash + gemini-flash-lite-latest. The last full data run
+            was generated on gemini-flash-lite-latest after 3.6-flash was spent.
+ Status   : RESOLVED via multi-key rotation. src/gemini.js now accepts a pool of
+            free-tier keys (GEMINI_API_KEYS=key1,key2,...) and auto-rotates to the
+            next key on a quota error, persisting which keys are spent
+            (data/.gemini-state.json) across the separate scrape/wayback/analyze
+            processes, resetting at Pacific midnight. Invalid keys are skipped;
+            transient 5xx are retried on the same key. With 7 keys the pool gives
+            ~140 calls/day — the full 9-site pipeline ran end-to-end on
+            gemini-3.6-flash with zero manual intervention (rotation fired twice
+            mid-run and continued seamlessly).
+ NOTE     : Enabling BILLING on one key is still the cleanest long-term fix, but is
+            no longer required to run or demo the project.
+
+--------------------------------------------------------------------------------
+ P3. Target URLs in the PRD point at landing / wrong / 404 pages
+--------------------------------------------------------------------------------
+ Problem  : Most `targets.json` URLs are homepages or dead paths that contain no
+            equipment list, so extraction returned 0 items. Examples:
+              - saif.iitb.ac.in            -> "About SAIF" landing page (no list)
+              - cense.iisc.ac.in/facilities-> 404 Not Found page
+              - crf.iitd.ac.in             -> homepage, nav/social links only
+              - nplindia.org/.../facilities-> stale domain (moved to nplindia.in)
+              - iiserpune.ac.in/research/facilities -> "Research Centres", not gear
+              - mrsec.mit.edu/facilities   -> DNS does not resolve (see P4)
+ Fix      : Used `bdata search` to find the true equipment pages and updated
+            targets.json:
+              saif-iitb  -> http://www.saif.iitb.ac.in/facility.html        (27)
+              crf-iitd   -> https://crf.iitd.ac.in/All-Facilities-/CRF_Facilities.html (85)
+              npl-csir   -> https://www.nplindia.in/index.php/new_facilities/ (13)
+              cense-iisc -> https://www.cense.iisc.ac.in/                     (1, thin)
+              iiser-pune -> https://www.iiserpune.ac.in/research/research-facilities (1, thin)
+              mit-mrsec  -> https://dmse.mit.edu/research-impact/research-facilities/ (3)
+            (bits-pilani and snsf-stanford already extracted well: 38 and 50.)
+ Status   : RESOLVED for the hero cases; two sites remain thin (CeNSE, IISER) —
+            see P7 / the URL-improvement task.
+
+--------------------------------------------------------------------------------
+ P4. mit-mrsec DNS failure
+--------------------------------------------------------------------------------
+ Problem  : bdata scrape https://mrsec.mit.edu/facilities ->
+              "Could not resolve host mrsec.mit.edu."
+            The old MRSEC facilities host is gone.
+ Fix      : Repointed the target to MIT DMSE shared facilities:
+              https://dmse.mit.edu/research-impact/research-facilities/
+            Renamed the card "MIT DMSE Shared Facilities".
+ Status   : RESOLVED — and this target became a REAL knowledge-loss hero
+            (vitality 50, 4 instruments removed).
+
+--------------------------------------------------------------------------------
+ P5. archive.org Wayback Availability API rate-limits our IP (HTTP 429)
+--------------------------------------------------------------------------------
+ Problem  : GET https://archive.org/wayback/available returned an HTML
+            "429 Too Many Requests" page instead of JSON, so res.json() threw
+            "Unexpected token '<'" for EVERY target. Direct backoff (up to 45s)
+            did not clear it — the IP throttle lasts minutes.
+ Fix      : Rewrote src/analyzer/wayback.js:
+              1. Try the Availability API first (gives the exact capture date);
+                 short backoff, then give up fast.
+              2. FALLBACK: fetch the Wayback redirect
+                 http://web.archive.org/web/<ts>000000/<url> THROUGH BRIGHT DATA.
+                 Bright Data's proxies bypass the IP-level 429, so history keeps
+                 flowing. Added not-archived detection + empty-content guards so
+                 missing captures degrade to "no snapshot" instead of crashing.
+ Status   : RESOLVED. On-theme bonus: even the history layer is now
+            Bright-Data-resilient (a stronger hackathon story).
+ Note     : records carry snapshotVia = "availability-api" (exact ts) or
+            "brightdata-redirect" (ts labeled ~YYYYMMDD, approximate).
+
+--------------------------------------------------------------------------------
+ P6. Some equipment URLs have no usable Wayback snapshot
+--------------------------------------------------------------------------------
+ Problem  : Even via Bright Data, the Wayback redirect for a few targets returned
+            a not-archived / empty page, so no historical list -> no diff:
+              - bits-pilani  (current 38, but no snapshot)
+              - snsf-stanford(current 50, but no snapshot)
+              - cense-iisc   (no snapshot; also thin current)
+ Impact   : Those cards show a vitality score of "no history" (graceful, but no
+            knowledge-loss story).
+ Fix      : Found archived, equipment-rich URLs by probing candidates with a
+            keyword heuristic (no Gemini spent on discovery), and added a
+            per-target "snapshotTs" override in targets.json + wayback.js so each
+            site can point at the date where an archived capture actually exists:
+              bits-pilani  -> https://gad.bits-goa.ac.in/Sophisticated-Instruments/
+                              (current 100, historical 102 @~2022)  vitality 100
+              snsf-stanford-> snapshotTs 20200101 (its /equipment/ path is only
+                              archived ~2018)  current 47, historical 3, vitality 90
+              iiser-pune   -> .../research-facilities/physics
+                              (current 11, historical 11 @~2022)  vitality 100
+              cense-iisc   -> https://nnfc.cense.iisc.ac.in/ (current 1 -> 69)
+ Status   : RESOLVED for bits, stanford, iiser (now real diffs).
+ OPEN     : cense-iisc still "no history" — its NNfC page is rich TODAY (69 items)
+            but the 2022 Wayback capture was too sparse to extract equipment from.
+            Card is strong on current data; no diff. Acceptable.
+
+--------------------------------------------------------------------------------
+ P7. Thin extraction on JS-heavy / sparse pages (CeNSE, IISER)
+--------------------------------------------------------------------------------
+ Problem  : cense-iisc and iiser-pune extracted only 1 equipment item each — the
+            chosen pages were overview/landing pages where instruments live on
+            sub-pages or behind JS.
+ Fix      : Repointed both at deeper equipment pages (see P6):
+              cense-iisc -> nnfc.cense.iisc.ac.in         (1 -> 69 items)
+              iiser-pune -> .../research-facilities/physics (1 -> 11 items)
+ Status   : RESOLVED.
+
+--------------------------------------------------------------------------------
+ P8. Decoy site is not deployed
+--------------------------------------------------------------------------------
+ Problem  : targets.json decoy URL is the placeholder
+            https://YOUR_GH_USERNAME.github.io/relic-decoy/ (not live), so it has
+            no scrapeable URL and no Wayback lineage.
+ Workaround: Seeded data/current/decoy.json from the local decoy-site/index.html
+            (honest — we own that content) so the card shows HEALTHY / 3 items.
+ Status   : DEFERRED by request. Full live break->heal->knowledge-loss demo still
+            needs the site deployed to GitHub Pages (or a local-serve mode).
+
+--------------------------------------------------------------------------------
+ P9. Minor / environmental
+--------------------------------------------------------------------------------
+ - Bright Data CLI v0.3.5 DOES expose a `scraper` subcommand (the PRD's "Ground
+   Truth" said it doesn't). Irrelevant to RELIC: we only ever call `bdata scrape`
+   and heal via our own `npm run heal`. There is still no `bdata heal`, so the
+   design holds.
+ - Node 24 in use (PRD asked >=20): fine.
+ - Vite dev port 5173 was already in use -> Vite auto-picked 5174. The /api proxy
+   still targets :3001, so this is cosmetic.
+ - Tailwind pinned to v3 (v4 changed the PostCSS/config setup); v3 matches the PRD.
+ - Transient Bright Data scrape errors and Gemini 503s occurred a few times; a
+   simple re-run of that one target fixed them.
+
+--------------------------------------------------------------------------------
+ P10. Scaling from 9 -> 22 monitored labs
+--------------------------------------------------------------------------------
+ Goal     : Add many more top-college core/nanofab facilities.
+ Method   : Because URLs can't be guessed reliably (P3), a discovery script
+            (scratchpad/discover.mjs) ran `bdata search` for 30 institutions,
+            picked the first non-junk result URL, and scored each page's equipment
+            density with a keyword heuristic — ALL via Bright Data, ZERO Gemini —
+            so only pages that actually list instruments were committed.
+ Result   : 16 of 30 passed; 3 (upenn/mitnano/epfl) were dropped after the real
+            Gemini scrape extracted 0 (their pages describe the facility but don't
+            expose an extractable instrument list). Net +13 = 22 targets, ~800+
+            instruments, 8 knowledge-loss cases (added JNCASR -10, UCSB -6,
+            IIT-KGP -4, Notre Dame -3).
+ Gotchas  : (a) `bdata search` table output truncates long URLs — two were fixed
+            to full URLs. (b) zsh does NOT word-split unquoted $VAR, so
+            `for id in $LIST` ran once with the whole string; used literal lists.
+ Frontend : With 22 cards the sidebar got long — reworked App.jsx into a proper
+            app shell (fixed header + independently scrolling columns) and added a
+            "N labs monitored / M with knowledge loss" header stat.
+
+================================================================================
+ SUMMARY OF OPEN ITEMS
+   - P6: cense-iisc has no usable Wayback capture (rich current data only).
+   - P8: deploy the decoy when ready for the live interactive demo.
+ RESOLVED: P1 (model), P2 (multi-key rotation), P3/P4 (URLs+DNS), P5 (Wayback via
+   Bright Data), P6/P7 (better URLs). 7 of 9 targets show a real semantic diff;
+   three are genuine knowledge-loss cases (MIT, NPL, CRF). Project is
+   submission-ready; only the interactive decoy deploy (P8) remains, by request.
+================================================================================

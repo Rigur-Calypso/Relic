@@ -1,0 +1,310 @@
+{
+  "targetId": "snsf-stanford",
+  "name": "Stanford Nano Shared Facilities",
+  "url": "https://snsf.stanford.edu/equipment/",
+  "scrapedAt": "2026-08-20T13:09:13.482Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "EBPG 5200+\n",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Velion S",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Zeiss Gemini 560",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "KJL Evaporator",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Oxford RIE",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Dektak XT-S Profiler",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics F40",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Keyence Laser Confocal",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Nikon Optical",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "EVO Cam II",
+      "specifications": "",
+      "location": "Nanopatterning Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "ML3 Direct Write",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Sputter",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Intlvac Ion Mill",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "KLA Tencor Alpha Step",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Nikon Optical",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "EVO Cam II",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Plasma Asher",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Cool Cure and Open Cure",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Hi-Vac Oven",
+      "specifications": "",
+      "location": "Flexible Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Wire Bonder",
+      "specifications": "",
+      "location": "Nanofabrication",
+      "status": ""
+    },
+    {
+      "name": "3D Printer",
+      "specifications": "",
+      "location": "Nanofabrication",
+      "status": ""
+    },
+    {
+      "name": "TFS Apreo",
+      "specifications": "",
+      "location": "Electron & Ion Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Hitachi TM4000+\n",
+      "specifications": "",
+      "location": "Electron & Ion Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Ion Mill",
+      "specifications": "",
+      "location": "Electron & Ion Microscopy",
+      "status": ""
+    },
+    {
+      "name": "FEI Helios",
+      "specifications": "",
+      "location": "Electron & Ion Microscopy",
+      "status": ""
+    },
+    {
+      "name": "TFS Hydra PFIB",
+      "specifications": "",
+      "location": "Electron & Ion Microscopy",
+      "status": ""
+    },
+    {
+      "name": "FEI Magellan",
+      "specifications": "",
+      "location": "Electron & Ion Microscopy",
+      "status": ""
+    },
+    {
+      "name": "TFS Spectra 300",
+      "specifications": "",
+      "location": "Electron & Ion Microscopy",
+      "status": ""
+    },
+    {
+      "name": "FEI Titan",
+      "specifications": "",
+      "location": "Electron & Ion Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Empyrean",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "X'Pert 2",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Multiwire Laue",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "D8 Venture",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Versa X-ray CT",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "PHI 700",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "VersaProbe 3",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "VersaProbe 4",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Photoelectron Spectrometer",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "NanoSIMS",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Asylum Cypher ES",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Park FX-40",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Park NX-10",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Bruker Icon",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "WITec alpha300 apyron",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Bruker IconIR",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Horiba LabRAM",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Horiba XploRA+\n",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Photothermal mIRage LS",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "EVO Cam II",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    },
+    {
+      "name": "Zygo NewView 9000 White Light Interferometer",
+      "specifications": "",
+      "location": "X-ray & Surface Analysis Facilities",
+      "status": ""
+    }
+  ]
+}

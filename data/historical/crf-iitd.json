@@ -1,0 +1,477 @@
+{
+  "targetId": "crf-iitd",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://crf.iitd.ac.in/All-Facilities-/CRF_Facilities.html",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T13:12:05.813Z",
+  "equipment": [
+    {
+      "name": "3D Printer",
+      "specifications": "",
+      "location": "3D Lab IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Advanced Electrical Characterization (AECL)",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "AFM with Glove Box",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Amersham Typhoon Biomolecular Imager",
+      "specifications": "",
+      "location": "Cell Bio Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Atom Probe Tomography (APT)",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Atomic Absorption Spectrometer",
+      "specifications": "",
+      "location": "DBEB IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "BIO - AFM",
+      "specifications": "",
+      "location": "KSBS IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Brunauer - Emmett - Teller (BET)",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Centrifugal Vacuum Concentrator",
+      "specifications": "",
+      "location": "Cell Bio Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "ChemiDoc XRS+ System",
+      "specifications": "",
+      "location": "Cell Bio Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Chemisorption Catalyst Analyser",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "CHNS / Element Analyzer",
+      "specifications": "",
+      "location": "DBEB IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Circular Dichroism Spectrometer / CD",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Confocal Microscope",
+      "specifications": "",
+      "location": "Cell Bio Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Confocal Microscope",
+      "specifications": "",
+      "location": "KSBS IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Cryo - HR TEM",
+      "specifications": "",
+      "location": "KSBS IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Electron Paramagnetic Resonance / EPR",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Electron Probe Microanalyzer / EPMA",
+      "specifications": "",
+      "location": "CRF Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "ESI-LC- MASS Spectrometry",
+      "specifications": "",
+      "location": "KSBS IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "FACS",
+      "specifications": "",
+      "location": "Cell Biology Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "FACS",
+      "specifications": "",
+      "location": "Shared Lab KSBS IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Fast Protein Liquid Chromatography / FPLC",
+      "specifications": "",
+      "location": "DBEB CRF Lab",
+      "status": ""
+    },
+    {
+      "name": "FE SEM- EDS FEI Quanta 200F",
+      "specifications": "",
+      "location": "Ex Hall IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "FE SEM- EDS JEOL JSM-7800F",
+      "specifications": "",
+      "location": "Block 4 IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "FE SEM- EDX TESCAN",
+      "specifications": "",
+      "location": "Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "FemtoSecond Laser Cutting System / SLCS",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Flow Cytometer",
+      "specifications": "",
+      "location": "KSBS Shared IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Fluorimeter",
+      "specifications": "",
+      "location": "DBEB IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Fourier-Transform Infrared Spectroscopy / FTIR",
+      "specifications": "",
+      "location": "Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "FPLC / Fast protein liquid chromatography",
+      "specifications": "",
+      "location": "Cell Bio Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Gas Chromatography",
+      "specifications": "",
+      "location": "DBEB CRF IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Gas Chromatography Mass Spectrometry",
+      "specifications": "",
+      "location": "Block V CFR IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatograph / HPLC",
+      "specifications": "",
+      "location": "DBEB CRF IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "HR-TEM Tecnai G2 20",
+      "specifications": "",
+      "location": "Block VI IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "HR-TEM 200 KeV JEM-ARM200F",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Infra-red imager / scanner",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma Mass Spectrometry",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Ion Milling System",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Lyophilizer-FD-5",
+      "specifications": "",
+      "location": "Cell Bio Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "MALDI-TOF/TOF MASS Spectrometry",
+      "specifications": "",
+      "location": "KSBS IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Micro - CT Scanner Machine",
+      "specifications": "",
+      "location": "Mech Deptt IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Micro Raman Spectroscope",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Microplate Reader",
+      "specifications": "",
+      "location": "Cell Bio Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Molecular Beam Epitaxy (MBE) System",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "MPMS3 SQUID Magnetometer",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Nanoparticle Tracking Analysis / NTA",
+      "specifications": "",
+      "location": "Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "NMR 400 MHz JEOL (Liquid & Solid Probe)",
+      "specifications": "",
+      "location": "Textile IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "NMR 400 MHz - Bruker (Liquid Probe)",
+      "specifications": "",
+      "location": "Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "NMR 400MHz JEOL (Liquid & Solid Probe)",
+      "specifications": "",
+      "location": "Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "NMR 500 MHz - Bruker (Liquid Probe)",
+      "specifications": "",
+      "location": "Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Physical Property Measurement System / PPMS",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Plasma Enhanced Chemical Vapor Deposition System",
+      "specifications": "",
+      "location": "Delhi",
+      "status": ""
+    },
+    {
+      "name": "Photovoltaic EQE (IPCE)/IQE Facility",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Real-Time PCR Detection system",
+      "specifications": "",
+      "location": "Cell Biology Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "RF & Microwave Measurement",
+      "specifications": "",
+      "location": "CARE IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Rheometer",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscopy / SEM-EDX",
+      "specifications": "",
+      "location": "Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Scanning Tunneling Microscope / STM",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Small Angle X-ray Scattering / SAXS",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Spectroscopic Ellipsometry",
+      "specifications": "",
+      "location": "MBE Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "SQUID Magnetometer",
+      "specifications": "",
+      "location": "Physics IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Surface Plasmon Resonance Spectroscope",
+      "specifications": "",
+      "location": "Cell Bio-Lab Sonipat",
+      "status": ""
+    },
+    {
+      "name": "Thermal Series (DSC, TGA, DMA , TMA)",
+      "specifications": "",
+      "location": "Sonipat campus",
+      "status": ""
+    },
+    {
+      "name": "Time of Flight Secondary Ion Mass Spectrometry / TOF-SIMS",
+      "specifications": "",
+      "location": "Sonipat",
+      "status": ""
+    },
+    {
+      "name": "Time Resolved and Steady State PL",
+      "specifications": "",
+      "location": "Chemistry IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscope (TEM - CRF)",
+      "specifications": "",
+      "location": "Ex-Hall IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscope (TEM - DMSE)",
+      "specifications": "",
+      "location": "Ex-Hall IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Tribotester Multi-Functional",
+      "specifications": "",
+      "location": "Block-III IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Ultracentrifuge",
+      "specifications": "",
+      "location": "Cell Biology Lab Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Ultra-Microtome",
+      "specifications": "",
+      "location": "SEM Lab Block V IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "Universal Testing Machine / UTM",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "UV-VIS-NIR Spectrometer",
+      "specifications": "",
+      "location": "IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "UV-VIS-NIR Spectrometer",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "Wire Cut EDM",
+      "specifications": "",
+      "location": "CW IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffraction / XRD",
+      "specifications": "",
+      "location": "Textile IIT Delhi",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffraction / XRD",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy / XPS",
+      "specifications": "",
+      "location": "Sonipat Campus",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "targetId": "ucsb-nano",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://wiki.nanofab.ucsb.edu/wiki/Tool_List",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T14:12:33.957Z",
+  "equipment": [
+    {
+      "name": "Auto. Coat/Develop (S-Cubed Flexi)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Contact Aligners (SUSS MJB-3)",
+      "specifications": "Optical Exposure",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Contact Aligner (SUSS MA-6)",
+      "specifications": "Optical Exposure",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DUV Flood Expose",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-Beam Lithography System (JEOL JBX-6300FS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-Beam Lithography (FEI Sirion Nabity v9)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Focused Ion-Beam Lithography (Raith Velion)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Maskless Aligner (Heidelberg MLA150)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Holographic Litho/PL Setup (Custom)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Stepper 1 (GCA 6300)",
+      "specifications": "i-line",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Stepper 2 (AutoStep 200)",
+      "specifications": "i-line",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Stepper 3 (ASML DUV)",
+      "specifications": "Deep-UV",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ovens 1, 2 & 3 (Labline)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oven 4 (Fisher)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oven 5 (Labline)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Temp Oven (Blue M)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "POLOS spinners",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Spin/Rinse/Dryer (SemiTool)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-Beam 1 (Sharon)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-Beam 2 (Custom)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-Beam 3 (Temescal)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-Beam 4 (CHA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-Beam 5 (Plasys)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermal Evap 1",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermal Evap 2 (Solder)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Sputter 3 (AJA ATC 2000-F)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Sputter 4 (AJA ATC 2200-V)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Sputter 5 (AJA ATC 2200-V)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ion Beam Deposition (Veeco NEXUS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SEM Sample Coater (Hummer)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PECVD 1 (PlasmaTherm 790)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PECVD 2 (Advanced Vacuum)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ICP-PECVD (Unaxis VLR)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Molecular Vapor Deposition",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atomic Layer Deposition (Oxford FlexAL)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RIE 2 (MRC)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RIE 3 (MRC)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RIE 5 (PlasmaTherm)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma Clean (YES EcoClean)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma Activation (EVG 810)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ashers (Technics PEII)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Laser Etch Monitoring",
+      "specifications": "Endpoint Detection",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Residual Gas Analyzer (RGA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ICP Etch 1 (Panasonic E626I)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ICP Etch 2 (Panasonic E640)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ICP-Etch (Unaxis VLR)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford ICP Etcher (PlasmaPro 100 Cobra)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm SLR: Fluorine ICP (PlasmaTherm/SLR Fluorine Etcher)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm DSE-iii (PlasmaTherm/Deep Silicon Etcher)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CAIBE (Oxford Ion Mill)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV Ozone Reactor",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "XeF2 Etch (Xetch)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vapor HF Etch",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Critical Point Dryer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Chemical-Mechanical Polisher (Logitech)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Mechanical Polisher (Allied)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rapid Thermal Processor (AET RX6)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rapid Thermal Processor (SSI Solaris 150)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tube Furnace (Tystar 8300)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tube Furnace Wafer Bonding (Thermco)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tube Furnace AlGaAs Oxidation (Lindberg)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Wafer Bonder (SUSS SB6-8E)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Wafer Bonder/Wax Mounting (Logitech WBS2)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oven 4 (Thermo-Fisher HeraTherm)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Dicing Saw (ADT)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Manual Wafer Cleaver (PELCO Flipscribe)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Automated Wafer Cleaver (Loomis LSD-155LT)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vacuum Sealer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Flip-Chip Bonder (Finetech)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Optical Microscopes",
+      "specifications": "General Use",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fluorescence Microscope (Olympus MX51)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Deep UV Optical Microscope (Olympus)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Laser Scanning Confocal M-scope (Olympus LEXT)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Digital Microscope #7 (Olympus DSX1000)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SEM 1 (JEOL IT800SHL)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SEM 2 (JEOL IT800SHL)",
+      "specifications": "w/ EDAX",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Step Profilometer (KLA Tencor P-7)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Step Profilometer (DektakXT)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope (Bruker ICON)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ellipsometer (Woollam)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Optical Film Thickness (Microscope-Mounted Filmetrics F-40-UV)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Optical Film Thickness & Wafer-Mapping (Filmetrics F50)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Reflection/Transmission Spectra & Optical Film Thickness (Filmetrics F10-RT-UVX)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Resistivity Mapper (CDE RESMAP)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Probe Station & Source/Meter Units",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Photo-emission & Thermal IR Microscope (QFI)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Film Stress (Tencor Flexus)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Particle Counts (KLA/Tencor Surfscan)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Photoluminescence PL Setup (Custom)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Goniometer (Ramé-Hart A-100)",
+      "specifications": "Surface hydrophobicity",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "targetId": "npl-csir",
+  "analyzedAt": "2026-08-20T13:18:31.711Z",
+  "vitalityScore": 66.7,
+  "summary": "Five calibration and testing facilities/setups present in the 2024 historical snapshot were removed from the current equipment listing, resulting in notable knowledge loss. Existing items received minor specification refinements.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Testing facility for IR Clinical Thermometers",
+      "severity": "critical",
+      "reason": "Entire testing facility present historically is no longer listed."
+    },
+    {
+      "name": "Setup for calibration of clinical thermometers (mercury and digital)",
+      "severity": "critical",
+      "reason": "Entire setup delivered and listed historically is missing from current page."
+    },
+    {
+      "name": "Set-up for testing of thermal imagers",
+      "severity": "critical",
+      "reason": "Entire setup under development historically is absent from current page."
+    },
+    {
+      "name": "Ultrasonic Energy Calibration Setup",
+      "severity": "critical",
+      "reason": "Entire calibration setup listed historically is missing from current page."
+    },
+    {
+      "name": "Calibration/testing system for non-invasive blood pressure monitoring system",
+      "severity": "critical",
+      "reason": "Entire testing system listed historically is absent from current page."
+    }
+  ],
+  "added": [],
+  "modified": [
+    {
+      "name": "Stylus based surface texture parameters measuring instrument",
+      "change": "Location updated to include CSIR-NPL explicit suffix; listed measured parameters removed from specification text."
+    },
+    {
+      "name": "C-type Goniophotometer System",
+      "change": "Status updated from Established to Installed."
+    },
+    {
+      "name": "Gas Flow Calibration Facility",
+      "change": "Specific component details (PT-100 sensors, digital thermometer, barometric pressure monitor) omitted from description."
+    },
+    {
+      "name": "Primary Water Flow Calibration Facility",
+      "change": "Detailed line size breakdowns omitted from specifications."
+    }
+  ]
+}

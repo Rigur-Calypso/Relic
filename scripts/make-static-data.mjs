@@ -1,0 +1,25 @@
+// Bakes the pipeline's JSON output into the frontend's public/ folder so the
+// dashboard works as a pure static site (no Express backend) when deployed.
+// Run automatically by the Vercel build, and locally via `npm run static-data`.
+import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+import { dirname, resolve } from 'node:path';
+
+const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
+const OUT = resolve(ROOT, 'src', 'frontend', 'public', 'data');
+
+await mkdir(OUT, { recursive: true });
+
+// targets.json → public/data/targets.json
+const targets = JSON.parse(await readFile(resolve(ROOT, 'targets.json'), 'utf8'));
+await writeFile(resolve(OUT, 'targets.json'), JSON.stringify(targets, null, 2));
+
+// all analyses → public/data/analysis.json (array, same shape as GET /api/analysis)
+const dir = resolve(ROOT, 'data', 'analysis');
+const files = (await readdir(dir)).filter(f => f.endsWith('.json'));
+const analyses = await Promise.all(
+  files.map(async f => JSON.parse(await readFile(resolve(dir, f), 'utf8'))),
+);
+await writeFile(resolve(OUT, 'analysis.json'), JSON.stringify(analyses, null, 2));
+
+console.log(`[static-data] wrote ${targets.length} targets + ${analyses.length} analyses to src/frontend/public/data/`);

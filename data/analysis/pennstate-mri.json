@@ -1,0 +1,19 @@
+{
+  "targetId": "pennstate-mri",
+  "analyzedAt": "2026-08-20T14:20:42.712Z",
+  "vitalityScore": 100,
+  "summary": "All equipment items from the historical snapshot remain present with minor updates to item titles and specification text formatting. No knowledge loss occurred.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Rigaku Micro-Max 007 rotating anode X-ray generator",
+      "change": "Title updated to include '(copper)' explicitly."
+    },
+    {
+      "name": "Leica MZ7.5 stereomicroscope",
+      "change": "Title updated to include '10-80X' magnification detail."
+    }
+  ]
+}

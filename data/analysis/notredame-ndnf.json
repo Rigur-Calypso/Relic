@@ -1,0 +1,39 @@
+{
+  "targetId": "notredame-ndnf",
+  "analyzedAt": "2026-08-20T14:21:25.943Z",
+  "vitalityScore": 88,
+  "summary": "Three tools (Denton Evaporator, Dual-Chamber Sputtering System, and Teledyne TAC Probe) were removed from the lab equipment list. Specifications were updated for Angstrom Evaporation and Sputter systems, and one new tool (Veeco Fiji G2 ALD) was added.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Denton Evaporator",
+      "severity": "critical",
+      "reason": "Tool is no longer present in the lab equipment list."
+    },
+    {
+      "name": "Dual-Chamber Sputtering System",
+      "severity": "critical",
+      "reason": "Tool is no longer listed on the facility page."
+    },
+    {
+      "name": "Teledyne TAC Probe",
+      "severity": "critical",
+      "reason": "Tool is no longer listed in current equipment roster."
+    }
+  ],
+  "added": [
+    {
+      "name": "Veeco Fiji G2 ALD"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Angstrom Evaporation System",
+      "change": "Specifications updated with detailed system capabilities and installation status removed."
+    },
+    {
+      "name": "Angstrom Sputter System",
+      "change": "Specifications expanded with detailed magnetron and loadlock info, installation status cleared."
+    }
+  ]
+}

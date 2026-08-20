@@ -1,0 +1,273 @@
+{
+  "targetId": "iitkgp-crf",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://crf.iitkgp.ac.in/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T14:15:50.480Z",
+  "equipment": [
+    {
+      "name": "Micro and Nano Scratch Tester",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Universal Testing Machine (UTM)",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Vickers Micro-Hardness Tester",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High Resolution Transmission Electron Microscope (HR TEM)",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "2D-X-Ray Diffractometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectrometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Analytical Ultracentrifuge",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "ZEISS Scanning Electron Microscope",
+      "specifications": "EVO 60",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Vibrating Sample Magnetometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Thermal Analysis Instrument",
+      "specifications": "DSC, DTA, TGA, TMA",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "TEM Sample Preparation Equipment",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "SQUID Magnetometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-ray Diffractometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Small Angle X-ray Scattering System",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Raman Spectrometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Pulsed Electron Spin Paramagnetic Resonance Spectrometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Optical Microscope and Mechanical Testing System",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Nano-Indentation & Nano-Tribology System",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "X-Ray Micro-CT (Non-Destructive Imaging)",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "INSTRON Mechanical Testing System",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High Resolution-XRD",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Micro Raman Spectrometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Hall Effect Measurement System",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Fourier Transform-Infrared Spectrometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Cross/Dual Beam FIB-FEG Microscope",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Gun-Scanning Electron Microscope",
+      "specifications": "Zeiss Supra 40",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Gun-Scanning Electron Microscope",
+      "specifications": "Merlin",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "FEG-High Resolution-Cryo-Analytical TEM",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Scanning Auger Nanoprobe",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Analytical Transmission Electron Microscope",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "3D - Optical Surface Profilometer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "X-ray Protein Crystallography System",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Real Time PCR System",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance Spectrometer",
+      "specifications": "600 MHz",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "MALDI-ToF MS (Matrix Assisted Laser Desorption Ionization)",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Liquid Chromatography - MS / MS",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Isothermal Titration Calorimeter",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High Resolution - Mass Spectrometer (HRMS)",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "High Pressure Liquid Chromatograph (HPLC)",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Fluorescence Activated Cell Sorter (FACS)",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "DNA Sequencer",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "Circular Dichroism Spectropolarimeter",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    },
+    {
+      "name": "2D - GEL Electrophoresis System",
+      "specifications": "",
+      "location": "CRF IIT Kharagpur",
+      "status": ""
+    }
+  ]
+}
