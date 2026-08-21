@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "osaka-nano",
+    "name": "Osaka University",
+    "url": "https://www.sanken.osaka-u.ac.jp/en/organization/nnc/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "osaka-nano",
+    "name": "Osaka University",
+    "url": "https://www.sanken.osaka-u.ac.jp/en/organization/nnc/",
+    "scrapedAt": "2026-08-21T05:47:27.286Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "osaka-nano",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-21T05:47:38.246Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "osaka-nano",
+    "analyzedAt": "2026-08-21T05:47:40.342Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "amrita-cif",
+    "name": "Amrita University",
+    "url": "https://www.amrita.edu/center/major-analytical-instrumentati",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "amrita-cif",
+    "name": "Amrita University",
+    "url": "https://www.amrita.edu/center/major-analytical-instrumentati",
+    "scrapedAt": "2026-08-20T20:17:50.137Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "amrita-cif",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:18:01.205Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "amrita-cif",
+    "analyzedAt": "2026-08-20T20:18:03.357Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

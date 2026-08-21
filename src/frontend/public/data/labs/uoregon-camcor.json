@@ -1,0 +1,250 @@
+{
+  "target": {
+    "id": "uoregon-camcor",
+    "name": "Oregon CAMCOR",
+    "url": "https://camcor.uoregon.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "uoregon-camcor",
+    "name": "Oregon CAMCOR",
+    "url": "https://camcor.uoregon.edu/",
+    "scrapedAt": "2026-08-20T18:22:27.203Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Titan TEM",
+        "specifications": "High-resolution electron microscopy and microanalysis for studying features ranging in length scale from centimeter to subatomic, morphology, and elemental composition.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "SEM",
+        "specifications": "High-resolution electron microscopy and microanalysis for studying features, morphology, and elemental composition.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Electron Microprobe",
+        "specifications": "Microanalysis and elemental composition.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Multi-Ion Source Plasma-FIB",
+        "specifications": "Site-specific material removal, deposition, and imaging for micro and nanofabrication, TEM sample prep, cross-sectional investigation, and elemental composition.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "FEI Helios 600i FIB-SEM",
+        "specifications": "Site-specific material removal, deposition, and imaging for micro and nanofabrication, TEM sample prep, cross-sectional investigation, and elemental composition.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "XPS",
+        "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "ToF-SIMS",
+        "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Auger",
+        "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "AFM",
+        "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "FTIR Spectrometer",
+        "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Raman Spectrometer",
+        "specifications": "Surface Analysis: Characterization of the surface and near-surface chemical composition of solid materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Liquid and Solid-State NMR",
+        "specifications": "Characterizing molecular constituents, as well as thermal and mechanical properties of materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "TGA",
+        "specifications": "Thermal and mechanical properties of materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "DSC",
+        "specifications": "Thermal and mechanical properties of materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "Rheometry for characterizing thermal and mechanical properties of materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Small Angle X-Ray Equipment",
+        "specifications": "Determining the crystalline nature of thin-film, powder, and single crystal materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "X-Ray Fluorescence Equipment",
+        "specifications": "Determining the crystalline nature of thin-film, powder, and single crystal materials.",
+        "location": "Lorry I. Lokey Laboratories",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "uoregon-camcor",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://camcor.uoregon.edu/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:23:05.856Z",
+    "equipment": [
+      {
+        "name": "Helios Hydra Multi-Ion Source Plasma FIB",
+        "specifications": "Multi-ion source plasma FIB for site-specific material removal, deposition, imaging, micro and nanofabrication, TEM sample prep, cross-sectional investigation, and elemental composition",
+        "location": "Focused Ion-Beam and Scanning Electron Microscopy Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Helios FIB-SEM",
+        "specifications": "Focused ion-beam and scanning electron microscopy for site-specific material removal, deposition, and imaging",
+        "location": "Focused Ion-Beam and Scanning Electron Microscopy Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Titan TEM",
+        "specifications": "High-resolution TEM for atomic-resolution imaging and nanoscale composition analyses, studying features from centimeter to subatomic, morphology, & elemental composition",
+        "location": "High-Resolution Analytical TEM Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Electron Microprobe (EPMA)",
+        "specifications": "Electron Probe Micro Analysis for sample preparation and materials analysis",
+        "location": "MicroAnalytical Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Environmental Scanning Electron Microscope (ESEM)",
+        "specifications": "Environmental scanning electron microscopy for sample preparation and materials analysis",
+        "location": "MicroAnalytical Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "XPS",
+        "specifications": "X-ray photoelectron spectroscopy for surface and near-surface chemical composition analysis of solid materials",
+        "location": "Surface Analytical Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "ToF-SIMS",
+        "specifications": "Time-of-Flight Secondary Ion Mass Spectrometry for surface and near-surface chemical composition analysis",
+        "location": "Surface Analytical Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Auger Spectrometer",
+        "specifications": "Auger electron spectroscopy for surface and near-surface chemical composition analysis",
+        "location": "Surface Analytical Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "AFM",
+        "specifications": "Atomic force microscopy for imaging surface topography and chemistry",
+        "location": "Surface Analytical Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "FTIR Spectrometer",
+        "specifications": "Fourier-transform infrared spectroscopy for surface composition analysis",
+        "location": "Surface Analytical Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Raman Spectrometer",
+        "specifications": "Raman spectroscopy for surface composition analysis",
+        "location": "Surface Analytical Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Liquid and Solid-State NMR Spectrometers",
+        "specifications": "Nuclear magnetic resonance capabilities for routine and advanced analysis of solution and solid state samples",
+        "location": "NMR Spectroscopy Facility, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "TGA",
+        "specifications": "Thermogravimetric analysis for polymer characterization and thermal properties",
+        "location": "Polymer Characterization and Thermal Analysis Laboratory, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "DSC",
+        "specifications": "Differential scanning calorimetry for thermal properties of materials",
+        "location": "Polymer Characterization and Thermal Analysis Laboratory, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "Rheometry for processing behavior and mechanical properties of polymeric materials and composites",
+        "location": "Polymer Characterization and Thermal Analysis Laboratory, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "Small Angle X-Ray Equipment",
+        "specifications": "Small angle X-ray analysis for determining crystalline nature and atomic structure",
+        "location": "X-Ray Diffraction Lab, Lorry I. Lokey Laboratories",
+        "status": ""
+      },
+      {
+        "name": "X-Ray Fluorescence Equipment",
+        "specifications": "X-ray fluorescence for elemental and material analysis",
+        "location": "X-Ray Diffraction Lab, Lorry I. Lokey Laboratories",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "uoregon-camcor",
+    "analyzedAt": "2026-08-20T18:23:21.421Z",
+    "vitalityScore": 98,
+    "summary": "All 17 historical instruments remain present in the current facility list, with minor naming updates and simplified specification descriptions. No equipment was removed.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Environmental Scanning Electron Microscope (ESEM)",
+        "change": "Renamed to 'SEM' with generalized specification description."
+      },
+      {
+        "name": "Helios FIB-SEM",
+        "change": "Updated to specify model name 'FEI Helios 600i FIB-SEM'."
+      }
+    ]
+  }
+}

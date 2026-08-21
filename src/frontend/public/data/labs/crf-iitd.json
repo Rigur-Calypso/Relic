@@ -1,0 +1,1094 @@
+{
+  "target": {
+    "id": "crf-iitd",
+    "name": "IIT Delhi Central Research Facility",
+    "url": "https://crf.iitd.ac.in/All-Facilities-/CRF_Facilities.html",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "crf-iitd",
+    "name": "IIT Delhi Central Research Facility",
+    "url": "https://crf.iitd.ac.in/All-Facilities-/CRF_Facilities.html",
+    "scrapedAt": "2026-08-20T13:03:02.014Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "3D Printer (3D Lab IIT Delhi)",
+        "specifications": "State-of-the-art 3D printing facility for rapid prototyping of complex structures. Supports a range of polymers and composite materials.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "AFM with Glove Box (Sonipat Campus)",
+        "specifications": "Atomic Force Microscope equipped with a glove box environment for air-sensitive sample characterization at the nanoscale.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Amersham Typhoon Biomolecular Imager (Cell Bio Lab Sonipat)",
+        "specifications": "High-resolution multi-mode imager for fluorescence, phosphorescence and storage phosphor imaging of gels, blots, and microarrays.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Atom Probe Tomography (APT)",
+        "specifications": "3D atomic-scale compositional mapping technique providing site-specific elemental analysis and spatial distribution of atoms in materials.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Atomic Absorption Spectrometer (DBEB)",
+        "specifications": "Analytical technique for determining elemental concentrations in solution samples using atomic absorption spectroscopy.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "specifications": "High-resolution nanoscale imaging and force measurement tool for surface topography, mechanical properties, and electrical characterization.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Blue Laser System with Welding Head (Sonipat Campus)",
+        "specifications": "High-power blue diode laser system with precision welding head for laser material processing, welding, and surface treatment applications.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Brunauer-Emmett-Teller (BET) (Sonipat Campus)",
+        "specifications": "Surface area and pore size distribution analysis of powder and porous materials using multi-point BET gas adsorption method.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Centrifugal Vacuum Concentrator (Cell Bio Lab Sonipat)",
+        "specifications": "Used for rapid concentration of biological samples including nucleotides, proteins, and other solution-based samples under vacuum.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "ChemiDoc XRS+ System (Cell Bio Lab Sonipat)",
+        "specifications": "Gel documentation system with multi-application imaging for ethidium bromide, fluorescent dyes, chemiluminescence, and colorimetric stains.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Chemisorption Catalyst Analyser (Sonipat Campus)",
+        "specifications": "Automated chemisorption analyzer for characterizing heterogeneous catalysts by measuring surface metal area, dispersion, and active site density.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "CHNS / Element Analyzer (DBEB)",
+        "specifications": "Simultaneous determination of carbon, hydrogen, nitrogen, and sulfur content in organic and inorganic samples.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Circular Dichroism Spectrometer / CD (Sonipat Campus)",
+        "specifications": "Optical spectroscopy technique for studying the chiral properties, secondary structure of proteins, and conformational changes in biomolecules.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "CNC Wire-Cut EDM (IIT Delhi)",
+        "specifications": "High-precision CNC wire-cut electrical discharge machining for complex shape cutting of conductive materials with tight tolerances.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope Facility (Cell Bio Lab Sonipat)",
+        "specifications": "Laser scanning confocal microscopy for high-resolution 3D fluorescence imaging of biological specimens, live cells, and tissues.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope Facility (KSBS IIT Delhi)",
+        "specifications": "Advanced confocal laser scanning microscope for fluorescence imaging, FRET, FRAP, and live cell imaging at high resolution.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Electron Paramagnetic Resonance / EPR (Sonipat Campus)",
+        "specifications": "EPR spectroscopy for detecting and characterizing paramagnetic species including free radicals, transition metal ions in samples.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Electron Probe Microanalyzer / EPMA (CRF Block V)",
+        "specifications": "Wavelength-dispersive X-ray spectrometry for quantitative elemental analysis with high spatial resolution in bulk solid samples.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "FACS (Cell Biology Lab Sonipat Campus)",
+        "specifications": "Fluorescence-activated cell sorting for multi-parameter analysis and physical sorting of cells based on fluorescent markers.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "FACS (Shared Lab KSBS IIT Delhi)",
+        "specifications": "Flow cytometry and cell sorting system for quantitative analysis of cell populations based on fluorescent labeling and cell size.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Fast Protein Liquid Chromatography / FPLC (DBEB CRF Lab)",
+        "specifications": "Automated liquid chromatography system for high-resolution protein purification including ion exchange, gel filtration, and affinity chromatography.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "FE SEM-EDS FEI Quanta 200F (Ex Hall IIT Delhi)",
+        "specifications": "Field emission scanning electron microscope with energy dispersive X-ray spectroscopy for high-resolution surface imaging and elemental analysis.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "FE SEM-EDS JEOL JSM-7800F (Block 4 IIT Delhi)",
+        "specifications": "Ultra-high resolution field emission SEM with EDS for detailed morphological and compositional analysis of nanomaterials and surfaces.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "FE SEM-EDX TESCAN (Block V IIT Delhi)",
+        "specifications": "High-performance FE-SEM with EDX for nanoscale surface characterization and elemental mapping of various solid samples.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "FemtoSecond Laser Cutting System / SLCS (IIT Delhi)",
+        "specifications": "Ultrafast femtosecond laser system for precision micro-machining, cutting, and surface texturing with minimal heat-affected zones.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "FESEM with 5 PFIB Helios (Sonipat Campus)",
+        "specifications": "Dual-beam FESEM/FIB system for cross-section preparation, 3D tomography, TEM lamella preparation, and high-resolution imaging.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Flex SEM 1000 II Hitachi (Ex Hall IIT Delhi)",
+        "specifications": "Flexible scanning electron microscope for imaging of large and irregularly shaped samples with a variable pressure chamber.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Flow Cytometer Facility (KSBS Shared IIT Delhi)",
+        "specifications": "Advanced flow cytometer for multi-color immunophenotyping, cell cycle analysis, apoptosis detection, and functional assays.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Fluorimeter (DBEB IIT Delhi)",
+        "specifications": "Spectrofluorimeter for steady-state fluorescence measurements including excitation-emission spectra, quantum yields, and anisotropy.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Fourier-Transform Infrared Spectroscopy / FTIR (Block V IIT Delhi)",
+        "specifications": "FTIR spectroscopy for identification and structural characterization of organic and inorganic compounds, polymers, and biomaterials.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "FPLC / Fast Protein Liquid Chromatography (Cell Bio Lab Sonipat)",
+        "specifications": "Protein purification system using liquid chromatography for separating and purifying proteins from complex biological mixtures.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography (DBEB CRF IIT Delhi)",
+        "specifications": "Gas chromatography for separation and quantitative analysis of volatile and semi-volatile organic compounds in various matrices.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography Mass Spectrometry (Block V CFR IIT Delhi)",
+        "specifications": "Combined GC-MS system for simultaneous separation and identification of complex organic mixture components with high sensitivity.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "High Performance Liquid Chromatograph / HPLC (DBEB CRF IIT Delhi)",
+        "specifications": "HPLC system for separation and quantification of compounds in complex mixtures with UV, fluorescence, and refractive index detection.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "HR-TEM 200 KeV JEM-ARM200F (Sonipat Campus)",
+        "specifications": "Aberration-corrected high-resolution TEM/STEM for atomic-scale imaging of crystal structures, defects, and interfaces.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "HR-TEM Talos F200x G2(S) (Sonipat Campus)",
+        "specifications": "High-resolution scanning/transmission electron microscope with energy-dispersive X-ray spectroscopy for nanoscale elemental mapping.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma Mass Spectrometry (ICP-MS)",
+        "specifications": "Ultra-trace elemental analysis technique for measuring ppb-level concentrations of elements in liquid and digested solid samples.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Infra-red Imager / Scanner (IIT Delhi)",
+        "specifications": "Thermal infrared imaging system for non-destructive evaluation of material defects, heat dissipation, and thermal analysis.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Ion Milling System (Sonipat Campus)",
+        "specifications": "Precision ion beam milling for cross-section preparation and surface cleaning of specimens for electron microscopy analysis.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Laser Cutting (3D Lab IIT Delhi)",
+        "specifications": "High-precision laser cutting system for processing various materials including plastics, composites, and thin metals for prototyping.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Lyophilizer-FD-5 (Cell Bio Lab Sonipat Campus)",
+        "specifications": "Freeze-drying system for long-term preservation of biological samples, pharmaceuticals, and sensitive materials by removing water via sublimation.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Micro Raman Spectroscope (IIT Delhi)",
+        "specifications": "Confocal micro-Raman spectroscopy for molecular fingerprinting, phase identification, and strain mapping with micron-level resolution.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Micro-CT Scanner Machine (Mech Dept IIT Delhi)",
+        "specifications": "Non-destructive 3D X-ray tomography for internal structure analysis of materials, biological specimens, and components.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Microplate Reader (Cell Bio Lab Sonipat Campus)",
+        "specifications": "Multi-mode microplate reader for absorbance, fluorescence intensity, fluorescence polarization, luminescence, and time-resolved measurements.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Molecular Beam Epitaxy (MBE) System (Sonipat Campus)",
+        "specifications": "Ultra-high vacuum thin film deposition system for growing high-purity epitaxial semiconductor films with atomic-layer precision.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "MPMS3 SQUID Magnetometer (IIT Delhi)",
+        "specifications": "Superconducting quantum interference device magnetometer for ultra-sensitive DC and AC magnetic measurements across wide temperature and field ranges.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Nanoparticle Tracking Analysis / NTA (Block V IIT Delhi)",
+        "specifications": "Real-time particle-by-particle tracking of nanoparticles in liquid suspension for size distribution and concentration analysis.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "NMR 400 MHz Bruker (Liquid Probe) Block V IIT Delhi",
+        "specifications": "High-field NMR spectrometer for structural characterization, quantitative analysis, and reaction monitoring of organic compounds.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "NMR 400 MHz JEOL (Liquid & Solid Probe) Textile IIT Delhi",
+        "specifications": "400 MHz NMR spectrometer for structural elucidation of organic molecules in liquid and solid state with multinuclear capabilities.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "NMR 400MHz JEOL (Liquid & Solid Probe) Block V IIT Delhi",
+        "specifications": "JEOL 400 MHz NMR with both liquid and solid-state probes for comprehensive molecular structure determination.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "NMR 500 MHz Bruker (Liquid Probe) Block V IIT Delhi",
+        "specifications": "500 MHz high-field NMR spectrometer providing enhanced sensitivity and resolution for complex molecular structure determination.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Photovoltaic EQE (IPCE)/IQE Facility (Sonipat Campus)",
+        "specifications": "System for measuring external and internal quantum efficiency of photovoltaic devices and solar cells across the solar spectrum.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Physical Property Measurement System / PPMS (Hauz Khas Campus)",
+        "specifications": "Multi-functional system for measuring magnetic, electrical, and thermal properties of materials as a function of temperature and magnetic field.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Physical Property Measurement System / PPMS (Sonipat Campus)",
+        "specifications": "Advanced measurement system for comprehensive physical property characterization including heat capacity, resistivity, Hall effect, and magnetometry.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Plasma Enhanced Chemical Vapor Deposition System (Delhi)",
+        "specifications": "PECVD system for depositing thin films of dielectrics, semiconductors, and metals at low substrate temperatures.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Precision Polishing Machine Facility (IIT Delhi)",
+        "specifications": "Automated lapping and polishing system for preparation of metallographic and geological specimens for microscopy and analysis.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Real-Time PCR Detection System (Cell Biology Lab Sonipat)",
+        "specifications": "Quantitative real-time PCR system for gene expression analysis, pathogen detection, and nucleic acid quantification.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "RF & Microwave Measurement (CARE IIT Delhi)",
+        "specifications": "Comprehensive RF and microwave measurement setup for characterizing antenna, filter, amplifier, and other microwave circuit performance.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Rheometer (Sonipat Campus)",
+        "specifications": "Advanced rheometer for measuring viscoelastic properties, flow behavior, and viscosity of complex fluids, polymers, and soft materials.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscopy / SEM-EDX (Block V IIT Delhi)",
+        "specifications": "High-resolution SEM with energy dispersive X-ray spectroscopy for comprehensive surface morphology and elemental composition analysis.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Scanning Tunneling Microscope / STM (Sonipat Campus)",
+        "specifications": "Atomic-resolution surface imaging and spectroscopy instrument for studying electronic structure at the atomic scale under UHV conditions.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Single Crystal XRD Facility (IIT Delhi)",
+        "specifications": "Single crystal X-ray diffractometer for complete 3D molecular structure determination of crystalline compounds.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Small Angle X-ray Scattering / SAXS (Sonipat Campus)",
+        "specifications": "SAXS facility for characterizing nanoscale structures, particle size, shape, and electron density in materials and biological samples.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Spectroscopic Ellipsometry (MBE Lab Sonipat Campus)",
+        "specifications": "Optical characterization technique for measuring thin film thickness, optical constants, and material properties of single and multi-layer films.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Surface Plasmon Resonance Spectroscope (Cell Bio-Lab Sonipat)",
+        "specifications": "Label-free, real-time biomolecular interaction analysis for measuring binding kinetics and affinity between proteins, DNA, and drugs.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Thermal Desorption-Gas Chromatography (TD-GC-MS) IIT Delhi",
+        "specifications": "TD-GC-MS for trace level analysis of volatile organic compounds in air samples, materials, and environmental matrices.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Thermal Series (DSC, TGA, DMA, TMA) Sonipat Campus",
+        "specifications": "Suite of thermal analysis instruments including DSC, TGA, DMA, and TMA for characterizing thermal properties of materials.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Time of Flight Secondary Ion Mass Spectrometry / TOF-SIMS (Sonipat)",
+        "specifications": "TOF-SIMS for ultra-surface-sensitive elemental and molecular analysis, chemical imaging, and depth profiling with ppm sensitivity.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Time Resolved and Steady State PL (Chemistry IIT Delhi)",
+        "specifications": "Comprehensive photoluminescence spectroscopy system for measuring time-resolved and steady-state emission properties of materials.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Transcranial Magnetic Stimulator Facility (IIT Delhi)",
+        "specifications": "Non-invasive brain stimulation facility using TMS for neuroscience research, motor cortex mapping, and neural excitability studies.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope (TEM-CRF) Ex-Hall IIT Delhi",
+        "specifications": "TEM for high-resolution imaging of internal microstructures, crystal defects, and diffraction analysis of thin specimens.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope (TEM-DMSE) Ex-Hall IIT Delhi",
+        "specifications": "High-resolution TEM for atomic-scale structural analysis of materials science specimens including alloys, ceramics, and thin films.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Tribotester Multi-Functional Facility (Block-III IIT Delhi)",
+        "specifications": "Multi-functional tribotester for measuring friction, wear, and lubrication properties of materials under various contact conditions.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Ultracentrifuge Facility (Cell Biology Lab Sonipat Campus)",
+        "specifications": "High-speed ultracentrifuge for separating subcellular components, macromolecules, viruses, and nanoparticles by density gradient centrifugation.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Ultramicrotome Facility (SEM Lab Block V IIT Delhi)",
+        "specifications": "Ultra-precision sectioning instrument for preparing ultra-thin sections (50-100 nm) of biological and polymer samples for TEM analysis.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "Universal Testing Machine / UTM (Sonipat Campus)",
+        "specifications": "Multi-purpose mechanical testing machine for tensile, compression, flexural, and shear testing of materials at various load capacities.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS-NIR Spectrometer (IIT Delhi)",
+        "specifications": "UV-Visible-Near Infrared spectrophotometer for optical absorbance, transmittance, and reflectance measurements of materials.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS-NIR Spectrometer (Sonipat Campus)",
+        "specifications": "Broadband UV-VIS-NIR spectrophotometer for optical characterization of thin films, nanoparticles, and solution-phase samples.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "Wire Cut EDM (CW IIT Delhi)",
+        "specifications": "CNC wire-cut EDM machine for precise cutting of conductive materials in complex shapes using electrical discharge erosion.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffraction / XRD (Sonipat Campus)",
+        "specifications": "Advanced XRD system for crystal structure analysis, phase identification, residual stress measurement, and texture analysis.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffraction / XRD (Textile IIT Delhi)",
+        "specifications": "X-ray powder diffractometer for phase identification, crystal structure determination, and quantitative phase analysis of crystalline materials.",
+        "location": "IIT Delhi (Hauz Khas)",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy / XPS (Sonipat Campus)",
+        "specifications": "Surface-sensitive XPS for elemental composition, chemical state, and electronic structure analysis of the top 1-10 nm of solid surfaces.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy / XPS AXIS Supra+ (Sonipat Campus)",
+        "specifications": "High-performance AXIS Supra+ XPS system for detailed surface chemical analysis with superior sensitivity and spatial resolution.",
+        "location": "IIT Delhi (Sonipat Campus)",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "crf-iitd",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://crf.iitd.ac.in/All-Facilities-/CRF_Facilities.html",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T13:12:05.813Z",
+    "equipment": [
+      {
+        "name": "3D Printer",
+        "specifications": "",
+        "location": "3D Lab IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Advanced Electrical Characterization (AECL)",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "AFM with Glove Box",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Amersham Typhoon Biomolecular Imager",
+        "specifications": "",
+        "location": "Cell Bio Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Atom Probe Tomography (APT)",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Atomic Absorption Spectrometer",
+        "specifications": "",
+        "location": "DBEB IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "BIO - AFM",
+        "specifications": "",
+        "location": "KSBS IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Brunauer - Emmett - Teller (BET)",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Centrifugal Vacuum Concentrator",
+        "specifications": "",
+        "location": "Cell Bio Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "ChemiDoc XRS+ System",
+        "specifications": "",
+        "location": "Cell Bio Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Chemisorption Catalyst Analyser",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "CHNS / Element Analyzer",
+        "specifications": "",
+        "location": "DBEB IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Circular Dichroism Spectrometer / CD",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "Cell Bio Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "KSBS IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Cryo - HR TEM",
+        "specifications": "",
+        "location": "KSBS IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Electron Paramagnetic Resonance / EPR",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Electron Probe Microanalyzer / EPMA",
+        "specifications": "",
+        "location": "CRF Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "ESI-LC- MASS Spectrometry",
+        "specifications": "",
+        "location": "KSBS IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "FACS",
+        "specifications": "",
+        "location": "Cell Biology Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "FACS",
+        "specifications": "",
+        "location": "Shared Lab KSBS IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Fast Protein Liquid Chromatography / FPLC",
+        "specifications": "",
+        "location": "DBEB CRF Lab",
+        "status": ""
+      },
+      {
+        "name": "FE SEM- EDS FEI Quanta 200F",
+        "specifications": "",
+        "location": "Ex Hall IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "FE SEM- EDS JEOL JSM-7800F",
+        "specifications": "",
+        "location": "Block 4 IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "FE SEM- EDX TESCAN",
+        "specifications": "",
+        "location": "Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "FemtoSecond Laser Cutting System / SLCS",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Flow Cytometer",
+        "specifications": "",
+        "location": "KSBS Shared IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Fluorimeter",
+        "specifications": "",
+        "location": "DBEB IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Fourier-Transform Infrared Spectroscopy / FTIR",
+        "specifications": "",
+        "location": "Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "FPLC / Fast protein liquid chromatography",
+        "specifications": "",
+        "location": "Cell Bio Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography",
+        "specifications": "",
+        "location": "DBEB CRF IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography Mass Spectrometry",
+        "specifications": "",
+        "location": "Block V CFR IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "High Performance Liquid Chromatograph / HPLC",
+        "specifications": "",
+        "location": "DBEB CRF IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "HR-TEM Tecnai G2 20",
+        "specifications": "",
+        "location": "Block VI IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "HR-TEM 200 KeV JEM-ARM200F",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Infra-red imager / scanner",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma Mass Spectrometry",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Ion Milling System",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Lyophilizer-FD-5",
+        "specifications": "",
+        "location": "Cell Bio Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "MALDI-TOF/TOF MASS Spectrometry",
+        "specifications": "",
+        "location": "KSBS IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Micro - CT Scanner Machine",
+        "specifications": "",
+        "location": "Mech Deptt IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Micro Raman Spectroscope",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Microplate Reader",
+        "specifications": "",
+        "location": "Cell Bio Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Molecular Beam Epitaxy (MBE) System",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "MPMS3 SQUID Magnetometer",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Nanoparticle Tracking Analysis / NTA",
+        "specifications": "",
+        "location": "Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "NMR 400 MHz JEOL (Liquid & Solid Probe)",
+        "specifications": "",
+        "location": "Textile IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "NMR 400 MHz - Bruker (Liquid Probe)",
+        "specifications": "",
+        "location": "Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "NMR 400MHz JEOL (Liquid & Solid Probe)",
+        "specifications": "",
+        "location": "Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "NMR 500 MHz - Bruker (Liquid Probe)",
+        "specifications": "",
+        "location": "Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Physical Property Measurement System / PPMS",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Plasma Enhanced Chemical Vapor Deposition System",
+        "specifications": "",
+        "location": "Delhi",
+        "status": ""
+      },
+      {
+        "name": "Photovoltaic EQE (IPCE)/IQE Facility",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Real-Time PCR Detection system",
+        "specifications": "",
+        "location": "Cell Biology Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "RF & Microwave Measurement",
+        "specifications": "",
+        "location": "CARE IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscopy / SEM-EDX",
+        "specifications": "",
+        "location": "Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Scanning Tunneling Microscope / STM",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Small Angle X-ray Scattering / SAXS",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Spectroscopic Ellipsometry",
+        "specifications": "",
+        "location": "MBE Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "SQUID Magnetometer",
+        "specifications": "",
+        "location": "Physics IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Surface Plasmon Resonance Spectroscope",
+        "specifications": "",
+        "location": "Cell Bio-Lab Sonipat",
+        "status": ""
+      },
+      {
+        "name": "Thermal Series (DSC, TGA, DMA , TMA)",
+        "specifications": "",
+        "location": "Sonipat campus",
+        "status": ""
+      },
+      {
+        "name": "Time of Flight Secondary Ion Mass Spectrometry / TOF-SIMS",
+        "specifications": "",
+        "location": "Sonipat",
+        "status": ""
+      },
+      {
+        "name": "Time Resolved and Steady State PL",
+        "specifications": "",
+        "location": "Chemistry IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope (TEM - CRF)",
+        "specifications": "",
+        "location": "Ex-Hall IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope (TEM - DMSE)",
+        "specifications": "",
+        "location": "Ex-Hall IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Tribotester Multi-Functional",
+        "specifications": "",
+        "location": "Block-III IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Ultracentrifuge",
+        "specifications": "",
+        "location": "Cell Biology Lab Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Ultra-Microtome",
+        "specifications": "",
+        "location": "SEM Lab Block V IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "Universal Testing Machine / UTM",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS-NIR Spectrometer",
+        "specifications": "",
+        "location": "IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS-NIR Spectrometer",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "Wire Cut EDM",
+        "specifications": "",
+        "location": "CW IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffraction / XRD",
+        "specifications": "",
+        "location": "Textile IIT Delhi",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffraction / XRD",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy / XPS",
+        "specifications": "",
+        "location": "Sonipat Campus",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "crf-iitd",
+    "analyzedAt": "2026-08-20T13:18:23.549Z",
+    "vitalityScore": 88,
+    "summary": "Most historical equipment has been preserved and updated with detailed specifications. However, a few specialized instruments (such as Cryo-HR TEM, MALDI-TOF/TOF, ESI-LC-MS, BIO-AFM, AECL, and HR-TEM Tecnai G2 20) are no longer listed in the current inventory.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Advanced Electrical Characterization (AECL)",
+        "severity": "critical",
+        "reason": "Facility/equipment entry absent in current inventory."
+      },
+      {
+        "name": "BIO - AFM",
+        "severity": "critical",
+        "reason": "Specific Bio-AFM facility no longer listed."
+      },
+      {
+        "name": "Cryo - HR TEM",
+        "severity": "critical",
+        "reason": "Cryo-HR TEM instrument missing from current list."
+      },
+      {
+        "name": "ESI-LC- MASS Spectrometry",
+        "severity": "critical",
+        "reason": "ESI-LC-MS instrument no longer listed in current inventory."
+      },
+      {
+        "name": "HR-TEM Tecnai G2 20",
+        "severity": "critical",
+        "reason": "Tecnai G2 20 model HR-TEM removed or superseded."
+      },
+      {
+        "name": "MALDI-TOF/TOF MASS Spectrometry",
+        "severity": "critical",
+        "reason": "MALDI-TOF/TOF mass spectrometer absent from current list."
+      },
+      {
+        "name": "SQUID Magnetometer (Physics IIT Delhi)",
+        "severity": "moderate",
+        "reason": "Separate Physics department SQUID magnetometer entry no longer present."
+      }
+    ],
+    "added": [
+      {
+        "name": "Blue Laser System with Welding Head (Sonipat Campus)"
+      },
+      {
+        "name": "FESEM with 5 PFIB Helios (Sonipat Campus)"
+      },
+      {
+        "name": "Flex SEM 1000 II Hitachi (Ex Hall IIT Delhi)"
+      },
+      {
+        "name": "HR-TEM Talos F200x G2(S) (Sonipat Campus)"
+      },
+      {
+        "name": "Laser Cutting (3D Lab IIT Delhi)"
+      },
+      {
+        "name": "Physical Property Measurement System / PPMS (Hauz Khas Campus)"
+      },
+      {
+        "name": "Precision Polishing Machine Facility (IIT Delhi)"
+      },
+      {
+        "name": "Single Crystal XRD Facility (IIT Delhi)"
+      },
+      {
+        "name": "Thermal Desorption-Gas Chromatography (TD-GC-MS) IIT Delhi"
+      },
+      {
+        "name": "Transcranial Magnetic Stimulator Facility (IIT Delhi)"
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy / XPS AXIS Supra+ (Sonipat Campus)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "3D Printer",
+        "change": "Updated listing name to '3D Printer (3D Lab IIT Delhi)' and added detailed capability specifications."
+      },
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "change": "Added comprehensive technical specifications describing nanoscale imaging and force measurement functions."
+      },
+      {
+        "name": "Brunauer - Emmett - Teller (BET)",
+        "change": "Added detailed specifications covering multi-point gas adsorption method."
+      },
+      {
+        "name": "Confocal Microscope",
+        "change": "Entries now specified as 'Confocal Microscope Facility' with detailed capabilities for cell imaging."
+      },
+      {
+        "name": "NMR Spectrometers",
+        "change": "Added detailed specifications on field strength, probe types, and analytical applications."
+      }
+    ]
+  }
+}

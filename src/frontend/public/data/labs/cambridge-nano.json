@@ -1,0 +1,252 @@
+{
+  "target": {
+    "id": "cambridge-nano",
+    "name": "Cambridge Nanoscience Centre",
+    "url": "https://elec.eng.cam.ac.uk/facilities/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "cambridge-nano",
+    "name": "Cambridge Nanoscience Centre",
+    "url": "https://elec.eng.cam.ac.uk/facilities/",
+    "scrapedAt": "2026-08-20T14:03:37.044Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Parylene coater",
+        "specifications": "Deposition, Nanoscience",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "LEV – Lesker e-Beam Evaporator",
+        "specifications": "e-Beam Evaporator, Deposition, Nanoscience",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "The Blue Evaporator",
+        "specifications": "Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "E306A Thermal Evaporator",
+        "specifications": "Thermal Evaporator, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "White Magic",
+        "specifications": "DC metal sputter coater, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "CCR sputter coater",
+        "specifications": "RF sputtering, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Lesker PVD75 Sputterer",
+        "specifications": "Sputterer, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "HiTUS Sputterer",
+        "specifications": "Sputterer, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Silicon NW CVD",
+        "specifications": "CVD, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Plasmalab PECVD",
+        "specifications": "PECVD, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Black Magic II",
+        "specifications": "Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Black Magic III",
+        "specifications": "Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "CNT Thermal Furnace",
+        "specifications": "Thermal Furnace, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Diamond-like carbon reactor",
+        "specifications": "Reactor, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Cambridge NanoTech Savannah ALD",
+        "specifications": "ALD, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Plasma ALD",
+        "specifications": "Plasma ALD, Deposition",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "PlasmaPro 80 RIE",
+        "specifications": "Reactive Ion Etching",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Adixen DRIE",
+        "specifications": "Deep Reactive Ion Etching",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Glove Box",
+        "specifications": "Sample handling/preparation",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Wire Bonder",
+        "specifications": "Wedge bonding",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Lenton Oven",
+        "specifications": "Sample handling/preparation",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Pressure Oven",
+        "specifications": "Sample handling/preparation",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Mask Aligner – MA/BA6",
+        "specifications": "Lithography, Nanoscience",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Mask Aligner – MJB-4",
+        "specifications": "Lithography, Nanoscience",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "NanoScribe 3d printer",
+        "specifications": "3D printing, Lithography",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "EVG620 Mask Aligner",
+        "specifications": "Mask Aligner, Lithography",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "CABL-9510CC",
+        "specifications": "e-beam lithography, Nanoscience",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "NLP 2000",
+        "specifications": "dip pen lithography",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Optical microscopes",
+        "specifications": "Characterisation",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Q-sense QCM",
+        "specifications": "quartz crystal microbalance, Characterisation, Nanoscience",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Optical profiler",
+        "specifications": "Characterisation",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Chip Tester",
+        "specifications": "gas sensing, Characterisation",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Veeco Dektak 6M Stylus Surface Profilometer",
+        "specifications": "Stylus Surface Profilometer, Characterisation",
+        "location": "Electrical Engineering & Nanoscience Clean Facility",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope (SEM)",
+        "specifications": "with elemental analysis (EDX)",
+        "location": "Cambridge Graphene Centre - SEM Lab",
+        "status": ""
+      },
+      {
+        "name": "AFM",
+        "specifications": "Atomic Force Microscope",
+        "location": "Cambridge Graphene Centre - AFM Lab",
+        "status": ""
+      },
+      {
+        "name": "Raman",
+        "specifications": "Raman spectrometer",
+        "location": "Cambridge Graphene Centre - Raman Lab",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "cambridge-nano",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T14:14:42.390Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "cambridge-nano",
+    "analyzedAt": "2026-08-20T14:21:26.149Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

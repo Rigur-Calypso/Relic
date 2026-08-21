@@ -1,0 +1,688 @@
+{
+  "targetId": "maryland-fablab",
+  "name": "Maryland NanoCenter FabLab",
+  "url": "https://www.nanocenter.umd.edu/equipment/",
+  "scrapedAt": "2026-08-21T09:23:04.937Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Envision One cDLM 3D Printer",
+      "specifications": "",
+      "location": "Fisher-Lab",
+      "status": "Offline"
+    },
+    {
+      "name": "BioAssemblyBot 400 3D Bioprinter",
+      "specifications": "",
+      "location": "Fisher-Lab",
+      "status": "Offline"
+    },
+    {
+      "name": "UpNano NanoOne 1000 2PP 3D Printer",
+      "specifications": "",
+      "location": "BAM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "3-D Printer",
+      "specifications": "",
+      "location": "Fisher-Lab",
+      "status": "Offline"
+    },
+    {
+      "name": "Annealing Furnace, Multipurpose",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Glove Box -N2",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Glove Box - ANSLab",
+      "specifications": "",
+      "location": "ANSLab",
+      "status": "Online"
+    },
+    {
+      "name": "Tergeo Plasma Cleaner from PIE Scientific",
+      "specifications": "",
+      "location": "BAM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "Glove Box - Exploratory Lab",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Wire Bonder - FABLAB West Bond 7KE",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Dicing Saw A - Microautomation",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "III-V MOCVD",
+      "specifications": "",
+      "location": "UMBC",
+      "status": "Online"
+    },
+    {
+      "name": "Ultratech Fiji 200 ALD system Mario",
+      "specifications": "",
+      "location": "ANSLab",
+      "status": "Waiting for part/service"
+    },
+    {
+      "name": "Ultratech Fiji 200 ALD system Luigi",
+      "specifications": "",
+      "location": "ANSLab",
+      "status": "Online"
+    },
+    {
+      "name": "In-situ sensing in Fiji ALD systems (Mario, Luigi)",
+      "specifications": "",
+      "location": "ANSLab",
+      "status": "Online"
+    },
+    {
+      "name": "RTA-610",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Beneq Atomic Layer Deposition System",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "LP-CVD Furnace",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Offline"
+    },
+    {
+      "name": "Tystar CVD - Oxide Tube",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Oxford PECVD",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Oxford PECVD-Cobra",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "AJA ATC 1800 Sputtering unit",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "In maintenance"
+    },
+    {
+      "name": "Metra Thermal Evaporator",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Denton Ebeam/thermal evaporator",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "In maintenance"
+    },
+    {
+      "name": "Parylene Coater",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Angstrom NexDep Ebeam evaporator",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Angstrom Ebeam Evaporator PLC Driven -B",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "AJA ATC Orion 8 Sputtering system",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "III-V MOCVD Material Growth",
+      "specifications": "",
+      "location": "UMBC",
+      "status": "Online"
+    },
+    {
+      "name": "Etch tunnel Acid Bench 1",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Etch tunnel Acid Bench 2",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Etch tunnel Caustic/Base Bench",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Etch tunnel Solvent Bench",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Trion RIE",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Oxford ICP Etcher(Chlorine)",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Teaching Lab Acid Wet Bench",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Teaching Lab Caustic/Solvent Wet Bench",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Sample Preb Wet Bench",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Furnace Preclean Wet Bench",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Critical Point Dryer",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Oxford Etcher (Fluorine)",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "XactiX Xenon Difluoride Etcher",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Exploratory Lab Wet Bench",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Oxford ICP Etcher - ALE",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Oxford Etcher ( Bosch)",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Raith e_LiNE",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "MJB-3 Mask aligner- right of spin station #1",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Photoresist Spin Station- Left- FABLAB-PWM32-Programable",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Photoresist Spin Station- Teaching Lab- 3",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Developing Bench",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "March O2 plasma system",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Polymer Spin Station",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Photoresist Spin Station- Right- FABLAB-PWM32-Programable",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Spin Station- Laurell- SU-8 ONLY",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "MA-4 Suss Mask Aligner",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "MJB-3 Mask Aligner- Left of spin station #2",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "FABLAB Photo oven (Blue M)",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Heidelberg MLA150 Maskless Aligner",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Q Exactive plus high resolution mass spectrometer",
+      "specifications": "",
+      "location": "NanoMass",
+      "status": "Online"
+    },
+    {
+      "name": "Fractionator",
+      "specifications": "",
+      "location": "NanoMass",
+      "status": "Online"
+    },
+    {
+      "name": "Inverted Research Grade Microscope",
+      "specifications": "",
+      "location": "NanoMass",
+      "status": "Online"
+    },
+    {
+      "name": "Stereo Research Grade Microscope",
+      "specifications": "",
+      "location": "NanoMass",
+      "status": "Online"
+    },
+    {
+      "name": "CESI System",
+      "specifications": "",
+      "location": "NanoMass",
+      "status": "Online"
+    },
+    {
+      "name": "Spectrophotometer",
+      "specifications": "",
+      "location": "NanoMass",
+      "status": "Online"
+    },
+    {
+      "name": "Profilm 3D",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Horiba Raman",
+      "specifications": "",
+      "location": "ANSLab",
+      "status": "Online"
+    },
+    {
+      "name": "Hitachi TM4000Plus Table-Top SEM w/ EDS",
+      "specifications": "",
+      "location": "BAM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "ZEISS Axio Observer Z1 Inverted Microscope",
+      "specifications": "",
+      "location": "BAM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "JEM 2100 FEG TEM/STEM",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "JXA 8900R Microprobe",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "JEM 2100 LaB6 TEM",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "Hitachi SU-70 FEG SEM",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "Tescan GAIA FEG SEM",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "Tescan GAIA FIB/SEM",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "Tescan XEIA FEG SEM",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "Tescan XEIA Plasma FIB/SEM",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "JEOL NEOARM AC-TEM",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "Ultramicrotome: Leica EM UC6",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "PIPS II Ion Polishing System (Gatan)",
+      "specifications": "",
+      "location": "AIM Lab",
+      "status": "Online"
+    },
+    {
+      "name": "Kratos UHV surface analysis system",
+      "specifications": "",
+      "location": "ANSLab",
+      "status": "Online"
+    },
+    {
+      "name": "ICPE-9000 ICP Atomic Emission Spectrometer",
+      "specifications": "",
+      "location": "EnvEngLab",
+      "status": "Online"
+    },
+    {
+      "name": "TA Instruments DSC250",
+      "specifications": "",
+      "location": "FML",
+      "status": "Online"
+    },
+    {
+      "name": "TA Instruments DMA Q800",
+      "specifications": "",
+      "location": "FML",
+      "status": "Online"
+    },
+    {
+      "name": "Waters GPC",
+      "specifications": "",
+      "location": "FML",
+      "status": "Waiting for part/service"
+    },
+    {
+      "name": "UV/Vis Spectrophotometer",
+      "specifications": "",
+      "location": "FML",
+      "status": "In maintenance"
+    },
+    {
+      "name": "Microbalance: Sartorius ME-5",
+      "specifications": "",
+      "location": "FML",
+      "status": "Online"
+    },
+    {
+      "name": "Hitachi S-3400 Variable Pressure SEM",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "In maintenance"
+    },
+    {
+      "name": "Stress Measurement Tool",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "N&K Spectrophotometer",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Offline"
+    },
+    {
+      "name": "Microscope 5- FABLAB Front Hall",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Microscope 1- Leitz Ergolux in Teaching Lab",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Profilometer Tencor Alpha Step 200- Teaching Lab",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Microscope 4- Leitz in FABLAB Photo Tunnel",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Microscope 2- Nikon Optophot in Teaching Lab",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Microscope 3- Zeiss in FABLAB Deposition Tunnel.",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Probe Station I- with 4155C",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Hall Effect Measurement System",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Solar Cell Simulator",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Micromeritics ASAP 2020 Porosimeter Test Station",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Micromeritics ASAP 2020 Porosimeter Degas #1",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Micromeritics ASAP 2020 Porosimeter Degas #2",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Offline"
+    },
+    {
+      "name": "Arbin BT2000 Battery Test Station",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Profilometer P-10 Long Scan Profiler",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Woollam Spectroscopic Ellipsometer",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "SHIMADZU IR Prestige21 FTIR Spectrometer",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Four Point Resistivity Station",
+      "specifications": "",
+      "location": "FabLab",
+      "status": "Online"
+    },
+    {
+      "name": "Microanalytical High-Resolution Time-of-Flight Mass Spectrometer System",
+      "specifications": "",
+      "location": "NanoMass",
+      "status": "Online"
+    },
+    {
+      "name": "Microanalytical Ultrahigh-Resolution Orbitrap Mass Spectrometer System",
+      "specifications": "",
+      "location": "NanoMass",
+      "status": "Online"
+    },
+    {
+      "name": "H-J-Y Raman Microscope (Chemistry)",
+      "specifications": "",
+      "location": "SAC",
+      "status": "Online"
+    },
+    {
+      "name": "AFM - Asylum MFP3D (Chemistry)",
+      "specifications": "",
+      "location": "SAC",
+      "status": "Online"
+    },
+    {
+      "name": "AFM - Cypher ES",
+      "specifications": "",
+      "location": "SAC",
+      "status": "Online"
+    },
+    {
+      "name": "XPS Kratos Axis Supra+(also UPS/ AES / SAM / REELS / ISS)",
+      "specifications": "",
+      "location": "SAC",
+      "status": "Online"
+    },
+    {
+      "name": "XPS - Kratos Axis 165",
+      "specifications": "",
+      "location": "SAC",
+      "status": "In maintenance"
+    }
+  ]
+}

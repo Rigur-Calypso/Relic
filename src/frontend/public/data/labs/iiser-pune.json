@@ -1,0 +1,170 @@
+{
+  "target": {
+    "id": "iiser-pune",
+    "name": "IISER Pune Physics Facilities",
+    "url": "https://www.iiserpune.ac.in/research/research-facilities/physics",
+    "strategy": "ai",
+    "snapshotTs": "20220101"
+  },
+  "current": {
+    "targetId": "iiser-pune",
+    "name": "IISER Pune Physics Facilities",
+    "url": "https://www.iiserpune.ac.in/research/research-facilities/physics",
+    "scrapedAt": "2026-08-20T13:04:50.598Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Closed cycle Cryostat",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Integrated AFM and inverted Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thin Film coating unit – Langmuir-Blodgett Method",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UV - Vis - NIR Spectrometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electrochemical thin film deposition system",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Corrleation Spectrometer (FCS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Integrated FCS--Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Powder X-Ray Diffractometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Single crystal X-Ray Diffractometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "500MHz NMR Spectrometer",
+        "specifications": "500MHz",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "400MHz NMR Spectrometer",
+        "specifications": "400MHz",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "iiser-pune",
+    "snapshotUrl": "http://web.archive.org/web/20220101000000/https://www.iiserpune.ac.in/research/research-facilities/physics",
+    "snapshotTimestamp": "~20220101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T13:14:00.833Z",
+    "equipment": [
+      {
+        "name": "Closed cycle Cryostat",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Integrated AFM and inverted Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thin Film coating unit – Langmuir-Blodgett Method",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UV - Vis - NIR Spectrometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electrochemical thin film deposition system",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Corrleation Spectrometer (FCS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Integrated FCS--Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Powder X-Ray Diffractometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Single crystal X-Ray Diffractometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "500MHz NMR Spectrometer",
+        "specifications": "500MHz",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "400MHz NMR Spectrometer",
+        "specifications": "400MHz",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "iiser-pune",
+    "analyzedAt": "2026-08-21T03:24:16.422Z",
+    "vitalityScore": 100,
+    "summary": "All 11 equipment items from the historical snapshot remain present in the current list with no changes, additions, or removals.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

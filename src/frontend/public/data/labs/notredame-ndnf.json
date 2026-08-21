@@ -1,0 +1,822 @@
+{
+  "target": {
+    "id": "notredame-ndnf",
+    "name": "Notre Dame Nanofab Facility",
+    "url": "https://nanofabrication.nd.edu/facilities/equipment/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "notredame-ndnf",
+    "name": "Notre Dame Nanofab Facility",
+    "url": "https://nanofabrication.nd.edu/facilities/equipment/",
+    "scrapedAt": "2026-08-20T14:02:22.868Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "GCA AutoStepper System",
+        "specifications": "The AutoStep 200 lithography system is a 5x reduction, production grade i-stepper with repeat exposure capabilities as large as 14.85 mm x 14.85 mm.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg MLA150",
+        "specifications": "Heidelberg MLA150 is a maskless laser aligner equipped with 375nm and 405 nm wavelengths",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MJB-3 Mask Aligner",
+        "specifications": "The SUSS MJB 3 mask aligner is equipped with a 200 W mercury short-arc lamp housing containing a relatively simple and yet comparatively high resolution optical system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MJB-4 Mask Aligner",
+        "specifications": "The Suss MJB-4 contact aligner is equipped with 365nm, 405nm and 435nm exposure sources.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "OAI Deep-UV Light Source",
+        "specifications": "The OAI light source is a high-performance collimated illumination system intended for UV flood exposure related applications.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Raith EBL",
+        "specifications": "The Raith EBPG5200 is a state-of-the-art electron beam lithography system that can write to less than 8 nm in size on full 200 mm wafers or small sample pieces.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Angstrom Evaporation System",
+        "specifications": "6 pocket electron beam evaporator with in situ film thickness monitor. Ion Beam assisted deposition possible and heated substrate capabilities.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Angstrom Sputter System",
+        "specifications": "PVD sputter system equipped with 4DC and 2 RF magnetrons. Fully integrated loadlock and automatic deposition control.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Emitech Sputter Coater",
+        "specifications": "The K675X coating system employs a magnetron target assembly that enhances the efficiency of the sputtering process using low voltages, giving a thin and fine-grain coating.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FC1800-1 Evaporator",
+        "specifications": "The Model FC-1800 is an electron beam vacuum deposition system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FC1800-3 Evaporator",
+        "specifications": "The Model FC-1800 is an electron beam vacuum deposition system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Lesker ALD",
+        "specifications": "The Lesker ALD150LX Atomic Layer Deposition (ALD) system is designed for R&D applications using their patented precursor focusing technology and advanced process capabilities.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "LPCVD",
+        "specifications": "The First Nano EasyTube 6000 is a horizontal-tube furnace system, capable of processing 4\" (100 mm) diameter silicon wafers.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MBE",
+        "specifications": "Molecular beam epitaxy (MBE) systems are used to grow high-purity, single-crystal films in specific crystallographic orientations determined by the substrate.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MOCVD",
+        "specifications": "The metal organic chemical vapor deposition (MOCVD) system is used to create high purity crystalline compound semiconductor thin films like GaN.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oerlikon Evaporator",
+        "specifications": "The Oerlikon 450B evaporator is an electron beam vacuum deposition system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oxford ALD",
+        "specifications": "The Oxford Instruments FlexAL atomic layer deposition system is a plasma-enhanced ALD system for the monolayer growth of thin films.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PECVD",
+        "specifications": "The Unaxis 790 Series Plasma Enhanced Chemical Vapor Deposition (PECVD) system is used for the deposition of SiO2 and silicon nitride on a wide variety of substrates and wafers.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Plassys Sputtering System",
+        "specifications": "PLASSYS MEB550S4 is used for the fabrication of quantum computing devices.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PVD Sputtering System",
+        "specifications": "Robust combinatorial sputter deposition system for the growth of intermetallic, oxides, nitrides and oxynitrides. Includes six on-axis magnetrons. Designed for 4” diameter substrates.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Savannah ALD",
+        "specifications": "The Savannah 100 is an atomic layer deposition (ALD) tool.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Single-Chamber Sputtering System",
+        "specifications": "The Oerlikon 450B Single Chamber Sputtering System (SCSS) is equipped with three DC magnetron-enhanced sputtering guns (800 W) and two RF sputtering guns (300 W).",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Veeco Evaporator",
+        "specifications": "The unit is used for thermal vacuum deposition of Al or Cr to the substrates situated some 30 cm above the evaporating metals.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Veeco Fiji G2 ALD",
+        "specifications": "The Veeco Fiji G2 is a next-generation ALD system capable of performing thermal and plasma-enhanced deposition. It has advanced computational fluid dynamics analyses to optimize the Fiji® reactor, heater, and trap geometry. The system’s intuitive interface makes it easy to monitor and change recipes and processes as needed. Precursors Installed: TBTDEN (Niobium), TDMAT (Titanium)",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Alcatel DRIE System",
+        "specifications": "The Alcatel 601 E is an automatic etching machine used exclusively for the plasma etching of silicon and related materials utilizing the Bosch Process.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Corial 210IL ICP-RIE",
+        "specifications": "The Corial 210IL inductively couple plasma etcher is a high density flourine and chlorine system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Drytek Plasma Asher",
+        "specifications": "The Drytek Mega Strip 5 utilizes an exclusive passivation method, which produces a greater number of active species.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MemsStar XeF2 Etcher",
+        "specifications": "The MemsStar is a vapor-phase silicon etch system using xenon difluoride (XeF2) and a novel vapor delivery system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oerlikon ICP-RIE",
+        "specifications": "The Oerlikon system is an inductively coupled plasma (ICP) reactor that is used for reactive ion etching.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oxford ICP-RIE",
+        "specifications": "The Oxford system is an inductive coupled plasma (ICP) reactor that is used for reactive ion etches.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Plasma-Therm RIE",
+        "specifications": "Plasma-Therm's 790 Series provides a platform for parallel plate (capacitively coupled) reactive ion etch (RIE) processes.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PVA Plasma Asher",
+        "specifications": "The PS210 utilizes high-energy microwaves as its energy source for ion/radical formation.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Tegal Barrel Asher",
+        "specifications": "The Tegal PlasmaLine asher is a general purpose O2 plasma used to remove photoresist and for general purpose cleaning.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UVO Cleaner",
+        "specifications": "Model 144AX produces near-atomically clean surfaces in less than one minute by utilizing the UV/ozone cleaning method.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Allwin RTP System",
+        "specifications": "The AccuThermo AW610 is an atmospheric rapid thermal processing (RTP) system that uses high-intensity visible radiation to heat single wafers for short process periods of time at precisely controlled temperatures.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Annealsys AS-One 150",
+        "specifications": "Rapid Thermal Anneal (RTA) capable of 1300 °C annealing temperature.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "BlueM Furnace",
+        "specifications": "This furnace is typically used for metal annealing to produce ohmic contacts and curing (spin on glass and BCB resists).",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Carbolite Nanotube Furnace",
+        "specifications": "The Carbolite nanotube furnace is a three-zone heating system with a max temperature of 1200 °C.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "III-V Furnace",
+        "specifications": "The III-V oxidation furnace is used for the formation of compound semiconductor oxide films.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SSI RTP System",
+        "specifications": "The Solaris 75/100 is an RTP system designed for R&D and pre-production.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermco Diffusion Furnace",
+        "specifications": "The six-stack Thermco Furnace is used for general purpose silicon processing.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Allied Multi-Prep CMP System",
+        "specifications": "The MultiPrepTM System enables precise semi-automatic preparation of a wide range of materials for microscopic evaluation and package thinning applications.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Disco Dicing Saw",
+        "specifications": "The Disco Automatic Dicing Saw (Model DAD 3240) is a programmable automatic saw for cutting semiconductor wafers and other hard materials.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Disco Grinder",
+        "specifications": "The Disco Automatic Grinder Model 810 (DAG 810) is a single-spindle / single-chuck-table unit that performs back-side grinding on samples.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Logitech CMP Sytem",
+        "specifications": "The Logitech Orbis Chemical Mechanical Planarization (CMP) system is used for fine-scale polishing and planarization of a variety of metals in the damascene process as well as dielectrics.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Westbond Bonders",
+        "specifications": "NDNF users have access to the model 7372E die bonder, the model 7400E wedge bonder, and the model 7400A wire bonder.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "The Olympus LEXT OLS4000 is a confocal laser (405 nm) microscope capable of taking high-resolution 3D images.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dektak Profilometer",
+        "specifications": "The DektakXT® stylus profilometer features a revolutionary benchtop design that enables critical nanometer-level surface measurements with an unmatched repeatability of 4 Å and up to 40% improvement in scanning speeds.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Filmetrics Thin Film Measurement System",
+        "specifications": "The Filmetrics F40 is uses spectral reflectance to measure the thickness of transparent and semi-transparent thin films.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Four-Point Probe",
+        "specifications": "The Kulicke and Soffa Model 3007 four-point in-line probe is used in conjunction with a Keithley model 530 Type-All system to make applicable characterization measurements.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gaertner Ellipsometer",
+        "specifications": "The L117 Ellipsometer has provisions for precise, pin-located setting of the angle of incidence between 45 and 90 degrees.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hall Effect Measurement System",
+        "specifications": "The HL5500PC enables measurement of resistivity, carrier concentration and mobility on a wide range of semiconductors and with minimum effort in sample preparation.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hitachi SEM",
+        "specifications": "This Hitachi S-4500 field emission scanning electron microscope (FESEM) is capable of producing high-resolution images between 20k and 500k.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscopes",
+        "specifications": "Various optical microscopes are available for use in the lab with magnifications ranging from 2.5x up to 100x.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "P6 Profilometer",
+        "specifications": "The P-6 offers complete high-resolution 2D and 3D analysis of surface topography in a versatile platform.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Semiconductor Parameter Analyzer",
+        "specifications": "The M150 Measurement Platform is a high-performance probing station that allows for precision electrical measurements, from DC to high-frequency RF.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "VASE Ellipsometer",
+        "specifications": "The Variable Angle Spectroscopic Ellipsometer (VASE®) is a totally automated, thin film characterization system that uses high-precision angle, and a wide spectral range (240 to 1700 nm).",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Veeco Four-Point Probe",
+        "specifications": "The FPP 5000 is a four-point probe used for the measurement of resistive properties of semiconductor wafer and resistive films.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Ampoule Sealing Station",
+        "specifications": "The ampoule sealing station is a vacuum sealing system that encapsulates samples in a small quartz vial and applied high temperatures to melt the quartz vials and form an airtight seal.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Critical Point Dryer",
+        "specifications": "The E3100 is used for the critical point drying biological and geological specimens and the controlled drying of MEMs, aerogels and hydrogels.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MOS Clean Bench",
+        "specifications": "The MOS clean bench and its Teflon contents are used exclusively for cleaning of metal oxide semiconductor structures.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Spin Rinse Dryer",
+        "specifications": "The Sitek spin rinse dryer is a compact tabletop dryer that is capable of processing 4\" wafers.",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "notredame-ndnf",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://nanofabrication.nd.edu/facilities/equipment/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T14:13:57.399Z",
+    "equipment": [
+      {
+        "name": "GCA AutoStepper System",
+        "specifications": "The AutoStep 200 lithography system is a 5x reduction, production grade i-stepper with repeat exposure capabilities as large as 14.85 mm x 14.85 mm.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg MLA150",
+        "specifications": "Heidelberg MLA150 is a maskless laser aligner equipped with 375nm and 405 nm wavelengths",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MJB-3 Mask Aligner",
+        "specifications": "The SUSS MJB 3 mask aligner is equipped with a 200 W mercury short-arc lamp housing containing a relatively simple and yet comparatively high resolution optical system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MJB-4 Mask Aligner",
+        "specifications": "The Suss MJB-4 contact aligner is equipped with 365nm, 405nm and 435nm exposure sources.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "OAI Deep-UV Light Source",
+        "specifications": "The OAI light source is a high-performance collimated illumination system intended for UV flood exposure related applications.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Raith EBL",
+        "specifications": "The Raith EBPG5200 is a state-of-the-art electron beam lithography system that can write to less than 8 nm in size on full 200 mm wafers or small sample pieces.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Angstrom Evaporation System",
+        "specifications": "",
+        "location": "",
+        "status": "Still to be installed"
+      },
+      {
+        "name": "Angstrom Sputter System",
+        "specifications": "Angstrom Science sputtering system",
+        "location": "",
+        "status": "Needs installation"
+      },
+      {
+        "name": "Denton Evaporator",
+        "specifications": "The Denton Explorer® 14 e-beam evaporator is a six-pocket hearth deposition system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dual-Chamber Sputtering System",
+        "specifications": "The Oerlikon 450C Dual Chamber Sputtering System (DCSS) is a three-chamber, 16-target ultra-high vacuum (UHV) sputtering system used to deposit magnetic materials.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Emitech Sputter Coater",
+        "specifications": "The K675X coating system employs a magnetron target assembly that enhances the efficiency of the sputtering process using low voltages, giving a thin and fine-grain coating.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FC1800-1 Evaporator",
+        "specifications": "The Model FC-1800 is an electron beam vacuum deposition system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FC1800-3 Evaporator",
+        "specifications": "The Model FC-1800 is an electron beam vacuum deposition system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Lesker ALD",
+        "specifications": "The Lesker ALD150LX Atomic Layer Deposition (ALD) system is designed for R&D applications using their patented precursor focusing technology and advanced process capabilities.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "LPCVD",
+        "specifications": "The First Nano EasyTube 6000 is a horizontal-tube furnace system, capable of processing 4\" (100 mm) diameter silicon wafers.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MBE",
+        "specifications": "Molecular beam epitaxy (MBE) systems are used to grow high-purity, single-crystal films in specific crystallographic orientations determined by the substrate.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MOCVD",
+        "specifications": "The metal organic chemical vapor deposition (MOCVD) system is used to create high purity crystalline compound semiconductor thin films like GaN.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oerlikon Evaporator",
+        "specifications": "The Oerlikon 450B evaporator is an electron beam vacuum deposition system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oxford ALD",
+        "specifications": "The Oxford Instruments FlexAL atomic layer deposition system is a plasma-enhanced ALD system for the monolayer growth of thin films.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PECVD",
+        "specifications": "The Unaxis 790 Series Plasma Enhanced Chemical Vapor Deposition (PECVD) system is used for the deposition of SiO2 and silicon nitride on a wide variety of substrates and wafers.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Plassys Sputtering System",
+        "specifications": "PLASSYS MEB550S4 is used for the fabrication of quantum computing devices.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PVD Sputtering System",
+        "specifications": "Robust combinatorial sputter deposition system for the growth of intermetallic, oxides, nitrides and oxynitrides. Includes six on-axis magnetrons. Designed for 4” diameter substrates.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Savannah ALD",
+        "specifications": "The Savannah 100 is an atomic layer deposition (ALD) tool.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Single-Chamber Sputtering System",
+        "specifications": "The Oerlikon 450B Single Chamber Sputtering System (SCSS) is equipped with three DC magnetron-enhanced sputtering guns (800 W) and two RF sputtering guns (300 W).",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Veeco Evaporator",
+        "specifications": "The unit is used for thermal vacuum deposition of Al or Cr to the substrates situated some 30 cm above the evaporating metals.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Alcatel DRIE System",
+        "specifications": "The Alcatel 601 E is an automatic etching machine used exclusively for the plasma etching of silicon and related materials utilizing the Bosch Process.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Corial 210IL ICP-RIE",
+        "specifications": "The Corial 210IL inductively couple plasma etcher is a high density flourine and chlorine system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Drytek Plasma Asher",
+        "specifications": "The Drytek Mega Strip 5 utilizes an exclusive passivation method, which produces a greater number of active species.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MemsStar XeF2 Etcher",
+        "specifications": "The MemsStar is a vapor-phase silicon etch system using xenon difluoride (XeF2) and a novel vapor delivery system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oerlikon ICP-RIE",
+        "specifications": "The Oerlikon system is an inductively coupled plasma (ICP) reactor that is used for reactive ion etching.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oxford ICP-RIE",
+        "specifications": "The Oxford system is an inductive coupled plasma (ICP) reactor that is used for reactive ion etches.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Plasma-Therm RIE",
+        "specifications": "Plasma-Therm's 790 Series provides a platform for parallel plate (capacitively coupled) reactive ion etch (RIE) processes.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PVA Plasma Asher",
+        "specifications": "The PS210 utilizes high-energy microwaves as its energy source for ion/radical formation.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Tegal Barrel Asher",
+        "specifications": "The Tegal PlasmaLine asher is a general purpose O2 plasma used to remove photoresist and for general purpose cleaning.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UVO Cleaner",
+        "specifications": "Model 144AX produces near-atomically clean surfaces in less than one minute by utilizing the UV/ozone cleaning method.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Allwin RTP System",
+        "specifications": "The AccuThermo AW610 is an atmospheric rapid thermal processing (RTP) system that uses high-intensity visible radiation to heat single wafers for short process periods of time at precisely controlled temperatures.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Annealsys AS-One 150",
+        "specifications": "Rapid Thermal Anneal (RTA) capable of 1300 °C annealing temperature.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "BlueM Furnace",
+        "specifications": "This furnace is typically used for metal annealing to produce ohmic contacts and curing (spin on glass and BCB resists).",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Carbolite Nanotube Furnace",
+        "specifications": "The Carbolite nanotube furnace is a three-zone heating system with a max temperature of 1200 °C.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "III-V Furnace",
+        "specifications": "The III-V oxidation furnace is used for the formation of compound semiconductor oxide films.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SSI RTP System",
+        "specifications": "The Solaris 75/100 is an RTP system designed for R&D and pre-production.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermco Diffusion Furnace",
+        "specifications": "The six-stack Thermco Furnace is used for general purpose silicon processing.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Allied Multi-Prep CMP System",
+        "specifications": "The MultiPrepTM System enables precise semi-automatic preparation of a wide range of materials for microscopic evaluation and package thinning applications.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Disco Dicing Saw",
+        "specifications": "The Disco Automatic Dicing Saw (Model DAD 3240) is a programmable automatic saw for cutting semiconductor wafers and other hard materials.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Disco Grinder",
+        "specifications": "The Disco Automatic Grinder Model 810 (DAG 810) is a single-spindle / single-chuck-table unit that performs back-side grinding on samples.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hall Effect Measurement System",
+        "specifications": "The HL5500PC enables measurement of resistivity, carrier concentration and mobility on a wide range of semiconductors and with minimum effort in sample preparation.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Logitech CMP Sytem",
+        "specifications": "The Logitech Orbis Chemical Mechanical Planarization (CMP) system is used for fine-scale polishing and planarization of a variety of metals in the damascene process as well as dielectrics.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Teledyne TAC Probe",
+        "specifications": "The Teledyne TAC probe station allows testing of devices that are still mounted on a wafer.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Westbond Bonders",
+        "specifications": "NDNF users have access to the model 7372E die bonder, the model 7400E wedge bonder, and the model 7400A wire bonder.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "The Olympus LEXT OLS4000 is a confocal laser (405 nm) microscope capable of taking high-resolution 3D images.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dektak Profilometer",
+        "specifications": "The DektakXT® stylus profilometer features a revolutionary benchtop design that enables critical nanometer-level surface measurements with an unmatched repeatability of 4 Å and up to 40% improvement in scanning speeds.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Filmetrics Thin Film Measurement System",
+        "specifications": "The Filmetrics F40 is uses spectral reflectance to measure the thickness of transparent and semi-transparent thin films.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Four-Point Probe",
+        "specifications": "The Kulicke and Soffa Model 3007 four-point in-line probe is used in conjunction with a Keithley model 530 Type-All system to make applicable characterization measurements.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gaertner Ellipsometer",
+        "specifications": "The L117 Ellipsometer has provisions for precise, pin-located setting of the angle of incidence between 45 and 90 degrees.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hitachi SEM",
+        "specifications": "This Hitachi S-4500 field emission scanning electron microscope (FESEM) is capable of producing high-resolution images between 20k and 500k.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscopes",
+        "specifications": "Various optical microscopes are available for use in the lab with magnifications ranging from 2.5x up to 100x.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "P6 Profilometer",
+        "specifications": "The P-6 offers complete high-resolution 2D and 3D analysis of surface topography in a versatile platform.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Semiconductor Parameter Analyzer",
+        "specifications": "The M150 Measurement Platform is a high-performance probing station that allows for precision electrical measurements, from DC to high-frequency RF.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "VASE Ellipsometer",
+        "specifications": "The Variable Angle Spectroscopic Ellipsometer (VASE®) is a totally automated, thin film characterization system that uses high-precision angle, and a wide spectral range (240 to 1700 nm).",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Veeco Four-Point Probe",
+        "specifications": "The FPP 5000 is a four-point probe used for the measurement of resistive properties of semiconductor wafer and resistive films.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Ampoule Sealing Station",
+        "specifications": "The ampoule sealing station is a vacuum sealing system that encapsulates samples in a small quartz vial and applied high temperatures to melt the quartz vials and form an airtight seal.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Critical Point Dryer",
+        "specifications": "The E3100 is used for the critical point drying biological and geological specimens and the controlled drying of MEMs, aerogels and hydrogels.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MOS Clean Bench",
+        "specifications": "The MOS clean bench and its Teflon contents are used exclusively for cleaning of metal oxide semiconductor structures.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Spin Rinse Dryer",
+        "specifications": "The Sitek spin rinse dryer is a compact tabletop dryer that is capable of processing 4\" wafers.",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "notredame-ndnf",
+    "analyzedAt": "2026-08-20T14:21:25.943Z",
+    "vitalityScore": 88,
+    "summary": "Three tools (Denton Evaporator, Dual-Chamber Sputtering System, and Teledyne TAC Probe) were removed from the lab equipment list. Specifications were updated for Angstrom Evaporation and Sputter systems, and one new tool (Veeco Fiji G2 ALD) was added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Denton Evaporator",
+        "severity": "critical",
+        "reason": "Tool is no longer present in the lab equipment list."
+      },
+      {
+        "name": "Dual-Chamber Sputtering System",
+        "severity": "critical",
+        "reason": "Tool is no longer listed on the facility page."
+      },
+      {
+        "name": "Teledyne TAC Probe",
+        "severity": "critical",
+        "reason": "Tool is no longer listed in current equipment roster."
+      }
+    ],
+    "added": [
+      {
+        "name": "Veeco Fiji G2 ALD"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Angstrom Evaporation System",
+        "change": "Specifications updated with detailed system capabilities and installation status removed."
+      },
+      {
+        "name": "Angstrom Sputter System",
+        "change": "Specifications expanded with detailed magnetron and loadlock info, installation status cleared."
+      }
+    ]
+  }
+}

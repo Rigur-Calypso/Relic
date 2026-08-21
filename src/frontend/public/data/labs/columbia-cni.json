@@ -1,0 +1,348 @@
+{
+  "target": {
+    "id": "columbia-cni",
+    "name": "Columbia Nano Initiative",
+    "url": "https://cni.columbia.edu/columbia-university-clean-room",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "columbia-cni",
+    "name": "Columbia Nano Initiative",
+    "url": "https://cni.columbia.edu/columbia-university-clean-room",
+    "scrapedAt": "2026-08-20T17:55:10.064Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Karl Suss Mask Aligner",
+        "specifications": "Mask aligner for photolithography, including DUV applications",
+        "location": "Photolithography bay",
+        "status": ""
+      },
+      {
+        "name": "Manual Laser Writing System",
+        "specifications": "3µm resolution",
+        "location": "Photolithography bay",
+        "status": ""
+      },
+      {
+        "name": "Automatic Laser Writing System",
+        "specifications": "Sub-micron resolution",
+        "location": "Photolithography bay",
+        "status": ""
+      },
+      {
+        "name": "Plasma Ashers",
+        "specifications": "Two systems using oxygen, argon, CF4 for substrate preparation",
+        "location": "Photolithography bay",
+        "status": ""
+      },
+      {
+        "name": "Photoresist Spin-Coaters",
+        "specifications": "Dedicated photoresist spin-coaters",
+        "location": "Photolithography bay",
+        "status": ""
+      },
+      {
+        "name": "Automatic RCA-Clean Bench",
+        "specifications": "",
+        "location": "Wet chemical bay",
+        "status": ""
+      },
+      {
+        "name": "Spin-Rinse Dryer",
+        "specifications": "Designed for 4\" wafers",
+        "location": "Wet chemical bay",
+        "status": ""
+      },
+      {
+        "name": "Elionix Boden 50f",
+        "specifications": "E-beam lithography system",
+        "location": "CNI Nanofabrication Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Nabity Pattern Generation System (NPGS)",
+        "specifications": "E-beam lithography pattern generation system",
+        "location": "CNI Nanofabrication Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Reactive Ion Etching (RIE) System",
+        "specifications": "Plasma processing based on chlorine and fluorine chemistries",
+        "location": "Plasma bay",
+        "status": ""
+      },
+      {
+        "name": "Deep RIE System",
+        "specifications": "For high aspect ratio and selectivity etching",
+        "location": "Plasma bay",
+        "status": ""
+      },
+      {
+        "name": "PECVD System",
+        "specifications": "For silicon oxide, silicon nitride, and amorphous silicon deposition",
+        "location": "Plasma bay",
+        "status": ""
+      },
+      {
+        "name": "AJA Orion 3 Metal Sputtering System",
+        "specifications": "Dedicated to metals, supports reactive sputtering",
+        "location": "Deposition bay",
+        "status": ""
+      },
+      {
+        "name": "AJA Orion 8 Dielectric Sputtering System",
+        "specifications": "Dedicated to dielectrics, supports reactive sputtering",
+        "location": "Deposition bay",
+        "status": ""
+      },
+      {
+        "name": "Angstrom EvoVac Deposition System",
+        "specifications": "E-beam evaporator",
+        "location": "Deposition bay",
+        "status": ""
+      },
+      {
+        "name": "Angstrom UHV E-BEAM Deposition System",
+        "specifications": "Ultra High Vacuum (UHV) e-beam evaporator",
+        "location": "Plasma bay",
+        "status": ""
+      },
+      {
+        "name": "Atomic Layer Deposition (ALD) System",
+        "specifications": "",
+        "location": "Plasma bay",
+        "status": ""
+      },
+      {
+        "name": "Thermal Evaporator",
+        "specifications": "",
+        "location": "Plasma bay",
+        "status": ""
+      },
+      {
+        "name": "FEI Nova NanoSEM 450",
+        "specifications": "Scanning electron microscope equipped with Nabity Pattern Generation System for e-beam writing",
+        "location": "Microscopy bay",
+        "status": ""
+      },
+      {
+        "name": "Nikon Optical Microscopes",
+        "specifications": "Equipped with bright/dark field and differential interference contrast",
+        "location": "Microscopy bay",
+        "status": ""
+      },
+      {
+        "name": "Optical Profilometer",
+        "specifications": "Optical profilometry",
+        "location": "Microscopy bay",
+        "status": ""
+      },
+      {
+        "name": "Filmetrics Thin Film Characterization Systems",
+        "specifications": "Two thin film characterization systems",
+        "location": "Microscopy bay",
+        "status": ""
+      },
+      {
+        "name": "Disco Dicing Saw",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      },
+      {
+        "name": "G&P Chemical Mechanical Planarization (CMP) System",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      },
+      {
+        "name": "SCS Parylene Coating System",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      },
+      {
+        "name": "Wire Bonder",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      },
+      {
+        "name": "Baltec Critical Point Dryer",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "columbia-cni",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cni.columbia.edu/columbia-university-clean-room",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T17:55:41.234Z",
+    "equipment": [
+      {
+        "name": "FEI Nova NanoSEM 450",
+        "specifications": "With Nabity Pattern Generation System for e-beam writing",
+        "location": "Microscopy bay",
+        "status": ""
+      },
+      {
+        "name": "Nikon optical microscopes",
+        "specifications": "With bright/dark field and differential interference contrast",
+        "location": "Microscopy bay",
+        "status": ""
+      },
+      {
+        "name": "Filmetrics thin film characterization systems",
+        "specifications": "Two thin film characterization systems",
+        "location": "Microscopy bay",
+        "status": ""
+      },
+      {
+        "name": "Nanobeam nB4",
+        "specifications": "E-beam lithography system with <10 nm resolution",
+        "location": "North West Corner building",
+        "status": ""
+      },
+      {
+        "name": "ZEISS SIGMA VP SEM",
+        "specifications": "",
+        "location": "Electron Microscopy Lab",
+        "status": ""
+      },
+      {
+        "name": "FEI TALOS F200X STEM",
+        "specifications": "",
+        "location": "Electron Microscopy Lab",
+        "status": ""
+      },
+      {
+        "name": "Angstrom EvoVac Deposition System",
+        "specifications": "E-beam evaporator",
+        "location": "Deposition bay",
+        "status": ""
+      },
+      {
+        "name": "Angstrom UHV E-BEAM Deposition System",
+        "specifications": "Ultra High Vacuum (UHV) e-beam evaporator",
+        "location": "Plasma bay",
+        "status": ""
+      },
+      {
+        "name": "AJA Orion 8 Dielectric Sputtering",
+        "specifications": "Sputtering system dedicated to dielectrics, allows reactive sputtering",
+        "location": "Deposition bay",
+        "status": ""
+      },
+      {
+        "name": "AJA Orion 3 Metal Sputtering",
+        "specifications": "Sputtering system dedicated to metals, allows reactive sputtering",
+        "location": "Deposition bay",
+        "status": ""
+      },
+      {
+        "name": "Disco dicing saw",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      },
+      {
+        "name": "G&P chemical mechanical planarization (CMP) system",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      },
+      {
+        "name": "SCS Parylene coating system",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      },
+      {
+        "name": "Baltec Critical Point Dryer",
+        "specifications": "",
+        "location": "Back-end bay",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "columbia-cni",
+    "analyzedAt": "2026-08-20T17:55:54.151Z",
+    "vitalityScore": 78.5,
+    "summary": "While the facility expanded its toolset significantly with new lithography, etching, and deposition tools, three major electron microscopy and lithography systems (Nanobeam nB4, ZEISS SIGMA VP SEM, and FEI TALOS F200X STEM) are no longer listed in the current equipment inventory.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Nanobeam nB4",
+        "severity": "critical",
+        "reason": "E-beam lithography system is no longer present on the current equipment list."
+      },
+      {
+        "name": "ZEISS SIGMA VP SEM",
+        "severity": "critical",
+        "reason": "Scanning electron microscope is missing from the current equipment list."
+      },
+      {
+        "name": "FEI TALOS F200X STEM",
+        "severity": "critical",
+        "reason": "Scanning transmission electron microscope is missing from the current equipment list."
+      }
+    ],
+    "added": [
+      {
+        "name": "Karl Suss Mask Aligner"
+      },
+      {
+        "name": "Manual Laser Writing System"
+      },
+      {
+        "name": "Automatic Laser Writing System"
+      },
+      {
+        "name": "Plasma Ashers"
+      },
+      {
+        "name": "Photoresist Spin-Coaters"
+      },
+      {
+        "name": "Automatic RCA-Clean Bench"
+      },
+      {
+        "name": "Spin-Rinse Dryer"
+      },
+      {
+        "name": "Elionix Boden 50f"
+      },
+      {
+        "name": "Nabity Pattern Generation System (NPGS)"
+      },
+      {
+        "name": "Reactive Ion Etching (RIE) System"
+      },
+      {
+        "name": "Deep RIE System"
+      },
+      {
+        "name": "PECVD System"
+      },
+      {
+        "name": "Atomic Layer Deposition (ALD) System"
+      },
+      {
+        "name": "Thermal Evaporator"
+      },
+      {
+        "name": "Optical Profilometer"
+      },
+      {
+        "name": "Wire Bonder"
+      }
+    ],
+    "modified": []
+  }
+}

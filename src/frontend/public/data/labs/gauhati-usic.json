@@ -1,0 +1,66 @@
+{
+  "target": {
+    "id": "gauhati-usic",
+    "name": "Gauhati University",
+    "url": "https://gauhati.ac.in/saif/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "gauhati-usic",
+    "name": "Gauhati University",
+    "url": "https://gauhati.ac.in/saif/",
+    "scrapedAt": "2026-08-20T20:16:49.602Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Powder XRD (Empyrean)",
+        "specifications": "Powder X-ray diffractometer",
+        "location": "SAIF Guwahati",
+        "status": ""
+      },
+      {
+        "name": "XRF (Zetium)",
+        "specifications": "X-ray fluorescence spectrometer",
+        "location": "SAIF Guwahati",
+        "status": ""
+      },
+      {
+        "name": "Single-Crystal XRD",
+        "specifications": "Single crystal X-ray diffractometer",
+        "location": "SAIF Guwahati",
+        "status": "end-of-life"
+      },
+      {
+        "name": "DSC-3",
+        "specifications": "Differential scanning calorimeter",
+        "location": "SAIF Guwahati",
+        "status": ""
+      },
+      {
+        "name": "TGA-2",
+        "specifications": "Thermogravimetric analyser",
+        "location": "SAIF Guwahati",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "gauhati-usic",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:17:24.882Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "gauhati-usic",
+    "analyzedAt": "2026-08-20T20:17:27.008Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

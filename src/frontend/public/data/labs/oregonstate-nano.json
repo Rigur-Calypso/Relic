@@ -1,0 +1,306 @@
+{
+  "target": {
+    "id": "oregonstate-nano",
+    "name": "Oregon State",
+    "url": "https://engineering.oregonstate.edu/masc",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "oregonstate-nano",
+    "name": "Oregon State",
+    "url": "https://engineering.oregonstate.edu/masc",
+    "scrapedAt": "2026-08-20T18:21:22.106Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Plasma Etch, Inc. PE50XL Plasma treatment system",
+        "specifications": "Oxygen plasma tool used as an asher or descummer to remove organic and inorganic contamination, and to increase wettability and bond strength. Single 6.75\" x 6.75\" electrode driven by a 100W RF power source with automated system control.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Plasma Etch, Inc. PE-200 Plasma treatment system",
+        "specifications": "Used for surface modification, surface treatment, and cleaning of substrates by exposure to an Oxygen plasma. Plasma generator is 300 Watts at 13.56 MHz with three 13\" x 16\" processing electrodes.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Tencor Instruments Alpha Step 500 Surface Profiler",
+        "specifications": "Scanning, contact profilometer used to measure step height (film thickness down to 500Å), waviness and surface roughness. Maximum scan width 10mm, accommodates samples up to 150mm wide and 15mm thick.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "KP Technology Ltd SKP5050 Kelvin Probe",
+        "specifications": "Surface analysis technique employed to evaluate the surface potential/work function of a conducting sample in ambient conditions.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Nanometrics Nanospec AFT 4000 Automated film thickness and reflectivity measurement system",
+        "specifications": "Uses reflectometry to measure dielectric thin film thickness on Silicon down to 50nm.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Geartner Ellipsometer Thickness Measurement System",
+        "specifications": "Thickness Measurement System",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Jandel Multi Height Probe with RM2 Resistivity Test Unit",
+        "specifications": "Four point probe used to measure sample resistivity. Tungsten Carbide pins with 1.00mm spacing, 100 micron radius tip, 60+ grams spring loading. Current source max 10mA, voltmeter discriminates to 10 microvolts.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Axiotron Optical microscope",
+        "specifications": "Optical microscope",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Leica INM 200 Optical microscope",
+        "specifications": "Optical microscope",
+        "location": "Owen 333",
+        "status": ""
+      },
+      {
+        "name": "Dielectric testing station",
+        "specifications": "Used to characterize dielectric films.",
+        "location": "Owen Characterization lab",
+        "status": ""
+      },
+      {
+        "name": "Micromanipulator testing station Probe Station",
+        "specifications": "Used to characterize devices fabricated in the ECE 418 course.",
+        "location": "Owen Characterization lab",
+        "status": ""
+      },
+      {
+        "name": "Alessi REL 4800 Probe station",
+        "specifications": "Used to characterize devices.",
+        "location": "Owen Characterization lab",
+        "status": ""
+      },
+      {
+        "name": "Karl Suss PA200 Semiautomatic Probe System",
+        "specifications": "Equipped with Agilent B1500A SDA and Agilent 4284A Precision LCR meter, dark box, and vibration isolation table. Accommodates up to 8\" wafers.",
+        "location": "Owen Characterization lab",
+        "status": ""
+      },
+      {
+        "name": "The Micromanipulator Company, Inc. 6000 Series Test Station",
+        "specifications": "Manual probe station with dark box and Agilent 4156C Precision Semiconductor Parameter Analyzer. Model 6400 microscope includes magnification of 2.25x, 8x, and 25x.",
+        "location": "Owen Characterization lab",
+        "status": ""
+      },
+      {
+        "name": "Plasma-Therm, Inc. Batchtop System VII Reactive Ion Etch",
+        "specifications": "Reactive ion plasma etcher used primarily for etching silicon dioxide, oxygen ash, and silicon nitride etch.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Wet Chemical Hood",
+        "specifications": "Fume hood and personal protection equipment used for performing wet etch.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg Instruments DWL66fs Direct Write Pattern Generator",
+        "specifications": "Used to generate chrome on quartz lithography masks with a minimum structure size of 1 micron, or for direct write lithography.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Karl Suss MJB3 Contact aligner",
+        "specifications": "Contact aligners used for photolithography with critical dimension to approximately 5 um.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Intelligent Micro Patterning LLC SF-100 Maskless Lithography System",
+        "specifications": "Maskless lithography system.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "O2 partial pressure furnace",
+        "specifications": "O2 partial pressure furnace.",
+        "location": "Dearborn 300",
+        "status": ""
+      },
+      {
+        "name": "AET Thermal Rapid Thermal Processor RX4",
+        "specifications": "Employs IR heating through a quartz chamber for implant annealing, oxidation/nitriding, silicide formation, and other rapid thermal processes up to 1200C.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Thermolyne 47900, 62700 Furnace",
+        "specifications": "Furnaces used to anneal samples in air ambient up to 1100 C.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Protherm Furnace",
+        "specifications": "Four furnaces capable of 1150 C processing, and one furnace capable of 1700 C.",
+        "location": "Ceramics Synthesis and Measurement Lab",
+        "status": ""
+      },
+      {
+        "name": "MBraun Labmaster 130, VOH-600 Oven Glove box",
+        "specifications": "PLC glove box used for dry, inert Nitrogen ambient work. Equipped with antechamber, 600C vacuum oven, and vacuum thermal evaporator.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Arradiance, Inc. GEMSTAR ALD Benchtop System",
+        "specifications": "Benchtop atomic layer deposition system accommodating up to 150mm diameter substrates and 3D objects 25mm tall. Five source lines and chamber heating to 300C.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "CVD tube furnace",
+        "specifications": "Chemical vapor deposition tube furnace.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Semigroup Plasma Enhanced Chemical Vapor Deposition System",
+        "specifications": "PECVD system dedicated to growing silicon dioxide using a dilute silane precursor.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "OSU Constructed CDS Multi technique physical vapor deposition system",
+        "specifications": "Incorporates electron beam (8kW, 6 pocket rotary egun), 2\" magnetron sputter, and thermal deposition in one chamber. Six inch substrate stage with heating to 850C, rotation, RF biasing. Base pressure <5e-8 Torr.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "OSU constructed Electron beam evaporator",
+        "specifications": "Electron beam evaporator.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermionics Pulsed Laser Deposition",
+        "specifications": "Joint OSU and Thermionics designed PLD system. Base pressure 2 x 10-9 Torr, load-locked, 6-target carousel, substrate heating to 700 C, Compex 205 248 pulsed excimer laser.",
+        "location": "Weniger 475",
+        "status": ""
+      },
+      {
+        "name": "Neocera Pulsed Laser Deposition",
+        "specifications": "Base pressure 2 x 10-7 Torr, 6-target capability, resistive heating to 900 C, Compex 205 248 pulsed excimer laser.",
+        "location": "Weniger 475",
+        "status": ""
+      },
+      {
+        "name": "OSU constructed Pulsed Laser Deposition",
+        "specifications": "OSU constructed PLD system.",
+        "location": "Dearborn 300",
+        "status": ""
+      },
+      {
+        "name": "Site Services Inc. Tractix Track coating system",
+        "specifications": "Includes 6000 rpm spin module with edge bead removal, high temperature bake module, and active cooling module along a linear track. Used for prompt inorganic condensation materials deposition.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Sonoplotter",
+        "specifications": "Micro pipet printer used to print and pattern devices.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "OSU Constructed TANG Magnetron Sputter Deposition System",
+        "specifications": "Magnetron sputter deposition system.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "CPA Radio Frequency Sputter Deposition",
+        "specifications": "Radio frequency sputter deposition system.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "AJA International, Inc. Orion 5 Sputter Deposition System",
+        "specifications": "Sputter deposition system.",
+        "location": "Owen Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Radio Frequency Sputter Deposition System",
+        "specifications": "OSU constructed radio frequency sputter deposition system.",
+        "location": "Dearborn 300",
+        "status": ""
+      },
+      {
+        "name": "Sputter coater",
+        "specifications": "Sputter coater.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Polaron thermal evaporator",
+        "specifications": "Uses resistive filament evaporation source and quartz bell jar. Base pressure < 5 E-5mbar. Used for depositing aluminum.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "VEECO 7700 Series Thermal evaporator",
+        "specifications": "Manually controlled thermal evaporator with water cooled feedthroughs, current drive in 220 Amp range, sequential deposition capability, and quartz crystal monitor. Base pressure < 5 E-6 Torr.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Cooke thermal evaporator",
+        "specifications": "Uses resistive filament evaporation source, stainless steel bell jar, and turbomolecular pump. Used for depositing aluminum.",
+        "location": "Owen cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Schrader thermal evaporator",
+        "specifications": "Thermal evaporator.",
+        "location": "Weniger 4??",
+        "status": ""
+      },
+      {
+        "name": "VEECO thermal evaporator",
+        "specifications": "Thermal evaporator.",
+        "location": "Weniger 4??",
+        "status": ""
+      },
+      {
+        "name": "CV-164D Thermal Evaporator",
+        "specifications": "Uses resistive filament evaporation source, quartz bell jar, and diffusion pump. Base pressure < 2 E-6.",
+        "location": "Dearborn 300",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "oregonstate-nano",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:21:57.266Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "oregonstate-nano",
+    "analyzedAt": "2026-08-20T18:21:59.387Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

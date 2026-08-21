@@ -155,6 +155,35 @@ const COORDS = {
   // ── South America ──
   'unicamp-brazil': [-22.8184, -47.0647],  // Unicamp, Campinas
 
+  // ── New batch (discovered) ──
+  'gt-ien':           [33.7780, -84.3963],   // Georgia Tech, Atlanta
+  'caltech-kni':      [34.1377, -118.1253],  // Caltech, Pasadena
+  'minnesota-mnc':    [44.9746, -93.2313],   // U Minnesota, Minneapolis
+  'upenn-singh':      [39.9522, -75.1910],   // UPenn Singh Center, Philadelphia
+  'maryland-fablab':  [38.9897, -76.9378],   // U Maryland, College Park
+  'asu-nanofab':      [33.4234, -111.9391],  // Arizona State, Tempe
+  'ufl-nrf':          [29.6436, -82.3549],   // U Florida, Gainesville
+  'pitt-nfcf':        [40.4444, -79.9608],   // U Pittsburgh
+  'argonne-cnm':      [41.7183, -87.9814],   // Argonne National Lab, IL
+  'ornl-cnms':        [35.9301, -84.3120],   // Oak Ridge National Lab, TN
+  'nist-cnst':        [39.1349, -77.2199],   // NIST, Gaithersburg MD
+  'epfl-cmi':         [46.5191, 6.5668],     // EPFL, Lausanne
+  'delft-kavli':      [51.9989, 4.3733],     // TU Delft
+  'chalmers-mc2':     [57.6889, 11.9787],    // Chalmers, Gothenburg
+  'dtu-nanolab':      [55.7861, 12.5234],    // DTU, Lyngby
+  'glasgow-jwnc':     [55.8721, -4.2882],    // U Glasgow, JWNC
+  'southampton-nano': [50.9377, -1.3959],    // U Southampton
+  'twente-mesa':      [52.2395, 6.8567],     // U Twente, Enschede
+  'tyndall-ireland':  [51.8896, -8.4894],    // Tyndall, Cork
+  'nus-nanofab':      [1.2966, 103.7764],    // NUS, Singapore
+  'postech-nano':     [36.0140, 129.3220],   // POSTECH, Pohang
+  'iitk-4i':          [26.5123, 80.2329],    // IIT Kanpur
+  'iitr-iic':         [29.8650, 77.8964],    // IIT Roorkee
+  'iitm-crf':         [12.9915, 80.2337],    // IIT Madras, Chennai
+  'louisville-mntc':  [38.2160, -85.7580],   // U Louisville, KY
+  'sutd-cleanroom':   [1.3410, 103.9640],    // SUTD, Singapore
+  'iitbhilai-cif':    [21.1938, 81.2860],    // IIT Bhilai
+
   // ── Decoy ──
   'decoy':          [40.0, -74.0],         // Placeholder
 };

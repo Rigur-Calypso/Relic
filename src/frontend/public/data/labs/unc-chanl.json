@@ -1,0 +1,48 @@
+{
+  "target": {
+    "id": "unc-chanl",
+    "name": "UNC CHANL",
+    "url": "https://chanl.unc.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "unc-chanl",
+    "name": "UNC CHANL",
+    "url": "https://chanl.unc.edu/",
+    "scrapedAt": "2026-08-20T18:05:20.952Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "unc-chanl",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://chanl.unc.edu/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:06:02.157Z",
+    "equipment": [
+      {
+        "name": "High Resolution S/TEM",
+        "specifications": "",
+        "location": "Chapman Hall",
+        "status": ""
+      },
+      {
+        "name": "AFM-IR",
+        "specifications": "",
+        "location": "Chapman Hall",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "unc-chanl",
+    "analyzedAt": "2026-08-20T20:21:06.958Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

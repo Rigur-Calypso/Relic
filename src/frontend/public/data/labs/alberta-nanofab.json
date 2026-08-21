@@ -1,0 +1,121 @@
+{
+  "target": {
+    "id": "alberta-nanofab",
+    "name": "Alberta",
+    "url": "https://www.nanofab.ualberta.ca/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "alberta-nanofab",
+    "name": "Alberta",
+    "url": "https://www.nanofab.ualberta.ca/",
+    "scrapedAt": "2026-08-20T20:27:22.326Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Plasma-Therm Versaline PECVD",
+        "specifications": "Optical Emission Interferometry (OEI)",
+        "location": "nanoFAB",
+        "status": ""
+      },
+      {
+        "name": "Bruker D8D plus diffractometer",
+        "specifications": "Advanced XRD techniques, Non-Coplanar Scan, Pole Figure, 2D Stress Measurement, and Multi-Angle Scattering",
+        "location": "nanoFAB",
+        "status": ""
+      },
+      {
+        "name": "Keyence VK-X3050 3D Surface Profiler",
+        "specifications": "Multi-mode Optical Profilometer: Confocal, White Light Interferometry, and Focus Variation",
+        "location": "nanoFAB",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg MLA150",
+        "specifications": "Field alignment capability, DWL alignment precision",
+        "location": "nanoFAB",
+        "status": ""
+      },
+      {
+        "name": "Bruker D8 DISCOVER SAXS X-ray diffractometer",
+        "specifications": "Advanced material characterization and nanostructure analysis",
+        "location": "nanoFAB",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "alberta-nanofab",
+    "snapshotUrl": "http://web.archive.org/web/20240110085753/https://www.nanofab.ualberta.ca/",
+    "snapshotTimestamp": "20240110085753",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T20:27:32.640Z",
+    "equipment": [
+      {
+        "name": "Bruker D8D+",
+        "specifications": "SAXS, GI-SAXS, WAXS",
+        "location": "",
+        "status": "Available"
+      },
+      {
+        "name": "nGauge AFM",
+        "specifications": "AFM",
+        "location": "",
+        "status": "Available"
+      },
+      {
+        "name": "S/TEM",
+        "specifications": "In-situ heating, Imaging, Diffraction and EDX",
+        "location": "",
+        "status": "Available"
+      },
+      {
+        "name": "Bruker D8D plus",
+        "specifications": "XRD, XRR, GI-SAXS/GI-WAXS and SAXS",
+        "location": "",
+        "status": "Operational"
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "alberta-nanofab",
+    "analyzedAt": "2026-08-20T20:27:39.345Z",
+    "vitalityScore": 40,
+    "summary": "The lab facility page underwent a significant equipment refresh, retaining variations of the Bruker D8 systems while losing the nGauge AFM and S/TEM systems completely. Several new systems such as the Plasma-Therm PECVD, Keyence Surface Profiler, and Heidelberg MLA150 were added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "nGauge AFM",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment list."
+      },
+      {
+        "name": "S/TEM",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment list."
+      }
+    ],
+    "added": [
+      {
+        "name": "Plasma-Therm Versaline PECVD"
+      },
+      {
+        "name": "Keyence VK-X3050 3D Surface Profiler"
+      },
+      {
+        "name": "Heidelberg MLA150"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Bruker D8D plus",
+        "change": "Updated name to Bruker D8D plus diffractometer and expanded specifications to include Advanced XRD techniques, Non-Coplanar Scan, Pole Figure, 2D Stress Measurement, and Multi-Angle Scattering."
+      },
+      {
+        "name": "Bruker D8D+",
+        "change": "Updated specifications and naming to Bruker D8 DISCOVER SAXS X-ray diffractometer with advanced material characterization capabilities."
+      }
+    ]
+  }
+}

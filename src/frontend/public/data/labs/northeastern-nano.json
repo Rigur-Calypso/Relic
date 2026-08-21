@@ -1,0 +1,208 @@
+{
+  "target": {
+    "id": "northeastern-nano",
+    "name": "Northeastern",
+    "url": "https://cmc.sites.northeastern.edu/facilities/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "northeastern-nano",
+    "name": "Northeastern",
+    "url": "https://cmc.sites.northeastern.edu/facilities/",
+    "scrapedAt": "2026-08-20T20:02:05.583Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "CMP tool",
+        "specifications": "with end point detection",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Laser surface scanner",
+        "specifications": "200 nm resolution",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Laser airborne and liquid counter",
+        "specifications": "200 nm resolution",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "CNC particle counters",
+        "specifications": "10 nm resolution",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Zeta potential measurement tool",
+        "specifications": "down to 1 nm particles",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope",
+        "specifications": "",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "FESEM",
+        "specifications": "",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Nanolithography System",
+        "specifications": "E-beam, AFM, capable of making structures down to 20 nm",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "TSI CNC particle counters",
+        "specifications": "2 nm resolution",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "PSIA XE150 Atomic Force Microscope",
+        "specifications": "",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Nikkon Fluorescence microscope",
+        "specifications": "",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Karl Ziess Supra 25 FESEM",
+        "specifications": "with EDS",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Surface energy and contact angle automated measurement",
+        "specifications": "",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Zygo Surface Profiler",
+        "specifications": "",
+        "location": "Egan Research Center",
+        "status": ""
+      },
+      {
+        "name": "Nanoimprint Lithography",
+        "specifications": "",
+        "location": "Egan Research Center",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "northeastern-nano",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cmc.sites.northeastern.edu/facilities/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T20:02:16.750Z",
+    "equipment": [
+      {
+        "name": "Nanolithography System",
+        "specifications": "E-beam, AFM, capable of making structures down to 20 nm",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Laser surface scanner",
+        "specifications": "200 nm resolution",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Laser airborne counter",
+        "specifications": "200 nm resolution",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "TSI CNC particle counters",
+        "specifications": "2 nm resolution",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PSIA XE150 Atomic Force Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nikkon Fluorescence microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Karl Ziess Supra 25 FESEM",
+        "specifications": "with EDS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zygo Surface Profiler",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "CMP tool",
+        "specifications": "with end point detection",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nanoimprint Lithography",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "northeastern-nano",
+    "analyzedAt": "2026-08-20T20:02:23.312Z",
+    "vitalityScore": 85,
+    "summary": "The lab facility page has been updated to include location information for equipment and several new tools have been added. Most historical equipment is preserved, but a few items such as the Laser airborne counter and standalone FESEM/AFM entries appear modified or omitted in favor of more specific listings.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Laser airborne counter",
+        "severity": "critical",
+        "reason": "The standalone laser airborne counter was removed, though a combined laser airborne and liquid counter is now present."
+      }
+    ],
+    "added": [
+      {
+        "name": "Laser airborne and liquid counter"
+      },
+      {
+        "name": "Zeta potential measurement tool"
+      },
+      {
+        "name": "Surface energy and contact angle automated measurement"
+      }
+    ],
+    "modified": [
+      {
+        "name": "TSI CNC particle counters",
+        "change": "Resolution specification modified and a generic CNC particle counters entry added alongside the TSI model."
+      }
+    ]
+  }
+}

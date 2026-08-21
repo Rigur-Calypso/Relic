@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "kit-nano",
+    "name": "KIT",
+    "url": "https://www.knmf.kit.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "kit-nano",
+    "name": "KIT",
+    "url": "https://www.knmf.kit.edu/",
+    "scrapedAt": "2026-08-20T18:35:34.686Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "kit-nano",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:36:01.217Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "kit-nano",
+    "analyzedAt": "2026-08-20T18:36:03.341Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

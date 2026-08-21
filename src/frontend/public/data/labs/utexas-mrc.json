@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "utexas-mrc",
+    "name": "UT Austin MRC",
+    "url": "https://quantum.utexas.edu/facilities",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "utexas-mrc",
+    "name": "UT Austin MRC",
+    "url": "https://quantum.utexas.edu/facilities",
+    "scrapedAt": "2026-08-20T18:01:37.056Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "utexas-mrc",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:01:58.590Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "utexas-mrc",
+    "analyzedAt": "2026-08-20T18:02:00.715Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

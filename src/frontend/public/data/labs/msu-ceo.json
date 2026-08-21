@@ -1,0 +1,553 @@
+{
+  "target": {
+    "id": "msu-ceo",
+    "name": "Michigan State",
+    "url": "https://www.egr.msu.edu/cmsc/equipments/all",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "msu-ceo",
+    "name": "Michigan State",
+    "url": "https://www.egr.msu.edu/cmsc/equipments/all",
+    "scrapedAt": "2026-08-20T18:30:58.127Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Extec 5000 Composite Cutoff Saw",
+        "specifications": "Precision automated composite section saw",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Scanning Probe Microscope",
+        "specifications": "Scanning probe microscopes, like the Atomic Force Microscope (AFM) and the Scanning Tunneling Microscope (STM), are used to image and measure properties of material, chemical and biological surfaces.",
+        "location": "3136 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Gas Pynchnometer",
+        "specifications": "Density measurement of powders and nonuniform solids",
+        "location": "4143 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Particle Pulverization",
+        "specifications": "Reducing particles to micron-scale size.",
+        "location": "Engineering Building & CVRC",
+        "status": ""
+      },
+      {
+        "name": "BET Surface Area and Porosity Analyzer",
+        "specifications": "Measurement of nanoparticle surface area.",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Inert Gas Glove Box Workstation",
+        "specifications": "Argon rich atmosphere workstation, less than 10ppm water and oxygen.",
+        "location": "3150 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "FlackTek Speed Mixers",
+        "specifications": "Rapid, high shear mixing of viscous liquids and solid particles. Particle size reduction.",
+        "location": "3150 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Three-Roll Mill",
+        "specifications": "Homogenization, dispersion, and size reduction of solid particles suspended in viscous liquids, such as epoxy.",
+        "location": "3150 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Mini DeBee Homogenizer",
+        "specifications": "Creates homogenous emulsions and suspensions & reduces the size of solid particles.",
+        "location": "CVRC",
+        "status": ""
+      },
+      {
+        "name": "Microwave Digestor",
+        "specifications": "Microwave Digestor",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscopy",
+        "specifications": "Optical Microscopy",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "TABER Rotary Platform Abrader",
+        "specifications": "Measures the effects of wear.",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Laser Micrometer",
+        "specifications": "Accurately measures objects only a few microns wide.",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Gamry Electro-Chemical Spectrometer",
+        "specifications": "Measurement of electrical conductivity and other electro-chemical properties of materials.",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "TMI Impact Testing Machine",
+        "specifications": "Measures the impact resistance of polymers and composites.",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Environmental Conditioning",
+        "specifications": "Elevated temperature and humidity conditioning of test samples.",
+        "location": "3140 & 3153 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "DSM 15cc Mini-Extruder & 3.5cc Mini-Injection Molder",
+        "specifications": "Rapid production of mechanical test samples from very small batches of materials.",
+        "location": "Two units, 1120 and 3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "C.W. Brabender 75cc Banbury Mixer & Plasticorder",
+        "specifications": "Lab-size internal mixer for elastomer and polymer composite compounding.",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "TMP 140 Ton Vacuum Hot Press, along with smaller presses",
+        "specifications": "Hot Presses for forming or curing polymer composite panels and sheets.",
+        "location": "CVRC or 4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Leistritz Extruder",
+        "specifications": "Compounds polymer composites, producing pellets or films.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "85-Ton Injection Molder",
+        "specifications": "Produces injection molded samples for mechanical testing.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Research Tool Hot-Melt Prepregger",
+        "specifications": "Produces unidirectional fiber/thermoset polymer prepreg tapes.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "United McGill MiniBonder Autoclave",
+        "specifications": "Consolidation of laminate composites.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Plasma Reactor",
+        "specifications": "Plasma Reactor",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Fiber Handling Equipment",
+        "specifications": "Kamitsu Fiber Re-winder",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Continuous UV/Ozone Chamber",
+        "specifications": "Fiber Surface Treatment Line",
+        "location": "3140 Engineering",
+        "status": ""
+      },
+      {
+        "name": "ARES Rheometer",
+        "specifications": "ARES Rheometer",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Anter Thermal Conductivity Unit",
+        "specifications": "Thermal Conductivity",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Thermomechanical Analysis",
+        "specifications": "Thermomechanical Analysis 400",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Mechanical Analysis",
+        "specifications": "Dynamic Mechanical Analysis 800",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Raman Spectrometer",
+        "specifications": "Raman; Raman Spectrometer",
+        "location": "1130 Engineering",
+        "status": ""
+      },
+      {
+        "name": "Carl Zeiss Auriga Dual Column FIB SEM",
+        "specifications": "Auriga Dual Column FIB SEM",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "TA Instruments TGA 500",
+        "specifications": "TA Instruments TGA 500",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimeter",
+        "specifications": "Q2000 DSC",
+        "location": "4145 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Carl Zeiss Varible Pressure SEM EVO LS25",
+        "specifications": "Varible Pressure SEM for enhanced imaging of insulating or wet materials",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectrometer",
+        "specifications": "X-ray Photoelectron Spectrometer, XPS, ESCA, Electron Spectroscopy for Chemical Analysis",
+        "location": "Room 1130 Engineering",
+        "status": ""
+      },
+      {
+        "name": "Introduction to Polymer and Composite Processing",
+        "specifications": "Processing Equipment",
+        "location": "CMSC",
+        "status": ""
+      },
+      {
+        "name": "Little Hornet Filament Winder",
+        "specifications": "Filament Winder",
+        "location": "Composite Vehicle Research Center, MSU Industrial Park",
+        "status": ""
+      },
+      {
+        "name": "Ultracryomicrotome",
+        "specifications": "The ultramicrotome is used to cut very thin sections of specimens. This is required for some techniques like TEM and AFM.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "MTS Nanoindenter",
+        "specifications": "Nanoindenting is a method for characterizing a material's mechanical properties on a very small scale.",
+        "location": "3136 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Sample Preparation Equipment",
+        "specifications": "Sectioning and polishing samples for testing & microscopy.",
+        "location": "3140 & 4145 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Mechanical Testing",
+        "specifications": "This equipment is used to determine physical properties such as strength and stiffness of materials under different stress states: tension, compression, shear or flexure.",
+        "location": "4145 EB",
+        "status": ""
+      },
+      {
+        "name": "Oxygen, Carbon Dioxide, Water Vapor Permiation",
+        "specifications": "Gas Transmission Through Films",
+        "location": "4138 Engineering Building",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "msu-ceo",
+    "snapshotUrl": "http://web.archive.org/web/20231001175622/https://www.egr.msu.edu/cmsc/equipments/all",
+    "snapshotTimestamp": "20231001175622",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T18:31:14.313Z",
+    "equipment": [
+      {
+        "name": "Extec 5000 Composite Cutoff Saw",
+        "specifications": "Precision automated composite section saw",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Scanning Probe Microscope",
+        "specifications": "Scanning probe microscopes, like the Atomic Force Microscope (AFM) and the Scanning Tunneling Microscope (STM), are used to image and measure properties of material, chemical and biological surfaces.",
+        "location": "3136 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Gas Pynchnometer",
+        "specifications": "Density measurement of powders and nonuniform solids",
+        "location": "4143 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Particle Pulverization",
+        "specifications": "Reducing particles to micron-scale size.",
+        "location": "Engineering Building & CVRC",
+        "status": ""
+      },
+      {
+        "name": "BET Surface Area and Porosity Analyzer",
+        "specifications": "Measurement of nanoparticle surface area.",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Inert Gas Glove Box Workstation",
+        "specifications": "Argon rich atmosphere workstation, less than 10ppm water and oxygen.",
+        "location": "3150 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "FlackTek Speed Mixers",
+        "specifications": "Rapid, high shear mixing of viscous liquids and solid particles. Particle size reduction.",
+        "location": "3150 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Three-Roll Mill",
+        "specifications": "Homogenization, dispersion, and size reduction of solid particles suspended in viscous liquids, such as epoxy.",
+        "location": "3150 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Mini DeBee Homogenizer",
+        "specifications": "Creates homogenous emulsions and suspensions & reduces the size of solid particles.",
+        "location": "CVRC",
+        "status": ""
+      },
+      {
+        "name": "Microwave Digestor",
+        "specifications": "Microwave Digestor",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscopy",
+        "specifications": "Optical Microscopy",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "TABER Rotary Platform Abrader",
+        "specifications": "Measures the effects of wear.",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Laser Micrometer",
+        "specifications": "Accurately measures objects only a few microns wide.",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Gamry Electro-Chemical Spectrometer",
+        "specifications": "Measurement of electrical conductivity and other electro-chemical properties of materials.",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "TMI Impact Testing Machine",
+        "specifications": "Measures the impact resistance of polymers and composites.",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Environmental Conditioning",
+        "specifications": "Elevated temperature and humidity conditioning of test samples.",
+        "location": "3140 & 3153 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "DSM 15cc Mini-Extruder & 3.5cc Mini-Injection Molder",
+        "specifications": "Rapid production of mechanical test samples from very small batches of materials.",
+        "location": "Two units, 1120 and 3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "C.W. Brabender 75cc Banbury Mixer & Plasticorder",
+        "specifications": "Lab-size internal mixer for elastomer and polymer composite compounding.",
+        "location": "3140 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "TMP 140 Ton Vacuum Hot Press, along with smaller presses",
+        "specifications": "Hot Presses for forming or curing polymer composite panels and sheets.",
+        "location": "CVRC or 4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Leistritz Extruder",
+        "specifications": "Compounds polymer composites, producing pellets or films.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "85-Ton Injection Molder",
+        "specifications": "Produces injection molded samples for mechanical testing.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Research Tool Hot-Melt Prepregger",
+        "specifications": "Produces unidirectional fiber/thermoset polymer prepreg tapes.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "United McGill MiniBonder Autoclave",
+        "specifications": "Consolidation of laminate composites.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Plasma Reactor",
+        "specifications": "Plasma Reactor",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Fiber Handling Equipment",
+        "specifications": "Kamitsu Fiber Re-winder",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Continuous UV/Ozone Chamber",
+        "specifications": "Fiber Surface Treatment Line",
+        "location": "3140 Engineering",
+        "status": ""
+      },
+      {
+        "name": "ARES Rheometer",
+        "specifications": "ARES Rheometer",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Anter Thermal Conductivity Unit",
+        "specifications": "Thermal Conductivity",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Thermomechanical Analysis",
+        "specifications": "Thermomechanical Analysis 400",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Mechanical Analysis",
+        "specifications": "Dynamic Mechanical Analysis 800",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Raman Spectrometer",
+        "specifications": "Raman; Raman Spectrometer",
+        "location": "1130 Engineering",
+        "status": ""
+      },
+      {
+        "name": "Carl Zeiss Auriga Dual Column FIB SEM",
+        "specifications": "Auriga Dual Column FIB SEM",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "TA Instruments TGA 500",
+        "specifications": "TA Instruments TGA 500",
+        "location": "4138 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimeter",
+        "specifications": "Q2000 DSC",
+        "location": "4145 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Carl Zeiss Varible Pressure SEM EVO LS25",
+        "specifications": "Varible Pressure SEM for enhanced imaging of insulating or wet materials",
+        "location": "1130 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectrometer",
+        "specifications": "X-ray Photoelectron Spectrometer, XPS, ESCA, Electron Spectroscopy for Chemical Analysis",
+        "location": "Room 1130 Engineering",
+        "status": ""
+      },
+      {
+        "name": "Introduction to Polymer and Composite Processing",
+        "specifications": "Processing Equipment",
+        "location": "CMSC",
+        "status": ""
+      },
+      {
+        "name": "Little Hornet Filament Winder",
+        "specifications": "Filament Winder",
+        "location": "Composite Vehicle Research Center, MSU Industrial Park",
+        "status": ""
+      },
+      {
+        "name": "Ultracryomicrotome",
+        "specifications": "The ultramicrotome is used to cut very thin sections of specimens. This is required for some techniques like TEM and AFM.",
+        "location": "1120 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "MTS Nanoindenter",
+        "specifications": "Nanoindenting is a method for characterizing a material's mechanical properties on a very small scale.",
+        "location": "3136 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Sample Preparation Equipment",
+        "specifications": "Sectioning and polishing samples for testing & microscopy.",
+        "location": "3140 & 4145 Engineering Building",
+        "status": ""
+      },
+      {
+        "name": "Mechanical Testing",
+        "specifications": "This equipment is used to determine physical properties such as strength and stiffness of materials under different stress states: tension, compression, shear or flexure.",
+        "location": "4145 EB",
+        "status": ""
+      },
+      {
+        "name": "Oxygen, Carbon Dioxide, Water Vapor Permiation",
+        "specifications": "Gas Transmission Through Films",
+        "location": "4138 Engineering Building",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "msu-ceo",
+    "analyzedAt": "2026-08-20T18:31:20.433Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and instrumentation are fully preserved in the current facility page with no knowledge loss or modifications.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

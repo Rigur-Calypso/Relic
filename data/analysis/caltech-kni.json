@@ -1,0 +1,15 @@
+{
+  "targetId": "caltech-kni",
+  "analyzedAt": "2026-08-21T09:21:54.978Z",
+  "vitalityScore": 100,
+  "summary": "All 11 equipment categories from historical data remain present in the current snapshot, with minor singularization of names and slight specification text updates. No equipment was removed.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "PECVD",
+      "change": "Specification detailing 'Plasma-enhanced chemical vapor deposition' was cleared in current snapshot."
+    }
+  ]
+}

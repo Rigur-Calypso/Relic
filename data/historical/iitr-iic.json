@@ -1,0 +1,141 @@
+{
+  "targetId": "iitr-iic",
+  "snapshotUrl": "http://web.archive.org/web/20231205182321/https://iitr.ac.in/Centres/Institute%20Instrumentation%20Centre/Research/Analytical%20Facilities.html",
+  "snapshotTimestamp": "20231205182321",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-21T09:34:12.492Z",
+  "equipment": [
+    {
+      "name": "Microwave Plasma Atomic Emission Spectroscopy (MPAES)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Scanning Electron Microscope (Apreo)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Scanning Electron Microscope (ZEISS Gemini)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Scanning Electron Microscope (Zeiss Ultra Plus)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscope (TEM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electron Probe Micro-Analysis (EPMA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fluorescence Lifetime System (FLS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma mass Spectrometry (ICPMS-MS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Macromolecular Crystallographic Unit (MCU)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance (NMR)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Powdered X-Ray Diffractometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GI-X-Ray Diffractometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Probe Microscopy (SPM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Superconducting Quantum Interference Device (SQUID)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermal Ionization Mass Spectrometer (TIMS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermo gravimetric/ Differential Thermal Analyzer (TG/DTA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vibrating sample magnetometer (VSM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray Fluorescence (XRF)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray photoelectron spectroscopy (XPS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electron Paramagnetic Resonance (EPR) Spectroscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Physical Property Measurement System (PPMS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis-NIR spectrophotometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

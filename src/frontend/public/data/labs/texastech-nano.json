@@ -1,0 +1,210 @@
+{
+  "target": {
+    "id": "texastech-nano",
+    "name": "Texas Tech",
+    "url": "https://www.depts.ttu.edu/coe/research/mcc/facilities.php",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "texastech-nano",
+    "name": "Texas Tech",
+    "url": "https://www.depts.ttu.edu/coe/research/mcc/facilities.php",
+    "scrapedAt": "2026-08-20T20:34:52.118Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Scanning Electron Microscopy",
+        "specifications": "SEM",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscopy",
+        "specifications": "TEM",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Focused Ion & Electron Beam System",
+        "specifications": "FIB-SEM",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Sputter & Carbon Coater",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscopy",
+        "specifications": "MFP-3D-SA AFM",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscopy",
+        "specifications": "Dimension Icon",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Spinning Disk Confocal System",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscopy",
+        "specifications": "Visible-Light",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Fourier Transform Infrared Spectroscopy",
+        "specifications": "FTIR / Infrared Microscopy",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Fourier Transform Raman Spectroscopy",
+        "specifications": "FT-Raman / Dispersive Raman Microscopy / Spectroscopy",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis-NIR Spectroscopy",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatograph-Mass Spectroscopy",
+        "specifications": "GC-MS",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy",
+        "specifications": "XPS",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscopy with Energy Dispersive X-Ray Spectroscopy",
+        "specifications": "SEM-EDS",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscopy with Energy Dispersive X-Ray Spectroscopy",
+        "specifications": "TEM-EDS",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Focused Ion & Electron Beam System with Energy Dispersive X-Ray Spectroscopy",
+        "specifications": "FIB-SEM-EDS",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Particle Size Analysis",
+        "specifications": "Zetatrac",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Particle Size Analysis",
+        "specifications": "API Aerosizer",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Micropore/Mesopore Analysis",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Zeta Potential Analysis",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry",
+        "specifications": "DSC",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffractometry",
+        "specifications": "MiniFlex 6G",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffractometry",
+        "specifications": "SmartLab 3kW XE",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Vacuum Oven",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Ovens",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Furnaces",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Centrifuge",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "HF-Resistant Hood",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      },
+      {
+        "name": "Biosafety BSL2 Hood",
+        "specifications": "",
+        "location": "Materials Characterization Center",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "texastech-nano",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:48:00.363Z",
+    "equipment": [],
+    "note": "Wayback snapshot unreachable via Bright Data"
+  },
+  "analysis": {
+    "targetId": "texastech-nano",
+    "analyzedAt": "2026-08-20T20:48:00.653Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

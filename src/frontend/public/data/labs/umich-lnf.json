@@ -1,0 +1,1518 @@
+{
+  "target": {
+    "id": "umich-lnf",
+    "name": "Michigan Lurie Nanofab",
+    "url": "https://lnf.engin.umich.edu/equipment/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "umich-lnf",
+    "name": "Michigan Lurie Nanofab",
+    "url": "https://lnf.engin.umich.edu/equipment/",
+    "scrapedAt": "2026-08-20T17:52:36.278Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Angstrom Engineering Furnace",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Glove Box",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "JetFirst-100 Forming",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "JetFirst-150 RTP",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S1T1 – Annealing",
+        "specifications": "4″ & 6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S6T1 – Annealing",
+        "specifications": "non-CMOS",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S5T1 – Phosphorous Diffusion",
+        "specifications": "4″ only",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S5T2 – Phosphorous Anneal/Oxidation",
+        "specifications": "4″ only",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S5T3 – Boron Diffusion",
+        "specifications": "4″ only",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S5T4 – Boron Anneal/Oxidation",
+        "specifications": "4″ only",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "ACS 200 cluster tool",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE 100CB Spinner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE 200X PR Spinner #1",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE 200X PR Spinner #2",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE Developer #1",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE Developer #2",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Deep UV SenLights PL16",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "GCA AS200 AutoStep",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg Mask Maker",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Image Reversal Oven",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "JEOL E-Beam",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "MA/BA-6 Mask/Bond Aligner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "MA6 Mask Aligner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "MJB3-#2",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Spinner CEE Apogee",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S1T2 – LTO",
+        "specifications": "4″ (No Metals)",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S1T3 – N-Type in Situ Doped Poly-Si",
+        "specifications": "6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S1T4 – LTO",
+        "specifications": "6″ (No Metals)",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S2T2 – Nitride/HTO",
+        "specifications": "6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S2T3 – Nitride/HTO",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S2T4 – Low Stress Nitride",
+        "specifications": "4″ and 6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S3T3 – Flat Poly-Si",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S3T4 – N-Type in Situ Doped Poly-Si",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S4T2 – PSG",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S4T3 – P-Type in Situ Doped Poly-Si",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S4T4 – TEOS",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S6T2 – Nitride/HTO/OxyNitride",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S6T3 – Non CMOS Clean Poly",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S6T4 – Non CMOS Clean LTO",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Dektak XT Surface Profilometer",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EDS",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Flexus 2320-S",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "ICON AFM",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "IR Microscope",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "NanoSpec 6100",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Probe Station Everbeing BD-6",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "SEM In-line",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Woollam M-2000 Ellipsometer",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Zygo NewView 5000",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S2T1 – Storage",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S3T1 – Dry Oxidation",
+        "specifications": "4″ and 6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S3T2 – Wet Oxidation",
+        "specifications": "4″ and 6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "GSI PECVD",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Oxford ALD",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "P5000 PECVD",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Veeco Fiji ALD",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "LAM 9400",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Nanoquest II Ion Mill",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Oxford ICP RIE",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "P5000 RIE",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Plasmatherm 790",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Sample Mounting Station",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "STS Glass Etcher",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "STS Pegasus 4",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "STS Pegasus 6",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Xactix XeF2",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "YES Plasma Stripper",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Gold Plating Station",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "AE Evaporator",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Cooke Evaporator",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Endeavor M1 AlN Sputter",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EnerJet Evaporator",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Lab18_01",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Lab18_02",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "PDS 2035",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "PVD75",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "SJ-20 Evaporator",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Tousimis Automegasamdri 915B (CPD)-1",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CL200 Megasonic Cleaner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EVG 510",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EVG 520IS",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EVG620 Bond Aligner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "nP12 nanoPREP",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "SB-6E Bonder",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "PSC 122M Mask Cleaner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 02",
+        "specifications": "1480C",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 12",
+        "specifications": "1480B",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 73",
+        "specifications": "1440B",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 80",
+        "specifications": "1440A",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Base Bench 63",
+        "specifications": "1440C",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Solvent Bench 22",
+        "specifications": "1480A",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Spinner/Hot-Plate Bench 21",
+        "specifications": "1480A",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Mask Bench 13",
+        "specifications": "1480B",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "PFC Bench 01",
+        "specifications": "1480C",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "RCA Clean Bench 81",
+        "specifications": "1440A",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Solvent Bench 14",
+        "specifications": "1480B",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Solvent Bench 83",
+        "specifications": "1440A",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Solvent Bench 84",
+        "specifications": "1440A",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Convection Oven",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Furnace Sentro-Tech ST-1800C-888",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "YES Vacuum Oven",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Dimatix InkJet",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "MJB 45S",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "NanoInk DPN 5000",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Agilent uFTIR",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Dektak 6M Surface Profilometer",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "NanoSpec 6100",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Olympus BX-51 Microscope",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Olympus LEXT Interferometer",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Rame-Hart Goniometer",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "ADT 7100 Dicing Saw",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Ball Bonder MPP iBond5000",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Flip Chip Bonder",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Wedge Bonder MPP iBond5000",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "CMP Strasbaugh 6EC",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Lapper",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Glen 1000P Plasma Cleaner",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "SSEC Wafer Cleaner",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 92",
+        "specifications": "1436D",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Base Bench 91",
+        "specifications": "1436C",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "EDP Bench 93",
+        "specifications": "1436D",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Solvent Bench 94",
+        "specifications": "1436F",
+        "location": "ROBIN",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "umich-lnf",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://lnf.engin.umich.edu/equipment/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T17:53:35.522Z",
+    "equipment": [
+      {
+        "name": "Angstrom Engineering",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Glove Box",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "JetFirst-100 Forming",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "JetFirst-150 RTP",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S1T1 – Annealing 4″ & 6″",
+        "specifications": "4″ & 6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S6T1 – Annealing (non-CMOS)",
+        "specifications": "non-CMOS",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S5T1 – Phosphorous Diffusion 4″ only",
+        "specifications": "4″ only",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S5T2 – Phosphorous Anneal/Oxidation 4″ only",
+        "specifications": "4″ only",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S5T3 – Boron Diffusion 4″ only",
+        "specifications": "4″ only",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S5T4 – Boron Anneal/Oxidation 4″ only",
+        "specifications": "4″ only",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "ACS 200 cluster tool",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE 100CB Spinner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE 200X PR Spinner #1",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE 200X PR Spinner #2",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE Developer #1",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CEE Developer #2",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Deep UV SenLights PL16",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "GCA AS200 AutoStep",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg Mask Maker",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Image Reversal Oven",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "JEOL E-Beam",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "MA/BA-6 Mask/Bond Aligner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "MA6 Mask Aligner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "MJB3-#2",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Spinner CEE Apogee",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S1T2 – LTO 4″ (No Metals)",
+        "specifications": "4″, No Metals",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S1T3 – N-Type in Situ Doped Poly-Si 6″",
+        "specifications": "6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S1T4 – LTO 6″ (No Metals)",
+        "specifications": "6″, No Metals",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S2T2 – Nitride/HTO 6″",
+        "specifications": "6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S2T3 – Nitride/HTO 4″",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S2T4 – Low Stress Nitride 4″ and 6″",
+        "specifications": "4″ and 6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S3T3 – Flat Poly-Si 4″",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S3T4 – N-Type in Situ Doped Poly-Si 4″",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S4T2 – PSG 4″",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S4T3 – P-Type in Situ Doped Poly-Si 4″",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S4T4 – TEOS 4″",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S6T2 – Nitride/HTO/OxyNitride",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S6T3 – Non CMOS Clean Poly 4″",
+        "specifications": "4″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S6T4 – Non CMOS Clean LTO",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Dektak XT Surface Profilometer",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EDS",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Flexus 2320-S",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "ICON AFM",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "IR Microscope",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "NanoSpec 6100",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Probe Station Everbeing BD-6",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "SEM In-line",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Woollam M-2000 Ellipsometer",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Zygo NewView 5000",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S2T1 – Storage",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S3T1 – Dry Oxidation 4″ and 6″",
+        "specifications": "4″ and 6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "S3T2 – Wet Oxidation 4″ and 6″",
+        "specifications": "4″ and 6″",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "GSI PECVD",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Oxford ALD",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "P5000 PECVD",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Veeco Fiji ALD",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "LAM 9400",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Nanoquest II Ion Mill",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Oxford ICP RIE",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "P5000 RIE",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Plasmatherm 790",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Sample Mounting Station",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "STS Glass Etcher",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "STS Pegasus 4",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "STS Pegasus 6",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Xactix XeF2",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "YES Plasma Stripper",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Gold Plating Station",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "AE Evaporator",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Cooke Evaporator",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Endeavor M1 AlN Sputter",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EnerJet Evaporator",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Lab18_01",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Lab18_02",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "PDS 2035",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "PVD75",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "SJ-20 Evaporator",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Tousimis Automegasamdri 915B (CPD)-1",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "CL200 Megasonic Cleaner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EVG 510",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EVG 520IS",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "EVG620 Bond Aligner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "nP12 nanoPREP",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "SB-6E Bonder",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "PSC 122M Mask Cleaner",
+        "specifications": "",
+        "location": "EECS Clean Room",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 02",
+        "specifications": "",
+        "location": "EECS Clean Room, 1480C",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 12",
+        "specifications": "",
+        "location": "EECS Clean Room, 1480B",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 73",
+        "specifications": "",
+        "location": "EECS Clean Room, 1440B",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 80",
+        "specifications": "",
+        "location": "EECS Clean Room, 1440A",
+        "status": ""
+      },
+      {
+        "name": "Base Bench 63",
+        "specifications": "",
+        "location": "EECS Clean Room, 1440C",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Solvent Bench 22",
+        "specifications": "",
+        "location": "EECS Clean Room, 1480A",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Spinner/Hot-Plate Bench 21",
+        "specifications": "",
+        "location": "EECS Clean Room, 1480A",
+        "status": ""
+      },
+      {
+        "name": "Mask Bench 13",
+        "specifications": "",
+        "location": "EECS Clean Room, 1480B",
+        "status": ""
+      },
+      {
+        "name": "PFC Bench 01",
+        "specifications": "",
+        "location": "EECS Clean Room, 1480C",
+        "status": ""
+      },
+      {
+        "name": "RCA Clean Bench 81",
+        "specifications": "",
+        "location": "EECS Clean Room, 1440A",
+        "status": ""
+      },
+      {
+        "name": "Solvent Bench 14",
+        "specifications": "",
+        "location": "EECS Clean Room, 1480B",
+        "status": ""
+      },
+      {
+        "name": "Solvent Bench 83",
+        "specifications": "",
+        "location": "EECS Clean Room, 1440A",
+        "status": ""
+      },
+      {
+        "name": "Solvent Bench 84",
+        "specifications": "",
+        "location": "EECS Clean Room, 1440A",
+        "status": ""
+      },
+      {
+        "name": "Convection Oven",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Furnace Sentro-Tech ST-1800C-888",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "YES Vacuum Oven",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Dimatix InkJet",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "MJB 45S",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "NanoInk DPN 5000",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Agilent uFTIR",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Dektak 6M Surface Profilometer",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "NanoSpec 6100",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Olympus BX-51 Microscope",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Olympus LEXT Interferometer",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Rame-Hart Goniometer",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "ADT 7100 Dicing Saw",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Ball Bonder MPP iBond5000",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Flip Chip Bonder",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Wedge Bonder MPP iBond5000",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "CMP Strasbaugh 6EC",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Lapper",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Glen 1000P Plasma Cleaner",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "SSEC Wafer Cleaner",
+        "specifications": "",
+        "location": "ROBIN",
+        "status": ""
+      },
+      {
+        "name": "Acid Bench 92",
+        "specifications": "",
+        "location": "ROBIN, 1436D",
+        "status": ""
+      },
+      {
+        "name": "Base Bench 91",
+        "specifications": "",
+        "location": "ROBIN, 1436C",
+        "status": ""
+      },
+      {
+        "name": "EDP Bench 93",
+        "specifications": "",
+        "location": "ROBIN, 1436D",
+        "status": ""
+      },
+      {
+        "name": "Solvent Bench 94",
+        "specifications": "",
+        "location": "ROBIN, 1436F",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "umich-lnf",
+    "analyzedAt": "2026-08-20T17:53:56.312Z",
+    "vitalityScore": 100,
+    "summary": "All 119 historical equipment entries are fully preserved in the current page. Several items underwent minor formatting updates where substrate specifications were moved out of tool names into the specifications column, and room numbers were moved from the location field to the specifications field.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Angstrom Engineering",
+        "change": "Renamed to 'Angstrom Engineering Furnace'."
+      },
+      {
+        "name": "S1T1 – Annealing 4″ & 6″",
+        "change": "Wafer size details ('4″ & 6″') moved from tool name string into the specifications field."
+      },
+      {
+        "name": "S6T1 – Annealing (non-CMOS)",
+        "change": "'(non-CMOS)' designation moved from tool name string into the specifications field."
+      },
+      {
+        "name": "Acid Bench 02",
+        "change": "Room number ('1480C') moved from location string into the specifications field."
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "targetId": "caltech-kni",
+  "name": "Caltech Kavli Nanoscience Institute",
+  "url": "https://www.kni.caltech.edu/kni-laboratory",
+  "scrapedAt": "2026-08-21T09:20:56.921Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "100 kV Direct-Write Electron Beam Pattern Generator",
+      "specifications": "100 kV direct-write, can handle 3-inch wafers and up to 200 mm wafers",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Electron Beam Evaporator",
+      "specifications": "For metals and oxides",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Sputtering System",
+      "specifications": "For dielectric and chalcogenide materials",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "PECVD System",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Atomic Layer Deposition System",
+      "specifications": "Includes etch capabilities",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "ICP-RIE Etcher",
+      "specifications": "Allows processing of dielectric, metal, silicon, and III-V materials",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Focused Ion Beam (FIB) System",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Scanning Probe Microscope",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscope (TEM)",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    }
+  ]
+}

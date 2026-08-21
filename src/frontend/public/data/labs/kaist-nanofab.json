@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "kaist-nanofab",
+    "name": "KAIST",
+    "url": "https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "kaist-nanofab",
+    "name": "KAIST",
+    "url": "https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+    "scrapedAt": "2026-08-20T20:24:40.295Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "kaist-nanofab",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:25:10.514Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "kaist-nanofab",
+    "analyzedAt": "2026-08-20T20:25:12.623Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

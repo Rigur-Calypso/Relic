@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "melbourne-mcn",
+    "name": "Melbourne MCN",
+    "url": "https://nanomelbourne.com/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "melbourne-mcn",
+    "name": "Melbourne MCN",
+    "url": "https://nanomelbourne.com/",
+    "scrapedAt": "2026-08-20T20:25:20.462Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "melbourne-mcn",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:25:44.777Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "melbourne-mcn",
+    "analyzedAt": "2026-08-20T20:25:46.895Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

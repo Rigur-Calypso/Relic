@@ -1,0 +1,158 @@
+{
+  "target": {
+    "id": "iitp-cif",
+    "name": "IIT Patna",
+    "url": "https://saif.iitp.ac.in/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "iitp-cif",
+    "name": "IIT Patna",
+    "url": "https://saif.iitp.ac.in/",
+    "scrapedAt": "2026-08-20T20:29:09.315Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Single Crystal X-Ray Diffractometer (SC-XRD)",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "working"
+      },
+      {
+        "name": "High Resolution - Liquid Chromatography Mass Spectrometry (HR-LCMS)",
+        "specifications": "HPLC & UHR-TOF mass spectrometer",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "under maintenance"
+      },
+      {
+        "name": "500 MHz NMR Spectrometer",
+        "specifications": "500 MHz",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "working"
+      },
+      {
+        "name": "Physiorption/Chemisorption Analyzer",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "working"
+      },
+      {
+        "name": "Differential Scanning Calorimetry (DSC)",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "working"
+      },
+      {
+        "name": "Thermogravimetric Analyzer (TGA)",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "working"
+      },
+      {
+        "name": "Particle Size and Zeta potential Analyzer",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "working"
+      },
+      {
+        "name": "FEG Scanning electron microscope with EDS",
+        "specifications": "with EDS",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "iitp-cif",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://saif.iitp.ac.in/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T20:29:23.277Z",
+    "equipment": [
+      {
+        "name": "Single Crystal X-Ray Diffractometer (SC-XRD)",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "under maintenance"
+      },
+      {
+        "name": "High Resolution - Liquid Chromatography Mass Spectrometry (HR-LCMS)",
+        "specifications": "HPLC & UHR-TOF mass spectrometer",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "under maintenance"
+      },
+      {
+        "name": "500 MHz NMR Spectrometer",
+        "specifications": "500 MHz",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "working"
+      },
+      {
+        "name": "Physiorption/Chemisorption Analyzer",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "sanctioned"
+      },
+      {
+        "name": "Differential Scanning Calorimetry",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "sanctioned"
+      },
+      {
+        "name": "Thermogravimetric Analyzer",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "sanctioned"
+      },
+      {
+        "name": "Particle Size and Zeta potential Analyzer",
+        "specifications": "",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "sanctioned"
+      },
+      {
+        "name": "FEG Scanning electron microscope",
+        "specifications": "with EDS",
+        "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+        "status": "sanctioned"
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "iitp-cif",
+    "analyzedAt": "2026-08-20T20:29:29.410Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment is still present in the current list, with improvements in status and name descriptions.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Single Crystal X-Ray Diffractometer (SC-XRD)",
+        "change": "Status updated from under maintenance to working"
+      },
+      {
+        "name": "Physiorption/Chemisorption Analyzer",
+        "change": "Status updated from sanctioned to working"
+      },
+      {
+        "name": "Differential Scanning Calorimetry",
+        "change": "Name updated to Differential Scanning Calorimetry (DSC) and status updated from sanctioned to working"
+      },
+      {
+        "name": "Thermogravimetric Analyzer",
+        "change": "Name updated to Thermogravimetric Analyzer (TGA) and status updated from sanctioned to working"
+      },
+      {
+        "name": "Particle Size and Zeta potential Analyzer",
+        "change": "Status updated from sanctioned to working"
+      },
+      {
+        "name": "FEG Scanning electron microscope",
+        "change": "Name updated to FEG Scanning electron microscope with EDS and status updated from sanctioned"
+      }
+    ]
+  }
+}

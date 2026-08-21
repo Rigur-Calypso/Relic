@@ -1,0 +1,177 @@
+{
+  "target": {
+    "id": "yale-snf",
+    "name": "Yale SNF",
+    "url": "https://research.yale.edu/cores/cleanroom",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "yale-snf",
+    "name": "Yale SNF",
+    "url": "https://research.yale.edu/cores/cleanroom",
+    "scrapedAt": "2026-08-20T17:56:59.853Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Oxford 80+ ICP RIE",
+        "specifications": "Inductively Coupled Plasma Reactive Ion Etcher",
+        "location": "Main Campus Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Oxford 100 ICP-RIE",
+        "specifications": "Inductively Coupled Plasma Reactive Ion Etcher",
+        "location": "Main Campus Cleanroom, West Campus Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Oxford Cryo Bosch DRIE",
+        "specifications": "Cryogenic Bosch Deep Reactive Ion Etcher",
+        "location": "Main Campus Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Autoglow",
+        "specifications": "Plasma cleaner / treatment system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PECVD",
+        "specifications": "Plasma-Enhanced Chemical Vapor Deposition system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "XeF2",
+        "specifications": "Xenon Difluoride Etcher",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "RTA",
+        "specifications": "Rapid Thermal Annealer",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "ALD",
+        "specifications": "Atomic Layer Deposition system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MPO100",
+        "specifications": "3D Direct Laser Writing / Lithography system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MJB4",
+        "specifications": "Mask Aligner",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MLA150",
+        "specifications": "Maskless Aligner",
+        "location": "YINQE",
+        "status": ""
+      },
+      {
+        "name": "Electron beam evaporator",
+        "specifications": "Physical Vapor Deposition system",
+        "location": "West Campus Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Reactive ion etcher",
+        "specifications": "Dry etching system",
+        "location": "West Campus Cleanroom",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "yale-snf",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://research.yale.edu/cores/cleanroom",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T17:57:28.108Z",
+    "equipment": [
+      {
+        "name": "Oxford 80+ ICP RIE",
+        "specifications": "Inductively coupled plasma reactive ion etching tool",
+        "location": "Becton Engineering and Applied Science Center, 5th floor",
+        "status": ""
+      },
+      {
+        "name": "Oxford 100 ICP-RIE",
+        "specifications": "Inductively coupled plasma reactive ion etching tool",
+        "location": "Becton Engineering and Applied Science Center, 5th floor",
+        "status": ""
+      },
+      {
+        "name": "Oxford Cryo Bosch DRIE",
+        "specifications": "Cryo Bosch deep reactive ion etching tool",
+        "location": "Becton Engineering and Applied Science Center, 5th floor",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "yale-snf",
+    "analyzedAt": "2026-08-20T17:57:39.232Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items remain present with updated location details. Ten new tools have been added to the current equipment list, indicating significant facility expansion without any knowledge loss.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Autoglow"
+      },
+      {
+        "name": "PECVD"
+      },
+      {
+        "name": "XeF2"
+      },
+      {
+        "name": "RTA"
+      },
+      {
+        "name": "ALD"
+      },
+      {
+        "name": "MPO100"
+      },
+      {
+        "name": "MJB4"
+      },
+      {
+        "name": "MLA150"
+      },
+      {
+        "name": "Electron beam evaporator"
+      },
+      {
+        "name": "Reactive ion etcher"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Oxford 80+ ICP RIE",
+        "change": "Location updated from 'Becton Engineering and Applied Science Center, 5th floor' to 'Main Campus Cleanroom'."
+      },
+      {
+        "name": "Oxford 100 ICP-RIE",
+        "change": "Location updated from 'Becton Engineering and Applied Science Center, 5th floor' to 'Main Campus Cleanroom, West Campus Cleanroom'."
+      },
+      {
+        "name": "Oxford Cryo Bosch DRIE",
+        "change": "Location updated from 'Becton Engineering and Applied Science Center, 5th floor' to 'Main Campus Cleanroom'."
+      }
+    ]
+  }
+}

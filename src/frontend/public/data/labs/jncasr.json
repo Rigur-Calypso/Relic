@@ -1,0 +1,563 @@
+{
+  "target": {
+    "id": "jncasr",
+    "name": "JNCASR Facilities",
+    "url": "https://arf.jncasr.ac.in/facilities/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "jncasr",
+    "name": "JNCASR Facilities",
+    "url": "https://arf.jncasr.ac.in/facilities/",
+    "scrapedAt": "2026-08-20T14:06:20.047Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Axio Scan Z1 (SLIDE SCANNER)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "BD FACS Aria Fusion Sorter",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "BD FACS Aria III Sorter",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "BD FACSymphony A3 Cell Analyzer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Differential scanning calorimetry (DSC 250)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Differential scanning calorimetry (DSC 3)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electron paramagnetic resonance spectroscopy (EPR)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Field emission Scanning electron microscope (Apreo 2 S) NANO LAB",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Field emission Scanning electron microscope (Zeiss, AMRL)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FTIR-DRIFTS-Thermal Emissivity",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "High Content Imaging Confocal Quantitative Image Cytometer CQ1 (YOKOGAWA)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Mass Spectroscopy (HRMS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "LSM 880 Airy Scan Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "LSM 880 Live Cell Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Matrix Assisted Laser Desorption/Ionization (MALDI)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Micro Raman Spectrometer (AMRL)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Multiphoton Microscope (OLYMPUS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic resonance (NMR) (400 MHz, Bruker)",
+        "specifications": "400 MHz, Bruker",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic resonance (NMR)(500 MHz, JEOL)",
+        "specifications": "500 MHz, JEOL",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic resonance (NMR)(600 MHz, JEOL)",
+        "specifications": "600 MHz, JEOL",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic resonance - NMR Solid State (400 MHz, Bruker)",
+        "specifications": "400 MHz, Bruker",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscope (Keyence)",
+        "specifications": "Keyence",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Photoluminescence (PL) (Horiba)",
+        "specifications": "Horiba",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Photoluminescence (temperature Dependent)",
+        "specifications": "Currently without quantum yield measurement",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Plasma Treatment system",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Powder XRD (Rigaku)",
+        "specifications": "Rigaku",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Powder XRD (Rigaku Smartlab - New)",
+        "specifications": "Rigaku Smartlab",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Q Exactive HF Mass Spectrometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Single Crystal X-ray Diffractometer (SCXRD)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Superconducting Quantum Interference Device (SQUID)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "TapeStation System 4150",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermogravimetric analysis DSC2 (TGA Mettler)",
+        "specifications": "Mettler",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope (JEOL JEM F200)",
+        "specifications": "JEOL JEM F200",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Transmission electron microscopy (JEOL JEM 2100 Plus)",
+        "specifications": "JEOL JEM 2100 Plus",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis-NIR Spectroscopy (Agilent)",
+        "specifications": "Agilent",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Varioskan LUX Multimode Plate Reader",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Xray Photoelectron Spectroscopy (XPS) Thermofisher",
+        "specifications": "Thermofisher",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "jncasr",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://arf.jncasr.ac.in/facilities/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T14:17:28.295Z",
+    "equipment": [
+      {
+        "name": "Atomic force microscope",
+        "specifications": "Bruker",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Confocal Micro Raman Microscope",
+        "specifications": "Horiba",
+        "location": "Nanolab",
+        "status": ""
+      },
+      {
+        "name": "Confocal microscopy",
+        "specifications": "LEICA",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Diamond wire Saw (DWS)",
+        "specifications": "Well",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Differential scanning calorimetry",
+        "specifications": "DSC 3",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Differential scanning calorimetry",
+        "specifications": "TA-DSC 250",
+        "location": "ML-NCU",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Light Scattering (DLS)",
+        "specifications": "",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Electron paramagnetic resonance spectroscopy (EPR)",
+        "specifications": "",
+        "location": "ML-NCU",
+        "status": ""
+      },
+      {
+        "name": "Field emission Scanning electron micorscope",
+        "specifications": "Apreo 2 S",
+        "location": "NANO LAB",
+        "status": ""
+      },
+      {
+        "name": "Field emission Scanning electron micorscope",
+        "specifications": "Zeiss",
+        "location": "AMRL",
+        "status": ""
+      },
+      {
+        "name": "FTIR-DRIFTS-Thermal Emissivity",
+        "specifications": "",
+        "location": "NCU-MLAB",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Mass Spectroscopy (HRMS)",
+        "specifications": "",
+        "location": "SSL",
+        "status": ""
+      },
+      {
+        "name": "Matrix Assisted Laser Desorption/Ionization (MALDI)",
+        "specifications": "",
+        "location": "SSL",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic resonance (NMR)",
+        "specifications": "400 MHz, Bruker",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic resonance (NMR)",
+        "specifications": "600 MHz, JEOL",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic resonance - NMR Solid State",
+        "specifications": "400 MHz, Bruker",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscope",
+        "specifications": "Keyence",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Photoluminescence (PL)",
+        "specifications": "Horiba",
+        "location": "NCU-ML",
+        "status": ""
+      },
+      {
+        "name": "Photoluminescence",
+        "specifications": "Temperature Dependent",
+        "location": "SSL",
+        "status": ""
+      },
+      {
+        "name": "Plasma Treatment system",
+        "specifications": "",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Powder XRD",
+        "specifications": "Bruker",
+        "location": "MB",
+        "status": ""
+      },
+      {
+        "name": "Powder XRD",
+        "specifications": "Pan Analytical",
+        "location": "CCMS",
+        "status": ""
+      },
+      {
+        "name": "Powder XRD",
+        "specifications": "Rigaku",
+        "location": "MB",
+        "status": ""
+      },
+      {
+        "name": "Raman Microscope",
+        "specifications": "",
+        "location": "AMRL",
+        "status": ""
+      },
+      {
+        "name": "Single Crystal X-ray Diffractometer (SCXRD)",
+        "specifications": "",
+        "location": "SSL",
+        "status": ""
+      },
+      {
+        "name": "Thermogravimetric analysis, Gas Chromatography and mass Spectroscopy (TGA-GC-MS)",
+        "specifications": "",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Thermogravimetric analysis (TGA)",
+        "specifications": "Mettler",
+        "location": "NCU-ML",
+        "status": ""
+      },
+      {
+        "name": "Thermogravimetric analysis (TGA)",
+        "specifications": "Perkin Elmer",
+        "location": "ICMS",
+        "status": ""
+      },
+      {
+        "name": "Transmission electron microscopy",
+        "specifications": "JEOL 200kV",
+        "location": "AMRL",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis-NIR Spectroscopy",
+        "specifications": "Agilent",
+        "location": "NCU-ML",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS spectroscopy",
+        "specifications": "Perkin Elmer",
+        "location": "NCU-ML",
+        "status": ""
+      },
+      {
+        "name": "Xray Photoelectron Spectroscopy (XPS)",
+        "specifications": "Thermofisher",
+        "location": "ICMS",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "jncasr",
+    "analyzedAt": "2026-08-20T14:24:05.442Z",
+    "vitalityScore": 70,
+    "summary": "Several major historical instruments were removed or no longer listed (e.g., Atomic Force Microscope, Leica Confocal Microscope, Dynamic Light Scattering, TGA-GC-MS, two Powder XRD units), while several new bio-imaging and cytometry instruments were added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Atomic force microscope (Bruker)",
+        "severity": "critical",
+        "reason": "Instrument is no longer listed on the current page."
+      },
+      {
+        "name": "Confocal Micro Raman Microscope (Horiba)",
+        "severity": "critical",
+        "reason": "Horiba Confocal Micro Raman Microscope is absent from current listing."
+      },
+      {
+        "name": "Confocal microscopy (LEICA)",
+        "severity": "critical",
+        "reason": "Leica confocal microscope facility is no longer available."
+      },
+      {
+        "name": "Diamond wire Saw (DWS)",
+        "severity": "moderate",
+        "reason": "Sample preparation tool removed from listing."
+      },
+      {
+        "name": "Dynamic Light Scattering (DLS)",
+        "severity": "critical",
+        "reason": "DLS instrument removed from current listing."
+      },
+      {
+        "name": "Powder XRD (Bruker)",
+        "severity": "critical",
+        "reason": "Bruker Powder XRD unit removed."
+      },
+      {
+        "name": "Powder XRD (Pan Analytical)",
+        "severity": "critical",
+        "reason": "Pan Analytical Powder XRD unit removed."
+      },
+      {
+        "name": "Thermogravimetric analysis, Gas Chromatography and mass Spectroscopy (TGA-GC-MS)",
+        "severity": "critical",
+        "reason": "Hyphenated TGA-GC-MS system removed."
+      },
+      {
+        "name": "Thermogravimetric analysis (TGA) (Perkin Elmer)",
+        "severity": "moderate",
+        "reason": "Perkin Elmer TGA unit removed."
+      },
+      {
+        "name": "UV-VIS spectroscopy (Perkin Elmer)",
+        "severity": "minor",
+        "reason": "Perkin Elmer UV-VIS spectrometer removed."
+      }
+    ],
+    "added": [
+      {
+        "name": "Axio Scan Z1 (SLIDE SCANNER)"
+      },
+      {
+        "name": "BD FACS Aria Fusion Sorter"
+      },
+      {
+        "name": "BD FACS Aria III Sorter"
+      },
+      {
+        "name": "BD FACSymphony A3 Cell Analyzer"
+      },
+      {
+        "name": "High Content Imaging Confocal Quantitative Image Cytometer CQ1 (YOKOGAWA)"
+      },
+      {
+        "name": "Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)"
+      },
+      {
+        "name": "LSM 880 Airy Scan Microscope"
+      },
+      {
+        "name": "LSM 880 Live Cell Microscope"
+      },
+      {
+        "name": "Multiphoton Microscope (OLYMPUS)"
+      },
+      {
+        "name": "Nuclear Magnetic resonance (NMR)(500 MHz, JEOL)"
+      },
+      {
+        "name": "Powder XRD (Rigaku Smartlab - New)"
+      },
+      {
+        "name": "Q Exactive HF Mass Spectrometer"
+      },
+      {
+        "name": "Superconducting Quantum Interference Device (SQUID)"
+      },
+      {
+        "name": "TapeStation System 4150"
+      },
+      {
+        "name": "Varioskan LUX Multimode Plate Reader"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Photoluminescence (temperature Dependent)",
+        "change": "Updated specifications to note 'Currently without quantum yield measurement'."
+      },
+      {
+        "name": "Transmission electron microscopy",
+        "change": "Updated JEOL 200kV to specific models: JEOL JEM F200 and JEOL JEM 2100 Plus."
+      }
+    ]
+  }
+}

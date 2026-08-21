@@ -1,0 +1,60 @@
+{
+  "target": {
+    "id": "colostate-arc",
+    "name": "Colorado State",
+    "url": "https://www.research.colostate.edu/arc/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "colostate-arc",
+    "name": "Colorado State",
+    "url": "https://www.research.colostate.edu/arc/",
+    "scrapedAt": "2026-08-20T20:32:35.114Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "FIB-SEM",
+        "specifications": "",
+        "location": "Analytical Resources Core (ARC)",
+        "status": "Installed"
+      },
+      {
+        "name": "Crossbeam 550 Laser FIB-SEM",
+        "specifications": "Laser FIB-SEM",
+        "location": "Analytical Resources Core (ARC)",
+        "status": ""
+      },
+      {
+        "name": "NMR",
+        "specifications": "600 MHz",
+        "location": "Analytical Resources Core (ARC)",
+        "status": ""
+      },
+      {
+        "name": "Electron Probe MicroAnalyzer",
+        "specifications": "",
+        "location": "Analytical Resources Core (ARC)",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "colostate-arc",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:46:48.720Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "colostate-arc",
+    "analyzedAt": "2026-08-20T20:46:50.903Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

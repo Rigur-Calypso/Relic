@@ -1,0 +1,73 @@
+{
+  "target": {
+    "id": "northwestern-nuance",
+    "name": "Northwestern NUANCE",
+    "url": "https://nuance.northwestern.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "northwestern-nuance",
+    "name": "Northwestern NUANCE",
+    "url": "https://nuance.northwestern.edu/",
+    "scrapedAt": "2026-08-20T18:10:48.039Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Hitachi S-4800",
+        "specifications": "",
+        "location": "EPIC-SEM",
+        "status": ""
+      },
+      {
+        "name": "Hitachi SU8700",
+        "specifications": "Schottky field emission electron source, Oxford Near-Axis TKD (NA-TKD) system, 170 mm² Ultim Max SDD EDS, Extreme windowless EDS for light-element analysis, On-axis Unity BEX detector, Integrated STEM-in-SEM imaging, Low-kV high-resolution imaging, Automated workflows with Hitachi EM Flow Creator",
+        "location": "EPIC-SEM",
+        "status": "Active"
+      },
+      {
+        "name": "JEOL JIB 4700",
+        "specifications": "",
+        "location": "NUFAB",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "northwestern-nuance",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://nuance.northwestern.edu/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:11:15.398Z",
+    "equipment": [
+      {
+        "name": "Hitachi S-3400",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hitachi SU8030",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "IONTOF M6 Time-of-Flight Secondary Ion Mass Spectrometry (ToF-SIMS)",
+        "specifications": "Time-of-Flight Secondary Ion Mass Spectrometry instrument with advanced ion beam and mass analyzer technologies.",
+        "location": "Keck-II Facility, Technological Institute, AG95",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "northwestern-nuance",
+    "analyzedAt": "2026-08-20T20:49:37.622Z",
+    "vitalityScore": null,
+    "summary": "Current page yielded only a partial equipment list (facility landing page); diff suppressed to avoid an unreliable knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

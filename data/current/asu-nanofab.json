@@ -1,0 +1,64 @@
+{
+  "targetId": "asu-nanofab",
+  "name": "ASU NanoFab",
+  "url": "https://cores.research.asu.edu/semiconductor-device-processing/nanofab/get-started/",
+  "scrapedAt": "2026-08-21T09:26:07.048Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Woollam VASE",
+      "specifications": "",
+      "location": "Metrology Suite",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics F-20",
+      "specifications": "",
+      "location": "Metrology Suite",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics F-40",
+      "specifications": "",
+      "location": "Metrology Suite",
+      "status": ""
+    },
+    {
+      "name": "DekTak profilometer",
+      "specifications": "",
+      "location": "Metrology Suite",
+      "status": ""
+    },
+    {
+      "name": "AlphaStep profilometer",
+      "specifications": "",
+      "location": "Metrology Suite",
+      "status": ""
+    },
+    {
+      "name": "Zygo optical profilometer",
+      "specifications": "",
+      "location": "Metrology Suite",
+      "status": ""
+    },
+    {
+      "name": "Veeco 4-point probe",
+      "specifications": "",
+      "location": "Metrology Suite",
+      "status": ""
+    },
+    {
+      "name": "Resist Spinner (SCS or CEE #1 or #2)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DRIE (ASE)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

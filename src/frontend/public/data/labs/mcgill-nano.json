@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "mcgill-nano",
+    "name": "McGill",
+    "url": "https://www.mcgill.ca/microfab/about",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "mcgill-nano",
+    "name": "McGill",
+    "url": "https://www.mcgill.ca/microfab/about",
+    "scrapedAt": "2026-08-20T20:26:57.288Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "mcgill-nano",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:27:09.838Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "mcgill-nano",
+    "analyzedAt": "2026-08-20T20:27:12.010Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "target": {
+    "id": "aachen-rwth",
+    "name": "RWTH Aachen",
+    "url": "https://www.gfe.rwth-aachen.de/cms/~ocjm/gfe/?lidx=1",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "aachen-rwth",
+    "name": "RWTH Aachen",
+    "url": "https://www.gfe.rwth-aachen.de/cms/~ocjm/gfe/?lidx=1",
+    "scrapedAt": "2026-08-21T05:44:13.557Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Electron Probe Microanalysis EPMA",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      },
+      {
+        "name": "FIB – Focused Ion Beam",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      },
+      {
+        "name": "Large Chamber SEM",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscopy",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      },
+      {
+        "name": "TEM / STEM",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "aachen-rwth",
+    "snapshotUrl": "http://web.archive.org/web/20230924142920/https://www.gfe.rwth-aachen.de/cms/~ocjm/gfe/?lidx=1",
+    "snapshotTimestamp": "20230924142920",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-21T05:44:28.698Z",
+    "equipment": [
+      {
+        "name": "Electron Probe Microanalysis EPMA",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      },
+      {
+        "name": "FIB – Focused Ion Beam",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      },
+      {
+        "name": "Large Chamber SEM",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscopy",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      },
+      {
+        "name": "TEM / STEM",
+        "specifications": "",
+        "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "aachen-rwth",
+    "analyzedAt": "2026-08-21T05:44:35.072Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and instrumentation lists remain fully preserved between the historical snapshot and the current page.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

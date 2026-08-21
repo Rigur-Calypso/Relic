@@ -1,0 +1,146 @@
+{
+  "target": {
+    "id": "unist-ucrf",
+    "name": "UNIST",
+    "url": "https://ucrf.unist.ac.kr/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "unist-ucrf",
+    "name": "UNIST",
+    "url": "https://ucrf.unist.ac.kr/",
+    "scrapedAt": "2026-08-20T20:11:38.862Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Photoactivated localization microscopy_Super Resolution",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "600 MHz FT-NMR (Solid)",
+        "specifications": "600 MHz",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Titan G2(투과전자현미경4_Advanced TEM)",
+        "specifications": "Advanced TEM",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "E-beam lithography",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "GC/HRMS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "CNC 5-Axes Machining",
+        "specifications": "5-Axes",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "7T MRI Scanner for rodent models",
+        "specifications": "7T",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Varian 600 MHz FT-NMR(Solid)",
+        "specifications": "600 MHz",
+        "location": "",
+        "status": "not working"
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "unist-ucrf",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://ucrf.unist.ac.kr/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T20:11:54.939Z",
+    "equipment": [
+      {
+        "name": "Photoactivated localization microscopy_Super Resolution",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "600 MHz FT-NMR (Varian)",
+        "specifications": "600 MHz",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Advanced TEM",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "E-beam lithography",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "GC/HRMS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "CNC 5-Axes Machining",
+        "specifications": "5-Axes",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "7T MRI Scanner for rodent models",
+        "specifications": "7T",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "unist-ucrf",
+    "analyzedAt": "2026-08-20T20:12:01.686Z",
+    "vitalityScore": 85,
+    "summary": "Most equipment has been preserved and updated. The Advanced TEM was renamed to Titan G2 with specifications, and the 600 MHz FT-NMR was clarified as Solid state. However, the original general 600 MHz FT-NMR entry was replaced or lost in favor of the solid-state specific entries, leading to a minor knowledge loss regarding general liquid/solid classification.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "600 MHz FT-NMR (Varian)",
+        "severity": "minor",
+        "reason": "Replaced by a more specific solid-state NMR entry."
+      }
+    ],
+    "added": [
+      {
+        "name": "Varian 600 MHz FT-NMR(Solid)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Advanced TEM",
+        "change": "Renamed and updated to Titan G2 (투과전자현미경4_Advanced TEM)."
+      },
+      {
+        "name": "600 MHz FT-NMR (Varian)",
+        "change": "Updated to specify solid-state application."
+      }
+    ]
+  }
+}

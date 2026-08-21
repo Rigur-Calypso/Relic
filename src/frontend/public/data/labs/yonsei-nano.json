@@ -1,0 +1,390 @@
+{
+  "target": {
+    "id": "yonsei-nano",
+    "name": "Yonsei University",
+    "url": "https://ibs.yonsei.ac.kr/hall.asp?mid=m03_02",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "yonsei-nano",
+    "name": "Yonsei University",
+    "url": "https://ibs.yonsei.ac.kr/hall.asp?mid=m03_02",
+    "scrapedAt": "2026-08-21T05:48:18.969Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Magnetic resonance imaging (MRI)",
+        "specifications": "3 Tesla of magnetic field and designed for animal use.",
+        "location": "Nano Characterization Core (Basement 1), IBS Hall",
+        "status": ""
+      },
+      {
+        "name": "Vibrating-sample magnetometer (VSM)",
+        "specifications": "Measures DC magnetization characteristics of materials by changing temperature and magnetic fields.",
+        "location": "Nano Characterization Core (Basement 1), IBS Hall",
+        "status": ""
+      },
+      {
+        "name": "Transmission electron microscopy (TEM)",
+        "specifications": "ARM200F (JEOL. Ltd., Cold field emission-Transmission Electron Microscope) is equipped with two Cs-corrector, atomic resolution of 78 pm in STEM mode, energy-dispersive x-ray spectroscopy (EDX) and electron energy-loss spectroscopy (EELS).",
+        "location": "Nano Characterization Core (Basement 1), IBS Hall",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR)",
+        "specifications": "Uses a large magnet to probe intrinsic spin properties of atomic nuclei and for structure determination of small molecules.",
+        "location": "Nano Characterization Core (Basement 1), IBS Hall",
+        "status": ""
+      },
+      {
+        "name": "X-ray diffractometer (XRD)",
+        "specifications": "Used for phase identification of a crystalline material, providing information on unit cell dimensions and orderliness.",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Photoluminescence (PL) spectrophotometer",
+        "specifications": "Uses a laser beam to capture light generated from a substance as electrons fall from excited to ground state.",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography and mass spectrometry (GC-MS)",
+        "specifications": "Combines features of gas chromatography and mass spectrometry to separate and identify organic substances.",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Inductively coupled plasma mass spectrometry (ICP-MS)",
+        "specifications": "Capable of detecting periodic table of elements at concentrations as low as one part in 1015.",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Fourier-transform infrared (FT-IR) spectrometer",
+        "specifications": "Produces an infrared absorption spectrum to identify types of chemical bonds in a molecule.",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Electron-Beam & Thermal Evaporator",
+        "specifications": "Deposits various metals on the substrate with tuned deposition rate of 1 - 100 A/min.",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Sputtering System",
+        "specifications": "Deposits oxides, nitrides, and various semiconductors as a thin film layer using high-density plasma.",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Reactive Ion Etching (RIE)",
+        "specifications": "Uses chemically reactive plasma generated under low pressure to remove material deposited on wafers.",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Probe station",
+        "specifications": "Utilizes manipulators for precise positioning of thin needles to acquire electrical signals from semiconductor devices.",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Mask Aligner",
+        "specifications": "Used in photolithography process for aligning photomask to photoresist coated substrate using UV light.",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Electron-beam lithography",
+        "specifications": "For fabrication of nanodevices below 100 nm scale of resolution using a scanning electron microscope (SEM).",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Total internal reflection fluorescence microscope (TIRF)",
+        "specifications": "Images a thin region of a specimen less than 200 nanometers using an evanescent wave.",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Confocal microscope (with STORM)",
+        "specifications": "Uses a spatial pinhole to block out-of-focus light and increase spatial imaging resolution and contrast.",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence-Activated Cell Sorting (FACS)",
+        "specifications": "Flow cytometry that rapidly separates labeled living cells based on specific fluorescence characteristics.",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "Tissue clearing system (with SMART labeling)",
+        "specifications": "Series of instrumentation to clear opaque tissue to make it optically transparent in visible wavelength.",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "Microplate reader",
+        "specifications": "Used to detect biological or chemical events of samples in microtiter plates.",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "3D Bioprinter",
+        "specifications": "Combines cells, growth factors, and biomaterials to fabricate biomedical parts imitating natural tissue characteristics.",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "Ultracentrifuge",
+        "specifications": "Optimized for spinning a rotor at very high speeds generating acceleration as high as 1,000,000g.",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "yonsei-nano",
+    "snapshotUrl": "http://web.archive.org/web/20240716021908/https://ibs.yonsei.ac.kr/hall.asp?mid=m03_02",
+    "snapshotTimestamp": "20240716021908",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-21T05:48:40.632Z",
+    "equipment": [
+      {
+        "name": "Magnetic resonance imaging (MRI)",
+        "specifications": "3 Tesla of magnetic field, designed for animal use",
+        "location": "Nano Characterization Core (Basement 1)",
+        "status": ""
+      },
+      {
+        "name": "Vibrating-sample magnetometer (VSM)",
+        "specifications": "Measures DC magnetization characteristics of materials by changing temperature and magnetic fields",
+        "location": "Nano Characterization Core (Basement 1)",
+        "status": ""
+      },
+      {
+        "name": "Transmission electron microscopy (TEM)",
+        "specifications": "ARM200F (JEOL. Ltd., Cold field emission-Transmission Electron Microscope) equipped with two Cs-correctors, 78 pm atomic resolution in STEM mode, energy-dispersive x-ray spectroscopy (EDX), and electron energy-loss spectroscopy (EELS)",
+        "location": "Nano Characterization Core (Basement 1)",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR)",
+        "specifications": "Large magnet for probing intrinsic spin properties of atomic nuclei, structure determination of small molecules",
+        "location": "Nano Characterization Core (Basement 1)",
+        "status": ""
+      },
+      {
+        "name": "X-ray diffractometer (XRD)",
+        "specifications": "Phase identification of crystalline material, unit cell dimensions, and orderliness",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Photoluminescence (PL) spectrophotometer",
+        "specifications": "Laser beam to capture light generated from substance as electron falls from excited electronic state to ground state",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography and mass spectrometry (GC-MS)",
+        "specifications": "Combined features of gas chromatography and mass spectrometry to separate and identify organic substances",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Inductively coupled plasma mass spectrometry (ICP-MS)",
+        "specifications": "Elemental analysis capable of detecting at concentrations as low as one part in 1015",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Fourier-transform infrared (FT-IR) spectrometer",
+        "specifications": "Produces infrared absorption spectrum to identify types of chemical bonds in a molecule",
+        "location": "Nanomaterials Laboratory (3F)",
+        "status": ""
+      },
+      {
+        "name": "Electron-Beam & Thermal Evaporator",
+        "specifications": "Concentrating strong electron beam or heating target materials, deposition rate of 1 - 100 A/min",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Sputtering System",
+        "specifications": "Depositing oxides, nitrides, and semiconductors as a thin film layer via high-density plasma",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Reactive Ion Etching (RIE)",
+        "specifications": "Dry etching using chemically reactive plasma generated under low pressure",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Probe station",
+        "specifications": "Utilizes manipulators for precise positioning of thin needles to acquire electrical signals",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Mask Aligner",
+        "specifications": "Photolithography instrument designed for aligning photomask to photoresist coated substrate with UV illumination",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Electron-beam lithography",
+        "specifications": "Fabrication of nanodevices below 100 nm scale using scanning electron microscope (SEM) and beam blanker",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Total internal reflection fluorescence microscope (TIRF)",
+        "specifications": "Evanescent wave to selectively illuminate and excite fluorophores in a restricted region",
+        "location": "NanoBio Robotics Laboratory (4F)",
+        "status": ""
+      },
+      {
+        "name": "Confocal microscope (with STORM)",
+        "specifications": "Optical imaging technique using a spatial pinhole to increase spatial imaging resolution and contrast",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence-Activated Cell Sorting (FACS)",
+        "specifications": "Flow cytometry that separates labeled living cells based on specific fluorescence characteristics and light-scattering properties",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "Tissue clearing system (with SMART labeling)",
+        "specifications": "Clears opaque tissue by treating certain detergents to make it optically transparent in visible wavelength",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "Microplate reader",
+        "specifications": "Used to detect biological or chemical events of samples in microtiter plates",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "3D Bioprinter",
+        "specifications": "Combines cells, growth factors, and biomaterials to fabricate biomedical parts",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      },
+      {
+        "name": "Ultracentrifuge",
+        "specifications": "Optimized for spinning a rotor at very high speeds, capable of generating acceleration as high as 1,000,000g",
+        "location": "Biomedical Laboratory (5F)",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "yonsei-nano",
+    "analyzedAt": "2026-08-21T05:48:48.039Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items remain present in the current facility list. The changes consist solely of minor text refinements and updates to specifications and location descriptions without any loss of core lab equipment or capabilities.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Magnetic resonance imaging (MRI)",
+        "change": "Location updated to include IBS Hall."
+      },
+      {
+        "name": "Vibrating-sample magnetometer (VSM)",
+        "change": "Location updated to include IBS Hall and specifications slightly rephrased."
+      },
+      {
+        "name": "Transmission electron microscopy (TEM)",
+        "change": "Location updated to include IBS Hall and specification text slightly revised."
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR)",
+        "change": "Location updated to include IBS Hall and description refined."
+      },
+      {
+        "name": "X-ray diffractometer (XRD)",
+        "change": "Specifications text updated for clarity."
+      },
+      {
+        "name": "Photoluminescence (PL) spectrophotometer",
+        "change": "Specifications text updated for grammar and clarity."
+      },
+      {
+        "name": "Gas Chromatography and mass spectrometry (GC-MS)",
+        "change": "Specifications text polished."
+      },
+      {
+        "name": "Inductively coupled plasma mass spectrometry (ICP-MS)",
+        "change": "Specifications description simplified."
+      },
+      {
+        "name": "Fourier-transform infrared (FT-IR) spectrometer",
+        "change": "Specifications text refined."
+      },
+      {
+        "name": "Electron-Beam & Thermal Evaporator",
+        "change": "Specifications text updated."
+      },
+      {
+        "name": "Sputtering System",
+        "change": "Specifications text updated."
+      },
+      {
+        "name": "Reactive Ion Etching (RIE)",
+        "change": "Specifications text expanded."
+      },
+      {
+        "name": "Probe station",
+        "change": "Specifications text expanded."
+      },
+      {
+        "name": "Mask Aligner",
+        "change": "Specifications text rephrased."
+      },
+      {
+        "name": "Electron-beam lithography",
+        "change": "Specifications text revised."
+      },
+      {
+        "name": "Total internal reflection fluorescence microscope (TIRF)",
+        "change": "Specifications text updated with more detail."
+      },
+      {
+        "name": "Confocal microscope (with STORM)",
+        "change": "Specifications text refined."
+      },
+      {
+        "name": "Fluorescence-Activated Cell Sorting (FACS)",
+        "change": "Specifications text streamlined."
+      },
+      {
+        "name": "Tissue clearing system (with SMART labeling)",
+        "change": "Specifications text expanded."
+      },
+      {
+        "name": "Microplate reader",
+        "change": "Specifications text retained similarity."
+      },
+      {
+        "name": "3D Bioprinter",
+        "change": "Specifications text expanded."
+      },
+      {
+        "name": "Ultracentrifuge",
+        "change": "Specifications text polished."
+      }
+    ]
+  }
+}

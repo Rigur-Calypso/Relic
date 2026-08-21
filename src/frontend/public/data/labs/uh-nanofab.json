@@ -1,0 +1,60 @@
+{
+  "target": {
+    "id": "uh-nanofab",
+    "name": "Houston",
+    "url": "https://uhnf.egr.uh.edu/cleanroom/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "uh-nanofab",
+    "name": "Houston",
+    "url": "https://uhnf.egr.uh.edu/cleanroom/",
+    "scrapedAt": "2026-08-20T18:29:57.348Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Atomic Force Microscopy",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscopy",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Focused Ion Beam",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Profilometry: Optical 3D",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "uh-nanofab",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:30:11.014Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "uh-nanofab",
+    "analyzedAt": "2026-08-20T18:30:13.148Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

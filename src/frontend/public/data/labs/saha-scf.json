@@ -1,0 +1,180 @@
+{
+  "target": {
+    "id": "saha-scf",
+    "name": "Saha Institute",
+    "url": "https://www.saha.ac.in/web/home-ecmpd/nmr-facilities",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "saha-scf",
+    "name": "Saha Institute",
+    "url": "https://www.saha.ac.in/web/home-ecmpd/nmr-facilities",
+    "scrapedAt": "2026-08-20T18:52:56.547Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "7 tesla cryomagnet",
+        "specifications": "BRUKER 300 UltraShield, Bore diameter 54 mm",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "0-2.3 tesla variable field electromagnet",
+        "specifications": "",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "4-100 MHz pulsed spectrometer",
+        "specifications": "BRUKER MSL 100",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "5-400 MHz pulsed spectrometer",
+        "specifications": "THAMWAY PROT 4103MR",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "140-400 K temperature controller",
+        "specifications": "BRUKER",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Helium cryostats and temperature controller",
+        "specifications": "3-300 K, OXFORD",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "0-2.3 tesla variable field electromagnet",
+        "specifications": "VARIAN, Field stabilization by Hall probe sensor, Pole gap 50 mm",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "4-35 MHz cw spectrometer",
+        "specifications": "VARIAN WL210",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "100-400 K temperature controller",
+        "specifications": "VARIAN",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Potentiostat/Galvanostat",
+        "specifications": "EG&G VERSASTAT II",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "AC Resistivity and Magnetoresistance equipment",
+        "specifications": "Home Built, Temperature Range 3-300 K; Magnetic Field 0-2.3 tesla",
+        "location": "NMR Laboratory",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "saha-scf",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.saha.ac.in/web/home-ecmpd/nmr-facilities",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:53:12.960Z",
+    "equipment": [
+      {
+        "name": "7 tesla cryomagnet",
+        "specifications": "BRUKER 300 UltraShield, Bore diameter 54 mm",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "variable field electromagnet",
+        "specifications": "0-2.3 tesla",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "pulsed spectrometer",
+        "specifications": "4-100 MHz, BRUKER MSL 100",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "pulsed spectrometer",
+        "specifications": "5-400 MHz, THAMWAY PROT 4103MR",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "temperature controller",
+        "specifications": "140-400 K, BRUKER",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Helium cryostats and temperature controller",
+        "specifications": "3-300 K, OXFORD",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "variable field electromagnet",
+        "specifications": "0-2.3 tesla, VARIAN, Field stabilization by Hall probe sensor, Pole gap 50 mm",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "cw spectrometer",
+        "specifications": "4-35 MHz, VARIAN WL210",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "temperature controller",
+        "specifications": "100-400 K, VARIAN",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Potentiostat/Galvanostat",
+        "specifications": "EG&G VERSASTAT II",
+        "location": "NMR Laboratory",
+        "status": ""
+      },
+      {
+        "name": "AC Resistivity and Magnetoresistance Setup",
+        "specifications": "Home Built, Temperature Range 3-300 K; Magnetic Field 0-2.3 tesla",
+        "location": "NMR Laboratory",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "saha-scf",
+    "analyzedAt": "2026-08-20T18:53:19.731Z",
+    "vitalityScore": 90,
+    "summary": "Minor changes in naming conventions and loss of specific specification details for one of the electromagnets, but overall equipment inventory remains mostly intact.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "variable field electromagnet (0-2.3 tesla)",
+        "severity": "minor",
+        "reason": "Specific entry removed, though a similar electromagnet exists; specifications were dropped on one instance."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "AC Resistivity and Magnetoresistance Setup",
+        "change": "Renamed to AC Resistivity and Magnetoresistance equipment."
+      }
+    ]
+  }
+}

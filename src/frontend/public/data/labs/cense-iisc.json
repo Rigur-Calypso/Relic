@@ -1,0 +1,451 @@
+{
+  "target": {
+    "id": "cense-iisc",
+    "name": "IISc CeNSE — Nanofab (NNfC)",
+    "url": "https://nnfc.cense.iisc.ac.in/",
+    "strategy": "ai",
+    "snapshotTs": "20220101"
+  },
+  "current": {
+    "targetId": "cense-iisc",
+    "name": "IISc CeNSE — Nanofab (NNfC)",
+    "url": "https://nnfc.cense.iisc.ac.in/",
+    "scrapedAt": "2026-08-20T13:03:34.356Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "E-Beam Litho – Raith e-Line",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Litho – Raith Pioneer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Manual Wafer Bonder – EVG 501",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Mask Aligner_EVG620NT",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Mask Writer_Heidelberg uPG501",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "NIL_ EITRE 6 Obducat",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Optical Lithography-MJB4",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Mask Writer_Heidelberg DWL 66+\t",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Mask Writer_Heidelberg uMLA",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "DRIE_Oxford",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "DRIE_SPTS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Plasma Asher",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "RIE-Cl (Metal)_ Oxford (OI)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "RIE-F (Dielectrics)_ Oxford (OI)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "RIE-X (Plasma Therm)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "RIE_Corial",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "RIE_Oxford Plasma Pro 80",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Chemical HF Vapouriser WB",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Chemical Wetbench (Solvents/bases) Level 3",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Chemical Wetbench Acid Clean – Level 1",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Chemical Wetbench Acid Clean (Bulk Processes) – Level 1",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Chemical Wetbench Acid Metal Level 3",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Chemical Wetbench Acid Semi-Clean- Level 2",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Chemical Wetbench General (BULK processes) LEVEL 3",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Chemical Wetbench Solvents/ Bases Semi-Clean – Level 2",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Critical Point Dryer_Tousimis",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "AJA Sputter coater",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Atomic Layer Deposition_Beneq",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Drive-In and Annealing Furnaces",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Evaporator (LEYBOLD)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "E-beam Evaporator (TECPORT)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Epitaxial Silicon CVD",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "ICPCVD_Oxford",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Low Pressur CVD",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oxidation and Diffusion Furnaces",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PECVD_ Oxford (OI)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Rapid Thermal Anneal Sys1",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Rapid Thermal Anneal Sys2",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Sputter Coater1 Metals_Tecport",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Sputter Coater2 Dielec_Tecport",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Tempress Annealing System",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dektak Suface Profiler_Bruker",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electro Chemical work station_Annex",
+        "specifications": "",
+        "location": "Annex",
+        "status": ""
+      },
+      {
+        "name": "Ellipsometer_JA Woollam",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Four Point Probe Meter",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "IR-VASE Ellipsometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Life Time Measurement_MDP Map_Freiberg",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "MOS Ultrascan_KSA at NNfC",
+        "specifications": "",
+        "location": "NNfC",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscope at Inline",
+        "specifications": "",
+        "location": "Inline",
+        "status": ""
+      },
+      {
+        "name": "Probe Station IV-CV at NNfC",
+        "specifications": "",
+        "location": "NNfC",
+        "status": ""
+      },
+      {
+        "name": "SEM_Phenom XL",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SEM_Zeiss",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "ABM Mask Aligner_Annexe1",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "Acid Hood (Annexe 2)",
+        "specifications": "",
+        "location": "Annexe 2",
+        "status": ""
+      },
+      {
+        "name": "Anelva RF Sputtering – Annexe-1",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "Anelva RIE System-Annexe-1",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "Chemical Mechanical Polishing (CMP -Annexe-1)",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Evaporator_Annex",
+        "specifications": "",
+        "location": "Annex",
+        "status": ""
+      },
+      {
+        "name": "HHV Co-Sputter Oxide tool _Annexe 3",
+        "specifications": "",
+        "location": "Annexe 3",
+        "status": ""
+      },
+      {
+        "name": "HHV Glove Box Sputtering_Annex",
+        "specifications": "",
+        "location": "Annex",
+        "status": ""
+      },
+      {
+        "name": "HHV Sputter Coater 2- Annexe 1",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "HHV Sputter Metal Coater1- Annexe 1",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "HHV Sputter Tool (Nitride)_Annexe 3",
+        "specifications": "",
+        "location": "Annexe 3",
+        "status": ""
+      },
+      {
+        "name": "Lindberg Furnace (Annexe-1)",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "Optical Lithography-EVG 620",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Solvent Hood (Annexe 2)",
+        "specifications": "",
+        "location": "Annexe 2",
+        "status": ""
+      },
+      {
+        "name": "Vacuum Annealing Tool (Annexe1)",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "VR Tech Sputter Tool – Annexe-1",
+        "specifications": "",
+        "location": "Annexe 1",
+        "status": ""
+      },
+      {
+        "name": "VR Tech Thermal Evaporator_Annex",
+        "specifications": "",
+        "location": "Annex",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "cense-iisc",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T13:12:31.333Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "cense-iisc",
+    "analyzedAt": "2026-08-20T13:18:23.552Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

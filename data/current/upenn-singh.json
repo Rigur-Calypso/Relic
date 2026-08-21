@@ -1,0 +1,58 @@
+{
+  "targetId": "upenn-singh",
+  "name": "Penn Nanoscale Characterization Facility",
+  "url": "https://wiki.nano.upenn.edu/wiki/index.php?title=Nanoscale_Characterization_Facility",
+  "scrapedAt": "2026-08-21T09:35:37.490Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "JEOL 7500F HRSEM",
+      "specifications": "Image with secondary electrons, backscattered electrons, and transmission electrons at high vacuum and high resolution, even at very low voltages. Elemental analysis with x-rays available with EDS by EDAX.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TFS Quanta 600 FEG ESEM",
+      "specifications": "Image non-conductive or vacuum-sensitive specimens in high vacuum or in a low vacuum water vapor environment. EDAX EDS elemental analysis and EBSD crystallography available. This microscope is equipped with a large chamber for in-situ imaging and high- and low-temperature stages.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TESCAN S8000X FIB/SEM",
+      "specifications": "A dual beam system with a plasma-source focused ion beam capable of high milling rates and a high resolution electron beam capable of imaging at low energies. This microscope includes an EDAX EDS detector for elemental x-ray analysis and an EBSD camera for crystallographic characterization. Time of Flight Secondary Ion Mass Spectroscopy (ToF-SIMS) enables three dimensional chemical characterization, even of light elements. This microscope is compatible with cryogenic imaging and transfer systems.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ZEISS Orion NanoFab Helium Ion Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "JEOL F200",
+      "specifications": "A cold field emission transmission electron microscope that can operate at 200kV or 80kV for sensitive specimens. It is equipped with dual EDS detectors, Gatan OneView and Metro cameras, and various apertures for diffraction, darkfield, brightfield, and STEM imaging.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "JEOL NEOARM",
+      "specifications": "This TEM has a highly coherent cold field emission source capable of subangstrom resolutions at both 200kV and 80kV, and is also capable of imaging at 30kV. Equipped with detectors for chemical characterization including EDS and electron energy loss spectrometry (EELS.)",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "EMS/Quorum Q150T ES Sputter Coater",
+      "specifications": "A user-friendly deposition system for sputter coating metals (typically iridium) or evaporating carbon in thin films onto specimens to improve conductivity for better images and reduced specimen damage.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Gatan Solarus 950 Advanced Plasma System",
+      "specifications": "A plasma cleaning system with ports designed for TEM specimen holders. Equipped with argon, oxygen, and hydrogen gas.",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

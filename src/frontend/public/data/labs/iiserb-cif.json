@@ -1,0 +1,303 @@
+{
+  "target": {
+    "id": "iiserb-cif",
+    "name": "IISER Bhopal",
+    "url": "https://www.iiserb.ac.in/cif/other_facility",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "iiserb-cif",
+    "name": "IISER Bhopal",
+    "url": "https://www.iiserb.ac.in/cif/other_facility",
+    "scrapedAt": "2026-08-20T18:49:17.396Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Size Exclusion Chromatography",
+        "specifications": "Agilent PL-GPC50 Plus Integrated SEC/GPC system with triple detectors (RI, PL-BV 400 viscometer and PL-RTLS dual angle light scattering)",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Light Scattering / Zeta Potential Measurement",
+        "specifications": "Ultrafast Laser system for Transient Absorption and Fluorescence Up-conversion experiments. Spitfire Ti:Sapphire regenerative ultrafast amplifier system delivers 120 fs pulses in the wavelength range of 780-120 nm with average pulse/energy of 4mJ at 1KHz. MAITAI laser (~120 fs, 80 MHz, 2.5 W at 800 nm).",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Thermogravimetric Analyzer",
+        "specifications": "Scanning rates from 0.1 to 200°C/min Temperature range 15°C to 1000°C.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Isothermal Titration Calorimeter",
+        "specifications": "TA Instruments Nano ITC, differential power compensation design, gold cell effective volume 190 uL, temperature range 2 – 800C, injection syringe capacity 50 uL, stirring rate 150 – 400 rpm.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimeter",
+        "specifications": "Temperature range -100 °C to 450 °C with intra-cooler facility, controlled heating rate 0.01 to 100 °C/min.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "CHNSO Analyzer",
+        "specifications": "Fully Automated PC controlled Elemental Analyser for Solids, Liquid and liquid volatile samples. Operating modes for measurement of CHNS, CHN CNS, S, Trace S and O-TCD and Cl separately.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope",
+        "specifications": "Agilent 5500 AFM/SPM capable of Contact mode AFM, Lateral Force Mode (LFM), Resonant Mode AFM, Phase Imaging, Force Modulation Microscopy, Scanning Kelvin Probe Microscopy (SKM), Magnetic Force Mode and Electrostatic Force Mode (MFM/ EFM), Scanning Tunneling Microscopy. Heating stage up to 1500C.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "BET Surface Area Measurement",
+        "specifications": "Volumetric gas adsorption method with automated real time dead volume measurement. Measures surface area from 0.01m2/g and above (N2/77K), 0.0005 m2/g and above (Kr/77K). Pore size ranging from 0.32 - 500 nm in pore diameter.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Superconducting Quantum Interference",
+        "specifications": "Device Vibrating Sample Magnetometer with the sensitivity of a SQUID magnetometer equipped with a Pulse Tube Cooler.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "High Resolution (HR) Raman Microspectrometer",
+        "specifications": "Integrated Raman system including a confocal microscope, Czerny-Turner type achromatic spectrograph (~800mm) with spectral resolution of 0.4 cm-1/pixel at spectral range 200–1050nm, excitation source 632.8 nm air cooled He-Ne laser.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "EPR",
+        "specifications": "X and Q-band capable instrument with variable temperature accessories for liquid nitrogen and liquid helium temperatures, and ENDOR accessories.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "Model MCR-102 by Anton Paar with parallel plate (PP50), cone and plate (CP25-1, CP50-1, CP50-2), and concentric cylinder (CC27) geometries. Air-bearing-supported synchronous EC.",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Gel Permeation Chomatographer",
+        "specifications": "",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Thermogravimetric Analyser",
+        "specifications": "TGA 4000",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Isothermal Titration Calorimeter",
+        "specifications": "Nano ITC",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimeter",
+        "specifications": "DSC 4000",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Elemental Analyser, CHNSO",
+        "specifications": "",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Surface Area And Gas And Vapour Adsorption Measurement Instrument",
+        "specifications": "BET",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Superconducting Quantum Interference Device Magnetometer",
+        "specifications": "",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      },
+      {
+        "name": "Ellipsometry",
+        "specifications": "",
+        "location": "Central Instrumentation Facility",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "iiserb-cif",
+    "snapshotUrl": "http://web.archive.org/web/20240229210424/https://www.iiserb.ac.in/cif/other_facility",
+    "snapshotTimestamp": "20240229210424",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T18:49:34.650Z",
+    "equipment": [
+      {
+        "name": "Size Exclusion Chromatography",
+        "specifications": "An Agilent PL-GPC50 Plus Integrated SEC/GPC system with triple detectors (RI, PL-BV 400 viscometer and PL-RTLS dual angle light scattering).",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Light Scattering / Zeta Potential Measurement",
+        "specifications": "The Ultrafast Laser system is capable of carrying out Transient Absorption and Fluorescence Up-conversion experiments. The Transient Absorption Laser System: Spitfire Ti:Sapphire regenerative ultrafast amplifier system delivers 120 fs pulses in the wavelength range of 780-120 nm with an average pulse/energy of 4mJ at a repetition rate of 1KHz. Further, output of the regenerative amplifier is coupled to Optical Parametric Amplifier, TOPAS to extend the wavelength tunability from 400-2000nm.The Fluorescence Up-conversion Laser System: Fluorescence Up-conversion, also known as fluorescence sum frequency generation, works on the principle of frequency mixing of fluorescence, originating from a fluorescent molecule upon excitation by an ultra-short pump pulse, with another ultra-short probe laser pulse. The fundamental for the Up-conversion is taken from MAITAI laser (Spectra Physics, ~120 fs, 80 MHz, 2.5 W at 800 nm) can be frequency doubled and is used to excite the sample and the frequency mixing is performed in a non-linear optical crystal, e.g. BBO (̢-Borium Borate). The time evolution of the fluorescence is obtained by delaying the probe pulse using a mechanical delay stage. This technique of Fluorescence Up-conversion is used to study photo-physical properties of excited states.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermogravimetric Analyzer",
+        "specifications": "Scanning rates from 0.1 to 200C/min Temperature range 15C to 1000C.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Isothermal Titration Calorimeter",
+        "specifications": "TA Instruments Nano ITC, differential power compensation design, effective cell volume of gold cells is 190 L, temperature range 2  800C, injection syringe capacity 50 L, stirring rate 150  400 rpm.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimeter",
+        "specifications": "Temperature range -100 C to 450 C (having intra-cooler facility) Controlled heating rate 0.01 to 100 C/min.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "CHNSO Analyzer",
+        "specifications": "Fully Automated PC controlled Elemental Analyser for Solids, Liquid and liquid volatile samples. Operating modes for measurement of CHNS, CHN CNS, S, Trace S and O-TCD and Cl separately.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope",
+        "specifications": "Agilent 5500 AFM/SPM capable of Contact mode AFM, Lateral Force Mode (LFM), Resonant Mode AFM, Phase Imaging, Force Modulation Microscopy, Scanning Kelvin Probe Microscopy (SKM), Magnetic Force Mode and Electrostatic Force Mode (MFM/ EFM), Scanning Tunneling Microscopy. Heating stage up to 1500C.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "BET Surface Area Measurement",
+        "specifications": "Volumetric gas adsorption method with automated real time dead volume measurement. Measures surface area from 0.01m2/g and above (N2/77K), 0.0005 m2/g and above (Kr/77K). Measures pore size ranging from 0.32 - 500 nm in pore diameter.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Superconducting Quantum Interference Device",
+        "specifications": "Vibrating Sample Magnetometer with the sensitivity of a SQUID magnetometer, equipped with a Pulse Tube Cooler which eliminates the need for liquid cryogens.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "High Resolution (HR) Raman Microspectrometer",
+        "specifications": "Integrated Raman system that includes a confocal microscope, a large focal length (~800mm) Czerny-Turner type achromatic spectrograph with spectral resolution of 0.4 cm-1/pixel operating at the spectral range of 2001050nm, source of excitation is 632.8 nm, air cooled He-Ne laser.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "EPR",
+        "specifications": "X and Q-band capable instrument. Variable temperature accessories for both liquid nitrogen and liquid helium temperatures. ENDOR accessories included.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "Model MCR-102 by Anton Paar with parallel plate (PP50), cone and plate (CP25-1, CP50-1, CP50- 2), and concentric cylinder (CC27) geometries. Air-bearing-supported synchronous EC, steel frame optimized for mechanical and thermal stiffness.",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "iiserb-cif",
+    "analyzedAt": "2026-08-20T18:49:42.225Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items have been successfully preserved and are present in the current equipment list, with several items receiving additional specifications, location data, or supplementary entries.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Gel Permeation Chomatographer"
+      },
+      {
+        "name": "Thermogravimetric Analyser"
+      },
+      {
+        "name": "Isothermal Titration Calorimeter"
+      },
+      {
+        "name": "Differential Scanning Calorimeter"
+      },
+      {
+        "name": "Elemental Analyser, CHNSO"
+      },
+      {
+        "name": "Surface Area And Gas And Vapour Adsorption Measurement Instrument"
+      },
+      {
+        "name": "Superconducting Quantum Interference Device Magnetometer"
+      },
+      {
+        "name": "Ellipsometry"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Size Exclusion Chromatography",
+        "change": "Added location information and slightly formatted specification text."
+      },
+      {
+        "name": "Dynamic Light Scattering / Zeta Potential Measurement",
+        "change": "Added location information and condensed specification text."
+      },
+      {
+        "name": "Thermogravimetric Analyzer",
+        "change": "Added location information."
+      },
+      {
+        "name": "Isothermal Titration Calorimeter",
+        "change": "Added location information and minor text adjustments in specifications."
+      },
+      {
+        "name": "Differential Scanning Calorimeter",
+        "change": "Added location information and minor formatting in specifications."
+      },
+      {
+        "name": "CHNSO Analyzer",
+        "change": "Added location information."
+      },
+      {
+        "name": "Atomic Force Microscope",
+        "change": "Added location information."
+      },
+      {
+        "name": "BET Surface Area Measurement",
+        "change": "Added location information and slightly refined text."
+      },
+      {
+        "name": "Superconducting Quantum Interference Device",
+        "change": "Updated name slightly and added location information."
+      },
+      {
+        "name": "High Resolution (HR) Raman Microspectrometer",
+        "change": "Added location information and slightly condensed specifications."
+      },
+      {
+        "name": "EPR",
+        "change": "Added location information and condensed specification phrasing."
+      },
+      {
+        "name": "Rheometer",
+        "change": "Added location information and shortened specifications text."
+      }
+    ]
+  }
+}

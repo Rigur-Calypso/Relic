@@ -62,6 +62,21 @@ app.get('/api/labs', async (_req, res) => {
   catch (e) { res.status(500).json({ error: e.message }); }
 });
 
+// Full per-lab detail: target + current inventory + Wayback baseline + diff.
+app.get('/api/lab/:id', async (req, res) => {
+  const id = req.params.id;
+  const readJ = (...s) => readFile(dataFile(...s), 'utf8').then(JSON.parse).catch(() => null);
+  try {
+    const targets = await readJson(resolve(ROOT, 'targets.json'));
+    const target = targets.find(t => t.id === id);
+    if (!target) return res.status(404).json({ error: 'unknown facility' });
+    const [current, historical, analysis] = await Promise.all([
+      readJ('current', `${id}.json`), readJ('historical', `${id}.json`), readJ('analysis', `${id}.json`),
+    ]);
+    res.json({ target, current, historical, analysis });
+  } catch (e) { res.status(500).json({ error: e.message }); }
+});
+
 // On-demand: name any institution → Bright Data search+scrape → Wayback → Gemini diff.
 app.post('/api/lookup', async (req, res) => {
   const name = (req.body?.name || '').trim();

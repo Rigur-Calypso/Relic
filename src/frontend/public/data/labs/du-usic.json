@@ -1,0 +1,238 @@
+{
+  "target": {
+    "id": "du-usic",
+    "name": "University of Delhi USIC",
+    "url": "https://www.usic.du.ac.in/?product_cat=instruments",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "du-usic",
+    "name": "University of Delhi USIC",
+    "url": "https://www.usic.du.ac.in/?product_cat=instruments",
+    "scrapedAt": "2026-08-20T18:50:43.105Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "AFM Machine",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "BD FACSymphony™ S6 Cell Sorter",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Brunauer – Emmett – Teller (BET) Surface Area Analyzer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "C, H, N, S Analyzer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Circular Dichroism spectrometer (CDS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimeter (DSC)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Light Scattering (Horiba)",
+        "specifications": "Horiba",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Mechanical Analysis (DMA)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electrochemical Workstation",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electron Spin Resonance (ESR)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Scanning Electron microscope (FESEM)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fourier-Transform Infrared Spectroscopy (FTIR)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Mass Spectrometer (HRMS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "High Resolution X-Ray Diffractometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "HR-TEM (JEOL JEM-F200)",
+        "specifications": "JEOL JEM-F200",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "du-usic",
+    "snapshotUrl": "http://web.archive.org/web/20250810012411/https://www.usic.du.ac.in/?product_cat=instruments",
+    "snapshotTimestamp": "20250810012411",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T18:51:33.051Z",
+    "equipment": [
+      {
+        "name": "BD FACSymphony™ S6 Cell Sorter",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Brunauer – Emmett – Teller (BET) Surface Area Analyzer",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "C, H, N, S Analyzer",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Circular Dichroism spectrometer (CDS)",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimeter (DSC)",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Light Scattering (Horiba)",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Mechanical Analysis (DMA)",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Electrochemical Workstation",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Electron Spin Resonance (ESR)",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Scanning Electron microscope (FESEM)",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Fourier-Transform Infrared Spectroscopy (FTIR)",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Mass Spectrometer (HRMS)",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "High Resolution X-Ray Diffractometer",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "HR-TEM (JEOL JEM-F200)",
+        "specifications": "JEOL JEM-F200",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      },
+      {
+        "name": "Impedance Spectroscopy",
+        "specifications": "",
+        "location": "University Science Instrumentation Center (USIC), University of Delhi",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "du-usic",
+    "analyzedAt": "2026-08-20T18:51:39.707Z",
+    "vitalityScore": 95,
+    "summary": "The lab facility page mostly retains its historical equipment list with a few updates, including the addition of an AFM Machine and improved specification details for the Dynamic Light Scattering equipment. No critical equipment losses were identified.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "AFM Machine"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Dynamic Light Scattering (Horiba)",
+        "change": "Added specification details for Horiba"
+      }
+    ]
+  }
+}

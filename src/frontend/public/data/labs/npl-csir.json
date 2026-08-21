@@ -1,0 +1,230 @@
+{
+  "target": {
+    "id": "npl-csir",
+    "name": "CSIR–National Physical Laboratory",
+    "url": "https://www.nplindia.in/index.php/new_facilities/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "npl-csir",
+    "name": "CSIR–National Physical Laboratory",
+    "url": "https://www.nplindia.in/index.php/new_facilities/",
+    "scrapedAt": "2026-08-20T13:04:25.624Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Robotic Mass Comparator",
+        "specifications": "5 g capacity",
+        "location": "CSIR-NPL",
+        "status": "Installation and commencing under process"
+      },
+      {
+        "name": "Vacuum Mass Comparator",
+        "specifications": "1 kg capacity, computer operated electronic vacuum mass comparator, vacuum chamber, load alternator with 8 positions",
+        "location": "CSIR-NPL",
+        "status": ""
+      },
+      {
+        "name": "50 kg Mass Comparator (AX64004)",
+        "specifications": "Automatic mass comparator based on computer operation, 4 positions for weight alternator, independent draft shields, self-centric mechanism",
+        "location": "CSIR-NPL",
+        "status": ""
+      },
+      {
+        "name": "Stylus based surface texture parameters measuring instrument",
+        "specifications": "Working range of 200 mm in X axis, probe measurement range of 12 mm in Z axis, probe Z-axis resolution 0.8 nm, motorized/CNC column length of 500 mm in Z axis",
+        "location": "Length, Dimension and Nanometrology section, CSIR-NPL",
+        "status": "Established"
+      },
+      {
+        "name": "Thunder Scientific-2500 Humidity Generator",
+        "specifications": "Based on temperature-pressure parameters, stability better than 0.1%, calibration range 10% to 95% RH with uncertainty of 0.3% RH",
+        "location": "Temperature and Humidity Metrology Section, CSIR-NPL",
+        "status": ""
+      },
+      {
+        "name": "C-type Goniophotometer System",
+        "specifications": "Measures luminous flux and other optical radiation parameters for LED lighting",
+        "location": "Optical Radiation Metrology Section, CSIR-NPL",
+        "status": "Installed"
+      },
+      {
+        "name": "Optical Radiation Test System",
+        "specifications": "Tests photobiological safety of LED based luminaires",
+        "location": "Optical Radiation Metrology Section, CSIR-NPL",
+        "status": "Installed"
+      },
+      {
+        "name": "3000 kN Force Calibration Machine",
+        "specifications": "3000 kN capacity using build-up system by comparison method",
+        "location": "CSIR-NPL",
+        "status": "Established"
+      },
+      {
+        "name": "Gas Flow Calibration Facility",
+        "specifications": "Flow range 1 mL/min to 1200 L/min, expanded uncertainty 0.2% at k=2, includes laminar flow elements, sonic nozzles, mass flow terminal, and 1000 L air receiver",
+        "location": "Fluid Flow Metrology Section, CSIR-NPL",
+        "status": "Established"
+      },
+      {
+        "name": "Primary Water Flow Calibration Facility",
+        "specifications": "For flowmeters DN2 to DN200, flow range up to 650 m3/h using weighing method (ISO 4185), includes 3 weighing systems (300 kg, 3000 kg, 6000 kg capacities)",
+        "location": "Fluid Flow Metrology Section, CSIR-NPL",
+        "status": "Fully functional"
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "npl-csir",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.nplindia.in/index.php/new_facilities/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T13:13:15.409Z",
+    "equipment": [
+      {
+        "name": "Robotic Mass Comparator",
+        "specifications": "5 g",
+        "location": "CSIR-NPL",
+        "status": "Installation and commencing are under process"
+      },
+      {
+        "name": "Vacuum Mass Comparator",
+        "specifications": "1 kg, computer operated electronic vacuum mass comparator with a vacuum chamber and load alternator with eight positions for holding masses and spheres",
+        "location": "CSIR-NPL",
+        "status": ""
+      },
+      {
+        "name": "50 kg Mass Comparator (AX64004)",
+        "specifications": "Automatic mass comparator, computer operated, four positions for weight alternator, independent draft shields, self-centric mechanism",
+        "location": "CSIR-NPL",
+        "status": ""
+      },
+      {
+        "name": "Stylus based surface texture parameters measuring instrument",
+        "specifications": "Working range of 200 mm in X axis, probe measurement range of 12 mm in Z axis, Z axis resolution 0.8 nm (<1 nm), motorized/CNC column length 500 mm in Z axis, measures Ra, Rq, Rz, Rp, Rpmax, Rvmax, Rt, Sm, Sk and contour features",
+        "location": "Length, Dimension and Nanometrology section",
+        "status": "Established"
+      },
+      {
+        "name": "Testing facility for IR Clinical Thermometers",
+        "specifications": "As per Standard IS/ISO 80601-2-56: 2017",
+        "location": "Temperature and Humidity Metrology Section, CSIR-NPL",
+        "status": "Indigenously designed and developed, in use"
+      },
+      {
+        "name": "Setup for calibration of clinical thermometers (mercury and digital)",
+        "specifications": "",
+        "location": "2 RRSL labs",
+        "status": "Delivered"
+      },
+      {
+        "name": "Set-up for testing of thermal imagers",
+        "specifications": "Apex calibration and testing of thermal imagers",
+        "location": "CSIR-NPL",
+        "status": "Being developed"
+      },
+      {
+        "name": "Thunder Scientific-2500 Humidity Generator",
+        "specifications": "Based on temperature-pressure parameters, stability better than 0.1%, calibration range 10% to 95% RH with uncertainty of 0.3% RH",
+        "location": "CSIR-NPL",
+        "status": ""
+      },
+      {
+        "name": "C-type Goniophotometer System",
+        "specifications": "Calibration and testing facility for luminous flux and other parameters of LED based lights",
+        "location": "Optical Radiation Metrology Section, CSIR-NPL",
+        "status": "Established"
+      },
+      {
+        "name": "Optical Radiation Test System",
+        "specifications": "Testing photobiological safety of LED based luminaires for blue light hazard",
+        "location": "Optical Radiation Metrology Section, CSIR-NPL",
+        "status": "Being established / Installed"
+      },
+      {
+        "name": "3000 kN Force Calibration Machine",
+        "specifications": "3000 kN capacity build-up system using comparison method",
+        "location": "CSIR-NPL",
+        "status": "Established"
+      },
+      {
+        "name": "Ultrasonic Energy Calibration Setup",
+        "specifications": "Ultrasonic energy calibration facility with traceability to national standard",
+        "location": "CSIR-NPL",
+        "status": ""
+      },
+      {
+        "name": "Calibration/testing system for non-invasive blood pressure monitoring system",
+        "specifications": "Testing facility for blood pressure monitoring devices including digital type",
+        "location": "CSIR-NPL",
+        "status": ""
+      },
+      {
+        "name": "Gas Flow Calibration Facility",
+        "specifications": "Flow range 1 mL/min to 1200 L/min with expanded uncertainty of 0.2% at k=2; includes laminar flow elements (10 sccm to 30 slm), sonic nozzles (10 slm to 1200 slm), mass flow terminal, PT-100 sensors, barometric pressure monitor, digital thermometer, 1000 L air receiver",
+        "location": "Fluid Flow Metrology Section, CSIR-NPL",
+        "status": "Established"
+      },
+      {
+        "name": "Primary Water Flow Calibration Facility",
+        "specifications": "Sizes DN2 to DN200, flow range up to 650 m3/h using weighing method (ISO 4185 Standard); includes pipe lines DN25 to DN200, weighing systems (300 kg, 3000 kg, 6000 kg), DN15 line with 12 kg weighing scale, DN150 direct pumping header",
+        "location": "Fluid Flow Metrology Section, CSIR-NPL",
+        "status": "Fully functional"
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "npl-csir",
+    "analyzedAt": "2026-08-20T13:18:31.711Z",
+    "vitalityScore": 66.7,
+    "summary": "Five calibration and testing facilities/setups present in the 2024 historical snapshot were removed from the current equipment listing, resulting in notable knowledge loss. Existing items received minor specification refinements.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Testing facility for IR Clinical Thermometers",
+        "severity": "critical",
+        "reason": "Entire testing facility present historically is no longer listed."
+      },
+      {
+        "name": "Setup for calibration of clinical thermometers (mercury and digital)",
+        "severity": "critical",
+        "reason": "Entire setup delivered and listed historically is missing from current page."
+      },
+      {
+        "name": "Set-up for testing of thermal imagers",
+        "severity": "critical",
+        "reason": "Entire setup under development historically is absent from current page."
+      },
+      {
+        "name": "Ultrasonic Energy Calibration Setup",
+        "severity": "critical",
+        "reason": "Entire calibration setup listed historically is missing from current page."
+      },
+      {
+        "name": "Calibration/testing system for non-invasive blood pressure monitoring system",
+        "severity": "critical",
+        "reason": "Entire testing system listed historically is absent from current page."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "Stylus based surface texture parameters measuring instrument",
+        "change": "Location updated to include CSIR-NPL explicit suffix; listed measured parameters removed from specification text."
+      },
+      {
+        "name": "C-type Goniophotometer System",
+        "change": "Status updated from Established to Installed."
+      },
+      {
+        "name": "Gas Flow Calibration Facility",
+        "change": "Specific component details (PT-100 sensors, digital thermometer, barometric pressure monitor) omitted from description."
+      },
+      {
+        "name": "Primary Water Flow Calibration Facility",
+        "change": "Detailed line size breakdowns omitted from specifications."
+      }
+    ]
+  }
+}

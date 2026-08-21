@@ -1,0 +1,114 @@
+{
+  "target": {
+    "id": "tumunich-znn",
+    "name": "TU Munich",
+    "url": "https://www.wsi.tum.de/views/areas.php?area=6",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "tumunich-znn",
+    "name": "TU Munich",
+    "url": "https://www.wsi.tum.de/views/areas.php?area=6",
+    "scrapedAt": "2026-08-20T18:36:14.364Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Helium ion microscope",
+        "specifications": "Allows structuring nanoscale materials on a lengthscale of sub-10 nm or even down to the single defect level",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      },
+      {
+        "name": "Focused ion beam",
+        "specifications": "Utilizes Ga+-ions to locally sputter materials such as metals into nanoscale circuits and fabricate thin lamellas",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      },
+      {
+        "name": "Atomic layer deposition system",
+        "specifications": "Thin-film deposition technique based on the sequential use of a gas phase chemical process",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      },
+      {
+        "name": "Atomic force microscope",
+        "specifications": "Allows characterizing the surface of nanoscale materials with a resolution close to the atomic limit",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      },
+      {
+        "name": "XPS/UPS system",
+        "specifications": "Relies on the photoemission of electrons from thin surface layers and allow characterizing their elemental composition",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "tumunich-znn",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.wsi.tum.de/views/areas.php?area=6",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:36:34.053Z",
+    "equipment": [
+      {
+        "name": "Helium ion microscope (HIM)",
+        "specifications": "Allows structuring nanoscale materials on a lengthscale of sub-10 nm or down to the single defect level",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      },
+      {
+        "name": "Focused ion beam (FIB)",
+        "specifications": "Utilizes Ga+-ions to locally sputter materials into nanoscale circuits and fabricate thin lamellas",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      },
+      {
+        "name": "Atomic layer deposition (ALD)",
+        "specifications": "Thin-film deposition technique based on the sequential use of a gas phase chemical process",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      },
+      {
+        "name": "Atomic force microscope (AFM)",
+        "specifications": "Allows characterizing the surface of nanoscale materials with a resolution close to the atomic limit",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      },
+      {
+        "name": "XPS/UPS",
+        "specifications": "Ultraviolet and x-ray photoelectron spectroscopy relying on photoemission of electrons from thin surface layers",
+        "location": "Center for Nanotechnologies and Nanomaterials (ZNN)",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "tumunich-znn",
+    "analyzedAt": "2026-08-20T18:36:43.211Z",
+    "vitalityScore": 100,
+    "summary": "All core historical instruments remain present in the current facility list. Minor specification details and naming conventions were updated, but no knowledge or equipment was lost.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Helium ion microscope",
+        "change": "Updated specification phrasing regarding sub-10 nm structuring."
+      },
+      {
+        "name": "Focused ion beam",
+        "change": "Updated specification text with examples such as sputtering metals."
+      },
+      {
+        "name": "Atomic layer deposition",
+        "change": "Renamed to Atomic layer deposition system."
+      },
+      {
+        "name": "XPS/UPS",
+        "change": "Renamed to XPS/UPS system and updated specification text detailing elemental characterization."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "target": {
+    "id": "ucr-cfamm",
+    "name": "UC Riverside",
+    "url": "https://cfamm.ucr.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "ucr-cfamm",
+    "name": "UC Riverside",
+    "url": "https://cfamm.ucr.edu/",
+    "scrapedAt": "2026-08-20T20:01:31.230Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "STEM Titan Themis",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "TEM Talos 120",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FIB/SEM Quanta 200i",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SEM NNS450",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SEM Mira3",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Digital Microscope VHX-7000",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "ucr-cfamm",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cfamm.ucr.edu/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T20:01:48.826Z",
+    "equipment": [
+      {
+        "name": "STEM Titan Themis",
+        "specifications": "",
+        "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+        "status": ""
+      },
+      {
+        "name": "TEM Talos 120",
+        "specifications": "",
+        "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+        "status": ""
+      },
+      {
+        "name": "FIB/SEM Quanta 200i",
+        "specifications": "",
+        "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+        "status": ""
+      },
+      {
+        "name": "SEM NNS450",
+        "specifications": "",
+        "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+        "status": ""
+      },
+      {
+        "name": "SEM Mira3",
+        "specifications": "",
+        "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "ucr-cfamm",
+    "analyzedAt": "2026-08-20T20:01:54.644Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment has been preserved and a new digital microscope was added to the facility.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Digital Microscope VHX-7000"
+      }
+    ],
+    "modified": []
+  }
+}

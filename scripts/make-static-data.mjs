@@ -42,5 +42,16 @@ for (const t of targets) {
 }
 await writeFile(resolve(OUT, 'labs.json'), JSON.stringify(labs, null, 2));
 
+// full per-lab detail → public/data/labs/<id>.json (same shape as GET /api/lab/:id)
+const LAB_OUT = resolve(OUT, 'labs');
+await mkdir(LAB_OUT, { recursive: true });
+for (const t of targets) {
+  const [current, historical, analysis] = await Promise.all([
+    readJ('current', `${t.id}.json`), readJ('historical', `${t.id}.json`), readJ('analysis', `${t.id}.json`),
+  ]);
+  await writeFile(resolve(LAB_OUT, `${t.id}.json`), JSON.stringify({ target: t, current, historical, analysis }, null, 2));
+}
+
 console.log(`[static-data] wrote ${targets.length} targets + ${analyses.length} analyses + ${labs.length} labs` +
+  ` + ${targets.length} detail files` +
   (skipped ? ` (${skipped} unparseable file(s) skipped)` : '') + ' to src/frontend/public/data/');

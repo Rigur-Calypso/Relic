@@ -1,0 +1,160 @@
+{
+  "targetId": "iitr-iic",
+  "name": "IIT Roorkee Institute Instrumentation Centre",
+  "url": "https://iitr.ac.in/Centres/Institute%20Instrumentation%20Centre/Research/Analytical%20Facilities.html",
+  "scrapedAt": "2026-08-21T09:33:35.686Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Powder_XRD",
+      "specifications": "Powder X-Ray Diffractometer",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "GI-XRD (Thin Film)",
+      "specifications": "Grazing Incidence X-Ray Diffraction",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "FE-SEM_Gemini 560",
+      "specifications": "Field Emission Scanning Electron Microscope, ZEISS Gemini 560",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "FE-SEM_Apero",
+      "specifications": "Field Emission Scanning Electron Microscope, Apero",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "FE-SEM_Gemini",
+      "specifications": "Field Emission Scanning Electron Microscope, ZEISS Gemini",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "FE-SEM_Ultra Plus",
+      "specifications": "Field Emission Scanning Electron Microscope, Zeiss Ultra Plus",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "TEM",
+      "specifications": "Transmission Electron Microscope",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "EPMA",
+      "specifications": "Electron Probe Micro-Analysis",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "VSM (Lake Shore)",
+      "specifications": "Vibrating Sample Magnetometer",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "PPMS",
+      "specifications": "Physical Property Measurement System",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "SPM",
+      "specifications": "Scanning Probe Microscope",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "SQUID",
+      "specifications": "Superconducting Quantum Interference Device",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "TIMS",
+      "specifications": "Thermal Ionization Mass Spectrometer",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "ICPMS-MS",
+      "specifications": "Inductively Coupled Plasma Mass Spectrometry",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "MPAES",
+      "specifications": "Microwave Plasma Atomic Emission Spectroscopy",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "FLS",
+      "specifications": "Fluorescence Lifetime System / TCSPC",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "DTA/TGA",
+      "specifications": "DTA / TGA / DSC",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "LN2 Plant",
+      "specifications": "Liquid Nitrogen Plant",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "XPS",
+      "specifications": "X-ray Photoelectron Spectroscopy",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "XRF",
+      "specifications": "X-Ray Fluorescence",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "NMR",
+      "specifications": "Nuclear Magnetic Resonance",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "EPR/ESR",
+      "specifications": "Electron Paramagnetic Resonance Spectroscopy",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "MCU (High Intensity X-Ray Diffraction)",
+      "specifications": "Macromolecular Crystallographic Unit",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis-NIR Spectrophotometer",
+      "specifications": "",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    },
+    {
+      "name": "MALDI-TOF/TOF MS",
+      "specifications": "",
+      "location": "IIC, IIT Roorkee",
+      "status": ""
+    }
+  ]
+}

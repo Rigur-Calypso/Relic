@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "unm-cint",
+    "name": "New Mexico",
+    "url": "https://ncf.unm.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "unm-cint",
+    "name": "New Mexico",
+    "url": "https://ncf.unm.edu/",
+    "scrapedAt": "2026-08-20T18:17:43.380Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "unm-cint",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:18:11.764Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "unm-cint",
+    "analyzedAt": "2026-08-20T18:18:13.887Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "targetId": "epfl-cmi",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.epfl.ch/research/facilities/cmi/equipment/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-21T09:29:55.364Z",
+  "equipment": [
+    {
+      "name": "Raith EBPG5000 – Ebeam tool",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Sawatec SM-150 for ebeam resists",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Sawatec HP-200 hot plates",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "ASML PAS 5500/350C",
+      "specifications": "DUV (λ = 248nm) stepper",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "TEL Clean Track ACT-8",
+      "specifications": "DUV (λ = 248nm) inline track",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Süss ACS200 GEN3",
+      "specifications": "Automatic coater and developer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "EVG 150 – AUTOMATIC RESIST PROCESSING CLUSTER",
+      "specifications": "Automatic coater and developer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "RITETRACK 88 SERIES – AUTOMATIC COATER AND DEVELOPER TRACKS",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Hamatech HMR900",
+      "specifications": "Automatic coater and developer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Sawatec SM-200 for photoresists",
+      "specifications": "Manual coater",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Sawatec LSM-250 & HP-200",
+      "specifications": "Manual coater and hotplate",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Sawatec LSM-200 & HP-401-Z",
+      "specifications": "Manual coater and hotplate",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Sawatec LSM-250 for MISC polymers",
+      "specifications": "Manual coater",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg Instruments VPG200",
+      "specifications": "Laser writer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg Instruments MLA150 – 1 & 2",
+      "specifications": "Laser writer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Nanoscribe Photonic Professional GT+",
+      "specifications": "3D Laser lithography system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Süss MA6Gen3",
+      "specifications": "Mask aligner",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Süss MA6/BA6",
+      "specifications": "Mask aligner",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Süss MJB4",
+      "specifications": "Mask aligner",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "NILT CNI v3.0",
+      "specifications": "Nanoimprint lithography tool",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "YES 310TA, Vacuum cure & HMDS vapor prime oven",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Veeco Nexus IBE350",
+      "specifications": "Ion beam etching system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "STS Multiplex ICP",
+      "specifications": "Plasma etching system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Alcatel AMS 200 SE",
+      "specifications": "Plasma etching system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "SPTS APS",
+      "specifications": "Plasma etching system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "TEL Unity Me",
+      "specifications": "Plasma etching system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "SPTS Rapier",
+      "specifications": "Plasma etching system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Oxford – PlasmaPro100 Cobra",
+      "specifications": "Plasma etching system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Oxford PRS900",
+      "specifications": "Resist strip system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Tepla 300",
+      "specifications": "Resist strip and descum system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Tepla GiGAbatch",
+      "specifications": "Resist strip system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "ESI 3511 Downstream Plasma Asher",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Jelight UVO Cleaner",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "SPTS uEtch",
+      "specifications": "Gas etching system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "SPTS Xactix X4 – XeF2 Silicon etching system",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "STEAG MECAPOL 460 – CMP",
+      "specifications": "Chemical mechanical polishing system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Alpsitec E460 F – CMP",
+      "specifications": "Chemical mechanical polishing system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Post CMP Cleaning System GnP Cleaner 428",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "DAG810 – AUTOMATIC SURFACE GRINDER",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Tousimis Automegasamdri 915B – Critical Point Dryer",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Centrotherm furnaces",
+      "specifications": "LPCVD / Oxidation / Doping / Diffusion / Annealing",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "ATOMIC LAYER DEPOSITION BENEQ TFS200 (ALD 1)",
+      "specifications": "Atomic layer deposition system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "ATOMIC LAYER DEPOSITION BENEQ TFS200 (ALD 2)",
+      "specifications": "Atomic layer deposition system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "RTP JETFIRST 200",
+      "specifications": "Rapid thermal processing system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "ROVAK Flash Lamp Annealing System Semi-Line 3.0",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Oxford Instruments PlasmaPro 100 ICPCVD",
+      "specifications": "PECVD system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Corial D250L PECVD",
+      "specifications": "PECVD system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Alliance-Concept EVA 760",
+      "specifications": "Evaporation system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Leybold Optics LAB 600H",
+      "specifications": "Evaporation system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Vacotec VACO 250",
+      "specifications": "Evaporation system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Plassys MEB550SL3 UHV Evaporator",
+      "specifications": "Ultra-high vacuum evaporator",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Pfeiffer SPIDER 600",
+      "specifications": "Sputtering system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Alliance-Concept DP 650",
+      "specifications": "Sputtering system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Solmates SMP 800",
+      "specifications": "Pulsed laser deposition system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Silicet Electroplating unit, Cu",
+      "specifications": "Copper electroplating unit",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Comelec C-30-S",
+      "specifications": "Parylene coating system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Bruker FastScan AFM",
+      "specifications": "Atomic force microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "FEI Nova 600 NanoLab",
+      "specifications": "DualBeam FIB/SEM system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Zeiss LEO 1550",
+      "specifications": "Scanning electron microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Zeiss MERLIN",
+      "specifications": "Scanning electron microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Zeiss SEM Crossbeam 550",
+      "specifications": "Scanning electron microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "KLA Tencor P-17",
+      "specifications": "Mechanical profilometer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Bruker Dektak XT",
+      "specifications": "Mechanical profilometer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "KLA Tencor D600",
+      "specifications": "Mechanical profilometer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Krüss DSA-30E",
+      "specifications": "Drop shape analyzer / Optical surface measurement",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Sopra GES 5E",
+      "specifications": "Ellipsometer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Woollam RC2",
+      "specifications": "Spectroscopic ellipsometer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Bruker Contour X",
+      "specifications": "Optical profilometer",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Nanospec AFT-6100",
+      "specifications": "Film thickness measurement system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "FilMetrics F20-UV",
+      "specifications": "Thin-film measurement system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics F54",
+      "specifications": "Automated thin-film mapping system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Toho Technology FLX 2320-S",
+      "specifications": "Thin film stress measurement system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics R50 – 200 – 4PP",
+      "specifications": "Sheet resistance measurement system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "AIT CMT-SR2000N 4-Point Probe Measurement System",
+      "specifications": "4-point probe sheet resistance measurement system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "MPI TS150 Probe Station",
+      "specifications": "Electrical probe station",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Leica DM8000",
+      "specifications": "Inspection microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Nikon Optiphot 200",
+      "specifications": "Inspection microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Nikon Optiphot 150",
+      "specifications": "Inspection microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Nikon MM 40",
+      "specifications": "Inspection and 2-D metrology microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Mitutoyo",
+      "specifications": "Inspection microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Nikon Eclipse LV150 microscope",
+      "specifications": "Optical microscope",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "EVG 510",
+      "specifications": "Wafer to wafer bonding line",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "TPT HB10",
+      "specifications": "Wire bonder",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "F&S Bondtec 56i",
+      "specifications": "Automatic wire bonder",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Finetech FINEPLACER lambda",
+      "specifications": "Die bonder",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "OPTEC LSV3",
+      "specifications": "Laser machining system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "T-Tech QC5000S-E",
+      "specifications": "Milling system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Disco DAD321",
+      "specifications": "Dicing saw",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Graphtec RoboPro CE5000-40-CRP",
+      "specifications": "Cutting plotter",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "NanoImprint EHN-3250",
+      "specifications": "Printing system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Surfx Atomflo 400L",
+      "specifications": "Atmospheric plasma treatment system",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Idonus shadow mask aligner",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Neytech Qex Furnace",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Furnace ATV PEO-601",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    },
+    {
+      "name": "Furnace ATV SRO-702",
+      "specifications": "",
+      "location": "Center of MicroNanoTechnology CMi - EPFL",
+      "status": ""
+    }
+  ]
+}

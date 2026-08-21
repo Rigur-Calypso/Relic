@@ -1,0 +1,9 @@
+{
+  "targetId": "southampton-nano",
+  "name": "Southampton Nanofabrication Centre",
+  "url": "https://www.southampton.ac.uk/research/facilities/nanofabrication-cleanrooms",
+  "scrapedAt": "2026-08-21T09:30:15.233Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

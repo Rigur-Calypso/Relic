@@ -1,0 +1,37 @@
+{
+  "targetId": "iitr-iic",
+  "analyzedAt": "2026-08-21T09:35:10.770Z",
+  "vitalityScore": 100,
+  "summary": "All 22 historical equipment items are retained in the current inventory. Several new instruments and facilities (FE-SEM_Gemini 560, LN2 Plant, MALDI-TOF/TOF MS) have been added, and specifications/locations have been updated.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "FE-SEM_Gemini 560"
+    },
+    {
+      "name": "LN2 Plant"
+    },
+    {
+      "name": "MALDI-TOF/TOF MS"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Macromolecular Crystallographic Unit (MCU)",
+      "change": "Updated name to 'MCU (High Intensity X-Ray Diffraction)' and added location details."
+    },
+    {
+      "name": "GI-X-Ray Diffractometer",
+      "change": "Updated name to 'GI-XRD (Thin Film)' and added specifications."
+    },
+    {
+      "name": "Vibrating sample magnetometer (VSM)",
+      "change": "Updated name to 'VSM (Lake Shore)'."
+    },
+    {
+      "name": "Electron Paramagnetic Resonance (EPR) Spectroscopy",
+      "change": "Updated name to 'EPR/ESR'."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "wisc-wcnt",
+    "name": "Wisconsin Nanoscale",
+    "url": "https://wcnt.wisc.edu/center-for-nanoscale-fabrication-2/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "wisc-wcnt",
+    "name": "Wisconsin Nanoscale",
+    "url": "https://wcnt.wisc.edu/center-for-nanoscale-fabrication-2/",
+    "scrapedAt": "2026-08-20T18:07:45.017Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "wisc-wcnt",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:08:12.935Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "wisc-wcnt",
+    "analyzedAt": "2026-08-20T18:08:15.056Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

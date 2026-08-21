@@ -1,0 +1,530 @@
+{
+  "target": {
+    "id": "texasam-mcf",
+    "name": "Texas A&M",
+    "url": "https://mcf.tamu.edu/instruments/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "texasam-mcf",
+    "name": "Texas A&M",
+    "url": "https://mcf.tamu.edu/instruments/",
+    "scrapedAt": "2026-08-20T18:30:24.985Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "FE-SEM",
+        "specifications": "EDS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Lyra FIB-SEM",
+        "specifications": "EDS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fera FIB-SEM",
+        "specifications": "EDS, EBSD, and TOF-SIMS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electron Microprobe",
+        "specifications": "EDS and WDS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Titan Themis3 300 S/TEM",
+        "specifications": "EDS and EELS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermal mechanical analysis (TMA)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Differential scanning calorimetry (DSC)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hot Disc thermal conductivity analysis",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dielectric Spectrometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "G8 Galileo ONH Analyzer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "XPS/UPS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "EnviroESCA",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nanoindenter",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Imaging ellipsometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Cameca ion microprobe",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Icon AFM",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "AFM-IR",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PI 85 PicoIndenter for SEM",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PI-95 Picoindenter for TEM",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Tensile Stage 500 N",
+        "specifications": "in situ/ex situ",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Tensile Stage 10 kN",
+        "specifications": "in situ/ex situ",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Spectrofluorometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis-NIR spectrophotometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Raman confocal microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FTIR spectrometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Particale Size Analyzer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Surface Area Analyzer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Analyette 28",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Sputter Coater",
+        "specifications": "208HR by Cressington",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "LADD carbon evaporator",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Struers LaboPol-5 polishing table",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Diamond band saw",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Powder press",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Buehler hot mounting press",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nikon SMZ800N stereomicroscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nikon LV100 petrographic microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oven",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electropolishers",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FEM and TEM Plasma Cleaners",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gatan PIPS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "texasam-mcf",
+    "snapshotUrl": "http://web.archive.org/web/20240221092112/https://mcf.tamu.edu/instruments/",
+    "snapshotTimestamp": "20240221092112",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T18:30:39.231Z",
+    "equipment": [
+      {
+        "name": "FE-SEM",
+        "specifications": "with EDS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Lyra FIB-SEM",
+        "specifications": "with EDS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fera FIB-SEM",
+        "specifications": "with EDS, EBSD, and TOF-SIMS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electron Microprobe",
+        "specifications": "with EDS and WDS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Titan Themis3 300 S/TEM",
+        "specifications": "with EDS and EELS",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermal mechanical analysis (TMA)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Differential scanning calorimetry (DSC)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hot Disc thermal conductivity analysis",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dielectric Spectrometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "XPS/UPS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "EnviroESCA",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nanoindenter",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Imaging ellipsometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Cameca ion microprobe",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Icon AFM",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "AFM-IR",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PI 85 PicoIndenter for SEM",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Tensile Stage 500 N",
+        "specifications": "in situ/ex situ",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Tensile Stage 10 kN",
+        "specifications": "in situ/ex situ",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Spectrofluorometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis-NIR spectrophotometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Raman confocal microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FTIR spectrometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Particale Size Analyzer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Surface Area Analyzer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Sputter Coater",
+        "specifications": "208HR by Cressington",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "LADD carbon evaporator",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Struers LaboPol-5 polishing table",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Diamond band saw",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Powder press",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Buehler hot mounting press",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nikon SMZ800N stereomicroscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nikon LV100 petrographic microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oven",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electropolishers",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FEM and TEM Plasma Cleaners",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gatan PIPS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "texasam-mcf",
+    "analyzedAt": "2026-08-20T18:30:45.321Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment has been preserved while several new additions, such as the G8 Galileo ONH Analyzer, PI-95 Picoindenter for TEM, and Analyette 28, were added to the facility.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "G8 Galileo ONH Analyzer"
+      },
+      {
+        "name": "PI-95 Picoindenter for TEM"
+      },
+      {
+        "name": "Analyette 28"
+      }
+    ],
+    "modified": [
+      {
+        "name": "FE-SEM",
+        "change": "Specification description simplified from 'with EDS' to 'EDS'"
+      },
+      {
+        "name": "Lyra FIB-SEM",
+        "change": "Specification description simplified from 'with EDS' to 'EDS'"
+      }
+    ]
+  }
+}

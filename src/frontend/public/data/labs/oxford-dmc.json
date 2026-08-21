@@ -1,0 +1,330 @@
+{
+  "target": {
+    "id": "oxford-dmc",
+    "name": "Oxford Materials",
+    "url": "https://www-em.materials.ox.ac.uk/instruments.html",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "oxford-dmc",
+    "name": "Oxford Materials",
+    "url": "https://www-em.materials.ox.ac.uk/instruments.html",
+    "scrapedAt": "2026-08-20T20:05:45.707Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "JEOL ARM-200F",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JEM-3000F",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JEM-2100",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JSM-5510",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss Merlin Analytical",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss Merlin - EBSD",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss EVO",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss NVision 40",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss Auriga",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss Crossbeam 540",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "ThermoFisher Helios G4-CXe PFIB",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fischione 1010 ion mill",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fischione 1040 NanoMill",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Bio Rad gold sputter coating system",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Leica ACE600 Coater",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gatan 656 dimple grinder",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fischione 1020 plasma cleaner (x2)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Buehler Isomet low speed saw",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Metprep grinder/polisher",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Struers Labopol-5",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Logitech precision lapping machine",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gatan PECS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gatan PECS - Vacuum Transfer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "South Bay Technology tripod polisher",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "oxford-dmc",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www-em.materials.ox.ac.uk/instruments.html",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T20:06:39.154Z",
+    "equipment": [
+      {
+        "name": "JEOL ARM-200F",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JEM-3000F",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JEM-2100",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JSM-5510",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss Merlin Analytical",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss Merlin - EBSD",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss EVO",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss NVision 40",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss Auriga",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Zeiss Crossbeam 540",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "ThermoFisher Helios G4-CXe PFIB",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fischione 1010 ion mill",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fischione 1040 NanoMill",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Bio Rad gold sputter coating system",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Leica ACE600 Coater",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gatan 656 dimple grinder",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fischione 1020 plasma cleaner",
+        "specifications": "x2",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Buehler Isomet low speed saw",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Metprep grinder/polisher",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Struers Labopol-5",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Logitech precision lapping machine",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gatan PECS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Gatan PECS - Vacuum Transfer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "South Bay Technology tripod polisher",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "oxford-dmc",
+    "analyzedAt": "2026-08-20T20:06:45.732Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment remains listed in the current inventory, with only minor formatting changes in the specifications for the plasma cleaner.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Fischione 1020 plasma cleaner",
+        "change": "Moved specification 'x2' into the item name string as '(x2)'"
+      }
+    ]
+  }
+}

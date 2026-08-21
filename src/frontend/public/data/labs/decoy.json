@@ -1,0 +1,55 @@
+{
+  "target": {
+    "id": "decoy",
+    "name": "Decoy University Lab (Demo-Controlled)",
+    "url": "https://YOUR_GH_USERNAME.github.io/relic-decoy/",
+    "strategy": "selector",
+    "note": "We control this. Delete the AFM row live to trigger knowledge-loss detection."
+  },
+  "current": {
+    "targetId": "decoy",
+    "name": "Decoy University Lab (Demo-Controlled)",
+    "url": "https://YOUR_GH_USERNAME.github.io/relic-decoy/",
+    "scrapedAt": "2026-08-20T10:58:24.093Z",
+    "method": "selector",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "Zeiss Gemini, 1 nm resolution",
+        "location": "Room 101",
+        "status": "Operational"
+      },
+      {
+        "name": "X-Ray Diffractometer",
+        "specifications": "Rigaku SmartLab, Cu Kα source",
+        "location": "Room 102",
+        "status": "Operational"
+      },
+      {
+        "name": "Atomic Force Microscope",
+        "specifications": "Bruker Dimension Icon, 0.5 nm resolution",
+        "location": "Room 103",
+        "status": "Operational"
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "decoy",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T13:10:05.455Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "decoy",
+    "analyzedAt": "2026-08-20T13:17:27.612Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

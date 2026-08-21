@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "lbnl-foundry",
+    "name": "LBNL Molecular Foundry",
+    "url": "https://foundry.lbl.gov/about/facilities/nanofabrication/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "lbnl-foundry",
+    "name": "LBNL Molecular Foundry",
+    "url": "https://foundry.lbl.gov/about/facilities/nanofabrication/",
+    "scrapedAt": "2026-08-20T18:31:28.953Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "lbnl-foundry",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:31:51.203Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "lbnl-foundry",
+    "analyzedAt": "2026-08-20T18:31:53.319Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

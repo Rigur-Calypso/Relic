@@ -1,0 +1,377 @@
+{
+  "target": {
+    "id": "saif-iitb",
+    "name": "SAIF IIT Bombay",
+    "url": "http://www.saif.iitb.ac.in/facility.html",
+    "strategy": "ai",
+    "note": "Ancient HTML, confirmed Wayback history — the hero real-world case."
+  },
+  "current": {
+    "targetId": "saif-iitb",
+    "name": "SAIF IIT Bombay",
+    "url": "http://www.saif.iitb.ac.in/facility.html",
+    "scrapedAt": "2026-08-20T13:01:47.015Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "CHNSO Elemental Analyzer(CHNS)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "ICP-Mass Spectrometry(ICP-MS)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Electron Spin Resonance Spectrometer(ESR)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer (NMR 600 MHz)",
+        "specifications": "600 MHz",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Gun-Scanning Electron Microscopes(FEG-SEM)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Focused Ion Beam -Scanning Electron Microscope(FIB-SEM)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Gun-Transmission Electron Microscope 300 kV (FEG-TEM 300 kV) with STEM, EDS and EELS",
+        "specifications": "300 kV, STEM, EDS, EELS",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "FTIR-Imaging Systeml(FTIR-IMG)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatograph With High Resolution Mass Spectrometer(GC-HRMS)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Liquid Chromatograph Mass Spectrometer (HR-LCMS)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Liquid Chromatograph Mass Spectrometer (HR-LCMS Orbitrap)",
+        "specifications": "Orbitrap",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Simultaneous Thermogravimetric Analyzer(TGADTA)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry(DSC)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Mechanical Analyzer(DMA)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Time-of-Flight Secondary Ion Mass Spectrometer (ToF SIMS)",
+        "specifications": "",
+        "location": "SAIF/CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Stylus Profilometer (STYL-PRO)",
+        "specifications": "",
+        "location": "SAIF/CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Small Angle X-ray Scattering (SAXS)",
+        "specifications": "",
+        "location": "SAIF/CRNTS",
+        "status": ""
+      },
+      {
+        "name": "ICP-Atomic Emission Spectrometer(ICP-AES)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Environmental Scanning Electron Microscope (ESEM)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Gun-Transmission Electron Microscope 120/200 kV (FEG-TEM 200 kV)",
+        "specifications": "120/200 kV",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Two dimensional Gas Chromatography with Time of Flight Mass Spectrometer (GCxGC-TOFMS)",
+        "specifications": "",
+        "location": "Central facility",
+        "status": ""
+      },
+      {
+        "name": "Laser Raman Imaging System (LRIS)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Laser Raman Spectroscopy (LRS)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Spectrofluorometer (PL-VIS-NIR)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Nano UV-VIS Photometer (NAUVVIS)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Typhoon FLA 9500 Biomolecular Imager (TFLA)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis Spectrophotometer (UVVIS)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "saif-iitb",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/http://www.saif.iitb.ac.in/facility.html",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T13:11:19.708Z",
+    "equipment": [
+      {
+        "name": "CHNSO Elemental Analyzer(CHNS)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "ICP-Atomic Emission Spectrometer(ICP-AES)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "ICP-Mass Spectrometry(ICP-MS)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Electron Spin Resonance Spectrometer(ESR)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer",
+        "specifications": "600 MHz",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Environmental Scanning Electron Microscope (ESEM)",
+        "specifications": "Quanta 200",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Gun-Scanning Electron Microscopes(FEG-SEM)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Gun-Scanning Electron Microscopes(FIB-SEM)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Gun-Transmission Electron Microscope (FEG-TEM)",
+        "specifications": "120/200 kV",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Gun-Transmission Electron Microscope (FEG-TEM)",
+        "specifications": "300kV with STEM, EDS and EELS",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "FTIR-Imaging System(FTIR-IMG)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Spectrofluorometer (PL-VIS-NIR)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Laser Raman Imaging System (LRIS)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Laser Raman Spectroscopy (LRS)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Nano UV-VIS Photometer (NAUVVIS)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Typhoon FLA 9500 Biomolecular Imager (TFLA)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis Spectrophotometer(UVVIS)",
+        "specifications": "",
+        "location": "CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatograph With High Resolution Mass Spectrometer(GC-HRMS)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "2D Gas Chromatography with Time of Flight Mass Spectrometer (GCxGC-TOFMS)",
+        "specifications": "",
+        "location": "Central facility",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Liquid Chromatograph Mass Spectrometer (HR-LCMS)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Liquid Chromatograph Mass Spectrometer (HR-LCMS Orbitrap)",
+        "specifications": "Orbitrap",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Simultaneous Thermogravimetric Analyzer(TGADTA)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry(DSC)",
+        "specifications": "",
+        "location": "SAIF",
+        "status": ""
+      },
+      {
+        "name": "Time-of-Flight Secondary Ion Mass Spectrometer (ToF SIMS)",
+        "specifications": "",
+        "location": "SAIF/CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Stylus Profilometer (STYL-PRO)",
+        "specifications": "",
+        "location": "SAIF/CRNTS",
+        "status": ""
+      },
+      {
+        "name": "Small Angle X-ray Scattering (SAXS)",
+        "specifications": "",
+        "location": "SAIF/CRNTS",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "saif-iitb",
+    "analyzedAt": "2026-08-20T13:18:07.658Z",
+    "vitalityScore": 100,
+    "summary": "All 26 historical equipment items remain present in the facility's current listing, with minor formatting or name standardization updates. One new instrument, Dynamic Mechanical Analyzer (DMA), has been added.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Dynamic Mechanical Analyzer(DMA)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Environmental Scanning Electron Microscope (ESEM)",
+        "change": "Specification detail 'Quanta 200' was removed in the current listing."
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer",
+        "change": "Updated instrument title to include '(NMR 600 MHz)'."
+      },
+      {
+        "name": "Field Emission Gun-Scanning Electron Microscopes(FIB-SEM)",
+        "change": "Updated instrument name to 'Focused Ion Beam -Scanning Electron Microscope(FIB-SEM)'."
+      },
+      {
+        "name": "Field Emission Gun-Transmission Electron Microscope (FEG-TEM) (120/200 kV)",
+        "change": "Updated instrument name to include '(FEG-TEM 200 kV)'."
+      }
+    ]
+  }
+}

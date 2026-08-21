@@ -1,0 +1,109 @@
+{
+  "target": {
+    "id": "weizmann-nano",
+    "name": "Weizmann Institute",
+    "url": "https://www.weizmann.ac.il/condmat/submicron/home-page",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "weizmann-nano",
+    "name": "Weizmann Institute",
+    "url": "https://www.weizmann.ac.il/condmat/submicron/home-page",
+    "scrapedAt": "2026-08-20T20:23:46.579Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "electron beam writing (EBL) system",
+        "specifications": "capable of producing less than 10 nm wide features",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UHV evaporators",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UHV plasma etching and deposition tools",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SEM",
+        "specifications": "less than 10 angstroms resolution",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "dilution refrigerators",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "He4 and He3 systems",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "weizmann-nano",
+    "snapshotUrl": "http://web.archive.org/web/20240221221347/https://www.weizmann.ac.il/condmat/submicron/home-page",
+    "snapshotTimestamp": "20240221221347",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T20:24:27.410Z",
+    "equipment": [
+      {
+        "name": "electron beam writing (EBL) system",
+        "specifications": "capable of producing less than 10 nm wide features",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UHV evaporators",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UHV plasma etching and deposition tools",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SEM",
+        "specifications": "less than 10 angstroms resolution",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "dilution refrigerators",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "He4 and He3 systems",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "weizmann-nano",
+    "analyzedAt": "2026-08-20T20:24:33.409Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and specifications remain exactly the same in the current list with no knowledge loss.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

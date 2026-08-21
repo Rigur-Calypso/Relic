@@ -11,7 +11,7 @@ function facilityType(name) {
   return 'University Core';
 }
 
-export default function LabCard({ lab, live, busy, anyBusy, onAction, index = 0, highlighted }) {
+export default function LabCard({ lab, live, busy, anyBusy, onAction, onOpen, index = 0, highlighted }) {
   const ref = useRef(null);
   const v = lab.vitalityScore;
   const color = bandColor(v);
@@ -30,8 +30,12 @@ export default function LabCard({ lab, live, busy, anyBusy, onAction, index = 0,
 
   return (
     <article ref={ref} id={`lab-${lab.id}`}
-      className={`tcard ${highlighted ? 'hl' : ''}`}
-      style={{ animationDelay: `${Math.min(index, 9) * 40}ms` }}>
+      className={`tcard ${highlighted ? 'hl' : ''} ${onOpen ? 'clickable' : ''}`}
+      style={{ animationDelay: `${Math.min(index, 9) * 40}ms` }}
+      data-cursor={onOpen ? '' : undefined}
+      role={onOpen ? 'button' : undefined} tabIndex={onOpen ? 0 : undefined}
+      onClick={onOpen ? (e) => { if (!e.target.closest('.act')) onOpen(lab); } : undefined}
+      onKeyDown={onOpen ? (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onOpen(lab); } } : undefined}>
       <div className="L">
         <div className="top">
           <div>
@@ -68,6 +72,7 @@ export default function LabCard({ lab, live, busy, anyBusy, onAction, index = 0,
 
         <div className="foot">
           <span>Tracking <b>{lab.trackingCount}</b> instrument{lab.trackingCount === 1 ? '' : 's'}</span>
+          {onOpen && !live && <span className="viewhint">View full report →</span>}
           {live && (
             <div className="acts">
               {['scrape', 'heal', 'analyze'].map((k) => (

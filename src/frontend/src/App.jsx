@@ -2,7 +2,13 @@ import { useEffect, useMemo, useState, useCallback, useRef } from 'react';
 import Cursor from './components/Cursor.jsx';
 import Globe from './components/Globe.jsx';
 import LabCard from './components/LabCard.jsx';
+import LabDetail from './components/LabDetail.jsx';
 import Splash from './components/Splash.jsx';
+
+const parseRoute = () => {
+  const m = (window.location.hash || '').match(/^#\/lab\/(.+)$/);
+  return m ? { view: 'lab', id: decodeURIComponent(m[1]) } : { view: 'home' };
+};
 
 const FILTERS = [
   { key: 'all', label: 'All', dot: 'var(--g2)' },
@@ -24,13 +30,13 @@ function CountUp({ to }) {
 
 export default function App() {
   const [splashDone, setSplashDone] = useState(false);
+  const [route, setRoute] = useState(parseRoute);
   const [labs, setLabs] = useState([]);
   const [loading, setLoading] = useState(true);
   const [live, setLive] = useState(false);
   const [filter, setFilter] = useState('all');
   const [query, setQuery] = useState('');
   const [busy, setBusy] = useState(null);
-  const [highlightId, setHighlightId] = useState(null);
   const [lookupQ, setLookupQ] = useState('');
   const [lookupBusy, setLookupBusy] = useState(false);
   const [lookupResult, setLookupResult] = useState(null);
@@ -49,6 +55,13 @@ export default function App() {
     setLoading(false);
   }, []);
   useEffect(() => { load(); }, [load]);
+  useEffect(() => {
+    const onHash = () => setRoute(parseRoute());
+    window.addEventListener('hashchange', onHash);
+    return () => window.removeEventListener('hashchange', onHash);
+  }, []);
+  // A detail deep-link should skip the splash so the page is immediately usable.
+  useEffect(() => { if (route.view === 'lab') setSplashDone(true); }, [route.view]);
 
   async function onAction(id, kind) {
     if (busy) return; setBusy({ id, kind });
@@ -70,13 +83,14 @@ export default function App() {
     finally { setLookupBusy(false); }
   }
 
-  function selectLab(lab) {
-    setFilter('all'); setQuery(''); setHighlightId(lab.id);
-    requestAnimationFrame(() => {
-      document.getElementById(`lab-${lab.id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    });
-    setTimeout(() => setHighlightId(null), 2400);
-  }
+  const openLab = useCallback((lab) => {
+    if (!lab?.id) return;
+    window.location.hash = `#/lab/${encodeURIComponent(lab.id)}`;
+  }, []);
+  const closeLab = useCallback(() => {
+    if (window.location.hash) { history.pushState('', document.title, window.location.pathname + window.location.search); }
+    setRoute({ view: 'home' });
+  }, []);
 
   const counts = useMemo(() => { const c = { all: labs.length, loss: 0, healthy: 0, none: 0 }; for (const l of labs) c[stateOf(l)]++; return c; }, [labs]);
   const stats = useMemo(() => ({
@@ -101,6 +115,11 @@ export default function App() {
       <div className={`app-main ${splashDone ? 'app-in' : ''}`}>
       <div className="aurora" /><div className="orb a" /><div className="orb b" /><div className="orb c" />
 
+      {route.view === 'lab' ? (
+        <LabDetail id={route.id} live={live} seed={labs.find((l) => l.id === route.id)}
+          onBack={closeLab} busy={busy?.id === route.id ? busy.kind : null} anyBusy={!!busy} onAction={onAction} />
+      ) : (
+      <>
       <nav className="nav">
         <div className="brand"><span className="dia" />RELIC</div>
         <div className="links">
@@ -117,7 +136,7 @@ export default function App() {
         <h1 className="hero-h">The web quietly <span className="grad">forgets.</span><br />RELIC remembers.</h1>
         <p className="sub"><b>A healthy scraper is not the same as preserved knowledge.</b> RELIC diffs every lab’s live equipment page against its Wayback history — and catches the instruments that silently disappear.</p>
 
-        <Globe labs={labs} onSelect={selectLab} />
+        <Globe labs={labs} onSelect={openLab} />
 
         <div className="stats">
           <div className="chip"><div className="n mono"><CountUp to={stats.total} /></div><div className="l">Facilities monitored</div></div>
@@ -178,13 +197,15 @@ export default function App() {
         <div className="grid">
           {loading ? <div className="skeleton">{Array.from({ length: 6 }).map((_, i) => <div className="sk" key={i} />)}</div>
             : shown.length ? shown.map((l, i) => (
-              <LabCard key={l.id} lab={l} live={live} index={i} highlighted={highlightId === l.id}
+              <LabCard key={l.id} lab={l} live={live} index={i} onOpen={openLab}
                 busy={busy?.id === l.id ? busy.kind : null} anyBusy={!!busy} onAction={onAction} />
             )) : <div className="empty">No facilities match this view.</div>}
         </div>
       </section>
 
       <footer>RELIC · the self-healing web memory — a Bright Data × Gemini pipeline monitoring {labs.length || '100+'} facilities.</footer>
+      </>
+      )}
       </div>
     </>
   );

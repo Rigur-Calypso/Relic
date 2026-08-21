@@ -1,0 +1,216 @@
+{
+  "target": {
+    "id": "vt-ncfl",
+    "name": "Virginia Tech NCFL",
+    "url": "https://ncfl.ictas.vt.edu/index.html",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "vt-ncfl",
+    "name": "Virginia Tech NCFL",
+    "url": "https://ncfl.ictas.vt.edu/index.html",
+    "scrapedAt": "2026-08-20T18:03:15.272Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "TEM: JEOL 2100",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL IT-500HR",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JEM 1400",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FEI Quanta 600 FEG",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Philips EM 420",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hysitron TriboIndenter",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "HIROX KH-7700 3D Digital Video Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PHI Quantera Hybrid XPS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Helios 5 UC",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JEM ARM200f NEOARM",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JXA-iHP200F",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JBX-8100FS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL IB-19520CCP Cooling Cross Section Polisher",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL JSM-IT800 SHL",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "vt-ncfl",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://ncfl.ictas.vt.edu/index.html",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:03:49.514Z",
+    "equipment": [
+      {
+        "name": "TEM: JEOL 2100",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FEI Quanta 600 FEG",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "LEO (Zeiss) 1550",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Helios FIB",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Philips EM 420",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Cameca IMS 7f GEO",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "PHI Quantera Hybrid XPS",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hysitron TriboIndenter",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "HIROX KH-7700 3D Digital Video Microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "JEOL IT-500HR",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "vt-ncfl",
+    "analyzedAt": "2026-08-20T18:04:01.649Z",
+    "vitalityScore": 80,
+    "summary": "Two historical instruments (LEO (Zeiss) 1550 and Cameca IMS 7f GEO) are no longer listed, while the Helios FIB was updated to Helios 5 UC. Several new JEOL instruments were added to the current equipment list.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "LEO (Zeiss) 1550",
+        "severity": "critical",
+        "reason": "Instrument no longer listed on current facility page."
+      },
+      {
+        "name": "Cameca IMS 7f GEO",
+        "severity": "critical",
+        "reason": "Instrument no longer listed on current facility page."
+      }
+    ],
+    "added": [
+      {
+        "name": "JEOL JEM 1400"
+      },
+      {
+        "name": "JEOL JEM ARM200f NEOARM"
+      },
+      {
+        "name": "JEOL JXA-iHP200F"
+      },
+      {
+        "name": "JEOL JBX-8100FS"
+      },
+      {
+        "name": "JEOL IB-19520CCP Cooling Cross Section Polisher"
+      },
+      {
+        "name": "JEOL JSM-IT800 SHL"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Helios FIB",
+        "change": "Updated instrument designation to Helios 5 UC"
+      }
+    ]
+  }
+}

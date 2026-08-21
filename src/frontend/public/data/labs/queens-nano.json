@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "queens-nano",
+    "name": "Queen’s University",
+    "url": "https://www.chem.queensu.ca/facilities/nanofabrication-kings",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "queens-nano",
+    "name": "Queen’s University",
+    "url": "https://www.chem.queensu.ca/facilities/nanofabrication-kings",
+    "scrapedAt": "2026-08-21T05:48:55.462Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "queens-nano",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-21T05:49:11.860Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "queens-nano",
+    "analyzedAt": "2026-08-21T05:49:13.958Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

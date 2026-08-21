@@ -1,0 +1,108 @@
+{
+  "target": {
+    "id": "ssn-cif",
+    "name": "SSN College",
+    "url": "https://www.ssn.edu.in/research-centre/facilities-and-servic",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "ssn-cif",
+    "name": "SSN College",
+    "url": "https://www.ssn.edu.in/research-centre/facilities-and-servic",
+    "scrapedAt": "2026-08-20T20:39:20.039Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "FESEM",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "XRD",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SUN SIMULATOR",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "IPCE",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis NIR Spectrophotometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FTIR",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Z-scan",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Dielectric",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thickness Profilometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Cryostat",
+        "specifications": "Photo and dark current measurements",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermal evaporator",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "TG-DTA",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "ssn-cif",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:39:46.313Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "ssn-cif",
+    "analyzedAt": "2026-08-20T20:39:48.450Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

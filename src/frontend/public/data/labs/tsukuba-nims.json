@@ -1,0 +1,118 @@
+{
+  "target": {
+    "id": "tsukuba-nims",
+    "name": "University of Tsukuba",
+    "url": "https://applphys.bk.tsukuba.ac.jp/research-fields/?lang=en",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "tsukuba-nims",
+    "name": "University of Tsukuba",
+    "url": "https://applphys.bk.tsukuba.ac.jp/research-fields/?lang=en",
+    "scrapedAt": "2026-08-21T05:47:49.736Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "high-resolution x-ray microscope",
+        "specifications": "high-resolution",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "scanning probe microscopy",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "scanning electron microscope",
+        "specifications": "",
+        "location": "Advanced SEM Technology Laboratory",
+        "status": ""
+      },
+      {
+        "name": "NMR imaging systems",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "GAMMA 10/PDX",
+        "specifications": "world’s largest tandem mirror device",
+        "location": "Plasma Research Center",
+        "status": ""
+      },
+      {
+        "name": "scanning tunneling microscopy",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "tsukuba-nims",
+    "snapshotUrl": "http://web.archive.org/web/20230925193843/https://applphys.bk.tsukuba.ac.jp/research-fields/?lang=en",
+    "snapshotTimestamp": "20230925193843",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-21T05:48:01.078Z",
+    "equipment": [
+      {
+        "name": "high-resolution x-ray microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "scanning probe microscopy",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "scanning electron microscope",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "NMR imaging systems",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "GAMMA 10/PDX",
+        "specifications": "world’s largest tandem mirror device",
+        "location": "Plasma Research Center",
+        "status": ""
+      },
+      {
+        "name": "scanning tunneling microscopy",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "tsukuba-nims",
+    "analyzedAt": "2026-08-21T05:48:07.485Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items are still present in the current list, with some specifications and location details updated or added.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "high-resolution x-ray microscope",
+        "change": "Added specifications"
+      },
+      {
+        "name": "scanning electron microscope",
+        "change": "Added location details"
+      }
+    ]
+  }
+}

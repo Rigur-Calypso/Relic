@@ -1,0 +1,218 @@
+{
+  "target": {
+    "id": "manipal-cif",
+    "name": "Manipal",
+    "url": "https://cif.manipal.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "manipal-cif",
+    "name": "Manipal",
+    "url": "https://cif.manipal.edu/",
+    "scrapedAt": "2026-08-20T19:59:33.537Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "specifications": "",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Auto Lab / Potentiostat",
+        "specifications": "",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Brunauer Emmett Teller (BET)",
+        "specifications": "Surface Area, Pore Size and Pore Distribution",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry (DSC)",
+        "specifications": "10°C/min, 5°C/min, 2°C/min",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "FE-Scanning Electron Microscope (FE-SEM)",
+        "specifications": "",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Fourier Transform Infrared (FTIR)",
+        "specifications": "",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography Mass Spectrometry (GCMS/MS)",
+        "specifications": "GC-MS/MS (liquid), GC-FID, GC-TCD, HS-GC/MS/MS with SPME (PAL 3 automation), Markes Multi-tube Thermal Desorber TD-100XR",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "High Performance Liquid Chromatography (HPLC)",
+        "specifications": "",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "High Resolution XRD (HR-XRD)",
+        "specifications": "Powder-XRD, GIXRD, HRXRD for thin films, Residual Stress / Texture (Pole Figure), SAXS, HRXRD-RSM",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR)",
+        "specifications": "",
+        "location": "Ground Floor, AB-4, Innovation Center Office, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Photoluminescence Spectrometer (PL)",
+        "specifications": "PL-Vis, PL-NIR, Lifetime Measurement, Quantum Yield Measurements",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope with EDAX (SEM with EDAX)",
+        "specifications": "",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Thermal Analysis (TGA-DTA)",
+        "specifications": "10°C/min, 5°C/min",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy (XPS)",
+        "specifications": "Survey Scan, Core Spectra, Valence Band, Ultraviolet Photoelectron Spectroscopy (UPS), Etching, Mapping / Line Scan / Depth Profile / Angle Resolved",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffractometer (XRD)",
+        "specifications": "",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Zetasizer",
+        "specifications": "Dynamic Light Scattering and Zeta Potential Analyzer",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      },
+      {
+        "name": "Raman Spectrometer",
+        "specifications": "Raman spectra at RT, above RT, below RT",
+        "location": "Central Analytical Instrumentation Facility (CAIF), Ground floor, MCRIF Building, Next to DBR and MSAP, MIT Campus- 576104",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "manipal-cif",
+    "snapshotUrl": "http://web.archive.org/web/20240817133741/https://cif.manipal.edu/",
+    "snapshotTimestamp": "20240817133741",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T20:00:18.774Z",
+    "equipment": [
+      {
+        "name": "Scanning Electron Microscope - EDS",
+        "specifications": "",
+        "location": "",
+        "status": "active"
+      },
+      {
+        "name": "X-Ray Diffractometer",
+        "specifications": "",
+        "location": "",
+        "status": "active"
+      },
+      {
+        "name": "Silver sputtering unit",
+        "specifications": "",
+        "location": "",
+        "status": "under maintenance"
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "manipal-cif",
+    "analyzedAt": "2026-08-20T20:00:26.084Z",
+    "vitalityScore": 80,
+    "summary": "The lab facility has significantly expanded its equipment list over time, adding numerous new instruments such as AFM, BET, NMR, and XPS. While core instruments like SEM and XRD have been retained or upgraded (e.g., to FE-SEM and HR-XRD), the historical 'Silver sputtering unit' is no longer listed, resulting in a minor knowledge loss.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Silver sputtering unit",
+        "severity": "minor",
+        "reason": "The instrument is absent from the current equipment list."
+      }
+    ],
+    "added": [
+      {
+        "name": "Atomic Force Microscope (AFM)"
+      },
+      {
+        "name": "Auto Lab / Potentiostat"
+      },
+      {
+        "name": "Brunauer Emmett Teller (BET)"
+      },
+      {
+        "name": "Differential Scanning Calorimetry (DSC)"
+      },
+      {
+        "name": "FE-Scanning Electron Microscope (FE-SEM)"
+      },
+      {
+        "name": "Fourier Transform Infrared (FTIR)"
+      },
+      {
+        "name": "Gas Chromatography Mass Spectrometry (GCMS/MS)"
+      },
+      {
+        "name": "High Performance Liquid Chromatography (HPLC)"
+      },
+      {
+        "name": "High Resolution XRD (HR-XRD)"
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR)"
+      },
+      {
+        "name": "Photoluminescence Spectrometer (PL)"
+      },
+      {
+        "name": "Thermal Analysis (TGA-DTA)"
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy (XPS)"
+      },
+      {
+        "name": "Zetasizer"
+      },
+      {
+        "name": "Raman Spectrometer"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Scanning Electron Microscope - EDS",
+        "change": "Updated and expanded into FE-Scanning Electron Microscope (FE-SEM) and Scanning Electron Microscope with EDAX (SEM with EDAX)."
+      },
+      {
+        "name": "X-Ray Diffractometer",
+        "change": "Updated and expanded into X-ray Diffractometer (XRD) and High Resolution XRD (HR-XRD)."
+      }
+    ]
+  }
+}

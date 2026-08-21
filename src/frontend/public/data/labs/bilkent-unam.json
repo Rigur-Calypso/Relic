@@ -1,0 +1,1906 @@
+{
+  "target": {
+    "id": "bilkent-unam",
+    "name": "Bilkent University",
+    "url": "https://unam.bilkent.edu.tr/en/facility/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "bilkent-unam",
+    "name": "Bilkent University",
+    "url": "https://unam.bilkent.edu.tr/en/facility/",
+    "scrapedAt": "2026-08-21T05:50:47.724Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Atomic Force Microscope",
+        "specifications": "PSIA",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope",
+        "specifications": "Asylum",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Dual Beam",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Lithography",
+        "specifications": "E-BEAM",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Environmental Scanning Electron Microscope",
+        "specifications": "ESEM",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Fluorescent and DIC Equipped Upright Microscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Fluorescent and DIC Equipped Inverted Microscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Material Microscopes",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "SNOM + Raman Microscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Stereomicroscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope",
+        "specifications": "TEM",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Accurate-Mass Quadrupole Time-of-Flight LC/MS",
+        "specifications": "Q-TOF",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "CHNS/O Elemental Analyzer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Circular Dichroism System",
+        "specifications": "CD",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Spectrophotometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Fluorospectrometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "FTIR Spectrometer",
+        "specifications": "Tensor 37",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "FTIR Spectrometer with Microscope",
+        "specifications": "Nicolet 6700",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "FTIR Spectrometer with Microscope",
+        "specifications": "Vertex 70",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "FT-Raman Spectrometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography Mass Spectrometer",
+        "specifications": "GC/MS",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Gel Permeation Chromatography",
+        "specifications": "GPC",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Mass Time-of-Flight LC/MS",
+        "specifications": "TOF",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma-Mass Spectrometer",
+        "specifications": "ICP-MS",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Microplate Reader",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer",
+        "specifications": "NMR",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Preparative High Performance Liquid Chromatography",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Size Exclusion Chromatography",
+        "specifications": "SEC",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Time-resolved Fluorescence",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS Spectrophotometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS-NIR Spectrophotometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "X-Ray Fluorescence Spectrometer",
+        "specifications": "XRF",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "X-Ray Photoelectron Spectrometer",
+        "specifications": "XPS",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Peptide Synthesizer Division",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Asher",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Atomic Layer Deposition",
+        "specifications": "ALD, Fiji",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Atomic Layer Deposition",
+        "specifications": "ALD, Savannah",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Autoclave",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Critical Point Dryer",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Dicing Saw",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Die Bonder",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Evaporation",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Electroplating Station",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma",
+        "specifications": "GaN, GaAs",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma",
+        "specifications": "Si",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Low Pressure Chemical Vapor Deposition",
+        "specifications": "LPCVD",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Mask Aligner",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Mask Writer",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Optical Profilometer",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Organic Thin Film Evaporator",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Plasma Enhanced Chemical Vapor Deposition",
+        "specifications": "PECVD, Plasma-Therm",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Plasma Enhanced Chemical Vapor Deposition",
+        "specifications": "PECVD, Vaksis",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Probe Station",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Rapid Thermal Annealing",
+        "specifications": "RTA",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "NanoSEM",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Semiconductor Parameter Analyzer",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Spinners",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Sputtering Systems",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Thermal Evaporators",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Wet Benches",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Wire Bonders",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "XeF2 Etcher",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Reactive Ion Etching",
+        "specifications": "RIE",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Fine Tech Chip Bonder",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "BET Physisorption-Chemisorption",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Contact Angle Measurement System",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry",
+        "specifications": "DSC, Netszch",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry",
+        "specifications": "DSC, TA",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Mechanical Analyzer",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Freeze Dryer System",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Isotermal Titration Calorimetry",
+        "specifications": "ITC",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Materials Research Diffractometer",
+        "specifications": "MRD",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Micromechanical Tester",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Multi-Purpose X-Ray Diffractometer",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Porosimeter",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Physical Property Measurement System",
+        "specifications": "PPMS",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Pycnometer",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Thermal Gravimetric Analysis",
+        "specifications": "TGA",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Zeta Potential",
+        "specifications": "Zeta Sizer",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Carbondioxide Lasers",
+        "specifications": "Coherent, Lumenis",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Ellipsometer",
+        "specifications": "IR-VASE",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Ellipsometer",
+        "specifications": "V-VASE",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Femtosecond Laser System",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Fiber Laser",
+        "specifications": "Toptica",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Fiber Polishing Machine",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "FSP Spectrum Analyzer",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "He-Cd Laser",
+        "specifications": "Kimmon",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "He-Ne Lasers",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "High Power Lasers",
+        "specifications": "custom",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "High Precision Positioning System",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Infrared Camera",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Lock-In Amplifiers",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Monochromators",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Optical Spectrum Analyzers",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Solar Simulator",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Supercontinuum Laser Source",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Tunable Diode Laser",
+        "specifications": "Toptica",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Tunable Semiconductor Laser",
+        "specifications": "Santec",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Tunable Telecommunication Laser",
+        "specifications": "Newport",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "UV Lasers",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Xe, Halogen, Deuterium Light Sources",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "5 Axis Machine Nanotech FG 350",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "SODICK-Wire EDM",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "Zeiss MICURA CMM",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "Keyence Microscope",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "Zwick Microsurgery Equipment",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "3D Printer Markerbot and Replicator",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "Fiber Draw Tower",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Fiber Draw Tower",
+        "specifications": "high temperature up to 2,300 oC",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Glass Production System",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Infrared Camera",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Modified Chemical Vapor Deposition",
+        "specifications": "MCVD",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Analyzer",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Consolidator",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Polariscope",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Slice Measurement System",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Washer",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Quartz Cutting Saw",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Rocking Furnace",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Scrubber",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Thermal Evaporation System",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Three-zone Furnace",
+        "specifications": "1,200 oC",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Vacuum Ovens",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Cut-off and Grinding Machine",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Dimple Grinder",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Disc Grinder",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Disc Punch",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Electrolytical Thinner",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Glass KnifeMaker",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Grinding and Polishing Machines",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Mounting Press",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Precision Etching Coating System",
+        "specifications": "PECS",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Precision Ion Polishing System",
+        "specifications": "PIPS",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Ultramicrotome",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Ultrasonic Cutter",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Vacuum Impregnation",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Bioreactors",
+        "specifications": "2 L / 5 L / 30 L",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Centrigures / Microfuges / Ultracentrifuges",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Cold Room",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Cryostat",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Electroporator",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "-80℃ Freezers",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Gel Imaging and Documentation System",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Gradient PCR",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Gradient Real-Time PCR",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Laminar Flow Cabinets",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Microplate Reader",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Microtomes",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Osmometer",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Shaking Incubators",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Sterile Cabins",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Vibratome",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "bilkent-unam",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://unam.bilkent.edu.tr/en/facility/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-21T05:51:42.405Z",
+    "equipment": [
+      {
+        "name": "Atomic Force Microscope",
+        "specifications": "PSIA",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope",
+        "specifications": "Asylum",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Dual Beam",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Lithography",
+        "specifications": "E-BEAM",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Environmental Scanning Electron Microscope",
+        "specifications": "ESEM",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Fluorescent and DIC Equipped Upright Microscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Fluorescent and DIC Equipped Inverted Microscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Material Microscopes",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "SNOM + Raman Microscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Stereomicroscope",
+        "specifications": "",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope",
+        "specifications": "TEM",
+        "location": "IMAGING / MICROSCOPY",
+        "status": ""
+      },
+      {
+        "name": "Accurate-Mass Quadrupole Time-of-Flight (Q-TOF) LC/MS",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "CHNS/O Elemental Analyzer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Circular Dichroism System",
+        "specifications": "CD",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Spectrophotometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Fluorospectrometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "FTIR Spectrometer",
+        "specifications": "Tensor 37",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "FTIR Spectrometer with Microscope",
+        "specifications": "Nicolet 6700",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "FTIR Spectrometer with Microscope",
+        "specifications": "Vertex 70",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "FT-Raman Spectrometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography Mass Spectrometer",
+        "specifications": "GC/MS",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Gel Permeation Chromatography",
+        "specifications": "GPC",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Mass Time-of-Flight (TOF) LC/MS",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma-Mass Spectrometer",
+        "specifications": "ICP-MS",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Microplate Reader",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer",
+        "specifications": "NMR",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Preparative High Performance Liquid Chromatography",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Size Exclusion Chromatography",
+        "specifications": "SEC",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Time-resolved Fluorescence",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS Spectrophotometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "UV-VIS-NIR Spectrophotometer",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "X-Ray Fluorescence Spectrometer",
+        "specifications": "XRF",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "X-Ray Photoelectron Spectrometer",
+        "specifications": "XPS",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Peptide Synthesizer Division",
+        "specifications": "",
+        "location": "SPECTROSCOPY / CHROMATOGRAPHY",
+        "status": ""
+      },
+      {
+        "name": "Asher",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Atomic Layer Deposition",
+        "specifications": "ALD, Fiji",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Atomic Layer Deposition",
+        "specifications": "ALD, Savannah",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Autoclave",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Critical Point Dryer",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Dicing Saw",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Die Bonder",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "E-Beam Evaporation",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Electroplating Station",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma",
+        "specifications": "GaN, GaAs",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma",
+        "specifications": "Si",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Low Pressure Chemical Vapor Deposition",
+        "specifications": "LPCVD",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Mask Aligner",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Mask Writer",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Optical Profilometer",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Organic Thin Film Evaporator",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Plasma Enhanced Chemical Vapor Deposition",
+        "specifications": "PECVD, Plasma-Therm",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Plasma Enhanced Chemical Vapor Deposition",
+        "specifications": "PECVD, Vaksis",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Probe Station",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Rapid Thermal Annealing",
+        "specifications": "RTA",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "NanoSEM",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Semiconductor Parameter Analyzer",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Spinners",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Sputtering Systems",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Thermal Evaporators",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Wet Benches",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Wire Bonders",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "XeF2 Etcher",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Reactive Ion Etching",
+        "specifications": "RIE",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "Fine Tech Chip Bonder",
+        "specifications": "",
+        "location": "CLEANROOMS",
+        "status": ""
+      },
+      {
+        "name": "BET Physisorption-Chemisorption",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Contact Angle Measurement System",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry",
+        "specifications": "DSC, Netszch",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry",
+        "specifications": "DSC, TA",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Dynamic Mechanical Analyzer",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Freeze Dryer System",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Isotermal Titration Calorimetry",
+        "specifications": "ITC",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Materials Research Diffractometer",
+        "specifications": "MRD",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Micromechanical Tester",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Multi-Purpose X-Ray Diffractometer",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Porosimeter",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Physical Property Measurement System",
+        "specifications": "PPMS",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Pycnometer",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Thermal Gravimetric Analysis",
+        "specifications": "TGA",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Zeta Potential",
+        "specifications": "Zeta Sizer",
+        "location": "MATERIAL SYNTHESIS / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Carbondioxide Lasers",
+        "specifications": "Coherent, Lumenis",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Ellipsometer",
+        "specifications": "IR-VASE",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Ellipsometer",
+        "specifications": "V-VASE",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Femtosecond Laser System",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Fiber Laser",
+        "specifications": "Toptica",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Fiber Polishing Machine",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "FSP Spectrum Analyzer",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "He-Cd Laser",
+        "specifications": "Kimmon",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "He-Ne Lasers",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "High Power Lasers",
+        "specifications": "custom",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "High Precision Positioning System",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Infrared Camera",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Lock-In Amplifiers",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Monochromators",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Optical Spectrum Analyzers",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Solar Simulator",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Supercontinuum Laser Source",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Tunable Diode Laser",
+        "specifications": "Toptica",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Tunable Semiconductor Laser",
+        "specifications": "Santec",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Tunable Telecommunication Laser",
+        "specifications": "Newport",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "UV Lasers",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "Xe, Halogen, Deuterium Light Sources",
+        "specifications": "",
+        "location": "OPTICAL / LASERS",
+        "status": ""
+      },
+      {
+        "name": "5 Axis Machine Nanotech FG 350",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "SODICK-Wire EDM",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "Zeiss MICURA CMM",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "Keyence Microscope",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "Zwick Microsurgery Equipment",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "3D Printer Markerbot and Replicator",
+        "specifications": "",
+        "location": "HIGH PRECISION MANUFACTURING",
+        "status": ""
+      },
+      {
+        "name": "Fiber Draw Tower",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Fiber Draw Tower",
+        "specifications": "high temperature up to 2,300 oC",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Glass Production System",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Infrared Camera",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Modified Chemical Vapor Deposition (MCVD)",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Analyzer",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Consolidator",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Polariscope",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Slice Measurement System",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Preform Washer",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Quartz Cutting Saw",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Rocking Furnace",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Scrubber",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Thermal Evaporation System",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Three-zone Furnace",
+        "specifications": "1,200 oC",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Vacuum Ovens",
+        "specifications": "",
+        "location": "FIBER PRODUCTION / CHARACTERIZATION",
+        "status": ""
+      },
+      {
+        "name": "Cut-off and Grinding Machine",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Dimple Grinder",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Disc Grinder",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Disc Punch",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Electrolytical Thinner",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Glass KnifeMaker",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Grinding and Polishing Machines",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Mounting Press",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Precision Etching Coating System (PECS)",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Precision Ion Polishing System (PIPS)",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Ultramicrotome",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Ultrasonic Cutter",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Vacuum Impregnation",
+        "specifications": "",
+        "location": "SAMPLE PREPARATION",
+        "status": ""
+      },
+      {
+        "name": "Bioreactors",
+        "specifications": "2 L / 5 L / 30 L",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Centrigures / Microfuges / Ultracentrifuges",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Cold Room",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Cryostat",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Electroporator",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "-80℃ Freezers",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Gel Imaging and Documentation System",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Gradient PCR",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Gradient Real-Time PCR",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Laminar Flow Cabinets",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Microplate Reader",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Microtomes",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Osmometer",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Shaking Incubators",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Sterile Cabins",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      },
+      {
+        "name": "Vibratome",
+        "specifications": "",
+        "location": "BIOTECHNOLOGY",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "bilkent-unam",
+    "analyzedAt": "2026-08-21T05:51:49.878Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and instrumentation are fully preserved. Several item names and specifications were reformatted or normalized for clarity, but no actual knowledge or equipment was lost.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Accurate-Mass Quadrupole Time-of-Flight (Q-TOF) LC/MS",
+        "change": "Name and specifications reformatted to 'Accurate-Mass Quadrupole Time-of-Flight LC/MS' with specifications 'Q-TOF'."
+      },
+      {
+        "name": "High Resolution Mass Time-of-Flight (TOF) LC/MS",
+        "change": "Name and specifications reformatted to 'High Resolution Mass Time-of-Flight LC/MS' with specifications 'TOF'."
+      },
+      {
+        "name": "Modified Chemical Vapor Deposition (MCVD)",
+        "change": "Name and specifications reformatted to 'Modified Chemical Vapor Deposition' with specifications 'MCVD'."
+      },
+      {
+        "name": "Precision Etching Coating System (PECS)",
+        "change": "Name and specifications reformatted to 'Precision Etching Coating System' with specifications 'PECS'."
+      },
+      {
+        "name": "Precision Ion Polishing System (PIPS)",
+        "change": "Name and specifications reformatted to 'Precision Ion Polishing System' with specifications 'PIPS'."
+      }
+    ]
+  }
+}

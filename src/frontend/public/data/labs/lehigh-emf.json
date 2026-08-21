@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "lehigh-emf",
+    "name": "Lehigh",
+    "url": "https://ifmd.lehigh.edu/facilities",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "lehigh-emf",
+    "name": "Lehigh",
+    "url": "https://ifmd.lehigh.edu/facilities",
+    "scrapedAt": "2026-08-20T18:11:50.274Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "lehigh-emf",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:12:11.842Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "lehigh-emf",
+    "analyzedAt": "2026-08-20T18:12:13.971Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

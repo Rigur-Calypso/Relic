@@ -1,0 +1,85 @@
+{
+  "target": {
+    "id": "harvard-cns",
+    "name": "Harvard CNS",
+    "url": "https://cns1.rc.fas.harvard.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "harvard-cns",
+    "name": "Harvard CNS",
+    "url": "https://cns1.rc.fas.harvard.edu/",
+    "scrapedAt": "2026-08-20T17:54:14.928Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "FIB 4 Helios Dual-Beam FIBSEM",
+        "specifications": "Dual-Beam FIBSEM (Focused Ion Beam Scanning Electron Microscope)",
+        "location": "LISE B15F",
+        "status": ""
+      },
+      {
+        "name": "Jupiter XR Atomic Force Microscope (SPM-12)",
+        "specifications": "Atomic Force Microscopy (AFM)",
+        "location": "Inside Nanofabrication Cleanroom LISE-G07 (cleanroom-metrology bay)",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "harvard-cns",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cns1.rc.fas.harvard.edu/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T17:54:37.523Z",
+    "equipment": [
+      {
+        "name": "Oxford ICP-CVD (CVD-14)",
+        "specifications": "Low Temp",
+        "location": "CNS cleanroom - Dry processing bay at CVD-14",
+        "status": ""
+      },
+      {
+        "name": "GEMStar ALD (ALD-2)",
+        "specifications": "",
+        "location": "Wet Processing Bay - CNS cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "",
+        "location": "SEC LL2.226",
+        "status": ""
+      },
+      {
+        "name": "Denton E-beam Evaporator (EE-4)",
+        "specifications": "",
+        "location": "LISE G07 (cleanroom); PVD Bay",
+        "status": ""
+      },
+      {
+        "name": "EL 6",
+        "specifications": "",
+        "location": "EL 7 room",
+        "status": ""
+      },
+      {
+        "name": "EL 7",
+        "specifications": "",
+        "location": "EL 7 room",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "harvard-cns",
+    "analyzedAt": "2026-08-20T20:49:37.615Z",
+    "vitalityScore": null,
+    "summary": "Current page yielded only a partial equipment list (facility landing page); diff suppressed to avoid an unreliable knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

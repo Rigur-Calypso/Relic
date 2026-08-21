@@ -1,0 +1,43 @@
+{
+  "targetId": "upenn-singh",
+  "analyzedAt": "2026-08-21T09:37:55.230Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment remains present with expanded specification details, and one new instrument (ZEISS Orion NanoFab Helium Ion Microscope) was added.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "ZEISS Orion NanoFab Helium Ion Microscope"
+    }
+  ],
+  "modified": [
+    {
+      "name": "JEOL 7500F HRSEM",
+      "change": "Specifications updated from category description to detailed feature specifications."
+    },
+    {
+      "name": "TFS Quanta 600 FEG ESEM",
+      "change": "Specifications updated from category description to detailed feature specifications."
+    },
+    {
+      "name": "TESCAN S8000X FIB/SEM",
+      "change": "Specifications updated from category description to detailed feature specifications."
+    },
+    {
+      "name": "JEOL F200",
+      "change": "Specifications updated from category description to detailed feature specifications."
+    },
+    {
+      "name": "JEOL NEOARM",
+      "change": "Specifications updated from category description to detailed feature specifications."
+    },
+    {
+      "name": "EMS/Quorum Q150T ES Sputter Coater",
+      "change": "Specifications updated from category description to detailed feature specifications."
+    },
+    {
+      "name": "Gatan Solarus 950 Advanced Plasma System",
+      "change": "Specifications updated from category description to detailed feature specifications."
+    }
+  ]
+}

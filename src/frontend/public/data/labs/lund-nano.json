@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "lund-nano",
+    "name": "Lund University",
+    "url": "https://www.nano.lu.se/labs/lund-nano-lab",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "lund-nano",
+    "name": "Lund University",
+    "url": "https://www.nano.lu.se/labs/lund-nano-lab",
+    "scrapedAt": "2026-08-21T05:46:50.124Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "lund-nano",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-21T05:47:16.561Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "lund-nano",
+    "analyzedAt": "2026-08-21T05:47:18.663Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

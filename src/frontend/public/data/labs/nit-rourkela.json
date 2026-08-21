@@ -1,0 +1,188 @@
+{
+  "target": {
+    "id": "nit-rourkela",
+    "name": "NIT Rourkela",
+    "url": "https://crf.nitrkl.ac.in/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "nit-rourkela",
+    "name": "NIT Rourkela",
+    "url": "https://crf.nitrkl.ac.in/",
+    "scrapedAt": "2026-08-20T20:14:37.862Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Rheometer for Asphalt",
+        "specifications": "Torque Range: 0.5µ Nm to 100m Nm Strain/position Resolution: 0.05 rad Normal force range: 0.1N to 20",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Rotary Vacuum Evaporator",
+        "specifications": "Samples must not have corrosive agents.",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer",
+        "specifications": "400 MHz Ultrashield Bruke",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis Spectrophotometer",
+        "specifications": "Samples must not be densely colored or turbid (except bacterial solution).",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Multipurpose X-Ray Diffraction System",
+        "specifications": "Goniometer: Theta-theta goniometer for precise angular measurements. X-ray Source: Cu Ka radiation. Detector: Scintillation counter or solid-state detector. Resolution: High-resolution optics for detailed diffraction patterns. Sample Stage: Moto",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FARO-Gage",
+        "specifications": "•1.2m (4 ft.) spherical working volume •Accuracy up to 0.018mm (0.0007 in.) •Temperature & Overload Sensors: Allow the FARO Gage to maximize accuracy by detecting and compensating for thermal variations and improper handling •Internal Counterbala",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fermentor & Bioreactor",
+        "specifications": "Digital Controller (Biostat B plus), Thermostat System( 8oC – 80oC), Dry Heating System, Culture vessel (5L), O2- Enrichment, MFCS/DA software, Stirrer Drive (20-2000 rpm), Exclusive flow (air, O2,",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Wavelength Dispersive X-Ray Fluorescence Spectroscopy (WDXRF)",
+        "specifications": "",
+        "location": "CRF Labs TI-010 &TI-003",
+        "status": ""
+      },
+      {
+        "name": "High Resolution Mass Spectrometer (HRMS)",
+        "specifications": "",
+        "location": "CRF Labs TI-010 &TI-003",
+        "status": ""
+      },
+      {
+        "name": "Laser Scanning Confocal Microscope (LSCM)",
+        "specifications": "",
+        "location": "CRF Labs TI-010 &TI-003",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "nit-rourkela",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://crf.nitrkl.ac.in/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T20:15:02.490Z",
+    "equipment": [
+      {
+        "name": "Transmission Electron Microscope",
+        "specifications": "TEM",
+        "location": "Central Research Facility, National Institute of Technology Rourkela",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "SEM",
+        "location": "Central Research Facility, National Institute of Technology Rourkela",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffractometer",
+        "specifications": "XRD",
+        "location": "Central Research Facility, National Institute of Technology Rourkela",
+        "status": ""
+      },
+      {
+        "name": "BET Surface Area Analyzer",
+        "specifications": "BET",
+        "location": "Central Research Facility, National Institute of Technology Rourkela",
+        "status": ""
+      },
+      {
+        "name": "High-Resolution Mass Spectrometer",
+        "specifications": "HRMS",
+        "location": "Central Research Facility, National Institute of Technology Rourkela",
+        "status": ""
+      },
+      {
+        "name": "Single Crystal X-ray Diffractometer",
+        "specifications": "SCXRD",
+        "location": "Central Research Facility, National Institute of Technology Rourkela",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "nit-rourkela",
+    "analyzedAt": "2026-08-20T20:15:09.418Z",
+    "vitalityScore": 35,
+    "summary": "Comparing the historical and current equipment lists shows significant turnover in the facility. Key instruments like the Transmission Electron Microscope, Scanning Electron Microscope, BET Surface Area Analyzer, and Single Crystal X-ray Diffractometer were removed. The High-Resolution Mass Spectrometer remains, while the X-ray Diffractometer appears to have been updated to a Multipurpose X-Ray Diffraction System. Several new instruments such as the Rheometer, NMR, and Fermentor have been added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Transmission Electron Microscope",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment inventory."
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment inventory."
+      },
+      {
+        "name": "BET Surface Area Analyzer",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment inventory."
+      },
+      {
+        "name": "Single Crystal X-ray Diffractometer",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment inventory."
+      }
+    ],
+    "added": [
+      {
+        "name": "Rheometer for Asphalt"
+      },
+      {
+        "name": "Rotary Vacuum Evaporator"
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer"
+      },
+      {
+        "name": "UV-Vis Spectrophotometer"
+      },
+      {
+        "name": "FARO-Gage"
+      },
+      {
+        "name": "Fermentor & Bioreactor"
+      },
+      {
+        "name": "Wavelength Dispersive X-Ray Fluorescence Spectroscopy (WDXRF)"
+      },
+      {
+        "name": "Laser Scanning Confocal Microscope (LSCM)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "X-ray Diffractometer",
+        "change": "Upgraded or replaced by Multipurpose X-Ray Diffraction System with detailed specifications."
+      },
+      {
+        "name": "High-Resolution Mass Spectrometer",
+        "change": "Retained in the facility with updated location details."
+      }
+    ]
+  }
+}

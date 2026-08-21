@@ -1,0 +1,75 @@
+{
+  "targetId": "caltech-kni",
+  "snapshotUrl": "http://web.archive.org/web/20231226054136/https://www.kni.caltech.edu/kni-laboratory",
+  "snapshotTimestamp": "20231226054136",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-21T09:21:36.309Z",
+  "equipment": [
+    {
+      "name": "100 kV direct-write electron beam pattern generators",
+      "specifications": "100 kV, handles 3-inch wafers and up to 200 mm wafers",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Electron beam evaporator",
+      "specifications": "For metals and oxides",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Sputtering systems",
+      "specifications": "For dielectric and chalcogenide materials",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "PECVD",
+      "specifications": "Plasma-enhanced chemical vapor deposition",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Atomic layer deposition system",
+      "specifications": "With etch capabilities",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "ICP-RIE etchers",
+      "specifications": "Allows processing of dielectric, metal, silicon, and III-V materials",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Scanning electron microscopes (SEM)",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Focused ion beam (FIB) systems",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Scanning probe microscopes",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Atomic force microscope (AFM)",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Transmission electron microscope (TEM)",
+      "specifications": "",
+      "location": "KNI Laboratory",
+      "status": ""
+    }
+  ]
+}

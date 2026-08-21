@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "washington-moles",
+    "name": "UW Molecular Analysis",
+    "url": "https://research.washington.edu/centers/molecular-analysis-f",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "washington-moles",
+    "name": "UW Molecular Analysis",
+    "url": "https://research.washington.edu/centers/molecular-analysis-f",
+    "scrapedAt": "2026-08-20T18:23:53.125Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "washington-moles",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:24:18.944Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "washington-moles",
+    "analyzedAt": "2026-08-20T18:24:21.069Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

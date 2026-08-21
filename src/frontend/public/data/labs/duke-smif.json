@@ -1,0 +1,96 @@
+{
+  "target": {
+    "id": "duke-smif",
+    "name": "Duke SMIF",
+    "url": "https://smif.pratt.duke.edu/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "duke-smif",
+    "name": "Duke SMIF",
+    "url": "https://smif.pratt.duke.edu/",
+    "scrapedAt": "2026-08-20T13:59:37.242Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "SEM",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "TEM",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "Mass Spec",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "Micro-CT",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "Optical Spectroscopy",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "AFM",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "Soft Materials Characterization Equipment",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "X-ray Characterization Equipment",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "Cryo-TEM",
+        "specifications": "Allows the analysis of biological samples under cryogenic conditions, enabling the determination of high-resolution 3D structures.",
+        "location": "SMIF",
+        "status": ""
+      },
+      {
+        "name": "Raman",
+        "specifications": "",
+        "location": "SMIF",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "duke-smif",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T14:09:44.073Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "duke-smif",
+    "analyzedAt": "2026-08-20T14:19:58.429Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "target": {
+    "id": "ethz-brnc",
+    "name": "ETH Zurich BRNC",
+    "url": "https://www.zurich.ibm.com/brnc/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "ethz-brnc",
+    "name": "ETH Zurich BRNC",
+    "url": "https://www.zurich.ibm.com/brnc/",
+    "scrapedAt": "2026-08-20T20:06:54.090Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "ethz-brnc",
+    "snapshotUrl": "http://web.archive.org/web/20240114001658/https://www.zurich.ibm.com/brnc/",
+    "snapshotTimestamp": "20240114001658",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T20:07:22.584Z",
+    "equipment": [
+      {
+        "name": "scanning tunneling microscope",
+        "specifications": "",
+        "location": "IBM Research - Zurich Laboratory",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "ethz-brnc",
+    "analyzedAt": "2026-08-20T20:07:24.763Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

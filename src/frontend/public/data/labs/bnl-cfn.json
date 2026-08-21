@@ -1,0 +1,54 @@
+{
+  "target": {
+    "id": "bnl-cfn",
+    "name": "Brookhaven CFN",
+    "url": "https://www.bnl.gov/cfn/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "bnl-cfn",
+    "name": "Brookhaven CFN",
+    "url": "https://www.bnl.gov/cfn/",
+    "scrapedAt": "2026-08-20T18:32:01.434Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Electron microscope",
+        "specifications": "Five transmission electron microscopes, two of which are capable of extreme levels of resolution.",
+        "location": "Center for Functional Nanomaterials",
+        "status": "Installed"
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "bnl-cfn",
+    "snapshotUrl": "http://web.archive.org/web/20240101225430/https://www.bnl.gov/cfn/",
+    "snapshotTimestamp": "20240101225430",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-20T18:32:17.277Z",
+    "equipment": [
+      {
+        "name": "Transmission electron microscopes",
+        "specifications": "Five transmission electron microscopes, two of which are capable of extreme levels of resolution",
+        "location": "Electron Microscopy Facility",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "bnl-cfn",
+    "analyzedAt": "2026-08-20T18:32:23.792Z",
+    "vitalityScore": 90,
+    "summary": "The transmission electron microscope facility entry was consolidated and updated with location and status details, maintaining core instrument capabilities.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Transmission electron microscopes",
+        "change": "Updated location and added operational status while preserving equipment specifications."
+      }
+    ]
+  }
+}

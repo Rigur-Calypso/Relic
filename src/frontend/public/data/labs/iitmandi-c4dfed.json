@@ -1,0 +1,166 @@
+{
+  "target": {
+    "id": "iitmandi-c4dfed",
+    "name": "IIT Mandi",
+    "url": "https://amrc.iitmandi.ac.in/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "iitmandi-c4dfed",
+    "name": "IIT Mandi",
+    "url": "https://amrc.iitmandi.ac.in/",
+    "scrapedAt": "2026-08-20T18:46:54.957Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Transmission Electron Microscope",
+        "specifications": "",
+        "location": "Advanced Material Research Center, IIT Mandi",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "",
+        "location": "Advanced Material Research Center, IIT Mandi",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "Advanced Material Research Center, IIT Mandi",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR) Spectrometer",
+        "specifications": "",
+        "location": "Advanced Material Research Center, IIT Mandi",
+        "status": ""
+      },
+      {
+        "name": "Mass Spectrometer",
+        "specifications": "",
+        "location": "Advanced Material Research Center, IIT Mandi",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectrometer",
+        "specifications": "",
+        "location": "Advanced Material Research Center, IIT Mandi",
+        "status": ""
+      },
+      {
+        "name": "Infrared Spectrometer",
+        "specifications": "",
+        "location": "Advanced Material Research Center, IIT Mandi",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffractometer",
+        "specifications": "",
+        "location": "Advanced Material Research Center, IIT Mandi",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "iitmandi-c4dfed",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://amrc.iitmandi.ac.in/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:47:24.443Z",
+    "equipment": [
+      {
+        "name": "Transmission Electron Microscope",
+        "specifications": "",
+        "location": "Microscopy Facilities",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "",
+        "location": "Microscopy Facilities",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "Microscopy Facilities",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR) Spectrometer",
+        "specifications": "",
+        "location": "Spectroscopy and Analytical Chemistry Facilities",
+        "status": ""
+      },
+      {
+        "name": "Mass Spectrometer",
+        "specifications": "",
+        "location": "Spectroscopy and Analytical Chemistry Facilities",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectrometer",
+        "specifications": "",
+        "location": "Spectroscopy and Analytical Chemistry Facilities",
+        "status": ""
+      },
+      {
+        "name": "Infrared Spectrometer",
+        "specifications": "",
+        "location": "Spectroscopy and Analytical Chemistry Facilities",
+        "status": ""
+      },
+      {
+        "name": "X-ray Diffractometer",
+        "specifications": "",
+        "location": "X-ray and Crystallography Facilities",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "iitmandi-c4dfed",
+    "analyzedAt": "2026-08-20T18:47:31.257Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items are preserved in the current list, with only location details being updated.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Transmission Electron Microscope",
+        "change": "Location updated"
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "change": "Location updated"
+      },
+      {
+        "name": "Confocal Microscope",
+        "change": "Location updated"
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR) Spectrometer",
+        "change": "Location updated"
+      },
+      {
+        "name": "Mass Spectrometer",
+        "change": "Location updated"
+      },
+      {
+        "name": "X-ray Photoelectron Spectrometer",
+        "change": "Location updated"
+      },
+      {
+        "name": "Infrared Spectrometer",
+        "change": "Location updated"
+      },
+      {
+        "name": "X-ray Diffractometer",
+        "change": "Location updated"
+      }
+    ]
+  }
+}

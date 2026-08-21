@@ -1,0 +1,102 @@
+{
+  "target": {
+    "id": "jadavpur-cif",
+    "name": "Jadavpur University",
+    "url": "https://jadavpuruniversity.in/academics/instrumentation-scie",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "jadavpur-cif",
+    "name": "Jadavpur University",
+    "url": "https://jadavpuruniversity.in/academics/instrumentation-scie",
+    "scrapedAt": "2026-08-20T20:30:03.046Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "Jeol make",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "X-Ray Diffraction unit",
+        "specifications": "Rigaku",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis spectro-photometer",
+        "specifications": "",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "Electro-chemical Work Station",
+        "specifications": "",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "Cryostat",
+        "specifications": "liquid Helium liquid Nitrogen",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "Solar Simulator",
+        "specifications": "",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "Raman Spectrometer",
+        "specifications": "",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography",
+        "specifications": "",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "Critical Point Drying Unit",
+        "specifications": "",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "Pulsed Laser Deposition Unit",
+        "specifications": "",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      },
+      {
+        "name": "Shaker Incubator",
+        "specifications": "",
+        "location": "Department of Instrumentation Science",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "jadavpur-cif",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:30:26.383Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "jadavpur-cif",
+    "analyzedAt": "2026-08-20T20:30:28.512Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

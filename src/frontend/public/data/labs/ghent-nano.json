@@ -1,0 +1,544 @@
+{
+  "target": {
+    "id": "ghent-nano",
+    "name": "Ghent University",
+    "url": "https://www.ugent.be/namifab/en/infrastructure",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "ghent-nano",
+    "name": "Ghent University",
+    "url": "https://www.ugent.be/namifab/en/infrastructure",
+    "scrapedAt": "2026-08-21T05:45:58.325Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "EVG 620 double-sided mask aligner",
+        "specifications": "Supports several modes (proximity, soft / hard / vacuum contact) and can do bottom side alignment and nano-imprint mode.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg DWL66 Laser Direct Imaging",
+        "specifications": "Resolution down to 1 μm. Laser: 250 mW @ 355 nm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Voyager EBEAM",
+        "specifications": "50 kEV Electron beam lithography, resolution down to 10 nm. Pattern generator 20 bits, 500 μm writing field. For samples and wafers up to 200 mm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "MA6 mask aligner (I)",
+        "specifications": "Resolution down to 800 nm. Option for backside alignment. For samples and wafers up to 150 mm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "MA6 mask aligner (II)",
+        "specifications": "Resolution down to 600 nm. Option for deep UV lithography (248 nm). For samples and wafers up to 150 mm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Advanced Vacuum Vision 310 PECVD",
+        "specifications": "Plasma enhanced chemical vapor deposition for SiO2, Si3N4 and a-Si layers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Spinner",
+        "specifications": "For spin coating polymer layers including photosensitive resist layers. For samples and wafers up to 200 mm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Electron Beam Evaporator",
+        "specifications": "For accurate deposition of thin metal layers or coatings.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Trovato thermal evaporation system",
+        "specifications": "Includes Marathon CP-8 Cryopump and Innovative Technologies glove box (N2 atmosphere).",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "3D Micromac microSTRUCT vario ps/fs Laser setup",
+        "specifications": "Femtosecond pulse laser at 1030.5 nm; picosecond pulse laser at 1064 nm, 532 nm and 355 nm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Optec multilaser setup",
+        "specifications": "Excimer laser at 248 nm, CO2 laser at 9 to 11 μm and ND-Yag laser at 354.7 nm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "DISCO DAD322 Dicing machine",
+        "specifications": "Fully automated dicing saw to cut materials such as silicon wafers and glass substrates.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Logitech PM5 Precision Lapping and Polishing System",
+        "specifications": "Optimized for Silicon chips as well as for GaAs /InP Opto-Electronic components.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Vacuum laminating press (Lauffer RLKV 25)",
+        "specifications": "For 330 mm by 280 mm substrates.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Vacuum forming machine (Formech 300XQ)",
+        "specifications": "Vacuum forming of thermoplastic materials using an infrared heater.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Large area processing line for flex PCB",
+        "specifications": "For 12” by 9” flexible PCBs combined with a Bungard Large area UV exposure machine.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Advanced Vacuum Vision 310 RIE",
+        "specifications": "RIE plasma etch system for etching glasses, SiO2, Si3N4, Silicon, Germanium, polymers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Oxford ICP System 100 (I)",
+        "specifications": "ICP plasma etch system for etching glasses, SiO2, Si3N4, Silicon, Germanium, polymers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Oxford ICP System 100 (II)",
+        "specifications": "ICP plasma etch system for etching III-V semiconductors.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "PVA TEPLA Plasma etch",
+        "specifications": "Oxygen plasma tool for cleaning, activation, and surface modification.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Critical point dryer",
+        "specifications": "Allows to release MEMS like structures",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "FEI Nova 600 Nanolab Dual-Beam FIB-SEM",
+        "specifications": "SEM with nanometer scale resolution, FIB column for cross-sections.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "JEOL JSM-6500 SEM incl. Energy Dispersive Spectroscopy (EDS)",
+        "specifications": "Secondary electrons, back-scattered electrons, cathodoluminescent photons, elemental analysis.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "JSM-7000F TFEG-SEM with JED-2300F EDS",
+        "specifications": "Field emission gun scanning electron microscope (FEG-SEM).",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "WYKO NT3300 non-contact optical profiler",
+        "specifications": "White light interferometer, sub-nanometer resolution.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Nikon Eclipse LV100 Inspection Microscope",
+        "specifications": "15 X oculars for a standard magnification range of 75X to 1500X.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "JEOL IB-09010CP Ion beam cross-section polisher",
+        "specifications": "Accelerated Argon ions at 2 to 6 kV.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Olympus DSX 500 microscope",
+        "specifications": "Automated microscope with measurement and 3D-visualisation.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Veeco Dektak",
+        "specifications": "Profilometer for measuring step heights from few nanometers to several 100 micrometers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Tresky die and flip-chip bonder",
+        "specifications": "Accuracy of ± 5 μm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "K&S Manual Wedge Bonder model 4523",
+        "specifications": "Aluminium wire: 18 μm and 32 μm; gold wire: 38 μm and 76.2x25.4 ribbon.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Finetech Pick and Place",
+        "specifications": "Accuracy of ±1 μm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "X-Celeprint μTP-100 Transfer Printer",
+        "specifications": "Accuracy of ±1 μm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "SUSS MicroTec Wafer Bonder",
+        "specifications": "For samples and substrates up to 150 mm. Compatible with thermal and pressure bonding.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "EVG 501 Wafer Bonder",
+        "specifications": "For substrates up to 150 mm wafers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "GDP global dispenser",
+        "specifications": "Automated needle dispenser for adhesives or solder paste.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "EKRA E4-STS Screen printer",
+        "specifications": "Fully automatic screen printer using screens or stencils.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "IBL SLC 300 Vapour phase reflow oven",
+        "specifications": "Programmable temperature profile using vapour phase of an inert liquid.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Optomec 300-UP Aerosol Jet Printer",
+        "specifications": "Prints metallic conductive inks based on aerosol and nitrogen gas flow.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "CTS CS-40/200 climate chamber",
+        "specifications": "-40 °C/+150 °C, 6°/min and Temperature-Humidity (10 - 95 °C, 10 – 98 % RH).",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Votsch VTS 7040-15/S climate chamber",
+        "specifications": "Temperature cycling (-70 °C to 180 °C, 16°/min) with in-situ resistance measurement.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "ghent-nano",
+    "snapshotUrl": "http://web.archive.org/web/20231126193120/https://www.ugent.be/namifab/en/infrastructure",
+    "snapshotTimestamp": "20231126193120",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-21T05:46:25.730Z",
+    "equipment": [
+      {
+        "name": "EVG 620 double-sided mask aligner",
+        "specifications": "Supports several modes (proximity, soft / hard / vacuum contact), bottom side alignment, and nano-imprint mode.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg DWL66 Laser Direct Imaging",
+        "specifications": "Resolution down to 1 μm. Laser: 250mW @ 355nm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Voyager EBEAM",
+        "specifications": "50kEV Electron beam lithography, resolution down to 10 nm. Pattern generator 20bits, 500μm writing field. For samples and wafers up to 200mm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "MA6 mask aligner (I)",
+        "specifications": "Resolution down to 800nm. Option for backside alignment. For samples and wafers up to 150mm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "MA6 mask aligner (II)",
+        "specifications": "Resolution down to 600nm. Option for deep UV lithography (248nm). For samples and wafers up to 150mm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Advanced Vacuum Vision 310 PECVD",
+        "specifications": "Plasma enhanced chemical vapor deposition for SiO2, Si3N4 and a-Si layers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Spinner",
+        "specifications": "Spincoating polymer layers including photosensitive resist layers. For samples and wafers up to 200mm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Electron Beam Evaporator",
+        "specifications": "Evaporation of insulating and conducting layers via electron beam heating.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Trovato thermal evaporation system",
+        "specifications": "Designed for deposition of organic layers. Includes Marathon CP-8 Cryopump and Innovative Technologies glove box (N2 atmosphere).",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "3D Micromac microSTRUCT vario ps/fs Laser setup",
+        "specifications": "Equipped with femtosecond pulse laser at 1030.5nm; picosecond pulse laser at 1064nm, 532nm and 355nm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Optec multilaser setup",
+        "specifications": "Equipped with excimer laser at 248nm, CO2 laser at 9 to 11um, and ND-Yag laser at 354.7nm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "DISCO DAD322 Dicing machine",
+        "specifications": "Fully automated dicing saw to cut materials such as silicon wafers and glass substrates.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Logitech PM5 Precision Lapping and Polishing System",
+        "specifications": "Workstation optimized for back-thinning of silicon chips and GaAs/InP Opto-Electronic components.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Vacuum laminating press (Lauffer RLKV 25)",
+        "specifications": "Automated vacuum lamination press with controlled temperature and pressure profiles for 330 mm by 280 mm substrates.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Vacuum forming machine (Formech 300XQ)",
+        "specifications": "Vacuum forming of thermoplastic materials using an infrared heater.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Large area processing line for flex PCB",
+        "specifications": "Degrease/μ-etch, development, etch and strip line for 12” by 9” flexible PCBs combined with Bungard Large area UV exposure machine.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Advanced Vacuum Vision 310 RIE",
+        "specifications": "RIE plasma etch system for glasses, SiO2, Si3N4, Silicon, Germanium, polymers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Oxford ICP System 100 (I)",
+        "specifications": "ICP plasma etch system for glasses, SiO2, Si3N4, Silicon, Germanium, polymers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Oxford ICP System 100 (II)",
+        "specifications": "ICP plasma etch system for III-V semiconductors.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "PVA TEPLA Plasma etch",
+        "specifications": "Oxygen plasma tool for cleaning and activation/surface modification of polymers and glasses.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Critical point dryer",
+        "specifications": "Allows release of MEMS like structures (micromechanical structures).",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "FEI Nova 600 Nanolab Dual-Beam FIB-SEM",
+        "specifications": "SEM with nanometer resolution and FIB column for cross-sections and direct patterning. Includes EBSD, etch gas injectors, Auto-slice&View, and nanomanipulators.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "JEOL JSM-6500 SEM incl. Energy Dispersive Spectroscopy (EDS)",
+        "specifications": "Imaging using scanning electron beam and secondary, back-scattered, cathodo-luminescent detectors, with elemental analysis.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "JSM-7000F TFEG-SEM with JED-2300F EDS",
+        "specifications": "Field emission gun scanning electron microscope for higher resolution and smaller spot sizes.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "WYKO NT3300 non-contact optical profiler",
+        "specifications": "White light interferometer mapping several millimeter wide areas with sub-nanometer resolution.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Nikon Eclipse LV100 Inspection Microscope",
+        "specifications": "Equipped with 15X oculars, standard magnification range 75X to 1500X, Nomarski prisms, episcopic and diascopic filters.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "JEOL IB-09010CP Ion beam cross section polisher",
+        "specifications": "Uses accelerated Argon ions (at 2 to 6 kV) to precisely remove material from sectioned samples.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Olympus DSX 500 microscope",
+        "specifications": "Automated microscope with measurement, 3D-visualisation, and darkfield microscopy options.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Veeco Dektak",
+        "specifications": "Profilometer for measuring step heights from few nanometers to several 100 micrometers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Tresky die and flip-chip bonder",
+        "specifications": "For assembly of bare-die components with accuracy of ± 5 μm.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "K&S Manual Wedge Bonder model 4523",
+        "specifications": "Supports aluminium wire (18um and 32um) and gold wire (38um and ribbon) with deep access options.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Finetech Pick and Place",
+        "specifications": "Placement accuracy of ±1 micrometer for chips and 3D-structures.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "X-Celeprint μTP-100 Transfer Printer",
+        "specifications": "Automated placement of thin material layers with ±1 micrometer accuracy.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "SUSS MicroTec Wafer Bonder",
+        "specifications": "For samples and substrates up to 150mm. Compatible with thermal and pressure bonding.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "EVG 501 Wafer Bonder",
+        "specifications": "Wafer bonding tool for substrates up to 200 mm wafers.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "GDP global dispenser",
+        "specifications": "Automated needle dispenser for controlled deposition of adhesives or solder paste.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "EKRA E4-STS Screen printer",
+        "specifications": "Fully automatic screen printer for adhesives or solder paste using screens or stencils.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "IBL SLC 300 Vapour phase reflow oven",
+        "specifications": "Reflow oven for solder pastes using vapour phase of an inert liquid.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Optomec 300-UP Aerosol Jet Printer",
+        "specifications": "Prints metallic conductive inks via aerosol stream focused by nitrogen gas flow.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "CTS CS-40/200 climate chamber",
+        "specifications": "Thermal cycling (-40°C/+150 °C, 6°/min) and Temperature-Humidity (10 - 95 °C, 10–98 % RH).",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      },
+      {
+        "name": "Votsch VTS 7040-15/S climate chamber",
+        "specifications": "Temperature cycling (-70 °C to 180 °C, 16 °/min) with in-situ resistance measurement.",
+        "location": "Ghent University cleanroom building at campus Ardoyen",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "ghent-nano",
+    "analyzedAt": "2026-08-21T05:46:32.541Z",
+    "vitalityScore": 95,
+    "summary": "The lab facility equipment list remains largely unchanged, with all core equipment preserved. Minor specification details were simplified or slightly trimmed across several instruments, and one historical wafer bonder capacity description changed.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "EVG 501 Wafer Bonder capacity specification (200 mm)",
+        "severity": "minor",
+        "reason": "The specification was shortened to mention only 150 mm wafers."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "EVG 501 Wafer Bonder",
+        "change": "Specifications were simplified regarding maximum wafer size capability."
+      },
+      {
+        "name": "FEI Nova 600 Nanolab Dual-Beam FIB-SEM",
+        "change": "Detailed feature list including EBSD, etch gas injectors, and nanomanipulators was removed from the description."
+      }
+    ]
+  }
+}

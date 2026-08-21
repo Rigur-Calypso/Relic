@@ -1,0 +1,384 @@
+{
+  "target": {
+    "id": "iisertvm-cif",
+    "name": "IISER Thiruvananthapuram",
+    "url": "https://www.iisertvm.ac.in/pages/cif",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "iisertvm-cif",
+    "name": "IISER Thiruvananthapuram",
+    "url": "https://www.iisertvm.ac.in/pages/cif",
+    "scrapedAt": "2026-08-20T18:50:06.415Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer (NMR)",
+        "specifications": "Solid State 500MHz",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance Spectrometer (NMR)",
+        "specifications": "500 MHz & 700 MHz",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Electrospray Ionization - Time Of Flight (ESI-TOF) Mass Spectrometer",
+        "specifications": "",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Liquid Chromatography - High Resolution (LC-HRMS) Mass Spectrometer",
+        "specifications": "",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Matrix Assisted Laser Desorption/Ionization - Time Of Flight (MALDI-TOF) Mass Spectrometer",
+        "specifications": "",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Single Crystal X-Ray Diffractometer",
+        "specifications": "",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Powder X-Ray Diffractometer",
+        "specifications": "",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "with EDS & WDS",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "specifications": "with Electron Beam Lithography and EDS",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "specifications": "",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope",
+        "specifications": "120 KV",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope",
+        "specifications": "300 KV (HR) with EDS & EELS",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy (XPS)",
+        "specifications": "",
+        "location": "CIF (Central Instrumentation Facility)",
+        "status": ""
+      },
+      {
+        "name": "Liquid Chromatography - Low Resolution (LC-LRMS) Mass Spectrometer",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Gas Chromatography - Mass Spectrometry (GC-MS)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Gel Permeation Chromatography (GPC)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Vibrational Circular Dichroism (VCD)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Circularly Polarized Luminescence (CPL)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Electronic Circular Dichroism Spectrometer (ECD)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Isothermal Titration Calorimetry (ITC)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Differential Scanning Calorimetry (DSC)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Thermo Gravimetric Analysis (TGA)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "CHNS Analyzer",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Microwave Reactor",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Zeta Potential Analyser and Dynamic Light Scattering Measurement",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope and Scanning Tunneling Microscope (STM-AFM)",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Confocal Microscope",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Microscope",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Time-Correlated Single Photon Counting (TCSPC) System",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "Lab RAM HR Raman Spectrometer",
+        "specifications": "",
+        "location": "School of Chemistry",
+        "status": ""
+      },
+      {
+        "name": "X-ray crystallography facility",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "High-end microscopes",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Activated Cell Sorter (FACS)",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "Ultra Centrifuges",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "Plant and Insect Growth Chambers",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "FPLCs and HPLC",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "Surface Plasmon Resonance",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "PCRs and Real-time PCRs",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "Biophysical tools (CD, fluorimeter, ITC)",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "Gel Electrophoresis and Documentation Systems",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "Micropipette puller",
+        "specifications": "",
+        "location": "School of Biology",
+        "status": ""
+      },
+      {
+        "name": "Raman Spectrometer",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "FT-IR",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Fluorimeter",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Optical Microscope",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Profilometer",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Vector Network Analyser",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Planetary Ball Mill",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Multichannel Potentiostat",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Keithley 4200 Parameter Analyzer",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "QTH Measurement System",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Fully Automated Volumetric Gas Analyzer",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "AFM",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "DC RF Magnetron Sputtering system",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Thermal Evaporator",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Pulsed Laser Deposition system",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      },
+      {
+        "name": "Solid State NMR",
+        "specifications": "",
+        "location": "School of Physics",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "iisertvm-cif",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:50:29.313Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "iisertvm-cif",
+    "analyzedAt": "2026-08-20T18:50:31.418Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

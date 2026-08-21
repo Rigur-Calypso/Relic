@@ -1,0 +1,132 @@
+{
+  "target": {
+    "id": "nit-trichy",
+    "name": "NIT Trichy",
+    "url": "https://www.nitt.edu/rc/sif/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "nit-trichy",
+    "name": "NIT Trichy",
+    "url": "https://www.nitt.edu/rc/sif/",
+    "scrapedAt": "2026-08-20T20:13:58.352Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "ICP-MS",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": "available"
+      },
+      {
+        "name": "Metallurgical Microscope",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": "available"
+      },
+      {
+        "name": "AFM",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "LFA",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "TGA",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "C Therm",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "DSC",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "Rheometer",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "Electrochemical Workstation",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "Force Tensiometer",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "Contact Angle",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "FTIR",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis spectrometer",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "Thermal Chamber",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "kd2 pro",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      },
+      {
+        "name": "LCR",
+        "specifications": "",
+        "location": "Sophisticated Instrumentation Facility (SIF)",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "nit-trichy",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:14:18.769Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "nit-trichy",
+    "analyzedAt": "2026-08-20T20:14:20.907Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

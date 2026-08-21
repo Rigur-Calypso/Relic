@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "warwick-rtp",
+    "name": "Warwick",
+    "url": "https://warwick.ac.uk/research/rtp/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "warwick-rtp",
+    "name": "Warwick",
+    "url": "https://warwick.ac.uk/research/rtp/",
+    "scrapedAt": "2026-08-20T20:08:33.917Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "warwick-rtp",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T20:09:41.582Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "warwick-rtp",
+    "analyzedAt": "2026-08-20T20:09:43.720Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

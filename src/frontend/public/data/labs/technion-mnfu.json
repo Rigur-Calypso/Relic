@@ -1,0 +1,35 @@
+{
+  "target": {
+    "id": "technion-mnfu",
+    "name": "Technion",
+    "url": "https://mnfu.technion.ac.il/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "technion-mnfu",
+    "name": "Technion",
+    "url": "https://mnfu.technion.ac.il/",
+    "scrapedAt": "2026-08-20T18:37:49.267Z",
+    "method": "ai-heal",
+    "healthy": false,
+    "equipment": []
+  },
+  "historical": {
+    "targetId": "technion-mnfu",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-20T18:38:21.550Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "technion-mnfu",
+    "analyzedAt": "2026-08-20T18:38:23.691Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

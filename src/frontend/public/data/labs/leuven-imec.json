@@ -1,0 +1,90 @@
+{
+  "target": {
+    "id": "leuven-imec",
+    "name": "KU Leuven imec",
+    "url": "https://www.imec-int.com/en/infrastructure",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "leuven-imec",
+    "name": "KU Leuven imec",
+    "url": "https://www.imec-int.com/en/infrastructure",
+    "scrapedAt": "2026-08-20T18:32:38.660Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "High NA EUV prototype scanner",
+        "specifications": "High NA EUV prototype",
+        "location": "Veldhoven, The Netherlands",
+        "status": "operational"
+      },
+      {
+        "name": "Qnano tool",
+        "specifications": "",
+        "location": "Biolabs",
+        "status": "operational"
+      },
+      {
+        "name": "Biacore2000",
+        "specifications": "SPR device",
+        "location": "Biolabs",
+        "status": "operational"
+      },
+      {
+        "name": "Biacore3000",
+        "specifications": "SPR device",
+        "location": "Biolabs",
+        "status": "operational"
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "leuven-imec",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.imec-int.com/en/infrastructure",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:32:59.577Z",
+    "equipment": [
+      {
+        "name": "ASML scanner equipment",
+        "specifications": "EUV – Extreme ultraviolet lithography",
+        "location": "300mm semiconductor cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Biacore2000",
+        "specifications": "SPR device",
+        "location": "Biolabs",
+        "status": ""
+      },
+      {
+        "name": "Biacore3000",
+        "specifications": "SPR device",
+        "location": "Biolabs",
+        "status": ""
+      },
+      {
+        "name": "Qnano tool",
+        "specifications": "",
+        "location": "Biolabs",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "leuven-imec",
+    "analyzedAt": "2026-08-20T18:33:05.818Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment is preserved with an upgraded ASML scanner noted, resulting in no knowledge loss.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "ASML scanner equipment",
+        "change": "Upgraded to High NA EUV prototype scanner with updated specifications and location"
+      }
+    ]
+  }
+}

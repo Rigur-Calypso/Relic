@@ -1,0 +1,51 @@
+{
+  "targetId": "upenn-singh",
+  "snapshotUrl": "http://web.archive.org/web/20240528171504/https://wiki.nano.upenn.edu/wiki/index.php?title=Nanoscale_Characterization_Facility",
+  "snapshotTimestamp": "20240528171504",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-21T09:36:41.265Z",
+  "equipment": [
+    {
+      "name": "JEOL 7500F HRSEM",
+      "specifications": "Scanning Electron Microscopy",
+      "location": "Krishna P. Singh Center for Nanotechnology",
+      "status": ""
+    },
+    {
+      "name": "TFS Quanta 600 FEG ESEM",
+      "specifications": "Scanning Electron Microscopy",
+      "location": "Krishna P. Singh Center for Nanotechnology",
+      "status": ""
+    },
+    {
+      "name": "TESCAN S8000X FIB/SEM",
+      "specifications": "Focused Ion Beam Microscopy",
+      "location": "Krishna P. Singh Center for Nanotechnology",
+      "status": ""
+    },
+    {
+      "name": "JEOL F200",
+      "specifications": "Transmission Electron Microscopy",
+      "location": "Krishna P. Singh Center for Nanotechnology",
+      "status": ""
+    },
+    {
+      "name": "JEOL NEOARM",
+      "specifications": "Transmission Electron Microscopy",
+      "location": "Krishna P. Singh Center for Nanotechnology",
+      "status": ""
+    },
+    {
+      "name": "EMS/Quorum Q150T ES Sputter Coater",
+      "specifications": "Sample Preparation",
+      "location": "Krishna P. Singh Center for Nanotechnology",
+      "status": ""
+    },
+    {
+      "name": "Gatan Solarus 950 Advanced Plasma System",
+      "specifications": "Sample Preparation",
+      "location": "Krishna P. Singh Center for Nanotechnology",
+      "status": ""
+    }
+  ]
+}

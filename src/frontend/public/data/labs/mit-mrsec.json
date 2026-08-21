@@ -1,0 +1,123 @@
+{
+  "target": {
+    "id": "mit-mrsec",
+    "name": "MIT DMSE Shared Facilities",
+    "url": "https://dmse.mit.edu/research-impact/research-facilities/",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "mit-mrsec",
+    "name": "MIT DMSE Shared Facilities",
+    "url": "https://dmse.mit.edu/research-impact/research-facilities/",
+    "scrapedAt": "2026-08-20T13:06:47.553Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Scanning Electron Microscope (SEM)",
+        "specifications": "Used for measuring magnetic and electronic properties",
+        "location": "4-141ba, 13-5027",
+        "status": ""
+      },
+      {
+        "name": "Pulsed laser deposition system",
+        "specifications": "For film growth",
+        "location": "8-140",
+        "status": ""
+      },
+      {
+        "name": "Rapid thermal annealer",
+        "specifications": "",
+        "location": "8-140",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "mit-mrsec",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://dmse.mit.edu/research-impact/research-facilities/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T13:16:38.130Z",
+    "equipment": [
+      {
+        "name": "Prototyping and machining equipment",
+        "specifications": "for fabrication, sample preparation, and general machining needs",
+        "location": "4-131b, 4-043",
+        "status": ""
+      },
+      {
+        "name": "Furnaces and presses",
+        "specifications": "",
+        "location": "13-5016",
+        "status": ""
+      },
+      {
+        "name": "Tensile testing equipment",
+        "specifications": "",
+        "location": "8-241",
+        "status": ""
+      },
+      {
+        "name": "Nanoscale imaging and testing equipment",
+        "specifications": "for imaging and testing mechanical and magnetic response at the nanoscale",
+        "location": "8-114",
+        "status": ""
+      },
+      {
+        "name": "Environmental SEM",
+        "specifications": "permits materials to be imaged without conductive coatings and doesn't require high-vacuum conditions",
+        "location": "4-141",
+        "status": ""
+      },
+      {
+        "name": "Pulsed laser deposition system",
+        "specifications": "for film growth",
+        "location": "8-140",
+        "status": ""
+      },
+      {
+        "name": "Rapid thermal annealer",
+        "specifications": "",
+        "location": "8-140",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "mit-mrsec",
+    "analyzedAt": "2026-08-20T13:19:05.031Z",
+    "vitalityScore": 35,
+    "summary": "Significant loss of lab equipment entries across time. Four major equipment categories (Prototyping/machining, Furnaces/presses, Tensile testing, and Nanoscale imaging) were removed entirely, and the Environmental SEM was updated/replaced with a general SEM entry.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Prototyping and machining equipment",
+        "severity": "critical",
+        "reason": "Equipment listing is completely missing from current page."
+      },
+      {
+        "name": "Furnaces and presses",
+        "severity": "critical",
+        "reason": "Equipment listing is completely missing from current page."
+      },
+      {
+        "name": "Tensile testing equipment",
+        "severity": "critical",
+        "reason": "Equipment listing is completely missing from current page."
+      },
+      {
+        "name": "Nanoscale imaging and testing equipment",
+        "severity": "critical",
+        "reason": "Equipment listing is completely missing from current page."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "Environmental SEM",
+        "change": "Replaced/updated to 'Scanning Electron Microscope (SEM)' with altered specifications (magnetic and electronic properties) and updated locations (4-141ba, 13-5027)."
+      }
+    ]
+  }
+}

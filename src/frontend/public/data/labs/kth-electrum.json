@@ -1,0 +1,1274 @@
+{
+  "target": {
+    "id": "kth-electrum",
+    "name": "KTH",
+    "url": "http://intranet.myfab.se/KTHAcreo/Resources/Alltools.aspx",
+    "strategy": "ai"
+  },
+  "current": {
+    "targetId": "kth-electrum",
+    "name": "KTH",
+    "url": "http://intranet.myfab.se/KTHAcreo/Resources/Alltools.aspx",
+    "scrapedAt": "2026-08-20T20:22:02.842Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "M07 Olympus/camera",
+        "specifications": "Olympus Microscope",
+        "location": "C-Q-Etch",
+        "status": "A"
+      },
+      {
+        "name": "4-Point",
+        "specifications": "Four Dimensions, Inc Model 280",
+        "location": "C-Anneal",
+        "status": "A"
+      },
+      {
+        "name": "CD SEM",
+        "specifications": "Hitachi S-3400N & EDS QUANTAX 200",
+        "location": "C-SPTS",
+        "status": "C"
+      },
+      {
+        "name": "APL-HMDS",
+        "specifications": "YES-5E Vacuum Bake / Vapour Prime Processing System",
+        "location": "C-APL-gul",
+        "status": "A"
+      },
+      {
+        "name": "M02 Olympus/camera",
+        "specifications": "Olympus BX60",
+        "location": "C-APL",
+        "status": "A"
+      },
+      {
+        "name": "M03 Leica",
+        "specifications": "Leica Microscope",
+        "location": "C-APL",
+        "status": "A"
+      },
+      {
+        "name": "UVO Cleaner",
+        "specifications": "Jelight COmpany, Inc 42-220",
+        "location": "C-APL",
+        "status": "A"
+      },
+      {
+        "name": "M01 Olympus",
+        "specifications": "Olympus BX60M",
+        "location": "C-APL-gul",
+        "status": "A"
+      },
+      {
+        "name": "LEITZ",
+        "specifications": "LEITZ MPV-SP Thin film interferometry",
+        "location": "C-Anneal",
+        "status": "A"
+      },
+      {
+        "name": "NSR i-line stepper",
+        "specifications": "Nikon TFHi12",
+        "location": "C-Gul 1",
+        "status": "E"
+      },
+      {
+        "name": "M11 Nikon/CD 1",
+        "specifications": "Nikon OPTISHOT/Linjebreddsmätare",
+        "location": "C-SPTS",
+        "status": "A"
+      },
+      {
+        "name": "M10 Nikon/auto",
+        "specifications": "Nikon Microscope (motorized objectives)",
+        "location": "C-SPTS",
+        "status": "A"
+      },
+      {
+        "name": "ALS-stepper",
+        "specifications": "GCA/Ultratech ALS 2035 G-line",
+        "location": "C-APL-ALS",
+        "status": "E"
+      },
+      {
+        "name": "M05 Nikon/auto",
+        "specifications": "Nikon Microscope",
+        "location": "Y-ES-lab 3390",
+        "status": "A"
+      },
+      {
+        "name": "Manual probstation",
+        "specifications": "Suss Microtech 10500006 (probe station)",
+        "location": "C-SPTS",
+        "status": "A"
+      },
+      {
+        "name": "LabRamHR Raman/mikro-PL-system",
+        "specifications": "Horiba LabRamHR",
+        "location": "Y-Raman spectroscopy",
+        "status": "C"
+      },
+      {
+        "name": "HR X-Ray",
+        "specifications": "X-Ray X-Ray",
+        "location": "Y-HR X-ray",
+        "status": "B"
+      },
+      {
+        "name": "Optical profilometer",
+        "specifications": "Veeco Wyko NT9300",
+        "location": "C-Anneal",
+        "status": "B"
+      },
+      {
+        "name": "3D MF Probestation",
+        "specifications": "In-house Medium Field MR and RF Probe Station",
+        "location": "Y-yttrelab",
+        "status": "C"
+      },
+      {
+        "name": "HF Probestation",
+        "specifications": "In-house High Field RF Characterization Station",
+        "location": "Y-yttrelab",
+        "status": "C"
+      },
+      {
+        "name": "CIPT",
+        "specifications": "Smartip CIPTech",
+        "location": "Y-yttrelab",
+        "status": "C"
+      },
+      {
+        "name": "AGM",
+        "specifications": "Princeton Measurement Corporation 2900-02 Alternating Gradient Magnetometer",
+        "location": "Y-yttrelab",
+        "status": "C"
+      },
+      {
+        "name": "Atomic Absorption Spectrometer",
+        "specifications": "Thermco Fisher Thermo iCE 3000",
+        "location": "Y-External chemistry lab",
+        "status": "B"
+      },
+      {
+        "name": "Freeze Dryer",
+        "specifications": "Ilshin Lab Ilshin",
+        "location": "Albano Hus 3, 3133",
+        "status": "A"
+      },
+      {
+        "name": "Differential scanning calorimetry (DSC)",
+        "specifications": "TA Instruments 2920 modulated DSC",
+        "location": "Albano Hus 3, 3133",
+        "status": "C"
+      },
+      {
+        "name": "Thermogravimetry Analysis (TGA)",
+        "specifications": "TA Instruments TGA Q500",
+        "location": "Albano Hus 3, 3133",
+        "status": "C"
+      },
+      {
+        "name": "UV-Vis-NIR Spectrometer",
+        "specifications": "Perkin Elmer Lambda-750",
+        "location": "Albano Hus 3, 3133",
+        "status": "B"
+      },
+      {
+        "name": "Rotational Viscometer",
+        "specifications": "Anton Paar Visco QC 100",
+        "location": "Albano Hus 3, 3133",
+        "status": "A"
+      },
+      {
+        "name": "Potentiostat / Galvanostat - ZRA",
+        "specifications": "GAMRY Instruments VistsShield/Interface 1010",
+        "location": "Albano Hus 3, 3133",
+        "status": "A"
+      },
+      {
+        "name": "M20 Microscope",
+        "specifications": "Nanometrics Microscope",
+        "location": "Albano Hus 3, 3133",
+        "status": "A"
+      },
+      {
+        "name": "Gemini",
+        "specifications": "Zeiss Ultra 55",
+        "location": "Y-SEM labs",
+        "status": "C"
+      },
+      {
+        "name": "FIB-SEM",
+        "specifications": "FEI QUANTA 3D FEG",
+        "location": "Y-SEM labs",
+        "status": "D"
+      },
+      {
+        "name": "Probestation 3 Semi Automatic",
+        "specifications": "Cascade Microtech Cascade 12000",
+        "location": "Y-Electrical characterization",
+        "status": "B"
+      },
+      {
+        "name": "Probestation 1 Manual",
+        "specifications": "Cascade 11000",
+        "location": "Y-Electrical characterization",
+        "status": "A"
+      },
+      {
+        "name": "Probestation 4 High Temp.",
+        "specifications": "Signatone S-1060",
+        "location": "Y-Electrical characterization",
+        "status": "A"
+      },
+      {
+        "name": "Spintronics probestation",
+        "specifications": "custom built Probestation with rotating 1 T electromagnet",
+        "location": "Y-Electrical characterization",
+        "status": "A"
+      },
+      {
+        "name": "Cryogenic Probestation",
+        "specifications": "Janis ST-500-UHT",
+        "location": "N-Measurement",
+        "status": "C"
+      },
+      {
+        "name": "FTIR Spectrometer",
+        "specifications": "Bruker Vortex 70 V",
+        "location": "N-Measurement",
+        "status": "C"
+      },
+      {
+        "name": "Prometeus auto",
+        "specifications": "Karl Suss and Temptronic TermoChuck System Automatic Probestation PA 150 and TP03215B-3300-2",
+        "location": "ProSemi Power Device Lab",
+        "status": "C"
+      },
+      {
+        "name": "Prometeus manual",
+        "specifications": "Karl Suss and Temptronic TermoChuck System Manual Probestation PM 5, TP0314A",
+        "location": "ProSemi Power Device Lab",
+        "status": "B"
+      },
+      {
+        "name": "Skivthk",
+        "specifications": "Mitutoyo RDP transducer indicator E307-1",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "Kemvåg",
+        "specifications": "? ?",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "M13 Nikon/camera",
+        "specifications": "Nikon Nikon",
+        "location": "C-Coherent-Wet",
+        "status": "A"
+      },
+      {
+        "name": "M08 Leitz/camera",
+        "specifications": "Leitz Microscope with camera",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "M09 Nikon/camera",
+        "specifications": "Nikon Microsocpe with camera",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "MS01 Nikon",
+        "specifications": "Nikon Stereo microscope SMZ-2B",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "MS02 Nikon",
+        "specifications": "Nikon Stereo microscope SMZ-2T",
+        "location": "C-Coherent-Wet",
+        "status": "A"
+      },
+      {
+        "name": "M14 Olympus/camera",
+        "specifications": "Olympus BX60",
+        "location": "C-Si-metal",
+        "status": "A"
+      },
+      {
+        "name": "AFM/SSRM",
+        "specifications": "Veeco/Digital Instruments NanoScope Dimension 3100",
+        "location": "Y-3283 Saw room",
+        "status": "B"
+      },
+      {
+        "name": "Microwave/THz Probe Station",
+        "specifications": "MST MST Lab",
+        "location": "Y-MST",
+        "status": "B"
+      },
+      {
+        "name": "ZVA-24 Vector Network Analyzer",
+        "specifications": "MST MST Lab",
+        "location": "Y-MST",
+        "status": "D"
+      },
+      {
+        "name": "RF Probe Station",
+        "specifications": "MST MST Lab",
+        "location": "Y-MST",
+        "status": "A"
+      },
+      {
+        "name": "AFM/SPM Nanow.JPK2 Albanova",
+        "specifications": "JPK Instruments Nanowizard 3",
+        "location": "Albanova E1:1019A",
+        "status": "C"
+      },
+      {
+        "name": "AFM/SPM CellKraft Humidifier Albanova",
+        "specifications": "CellKraft P2",
+        "location": "Albanova E1:1019A",
+        "status": "A"
+      },
+      {
+        "name": "AFM/SPM IPS Bipotentiostat Albanova",
+        "specifications": "IPS PGU-BI 1000",
+        "location": "Albanova E1:1019A",
+        "status": "A"
+      },
+      {
+        "name": "SPM/AFM Icon Albanova",
+        "specifications": "Bruker Dimension Icon",
+        "location": "Albanova E1:1019A",
+        "status": "C"
+      },
+      {
+        "name": "SPM/AFM FastScan Albanova",
+        "specifications": "Bruker Dimension FastScan",
+        "location": "Albanova E1:1019A",
+        "status": "C"
+      },
+      {
+        "name": "SPM/AFM Nanowizard JPK Albanova",
+        "specifications": "JPK Instruments Nanowizard 3 Bioscience AFM",
+        "location": "Albanova E1:1019A",
+        "status": "C"
+      },
+      {
+        "name": "Profiler Albanova",
+        "specifications": "KLA-Tencor P7",
+        "location": "Albanova C1:3052",
+        "status": "B"
+      },
+      {
+        "name": "VT STM",
+        "specifications": "Omicron Omicron VT-STM",
+        "location": "Y-Mats-lab",
+        "status": "A"
+      },
+      {
+        "name": "STM 1",
+        "specifications": "Omicron Omicron STM-1",
+        "location": "Y-Mats-lab",
+        "status": "A"
+      },
+      {
+        "name": "UHV SPM 3500",
+        "specifications": "RHK Technology UHV SPM 3500",
+        "location": "Y-Mats-lab",
+        "status": "A"
+      },
+      {
+        "name": "Raman Spectrometer HORIBA iHR 550",
+        "specifications": "HORIBA Jobin Yvon iHR 550",
+        "location": "Y-Mats-lab",
+        "status": "A"
+      },
+      {
+        "name": "FIB/SEM Albanova",
+        "specifications": "FEI Company Nova 200",
+        "location": "Albanova E1:1015A",
+        "status": "C"
+      },
+      {
+        "name": "Helios 5 UC FIB/SEM Albanova",
+        "specifications": "FEI Helios 5 UC",
+        "location": "Albanova E1:1015A",
+        "status": "D"
+      },
+      {
+        "name": "Hall",
+        "specifications": "Varian/Keithly In-house",
+        "location": "Y-HR X-ray",
+        "status": "B"
+      },
+      {
+        "name": "Evercool PPMS Albanova",
+        "specifications": "Quantum Design Evercool II",
+        "location": "Albanova C1:3068",
+        "status": "C"
+      },
+      {
+        "name": "FTIR Albanova",
+        "specifications": "Thermofischer nicolet iS 50 FT-IR",
+        "location": "Albanova C1:3068",
+        "status": "B"
+      },
+      {
+        "name": "DynaCool PPMS Albanova",
+        "specifications": "Quantum Design Dynacool",
+        "location": "Albanova C1:3068",
+        "status": "C"
+      },
+      {
+        "name": "Woollam VASE Albanova",
+        "specifications": "J.A. Woollam VASE Ellipsometer",
+        "location": "Albanova C1:3049",
+        "status": "C"
+      },
+      {
+        "name": "Scanning near-field optical microscope (SNOM)",
+        "specifications": "Max Born Institute with modifications at KTH A home-made instrument",
+        "location": "Y-Optics 3168",
+        "status": "A"
+      },
+      {
+        "name": "Fluorescence Spectrometer (PL)",
+        "specifications": "Perkin Elmer LS55",
+        "location": "Albano Hus 3, 3315",
+        "status": "B"
+      },
+      {
+        "name": "Particle sizer-DLS/Zeta potential",
+        "specifications": "Beckman Coulter Delsa Nano",
+        "location": "Albano Hus 3, 3315",
+        "status": "C"
+      },
+      {
+        "name": "Optical microscope (Leica)",
+        "specifications": "LEICA DMLM Leica",
+        "location": "Albano Hus 3, 3315",
+        "status": "A"
+      },
+      {
+        "name": "Gas Gromatography /Mass Spectrometry (GC/MS)",
+        "specifications": "Hewlett Packard HP 6890",
+        "location": "Albano Hus 3, 3313",
+        "status": "C"
+      },
+      {
+        "name": "Fourier Transform Infrared (FTIR)",
+        "specifications": "Thermo Scientific Nicolet iS10",
+        "location": "Albano Hus 3, 3315",
+        "status": "B"
+      },
+      {
+        "name": "Inductively Coupled Plasma Emission Spectrometry (ICP-OES)",
+        "specifications": "Thermo Scientific iCAP 6500",
+        "location": "Albano Hus 3, 3313",
+        "status": "D"
+      },
+      {
+        "name": "Ion Chromatography (IC)",
+        "specifications": "Metrohm Eco IC",
+        "location": "Albano Hus 3, 3315",
+        "status": "C"
+      },
+      {
+        "name": "UEM",
+        "specifications": "JEOL JEM-2100 Ultrafast Electron Microscopy",
+        "location": "Y-SEM labs",
+        "status": "E"
+      },
+      {
+        "name": "SR2000N Sheet Resistance",
+        "specifications": "MDC SR2000N",
+        "location": "C-Anneal",
+        "status": "A"
+      },
+      {
+        "name": "DektakXT Stylus Profilometer",
+        "specifications": "Bruker DektakXT",
+        "location": "C-Anneal",
+        "status": "B"
+      },
+      {
+        "name": "Bergman Labora Inspection Microscope",
+        "specifications": "Nikon L",
+        "location": "C-SPTS",
+        "status": "B"
+      },
+      {
+        "name": "UVISEL Spectroscopic Ellipsometry",
+        "specifications": "HORIBA UVISEL ER",
+        "location": "C-Anneal",
+        "status": "B"
+      },
+      {
+        "name": "Opt. micr. 1, Albanova",
+        "specifications": "Nikon ME600",
+        "location": "Albanova C1:3052",
+        "status": "A"
+      },
+      {
+        "name": "Opt. micr. 2, Albanova",
+        "specifications": "Nikon ME600",
+        "location": "Albanova C1:3052",
+        "status": "A"
+      },
+      {
+        "name": "Opt. micr. 3, Albanova",
+        "specifications": "Nikon Eclipse L200",
+        "location": "Albanova C1:3049",
+        "status": "A"
+      },
+      {
+        "name": "Empyrean x-ray reflectometer/diffractometer",
+        "specifications": "PANalytical B.V. Empyrean multipurpose high resolution X-ray diffra",
+        "location": "Y-XRD lab",
+        "status": "C"
+      },
+      {
+        "name": "Wafer Inspection System",
+        "specifications": "Aeronca Electronics (Ceased), Estek WIS150",
+        "location": "C-SPTS",
+        "status": "C"
+      },
+      {
+        "name": "Keithley Parameteranalyser",
+        "specifications": "Tektronix 4200A-SCS",
+        "location": "Y-MST",
+        "status": "A"
+      },
+      {
+        "name": "CnCV",
+        "specifications": "SEMILAB 210",
+        "location": "C-Epitaxy",
+        "status": "B"
+      },
+      {
+        "name": "Sica",
+        "specifications": "Lasertech Sica88",
+        "location": "C-Coherent",
+        "status": "E"
+      },
+      {
+        "name": "Table-top SEM",
+        "specifications": "SEC SNE Alpha",
+        "location": "Y-MST",
+        "status": "C"
+      },
+      {
+        "name": "THz Antenna Measurement Chamber",
+        "specifications": "MST MST Lab",
+        "location": "Y-MST",
+        "status": "D"
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "kth-electrum",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/http://intranet.myfab.se/KTHAcreo/Resources/Alltools.aspx",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-20T18:34:09.931Z",
+    "equipment": [
+      {
+        "name": "M07 Olympus/camera",
+        "specifications": "Olympus Microscope",
+        "location": "C-Q-Etch",
+        "status": "A"
+      },
+      {
+        "name": "CD SEM",
+        "specifications": "Hitachi S-3400N & EDS QUANTAX 200",
+        "location": "C-SPTS",
+        "status": "C"
+      },
+      {
+        "name": "Dektak",
+        "specifications": "ST Dektak3ST",
+        "location": "C-APL",
+        "status": "B"
+      },
+      {
+        "name": "M02 Olympus/camera",
+        "specifications": "Olympus BX60",
+        "location": "C-APL",
+        "status": "A"
+      },
+      {
+        "name": "M03 Leica",
+        "specifications": "Leica Microscope",
+        "location": "C-APL",
+        "status": "A"
+      },
+      {
+        "name": "M01 Olympus",
+        "specifications": "Olympus BX60M",
+        "location": "C-APL-gul",
+        "status": "A"
+      },
+      {
+        "name": "LEITZ",
+        "specifications": "LEITZ MPV-SP Thin film interferometry",
+        "location": "C-Anneal",
+        "status": "A"
+      },
+      {
+        "name": "4-Point",
+        "specifications": "Four Dimensions, Inc Model 280",
+        "location": "C-Anneal",
+        "status": "A"
+      },
+      {
+        "name": "M10 Nikon/auto",
+        "specifications": "Nikon Microscope (motorized objectives)",
+        "location": "C-SPTS",
+        "status": "A"
+      },
+      {
+        "name": "M11 Nikon/CD 1",
+        "specifications": "Nikon OPTISHOT/Linjebreddsmätare",
+        "location": "C-SPTS",
+        "status": "A"
+      },
+      {
+        "name": "Manual probstation",
+        "specifications": "Suss Microtech 10500006 (probe station)",
+        "location": "C-SPTS",
+        "status": "A"
+      },
+      {
+        "name": "Balance",
+        "specifications": "Balance Våg",
+        "location": "C-Epitaxy",
+        "status": "A"
+      },
+      {
+        "name": "M05 Nikon/auto",
+        "specifications": "Nikon Microscope",
+        "location": "Y-ES-lab 3390",
+        "status": "A"
+      },
+      {
+        "name": "UVISEL Spectroscopic Ellipsometry",
+        "specifications": "HORIBA UVISEL ER",
+        "location": "C-Anneal",
+        "status": "B"
+      },
+      {
+        "name": "LabRamHR Raman/mikro-PL-system",
+        "specifications": "Horiba LabRamHR",
+        "location": "Y-Raman spectroscopy",
+        "status": "C"
+      },
+      {
+        "name": "HR X-Ray",
+        "specifications": "X-Ray X-Ray",
+        "location": "Y-HR X-ray",
+        "status": "B"
+      },
+      {
+        "name": "3D MF Probestation",
+        "specifications": "In-house Medium Field MR and RF Probe Station",
+        "location": "Y-yttrelab",
+        "status": "C"
+      },
+      {
+        "name": "HF Probestation",
+        "specifications": "In-house High Field RF Characterization Station",
+        "location": "Y-yttrelab",
+        "status": "C"
+      },
+      {
+        "name": "Atomic Absorption Spectrometer",
+        "specifications": "Thermco Fisher Thermo iCE 3000",
+        "location": "Y-External chemistry lab",
+        "status": "B"
+      },
+      {
+        "name": "Canon EOS 350D",
+        "specifications": "Canon EOS 350D 100mm Macro",
+        "location": "C-Anneal",
+        "status": "A"
+      },
+      {
+        "name": "FE-TEM",
+        "specifications": "JEOL JEM 2100F(HR), JEOL Electron Microscope 2100 Field",
+        "location": "Y-SEM labs",
+        "status": "D"
+      },
+      {
+        "name": "FIB-SEM",
+        "specifications": "FEI QUANTA 3D FEG",
+        "location": "Y-SEM labs",
+        "status": "D"
+      },
+      {
+        "name": "Gemini",
+        "specifications": "Zeiss Ultra 55",
+        "location": "Y-SEM labs",
+        "status": "C"
+      },
+      {
+        "name": "Potentiostat / Galvanostat - ZRA",
+        "specifications": "GAMRY Instruments VistsShield/Interface 1010",
+        "location": "Albano Hus 3, 3133",
+        "status": "A"
+      },
+      {
+        "name": "Freeze Dryer",
+        "specifications": "Ilshin Lab Ilshin",
+        "location": "Albano Hus 3, 3133",
+        "status": "A"
+      },
+      {
+        "name": "Differential scanning calorimetry (DSC)",
+        "specifications": "TA Instruments 2920 modulated DSC",
+        "location": "Albano Hus 3, 3133",
+        "status": "C"
+      },
+      {
+        "name": "Thermogravimetry Analysis (TGA)",
+        "specifications": "TA Instruments TGA Q500",
+        "location": "Albano Hus 3, 3133",
+        "status": "C"
+      },
+      {
+        "name": "UV-Vis-NIR Spectrometer",
+        "specifications": "Perkin Elmer Lambda-750",
+        "location": "Albano Hus 3, 3133",
+        "status": "B"
+      },
+      {
+        "name": "Rotational Viscometer",
+        "specifications": "Anton Paar Visco QC 100",
+        "location": "Albano Hus 3, 3133",
+        "status": "A"
+      },
+      {
+        "name": "M20 Microscope",
+        "specifications": "Nanometrics Microscope",
+        "location": "Albano Hus 3, 3133",
+        "status": "A"
+      },
+      {
+        "name": "TEK 370A",
+        "specifications": "Tektronix 370A",
+        "location": "N-Powerelectronics Lab",
+        "status": "C"
+      },
+      {
+        "name": "Iwatsu",
+        "specifications": "Iwatsu I-V 5KV 400A",
+        "location": "N-Powerelectronics Lab",
+        "status": "C"
+      },
+      {
+        "name": "Keysight",
+        "specifications": "Keysight B5105B",
+        "location": "N-Powerelectronics Lab",
+        "status": "D"
+      },
+      {
+        "name": "Probestation 3 Semi Automatic",
+        "specifications": "Cascade Microtech Cascade 12000",
+        "location": "Y-Electrical characterization",
+        "status": "B"
+      },
+      {
+        "name": "Probestation 1 Manual",
+        "specifications": "Cascade 11000",
+        "location": "Y-Electrical characterization",
+        "status": "A"
+      },
+      {
+        "name": "Spintronics probestation",
+        "specifications": "custom built Probestation with rotating 1 T electromagnet",
+        "location": "Y-Electrical characterization",
+        "status": "A"
+      },
+      {
+        "name": "Probestation 4 High Temp.",
+        "specifications": "Signatone S-1060",
+        "location": "Y-Electrical characterization",
+        "status": "A"
+      },
+      {
+        "name": "Cryogenic Probestation",
+        "specifications": "Janis ST-500-UHT",
+        "location": "N-Measurement",
+        "status": "C"
+      },
+      {
+        "name": "FTIR Spectrometer",
+        "specifications": "Bruker Vortex 70 V",
+        "location": "N-Measurement",
+        "status": "C"
+      },
+      {
+        "name": "Prometeus manual",
+        "specifications": "Karl Suss and Temptronic TermoChuck System Manual Probestation PM 5, TP0314A",
+        "location": "N-Measurement",
+        "status": "B"
+      },
+      {
+        "name": "Prometeus auto",
+        "specifications": "Karl Suss and Temptronic TermoChuck System Automatic Probestation PA 150 and TP03215B-3300-2",
+        "location": "N-Measurement",
+        "status": "C"
+      },
+      {
+        "name": "Skivthk",
+        "specifications": "Mitutoyo RDP transducer indicator E307-1",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "Kemvåg",
+        "specifications": "?",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "M08 Leitz/camera",
+        "specifications": "Leitz Microscope with camera",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "M09 Nikon/camera",
+        "specifications": "Nikon Microsocpe with camera",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "MS01 Nikon",
+        "specifications": "Nikon Stereo microscope SMZ-2B",
+        "location": "C-Wet Chemistry",
+        "status": "A"
+      },
+      {
+        "name": "M14 Olympus/camera",
+        "specifications": "Olympus BX60",
+        "location": "C-Si-metal",
+        "status": "A"
+      },
+      {
+        "name": "MS02 Nikon",
+        "specifications": "Nikon Stereo microscope SMZ-2T",
+        "location": "C-Coherent-Wet",
+        "status": "A"
+      },
+      {
+        "name": "M13 Nikon/camera",
+        "specifications": "Nikon Nikon",
+        "location": "C-Coherent-Wet",
+        "status": "A"
+      },
+      {
+        "name": "AFM/SSRM",
+        "specifications": "Veeco/Digital Instruments NanoScope Dimension 3100",
+        "location": "Y-3283 Saw room",
+        "status": "B"
+      },
+      {
+        "name": "Opt. micr. 1, Albanova",
+        "specifications": "Nikon ME600",
+        "location": "Albanova C1:3052",
+        "status": "A"
+      },
+      {
+        "name": "Opt. micr. 2, Albanova",
+        "specifications": "Nikon ME600",
+        "location": "Albanova C1:3052",
+        "status": "A"
+      },
+      {
+        "name": "Opt. micr. 4, fluorescence, Albanova",
+        "specifications": "Nikon ME600 w. fluorescence unit",
+        "location": "Albanova E1:1017A",
+        "status": "A"
+      },
+      {
+        "name": "Opt. micr. 3, Albanova",
+        "specifications": "Nikon Eclipse L200",
+        "location": "Albanova C1:3049",
+        "status": "A"
+      },
+      {
+        "name": "Microwave/THz Probe Station",
+        "specifications": "MST MST Lab",
+        "location": "Y-MST",
+        "status": "B"
+      },
+      {
+        "name": "ZVA-24 Vector Network Analyzer",
+        "specifications": "MST MST Lab",
+        "location": "Y-MST",
+        "status": "D"
+      },
+      {
+        "name": "Dynatronix Pulse Power Supply",
+        "specifications": "Dynatronix DuPR10-.1-.3XR",
+        "location": "Y-MST",
+        "status": "A"
+      },
+      {
+        "name": "PXI",
+        "specifications": "National Instruments NI PXI-1033 Series",
+        "location": "Y-MST",
+        "status": "A"
+      },
+      {
+        "name": "RF Probe Station",
+        "specifications": "MST MST Lab",
+        "location": "Y-MST",
+        "status": "A"
+      },
+      {
+        "name": "AGM",
+        "specifications": "Princeton Measurement Corporation 2900-02 Alternating Gradient Magnetometer",
+        "location": "Y-yttrelab",
+        "status": "C"
+      },
+      {
+        "name": "CIPT",
+        "specifications": "Smartip CIPTech",
+        "location": "Y-yttrelab",
+        "status": "C"
+      },
+      {
+        "name": "Woollam VASE Albanova",
+        "specifications": "J.A. Woollam VASE Ellipsometer",
+        "location": "Albanova C1:3049",
+        "status": "C"
+      },
+      {
+        "name": "Profiler Albanova",
+        "specifications": "KLA-Tencor P7",
+        "location": "Albanova C1:3052",
+        "status": "B"
+      },
+      {
+        "name": "SPM/AFM FastScan Albanova",
+        "specifications": "Bruker Dimension FastScan",
+        "location": "Albanova E1:1019A",
+        "status": "C"
+      },
+      {
+        "name": "SPM/AFM Nanowizard JPK Albanova",
+        "specifications": "JPK Instruments Nanowizard 3 Bioscience AFM",
+        "location": "Albanova E1:1019A",
+        "status": "C"
+      },
+      {
+        "name": "SPM/AFM Icon Albanova",
+        "specifications": "Bruker Dimension Icon",
+        "location": "Albanova E1:1019A",
+        "status": "C"
+      },
+      {
+        "name": "AFM/SPM Nanow.JPK2 Albanova",
+        "specifications": "JPK Instruments Nanowizard 3",
+        "location": "Albanova E1:1019A",
+        "status": "C"
+      },
+      {
+        "name": "AFM/SPM IPS Bipotentiostat Albanova",
+        "specifications": "IPS PGU-BI 1000",
+        "location": "Albanova E1:1019A",
+        "status": "A"
+      },
+      {
+        "name": "Bond Tester DAGE",
+        "specifications": "DAGE 2400PC",
+        "location": "Y-Pack lab",
+        "status": "A"
+      },
+      {
+        "name": "Empyrean",
+        "specifications": "PANalytical B.V. Empyrean multipurpose high resolution X-ray diffra",
+        "location": "Y-XRD lab",
+        "status": "C"
+      },
+      {
+        "name": "VT STM",
+        "specifications": "Omicron Omicron VT-STM",
+        "location": "Y-Mats-lab",
+        "status": "A"
+      },
+      {
+        "name": "STM 1",
+        "specifications": "Omicron Omicron STM-1",
+        "location": "Y-Mats-lab",
+        "status": "A"
+      },
+      {
+        "name": "UHV SPM 3500",
+        "specifications": "RHK Technology UHV SPM 3500",
+        "location": "Y-Mats-lab",
+        "status": "A"
+      },
+      {
+        "name": "Raman Spectrometer HORIBA iHR 550",
+        "specifications": "HORIBA Jobin Yvon iHR 550",
+        "location": "Y-Mats-lab",
+        "status": "A"
+      },
+      {
+        "name": "Helios 5 UC FIB/SEM Albanova",
+        "specifications": "FEI Helios 5 UC",
+        "location": "Albanova E1:1015A",
+        "status": "D"
+      },
+      {
+        "name": "FIB/SEM Albanova",
+        "specifications": "FEI Company Nova 200",
+        "location": "Albanova E1:1015A",
+        "status": "D"
+      },
+      {
+        "name": "DynaCool PPMS Albanova",
+        "specifications": "Quantum Design Dynacool",
+        "location": "Albanova C1:3068",
+        "status": "C"
+      },
+      {
+        "name": "Hall",
+        "specifications": "Varian/Keithly In-house",
+        "location": "Y-HR X-ray",
+        "status": "B"
+      },
+      {
+        "name": "Evercool PPMS Albanova",
+        "specifications": "Quantum Design Evercool II",
+        "location": "Albanova C1:3068",
+        "status": "C"
+      },
+      {
+        "name": "Scanning near-field optical microscope (SNOM)",
+        "specifications": "Max Born Institute with modifications at KTH A home-made instrument",
+        "location": "Y-Optics 3168",
+        "status": "A"
+      },
+      {
+        "name": "TGA/FTIR Interface",
+        "specifications": "Thermo Scientific --",
+        "location": "Albano Hus 3, 3133",
+        "status": "C"
+      },
+      {
+        "name": "Gas Gromatography /Mass Spectrometry (GC/MS)",
+        "specifications": "Hewlett Packard HP 6890",
+        "location": "Albano Hus 3, 3313",
+        "status": "C"
+      },
+      {
+        "name": "Inductively Coupled Plasma Emission Spectrometry (ICP-OES)",
+        "specifications": "Thermo Scientific iCAP 6500",
+        "location": "Albano Hus 3, 3313",
+        "status": "D"
+      },
+      {
+        "name": "Optical microscope (Leica)",
+        "specifications": "LEICA DMLM Leica",
+        "location": "Albano Hus 3, 3315",
+        "status": "A"
+      },
+      {
+        "name": "Ion Chromatography (IC)",
+        "specifications": "Metrohm Eco IC",
+        "location": "Albano Hus 3, 3315",
+        "status": "C"
+      },
+      {
+        "name": "Fourier Transform Infrared (FTIR)",
+        "specifications": "Thermo Scientific Nicolet iS10",
+        "location": "Albano Hus 3, 3315",
+        "status": "B"
+      },
+      {
+        "name": "Fluorescence Spectrometer (PL)",
+        "specifications": "Perkin Elmer LS55",
+        "location": "Albano Hus 3, 3315",
+        "status": "B"
+      },
+      {
+        "name": "Particle sizer-DLS/Zeta potential",
+        "specifications": "Beckman Coulter Delsa Nano",
+        "location": "Albano Hus 3, 3315",
+        "status": "C"
+      },
+      {
+        "name": "UEM",
+        "specifications": "JEOL JEM-2100 Ultrafast Electron Microscopy",
+        "location": "Y-SEM labs",
+        "status": "E"
+      },
+      {
+        "name": "CnCV",
+        "specifications": "SEMILAB 210",
+        "location": "C-Epitaxy",
+        "status": "B"
+      },
+      {
+        "name": "SR2000N Sheet Resistance",
+        "specifications": "MDC SR2000N",
+        "location": "C-Anneal",
+        "status": "A"
+      },
+      {
+        "name": "DektakXT Stylus Profilometer",
+        "specifications": "Bruker DektakXT",
+        "location": "C-Anneal",
+        "status": "B"
+      },
+      {
+        "name": "Bergman Labora Inspection Microscope",
+        "specifications": "Nikon L",
+        "location": "C-SPTS",
+        "status": "B"
+      },
+      {
+        "name": "Theta Lite",
+        "specifications": "MST MST lab",
+        "location": "Y-MST",
+        "status": "B"
+      },
+      {
+        "name": "Nikon Microphot-FXA",
+        "specifications": "Nikon Microphot-FXA",
+        "location": "Y-MST",
+        "status": "B"
+      },
+      {
+        "name": "FTIR Albanova",
+        "specifications": "Thermofischer nicolet iS 50 FT-IR",
+        "location": "Albanova C1:3068",
+        "status": "B"
+      },
+      {
+        "name": "Wafer Inspection System",
+        "specifications": "Aeronca Electronics (Ceased), Estek WIS150",
+        "location": "C-SPTS",
+        "status": "C"
+      },
+      {
+        "name": "Keithley Parameteranalyser",
+        "specifications": "Tektronix 4200A-SCS",
+        "location": "Y-MST",
+        "status": "A"
+      },
+      {
+        "name": "Table-top SEM",
+        "specifications": "SEC SNE Alpha",
+        "location": "Y-MST",
+        "status": "C"
+      },
+      {
+        "name": "Optical profilometer",
+        "specifications": "Veeco Wyko NT9300",
+        "location": "C-Anneal",
+        "status": "B"
+      },
+      {
+        "name": "Freja",
+        "specifications": "Hitachi SU8230",
+        "location": "Pronano A:109",
+        "status": "C"
+      },
+      {
+        "name": "EDS",
+        "specifications": "Hitachi SU8230",
+        "location": "Pronano A:109",
+        "status": "D"
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "kth-electrum",
+    "analyzedAt": "2026-08-20T20:23:04.785Z",
+    "vitalityScore": 92,
+    "summary": "Comparing the historical equipment list to the current one shows mostly stable lab infrastructure with a few items removed (such as Balance, Dektak, Canon EOS 350D, Iwatsu, Keysight, TGA/FTIR Interface, and FE-TEM), several new equipment additions, and minor location or status modifications for a few systems.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "FE-TEM",
+        "severity": "critical",
+        "reason": "Instrument removed from current inventory."
+      },
+      {
+        "name": "Dektak",
+        "severity": "moderate",
+        "reason": "Removed from C-APL."
+      },
+      {
+        "name": "Balance",
+        "severity": "minor",
+        "reason": "Removed from C-Epitaxy."
+      },
+      {
+        "name": "Canon EOS 350D",
+        "severity": "minor",
+        "reason": "Removed from C-Anneal."
+      },
+      {
+        "name": "Iwatsu",
+        "severity": "moderate",
+        "reason": "Removed from N-Powerelectronics Lab."
+      },
+      {
+        "name": "Keysight",
+        "severity": "moderate",
+        "reason": "Removed from N-Powerelectronics Lab."
+      },
+      {
+        "name": "TGA/FTIR Interface",
+        "severity": "minor",
+        "reason": "Removed from Albano Hus 3."
+      }
+    ],
+    "added": [
+      {
+        "name": "APL-HMDS"
+      },
+      {
+        "name": "UVO Cleaner"
+      },
+      {
+        "name": "NSR i-line stepper"
+      },
+      {
+        "name": "ALS-stepper"
+      },
+      {
+        "name": "AFM/SPM CellKraft Humidifier Albanova"
+      },
+      {
+        "name": "Sica"
+      },
+      {
+        "name": "THz Antenna Measurement Chamber"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Empyrean",
+        "change": "Name updated to Empyrean x-ray reflectometer/diffractometer."
+      },
+      {
+        "name": "FIB/SEM Albanova",
+        "change": "Status changed from D to C."
+      }
+    ]
+  }
+}

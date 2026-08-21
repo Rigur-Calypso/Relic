@@ -1,0 +1,165 @@
+{
+  "accepted": [
+    {
+      "id": "caltech-kni",
+      "name": "Caltech Kavli Nanoscience Institute",
+      "url": "https://www.kni.caltech.edu/kni-laboratory",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 13."
+    },
+    {
+      "id": "minnesota-mnc",
+      "name": "Minnesota Nano Center",
+      "url": "https://research.louisville.edu/centers-institutes-labs/core-facilities/cleanroom",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 15."
+    },
+    {
+      "id": "maryland-fablab",
+      "name": "Maryland NanoCenter FabLab",
+      "url": "https://www.nanocenter.umd.edu/equipment/",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 60."
+    },
+    {
+      "id": "asu-nanofab",
+      "name": "ASU NanoFab",
+      "url": "https://cores.research.asu.edu/semiconductor-device-processing/nanofab/get-started/",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 16."
+    },
+    {
+      "id": "ufl-nrf",
+      "name": "Florida Nanoscale Research Facility",
+      "url": "https://www.eng.ufl.edu/research/facilities-equipment/",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 5."
+    },
+    {
+      "id": "pitt-nfcf",
+      "name": "Pitt Nanoscale Fabrication & Characterization Facility",
+      "url": "https://wiki.nano.upenn.edu/wiki/index.php?title=Nanoscale_Characterization_Facility",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 36."
+    },
+    {
+      "id": "nist-cnst",
+      "name": "NIST Center for Nanoscale Science and Technology",
+      "url": "https://www.nationalacademies.org/read/24631/chapter/4",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 6."
+    },
+    {
+      "id": "epfl-cmi",
+      "name": "EPFL Center of MicroNanoTechnology (CMi)",
+      "url": "https://www.epfl.ch/research/facilities/cmi/equipment/",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 6."
+    },
+    {
+      "id": "glasgow-jwnc",
+      "name": "Glasgow James Watt Nanofabrication Centre",
+      "url": "https://glasgowcityofscienceandinnovation.com/glasgows-james-watt-nanofabrication-centre-celebrates-20-years-of-global-impact/",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 4."
+    },
+    {
+      "id": "southampton-nano",
+      "name": "Southampton Nanofabrication Centre",
+      "url": "https://www.southampton.ac.uk/research/facilities/nanofabrication-cleanrooms",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 7."
+    },
+    {
+      "id": "tyndall-ireland",
+      "name": "Tyndall National Institute",
+      "url": "https://oacf1.tyndall.ie/WebForms/Equipment/EquipmentList.aspx",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 25."
+    },
+    {
+      "id": "nus-nanofab",
+      "name": "NUS Centre for Advanced 2D Materials / nanofab",
+      "url": "https://www.sutd.edu.sg/campus-life/academic-facilities/sutd-cleanroom/",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 4."
+    },
+    {
+      "id": "postech-nano",
+      "name": "POSTECH Nanofabrication Center",
+      "url": "https://tmi.utexas.edu/facilities/cleanroom-nanofabrication-facility",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 51."
+    },
+    {
+      "id": "iitk-4i",
+      "name": "IIT Kanpur Central Facilities",
+      "url": "https://www.iitbhilai.ac.in/index.php?pid=cif_facilities",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 32."
+    },
+    {
+      "id": "iitr-iic",
+      "name": "IIT Roorkee Institute Instrumentation Centre",
+      "url": "https://iitr.ac.in/Centres/Institute%20Instrumentation%20Centre/Research/Analytical%20Facilities.html",
+      "strategy": "ai",
+      "note": "Discovered via SERP; equip-density 10."
+    }
+  ],
+  "rejected": [
+    {
+      "id": "gt-ien",
+      "name": "Georgia Tech Institute for Electronics and Nanotechnology",
+      "q": "Georgia Tech Institute for Electronics and Nanotechnology cleanroom equipment tools list",
+      "why": "no candidate passed density check"
+    },
+    {
+      "id": "upenn-singh",
+      "name": "Penn Singh Center for Nanotechnology",
+      "q": "University of Pennsylvania Singh Center Nanotechnology equipment tools facility",
+      "why": "search failed: Command failed: bdata search University of Pennsylvania Singh Center Nanotechnol"
+    },
+    {
+      "id": "argonne-cnm",
+      "name": "Argonne Center for Nanoscale Materials",
+      "q": "Argonne Center for Nanoscale Materials instruments capabilities equipment",
+      "why": "no candidate passed density check"
+    },
+    {
+      "id": "ornl-cnms",
+      "name": "Oak Ridge Center for Nanophase Materials Sciences",
+      "q": "Oak Ridge CNMS Center Nanophase Materials Sciences instruments capabilities",
+      "why": "no candidate passed density check"
+    },
+    {
+      "id": "delft-kavli",
+      "name": "TU Delft Kavli Nanolab",
+      "q": "TU Delft Kavli Nanolab cleanroom equipment tools",
+      "why": "no candidate passed density check"
+    },
+    {
+      "id": "chalmers-mc2",
+      "name": "Chalmers Myfab MC2 Nanofabrication Laboratory",
+      "q": "Chalmers Myfab MC2 nanofabrication laboratory equipment tools",
+      "why": "no candidate passed density check"
+    },
+    {
+      "id": "dtu-nanolab",
+      "name": "DTU Nanolab",
+      "q": "DTU Nanolab cleanroom equipment tools Denmark national centre",
+      "why": "no candidate passed density check"
+    },
+    {
+      "id": "twente-mesa",
+      "name": "Twente MESA+ Nanolab",
+      "q": "University of Twente MESA+ Nanolab cleanroom equipment tools",
+      "why": "no candidate passed density check"
+    },
+    {
+      "id": "iitm-crf",
+      "name": "IIT Madras Central Research Facility / SAIF",
+      "q": "IIT Madras SAIF sophisticated analytical instrument facility equipment SEM",
+      "why": "no candidate passed density check"
+    }
+  ]
+}
