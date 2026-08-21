@@ -27,5 +27,20 @@ for (const f of files) {
 }
 await writeFile(resolve(OUT, 'analysis.json'), JSON.stringify(analyses, null, 2));
 
-console.log(`[static-data] wrote ${targets.length} targets + ${analyses.length} analyses` +
+// merged per-lab feed → public/data/labs.json (same shape as GET /api/labs)
+const readJ = (...s) => readFile(resolve(ROOT, 'data', ...s), 'utf8').then(JSON.parse).catch(() => null);
+const labs = [];
+for (const t of targets) {
+  const [a, c] = await Promise.all([readJ('analysis', `${t.id}.json`), readJ('current', `${t.id}.json`)]);
+  labs.push({
+    id: t.id, name: t.name, url: t.url,
+    trackingCount: c?.equipment?.length ?? 0,
+    healthy: c?.healthy ?? null, method: c?.method ?? null, scrapedAt: c?.scrapedAt ?? null,
+    vitalityScore: a?.vitalityScore ?? null, knowledgeLoss: a?.knowledgeLoss ?? false,
+    summary: a?.summary ?? null, removed: a?.removed ?? [], added: a?.added ?? [], modified: a?.modified ?? [],
+  });
+}
+await writeFile(resolve(OUT, 'labs.json'), JSON.stringify(labs, null, 2));
+
+console.log(`[static-data] wrote ${targets.length} targets + ${analyses.length} analyses + ${labs.length} labs` +
   (skipped ? ` (${skipped} unparseable file(s) skipped)` : '') + ' to src/frontend/public/data/');

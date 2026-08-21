@@ -1,93 +1,134 @@
-import { useEffect, useState, useCallback } from 'react';
-import TargetGrid from './components/TargetGrid.jsx';
-import DiffPanel from './components/DiffPanel.jsx';
-import VitalityBadge from './components/VitalityBadge.jsx';
+import { useEffect, useMemo, useState, useCallback } from 'react';
+import LabCard from './components/LabCard.jsx';
+
+const FILTERS = [
+  { key: 'all', label: 'All', dot: 'var(--accent)' },
+  { key: 'loss', label: 'Knowledge loss', dot: 'var(--crit)' },
+  { key: 'healthy', label: 'Intact', dot: 'var(--good)' },
+  { key: 'none', label: 'No baseline', dot: 'var(--ink-3)' },
+];
+
+const stateOf = (l) => (l.vitalityScore == null ? 'none' : l.knowledgeLoss ? 'loss' : 'healthy');
 
 export default function App() {
-  const [targets, setTargets] = useState([]);
-  const [analyses, setAnalyses] = useState([]);
-  const [activeId, setActiveId] = useState(null);
-  const [busy, setBusy] = useState('');
-  const [live, setLive] = useState(true);   // backend present? (false on static deploy)
+  const [labs, setLabs] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [live, setLive] = useState(false);
+  const [filter, setFilter] = useState('all');
+  const [query, setQuery] = useState('');
+  const [busy, setBusy] = useState(null); // { id, kind }
 
   const load = useCallback(async () => {
-    // Progressive: use the Express API when available (full functionality locally),
-    // otherwise fall back to the JSON baked into /data (the static Vercel deploy).
-    async function getJSON(apiPath, staticPath) {
-      try {
-        const r = await fetch(apiPath);
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return { data: await r.json(), live: true };
-      } catch {
-        const r = await fetch(staticPath);
-        return { data: await r.json(), live: false };
-      }
+    // live API first (full functionality), static baked JSON as fallback
+    try {
+      const r = await fetch('/api/labs');
+      if (!r.ok) throw new Error();
+      setLabs(await r.json());
+      setLive(true);
+    } catch {
+      const r = await fetch('/data/labs.json');
+      setLabs(await r.json());
+      setLive(false);
     }
-    const t = await getJSON('/api/targets', '/data/targets.json');
-    const a = await getJSON('/api/analysis', '/data/analysis.json');
-    setTargets(t.data);
-    setAnalyses(Array.isArray(a.data) ? a.data : []);
-    setLive(t.live && a.live);
-    if (!activeId && t.data.length) setActiveId(t.data[0].id);
-  }, [activeId]);
+    setLoading(false);
+  }, []);
 
   useEffect(() => { load(); }, [load]);
 
-  const active = analyses.find(a => a.targetId === activeId);
-
-  async function trigger(kind) {
-    if (!activeId) return;
-    setBusy(kind);
-    await fetch(`/api/${kind}/${activeId}`, { method: 'POST' }).then(r => r.json());
-    if (kind !== 'analyze') await fetch(`/api/analyze/${activeId}`, { method: 'POST' });
-    await load();
-    setBusy('');
+  async function onAction(id, kind) {
+    if (busy) return;
+    setBusy({ id, kind });
+    try {
+      await fetch(`/api/${kind}/${id}`, { method: 'POST' });
+      if (kind !== 'analyze') await fetch(`/api/analyze/${id}`, { method: 'POST' });
+      await load();
+    } finally {
+      setBusy(null);
+    }
   }
 
+  const counts = useMemo(() => {
+    const c = { all: labs.length, loss: 0, healthy: 0, none: 0 };
+    for (const l of labs) c[stateOf(l)]++;
+    return c;
+  }, [labs]);
+
+  const stats = useMemo(() => ({
+    total: labs.length,
+    loss: labs.filter((l) => l.knowledgeLoss).length,
+    instruments: labs.reduce((s, l) => s + (l.trackingCount || 0), 0),
+    withHistory: labs.filter((l) => l.vitalityScore != null).length,
+  }), [labs]);
+
+  const shown = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return labs.filter((l) =>
+      (filter === 'all' || stateOf(l) === filter) &&
+      (q === '' || l.name.toLowerCase().includes(q) || (l.url || '').toLowerCase().includes(q))
+    );
+  }, [labs, filter, query]);
+
   return (
-    <div className="h-screen flex flex-col bg-gray-900 text-gray-100">
-      <header className="px-8 py-5 border-b border-gray-800 shrink-0 flex items-baseline justify-between gap-4 flex-wrap">
-        <div>
-          <h1 className="text-2xl font-bold tracking-tight">RELIC <span className="text-indigo-400">· the self-healing web memory</span></h1>
-          <p className="text-gray-400 text-sm">A healthy scraper is not the same as preserved knowledge.</p>
-        </div>
-        <div className="text-xs text-gray-500">
-          <span className="text-gray-300 font-semibold tabular-nums">{targets.length}</span> labs monitored
-          {' · '}
-          <span className="text-red-400 font-semibold tabular-nums">{analyses.filter(a => a.knowledgeLoss).length}</span> with knowledge loss
+    <>
+      <header className="nav">
+        <div className="nav-in">
+          <div className="brand">
+            <span className="glyph" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M10 1.5 18.5 10 10 18.5 1.5 10 10 1.5Z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+                <path d="M10 6.2 13.8 10 10 13.8 6.2 10 10 6.2Z" fill="currentColor" />
+              </svg>
+            </span>
+            RELIC <small>the self-healing web memory</small>
+          </div>
+          <div className="search" role="search">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="7" cy="7" r="5" stroke="currentColor" strokeWidth="1.5" /><path d="m11 11 3 3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" /></svg>
+            <input type="search" value={query} onChange={(e) => setQuery(e.target.value)}
+              placeholder={`Filter ${labs.length || ''} facilities…`} aria-label="Filter facilities" autoComplete="off" />
+          </div>
+          <span className={`livechip ${live ? '' : 'ro'}`} title={live ? 'Backend connected' : 'Static snapshot'}>
+            <span className="pulse" />{live ? 'Live' : 'Snapshot'}
+          </span>
         </div>
       </header>
 
-      <div className="flex-1 min-h-0 grid grid-cols-1 lg:grid-cols-[420px_1fr]">
-        <aside className="p-6 border-r border-gray-800 overflow-y-auto">
-          {live ? (
-            <div className="flex gap-2 mb-4">
-              {['scrape', 'heal', 'analyze'].map(k => (
-                <button key={k} disabled={!!busy} onClick={() => trigger(k)}
-                  className="px-3 py-1.5 text-sm rounded bg-gray-800 hover:bg-gray-700 disabled:opacity-50 capitalize">
-                  {busy === k ? `${k}…` : k}
-                </button>
-              ))}
-            </div>
-          ) : (
-            <div className="mb-4 text-xs text-gray-500 border border-gray-800 rounded px-3 py-2">
-              Static snapshot of a live pipeline run. Clone the repo and run the backend
-              for live scrape / heal / analyze.
-            </div>
-          )}
-          <TargetGrid targets={targets} analyses={analyses} activeId={activeId} onSelect={setActiveId} />
-        </aside>
+      <main>
+        <div className="lede">
+          <h1>Knowledge continuity across {labs.length || '100+'} scientific facilities</h1>
+          <p><span className="thesis">A healthy scraper is not the same as preserved knowledge.</span>{' '}
+            RELIC diffs each lab’s live equipment listing against its Wayback history to catch instruments that were silently decommissioned.</p>
+        </div>
 
-        <main className="overflow-y-auto">
-          <div className="px-6 pt-6 flex items-center justify-between gap-4 flex-wrap">
-            <div className="text-lg font-semibold">
-              {targets.find(t => t.id === activeId)?.name || '—'}
-            </div>
-            {active && <VitalityBadge score={active.vitalityScore} />}
-          </div>
-          <DiffPanel analysis={active} />
-        </main>
-      </div>
-    </div>
+        <section className="stats" aria-label="Overview">
+          <div className="stat"><div className="n mono">{stats.total}</div><div className="l"><span className="dot" style={{ background: 'var(--accent)' }} />Facilities monitored</div></div>
+          <div className="stat crit"><div className="n mono">{stats.loss}</div><div className="l"><span className="dot" style={{ background: 'var(--crit)' }} />Showing knowledge loss</div></div>
+          <div className="stat"><div className="n mono">{stats.instruments.toLocaleString()}</div><div className="l"><span className="dot" style={{ background: 'var(--ink-3)' }} />Instruments tracked</div></div>
+          <div className="stat"><div className="n mono">{stats.withHistory}</div><div className="l"><span className="dot" style={{ background: 'var(--good)' }} />With historical baseline</div></div>
+        </section>
+
+        <div className="filters" role="toolbar" aria-label="Filter by state">
+          {FILTERS.map((f) => (
+            <button key={f.key} className="chip" aria-pressed={filter === f.key} onClick={() => setFilter(f.key)}>
+              {f.key !== 'all' && <span className="dot" style={{ background: f.dot }} />}
+              {f.label} <span className="c">{counts[f.key] ?? 0}</span>
+            </button>
+          ))}
+          <span className="count">{loading ? 'Loading…' : `Showing ${shown.length} of ${labs.length} in view`}</span>
+        </div>
+
+        <section className="grid" aria-live="polite">
+          {loading ? (
+            <div className="skeleton">{Array.from({ length: 6 }).map((_, i) => <div className="sk" key={i} />)}</div>
+          ) : shown.length ? (
+            shown.map((l, i) => (
+              <LabCard key={l.id} lab={l} live={live} index={i}
+                busy={busy?.id === l.id ? busy.kind : null} onAction={onAction} />
+            ))
+          ) : (
+            <div className="empty">No facilities match this view.</div>
+          )}
+        </section>
+      </main>
+    </>
   );
 }

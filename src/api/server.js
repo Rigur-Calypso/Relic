@@ -37,6 +37,31 @@ app.get('/api/analysis/:id', async (req, res) => {
   catch { res.status(404).json({ error: 'not analyzed yet' }); }
 });
 
+// One merged call per lab: target + its analysis + live instrument count.
+export async function buildLabs(root) {
+  const targets = JSON.parse(await readFile(resolve(root, 'targets.json'), 'utf8'));
+  const readJ = (...s) => readFile(resolve(root, 'data', ...s), 'utf8').then(JSON.parse).catch(() => null);
+  return Promise.all(targets.map(async (t) => {
+    const [a, c] = await Promise.all([readJ('analysis', `${t.id}.json`), readJ('current', `${t.id}.json`)]);
+    return {
+      id: t.id, name: t.name, url: t.url,
+      trackingCount: c?.equipment?.length ?? 0,
+      healthy: c?.healthy ?? null,
+      method: c?.method ?? null,
+      scrapedAt: c?.scrapedAt ?? null,
+      vitalityScore: a?.vitalityScore ?? null,
+      knowledgeLoss: a?.knowledgeLoss ?? false,
+      summary: a?.summary ?? null,
+      removed: a?.removed ?? [], added: a?.added ?? [], modified: a?.modified ?? [],
+    };
+  }));
+}
+
+app.get('/api/labs', async (_req, res) => {
+  try { res.json(await buildLabs(ROOT)); }
+  catch (e) { res.status(500).json({ error: e.message }); }
+});
+
 // Trigger scripts from the UI. Runs `node <script> <id>` and streams exit status back.
 function runScript(relPath, id) {
   return new Promise((res) => {
