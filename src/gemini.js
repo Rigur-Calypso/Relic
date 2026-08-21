@@ -75,7 +75,7 @@ const isBadKeyError = (e) => {
  * Run a JSON-mode Gemini generation, rotating across the key pool on quota errors.
  * Returns the model's raw text (JSON string) — callers JSON.parse it.
  */
-export async function generateJSON({ contents, responseSchema, temperature = 0, model = MODEL }) {
+async function geminiGenerate({ contents, responseSchema, temperature = 0, model = MODEL }) {
   const keys = loadKeys();
   const state = await loadState();
   const today = laDay();
@@ -133,4 +133,66 @@ export async function generateJSON({ contents, responseSchema, temperature = 0, 
     `All ${keys.length} Gemini key(s) are quota-exhausted for today (${today} Pacific). ` +
     `Add more keys to GEMINI_API_KEYS in .env, or enable billing. Last error: ${lastErr?.message || lastErr}`
   );
+}
+
+/* ===== Grok (xAI) fallback — OpenAI-compatible, no extra dependency ===== */
+export const hasGrok = () => !!(process.env.XAI_API_KEY || process.env.GROK_API_KEY);
+
+// Gemini's schema uses UPPERCASE Type enums; OpenAI/xAI wants standard JSON Schema.
+function toJsonSchema(s) {
+  if (!s || typeof s !== 'object') return s;
+  const out = {};
+  if (s.type) out.type = String(s.type).toLowerCase();
+  if (s.enum) out.enum = s.enum;
+  if (s.items) out.items = toJsonSchema(s.items);
+  if (s.properties) {
+    out.properties = {};
+    for (const [k, v] of Object.entries(s.properties)) out.properties[k] = toJsonSchema(v);
+  }
+  if (s.required) out.required = s.required;
+  return out;
+}
+
+async function callGrok({ contents, responseSchema, temperature = 0 }) {
+  const key = process.env.XAI_API_KEY || process.env.GROK_API_KEY;
+  if (!key) throw new Error('No xAI key. Set XAI_API_KEY in .env');
+  const model = process.env.GROK_MODEL || 'grok-3';
+  const res = await fetch('https://api.x.ai/v1/chat/completions', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
+    body: JSON.stringify({
+      model,
+      temperature,
+      messages: [{ role: 'user', content: contents }],
+      response_format: { type: 'json_schema', json_schema: { name: 'relic_result', schema: toJsonSchema(responseSchema) } },
+    }),
+  });
+  if (!res.ok) throw new Error(`Grok HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  const data = await res.json();
+  const content = data?.choices?.[0]?.message?.content;
+  if (!content) throw new Error('Grok returned no content');
+  return content;
+}
+
+/**
+ * Provider-aware JSON generation.
+ *   LLM_PROVIDER=grok   → use Grok directly.
+ *   LLM_PROVIDER=gemini → Gemini only (no fallback).
+ *   (unset / "auto")    → Gemini with rotation, auto-falling back to Grok when
+ *                         every Gemini key is quota-exhausted (or no Gemini key).
+ */
+export async function generateJSON(opts) {
+  const provider = (process.env.LLM_PROVIDER || 'auto').toLowerCase();
+  if (provider === 'grok') return callGrok(opts);
+  try {
+    return await geminiGenerate(opts);
+  } catch (e) {
+    const msg = e?.message || '';
+    const exhausted = /exhausted|quota|429|resource_exhausted|no gemini api key/i.test(msg);
+    if (provider !== 'gemini' && hasGrok() && exhausted) {
+      console.warn(`[llm] Gemini unavailable — falling back to Grok (${process.env.GROK_MODEL || 'grok-3'})`);
+      return callGrok(opts);
+    }
+    throw e;
+  }
 }
