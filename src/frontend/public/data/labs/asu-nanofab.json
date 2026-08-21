@@ -1,0 +1,91 @@
+{
+  "target": {
+    "id": "asu-nanofab",
+    "name": "ASU NanoFab",
+    "url": "https://cores.research.asu.edu/semiconductor-device-processing/nanofab/get-started/",
+    "strategy": "ai",
+    "note": "Discovered batch."
+  },
+  "current": {
+    "targetId": "asu-nanofab",
+    "name": "ASU NanoFab",
+    "url": "https://cores.research.asu.edu/semiconductor-device-processing/nanofab/get-started/",
+    "scrapedAt": "2026-08-21T09:26:07.048Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Woollam VASE",
+        "specifications": "",
+        "location": "Metrology Suite",
+        "status": ""
+      },
+      {
+        "name": "Filmetrics F-20",
+        "specifications": "",
+        "location": "Metrology Suite",
+        "status": ""
+      },
+      {
+        "name": "Filmetrics F-40",
+        "specifications": "",
+        "location": "Metrology Suite",
+        "status": ""
+      },
+      {
+        "name": "DekTak profilometer",
+        "specifications": "",
+        "location": "Metrology Suite",
+        "status": ""
+      },
+      {
+        "name": "AlphaStep profilometer",
+        "specifications": "",
+        "location": "Metrology Suite",
+        "status": ""
+      },
+      {
+        "name": "Zygo optical profilometer",
+        "specifications": "",
+        "location": "Metrology Suite",
+        "status": ""
+      },
+      {
+        "name": "Veeco 4-point probe",
+        "specifications": "",
+        "location": "Metrology Suite",
+        "status": ""
+      },
+      {
+        "name": "Resist Spinner (SCS or CEE #1 or #2)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "DRIE (ASE)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "asu-nanofab",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-21T09:26:27.749Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "asu-nanofab",
+    "analyzedAt": "2026-08-21T09:26:29.878Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "target": {
+    "id": "caltech-kni",
+    "name": "Caltech Kavli Nanoscience Institute",
+    "url": "https://www.kni.caltech.edu/kni-laboratory",
+    "strategy": "ai",
+    "note": "Discovered batch."
+  },
+  "current": {
+    "targetId": "caltech-kni",
+    "name": "Caltech Kavli Nanoscience Institute",
+    "url": "https://www.kni.caltech.edu/kni-laboratory",
+    "scrapedAt": "2026-08-21T09:20:56.921Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "100 kV Direct-Write Electron Beam Pattern Generator",
+        "specifications": "100 kV direct-write, can handle 3-inch wafers and up to 200 mm wafers",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Electron Beam Evaporator",
+        "specifications": "For metals and oxides",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Sputtering System",
+        "specifications": "For dielectric and chalcogenide materials",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "PECVD System",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Atomic Layer Deposition System",
+        "specifications": "Includes etch capabilities",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "ICP-RIE Etcher",
+        "specifications": "Allows processing of dielectric, metal, silicon, and III-V materials",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Scanning Electron Microscope (SEM)",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Focused Ion Beam (FIB) System",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Scanning Probe Microscope",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope (TEM)",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "caltech-kni",
+    "snapshotUrl": "http://web.archive.org/web/20231226054136/https://www.kni.caltech.edu/kni-laboratory",
+    "snapshotTimestamp": "20231226054136",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-21T09:21:36.309Z",
+    "equipment": [
+      {
+        "name": "100 kV direct-write electron beam pattern generators",
+        "specifications": "100 kV, handles 3-inch wafers and up to 200 mm wafers",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Electron beam evaporator",
+        "specifications": "For metals and oxides",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Sputtering systems",
+        "specifications": "For dielectric and chalcogenide materials",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "PECVD",
+        "specifications": "Plasma-enhanced chemical vapor deposition",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Atomic layer deposition system",
+        "specifications": "With etch capabilities",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "ICP-RIE etchers",
+        "specifications": "Allows processing of dielectric, metal, silicon, and III-V materials",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Scanning electron microscopes (SEM)",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Focused ion beam (FIB) systems",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Scanning probe microscopes",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Atomic force microscope (AFM)",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      },
+      {
+        "name": "Transmission electron microscope (TEM)",
+        "specifications": "",
+        "location": "KNI Laboratory",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "caltech-kni",
+    "analyzedAt": "2026-08-21T09:21:54.978Z",
+    "vitalityScore": 100,
+    "summary": "All 11 equipment categories from historical data remain present in the current snapshot, with minor singularization of names and slight specification text updates. No equipment was removed.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "PECVD",
+        "change": "Specification detailing 'Plasma-enhanced chemical vapor deposition' was cleared in current snapshot."
+      }
+    ]
+  }
+}

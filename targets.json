@@ -723,27 +723,6 @@
     "note": "Discovered batch."
   },
   {
-    "id": "ufl-nrf",
-    "name": "University of Florida Research Facilities",
-    "url": "https://www.eng.ufl.edu/research/facilities-equipment/",
-    "strategy": "ai",
-    "note": "Discovered batch."
-  },
-  {
-    "id": "epfl-cmi",
-    "name": "EPFL Center of MicroNanoTechnology (CMi)",
-    "url": "https://www.epfl.ch/research/facilities/cmi/equipment/",
-    "strategy": "ai",
-    "note": "Discovered batch."
-  },
-  {
-    "id": "southampton-nano",
-    "name": "Southampton Nanofabrication Centre",
-    "url": "https://www.southampton.ac.uk/research/facilities/nanofabrication-cleanrooms",
-    "strategy": "ai",
-    "note": "Discovered batch."
-  },
-  {
     "id": "tyndall-ireland",
     "name": "Tyndall National Institute",
     "url": "https://oacf1.tyndall.ie/WebForms/Equipment/EquipmentList.aspx",
@@ -761,27 +740,6 @@
     "id": "upenn-singh",
     "name": "Penn Nanoscale Characterization Facility",
     "url": "https://wiki.nano.upenn.edu/wiki/index.php?title=Nanoscale_Characterization_Facility",
-    "strategy": "ai",
-    "note": "Discovered batch."
-  },
-  {
-    "id": "louisville-mntc",
-    "name": "Louisville Micro/Nano Technology Center",
-    "url": "https://research.louisville.edu/centers-institutes-labs/core-facilities/cleanroom",
-    "strategy": "ai",
-    "note": "Discovered batch."
-  },
-  {
-    "id": "sutd-cleanroom",
-    "name": "SUTD Cleanroom (Singapore)",
-    "url": "https://www.sutd.edu.sg/campus-life/academic-facilities/sutd-cleanroom/",
-    "strategy": "ai",
-    "note": "Discovered batch."
-  },
-  {
-    "id": "iitbhilai-cif",
-    "name": "IIT Bhilai Central Instrumentation Facility",
-    "url": "https://www.iitbhilai.ac.in/index.php?pid=cif_facilities",
     "strategy": "ai",
     "note": "Discovered batch."
   }

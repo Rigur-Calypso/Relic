@@ -1,0 +1,347 @@
+{
+  "target": {
+    "id": "iitr-iic",
+    "name": "IIT Roorkee Institute Instrumentation Centre",
+    "url": "https://iitr.ac.in/Centres/Institute%20Instrumentation%20Centre/Research/Analytical%20Facilities.html",
+    "strategy": "ai",
+    "note": "Discovered batch."
+  },
+  "current": {
+    "targetId": "iitr-iic",
+    "name": "IIT Roorkee Institute Instrumentation Centre",
+    "url": "https://iitr.ac.in/Centres/Institute%20Instrumentation%20Centre/Research/Analytical%20Facilities.html",
+    "scrapedAt": "2026-08-21T09:33:35.686Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Powder_XRD",
+        "specifications": "Powder X-Ray Diffractometer",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "GI-XRD (Thin Film)",
+        "specifications": "Grazing Incidence X-Ray Diffraction",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "FE-SEM_Gemini 560",
+        "specifications": "Field Emission Scanning Electron Microscope, ZEISS Gemini 560",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "FE-SEM_Apero",
+        "specifications": "Field Emission Scanning Electron Microscope, Apero",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "FE-SEM_Gemini",
+        "specifications": "Field Emission Scanning Electron Microscope, ZEISS Gemini",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "FE-SEM_Ultra Plus",
+        "specifications": "Field Emission Scanning Electron Microscope, Zeiss Ultra Plus",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "TEM",
+        "specifications": "Transmission Electron Microscope",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "EPMA",
+        "specifications": "Electron Probe Micro-Analysis",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "VSM (Lake Shore)",
+        "specifications": "Vibrating Sample Magnetometer",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "PPMS",
+        "specifications": "Physical Property Measurement System",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "SPM",
+        "specifications": "Scanning Probe Microscope",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "SQUID",
+        "specifications": "Superconducting Quantum Interference Device",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "TIMS",
+        "specifications": "Thermal Ionization Mass Spectrometer",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "ICPMS-MS",
+        "specifications": "Inductively Coupled Plasma Mass Spectrometry",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "MPAES",
+        "specifications": "Microwave Plasma Atomic Emission Spectroscopy",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "FLS",
+        "specifications": "Fluorescence Lifetime System / TCSPC",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "DTA/TGA",
+        "specifications": "DTA / TGA / DSC",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "LN2 Plant",
+        "specifications": "Liquid Nitrogen Plant",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "XPS",
+        "specifications": "X-ray Photoelectron Spectroscopy",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "XRF",
+        "specifications": "X-Ray Fluorescence",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "NMR",
+        "specifications": "Nuclear Magnetic Resonance",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "EPR/ESR",
+        "specifications": "Electron Paramagnetic Resonance Spectroscopy",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "MCU (High Intensity X-Ray Diffraction)",
+        "specifications": "Macromolecular Crystallographic Unit",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis-NIR Spectrophotometer",
+        "specifications": "",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      },
+      {
+        "name": "MALDI-TOF/TOF MS",
+        "specifications": "",
+        "location": "IIC, IIT Roorkee",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "iitr-iic",
+    "snapshotUrl": "http://web.archive.org/web/20231205182321/https://iitr.ac.in/Centres/Institute%20Instrumentation%20Centre/Research/Analytical%20Facilities.html",
+    "snapshotTimestamp": "20231205182321",
+    "snapshotVia": "availability-api",
+    "fetchedAt": "2026-08-21T09:34:12.492Z",
+    "equipment": [
+      {
+        "name": "Microwave Plasma Atomic Emission Spectroscopy (MPAES)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Scanning Electron Microscope (Apreo)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Scanning Electron Microscope (ZEISS Gemini)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Field Emission Scanning Electron Microscope (Zeiss Ultra Plus)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Transmission Electron Microscope (TEM)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electron Probe Micro-Analysis (EPMA)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Fluorescence Lifetime System (FLS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Inductively Coupled Plasma mass Spectrometry (ICPMS-MS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Macromolecular Crystallographic Unit (MCU)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Powdered X-Ray Diffractometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "GI-X-Ray Diffractometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Scanning Probe Microscopy (SPM)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Superconducting Quantum Interference Device (SQUID)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermal Ionization Mass Spectrometer (TIMS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermo gravimetric/ Differential Thermal Analyzer (TG/DTA)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Vibrating sample magnetometer (VSM)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "X-ray Fluorescence (XRF)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "X-ray photoelectron spectroscopy (XPS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Electron Paramagnetic Resonance (EPR) Spectroscopy",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Physical Property Measurement System (PPMS)",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UV-Vis-NIR spectrophotometer",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "iitr-iic",
+    "analyzedAt": "2026-08-21T09:35:10.770Z",
+    "vitalityScore": 100,
+    "summary": "All 22 historical equipment items are retained in the current inventory. Several new instruments and facilities (FE-SEM_Gemini 560, LN2 Plant, MALDI-TOF/TOF MS) have been added, and specifications/locations have been updated.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "FE-SEM_Gemini 560"
+      },
+      {
+        "name": "LN2 Plant"
+      },
+      {
+        "name": "MALDI-TOF/TOF MS"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Macromolecular Crystallographic Unit (MCU)",
+        "change": "Updated name to 'MCU (High Intensity X-Ray Diffraction)' and added location details."
+      },
+      {
+        "name": "GI-X-Ray Diffractometer",
+        "change": "Updated name to 'GI-XRD (Thin Film)' and added specifications."
+      },
+      {
+        "name": "Vibrating sample magnetometer (VSM)",
+        "change": "Updated name to 'VSM (Lake Shore)'."
+      },
+      {
+        "name": "Electron Paramagnetic Resonance (EPR) Spectroscopy",
+        "change": "Updated name to 'EPR/ESR'."
+      }
+    ]
+  }
+}

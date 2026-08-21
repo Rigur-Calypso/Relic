@@ -1,0 +1,355 @@
+{
+  "target": {
+    "id": "tyndall-ireland",
+    "name": "Tyndall National Institute",
+    "url": "https://oacf1.tyndall.ie/WebForms/Equipment/EquipmentList.aspx",
+    "strategy": "ai",
+    "note": "Discovered batch; live equipment list."
+  },
+  "current": {
+    "targetId": "tyndall-ireland",
+    "name": "Tyndall National Institute",
+    "url": "https://oacf1.tyndall.ie/WebForms/Equipment/EquipmentList.aspx",
+    "scrapedAt": "2026-08-21T09:32:04.258Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Agilent Cary 7000",
+        "specifications": "Manufacturer: Tyndall, Model: Agilent, Category: Other processes",
+        "location": "Lab A1.2.01",
+        "status": ""
+      },
+      {
+        "name": "Nicolet iS50",
+        "specifications": "Manufacturer: Tyndall, Model: Raman, Category: Other processes",
+        "location": "Lab A1.2.01",
+        "status": ""
+      },
+      {
+        "name": "Perkin Elmer 950",
+        "specifications": "Category: Other processes",
+        "location": "Lab A1.2.01",
+        "status": ""
+      },
+      {
+        "name": "Renishaw InVia microscope",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab A1.2.01",
+        "status": ""
+      },
+      {
+        "name": "u-TEG Characterisation System",
+        "specifications": "Manufacturer: Tyndall, Model: 0000000, Category: Other processes",
+        "location": "Lab A1.3.01",
+        "status": ""
+      },
+      {
+        "name": "Four Probe Station",
+        "specifications": "Manufacturer: Tyndall, Model: 0000024, Category: Other processes",
+        "location": "Lab A1.3.01",
+        "status": ""
+      },
+      {
+        "name": "Seebeck Measurement Equipment",
+        "specifications": "Manufacturer: Tyndall, Model: 0000453, Category: Other processes",
+        "location": "Lab A1.3.01",
+        "status": ""
+      },
+      {
+        "name": "Xenon Flash",
+        "specifications": "Manufacturer: Tyndall, Model: 0000346, Category: Other processes",
+        "location": "Lab A1.3.01",
+        "status": ""
+      },
+      {
+        "name": "Agilent B1500 Device Analyser (CV Enabled) Windows 10",
+        "specifications": "Manufacturer: Agilent, Model: TP20N00269, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "(SQUID) Superconducting Quantum Interference Device",
+        "specifications": "Manufacturer: Quantum Design, Model: MPMS 3, Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent (HP) 4156C Parameter Analyser",
+        "specifications": "Manufacturer: Agilent Technologies, Model: 4156C Parameter Analyser, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent 34411A",
+        "specifications": "Manufacturer: Agilent, Model: 34411, Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent 54832D Scope",
+        "specifications": "Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent 81110A Function Generator",
+        "specifications": "Manufacturer: Agilent (keysight) Technologies, Model: 81110A, Category: Function Generator",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent 81130A",
+        "specifications": "Manufacturer: Agilent / Keysight, Model: 81130, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent E4294A High Freq LCR Meter",
+        "specifications": "Manufacturer: Agilent, Model: E4294A, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent E4407B Spectrum Analyser",
+        "specifications": "Manufacturer: Agilent, Model: E4407B, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent E4980 LCR Meter (1)",
+        "specifications": "Manufacturer: Agilent (Keysight) Technologies, Model: MY46203116, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent E4980 LCR Meter (2)",
+        "specifications": "Manufacturer: Agilent, Model: E4980A, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent E8257D Analog Signal Generator",
+        "specifications": "Manufacturer: Agilent (Keysight) Technologies, Model: E8257D, Category: Analog Signal Generator",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent ENA 5071C Network Analyzer",
+        "specifications": "Manufacturer: Agilent Technologies, Model: 5071C, Category: Network Analyzer",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Agilent Infiniium DSO90254A",
+        "specifications": "Manufacturer: Agilent, Model: Infiniium DSO90254A, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Bruker AFM",
+        "specifications": "Manufacturer: Bruker, Model: Dimension Icon, Category: Surface analysis & TEM",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Cascade Attoguard Prober 2",
+        "specifications": "Manufacturer: Cascade Microtech Inc, Model: 12K, Category: Probe Station",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Cascade Semiautomatic Prober 1",
+        "specifications": "Manufacturer: Cascade Microtech Inc, Model: 12K Summit, Category: Probe Station",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "DLTS System (Deep Level Transient Spectrometry)",
+        "specifications": "Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "E4424B Signal Generator",
+        "specifications": "Manufacturer: Agilent/Keysight, Model: E4424B, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "E4991B 1GHz Impedance Analyser",
+        "specifications": "Manufacturer: Keysight, Model: E4991B 1GHz, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Four Point Probe Setup",
+        "specifications": "Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "HP 4275 LCR Meter",
+        "specifications": "Manufacturer: HP, Model: 4275, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "HP4284A LCR Meter",
+        "specifications": "Manufacturer: HP (Agilent), Model: 4284A, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "HP4285A Precision LCR meter",
+        "specifications": "Manufacturer: HP, Model: Precision LCR meter 75kHz to 30MHz, Category: Device mounting",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Keithley 2410 High Voltage Unit",
+        "specifications": "Manufacturer: Keithley, Model: 2410 High Voltage Unit, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Keithley 2430 High Power Unit",
+        "specifications": "Manufacturer: Keithley, Model: 2430 High Power Unit, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Keysight B1505 High Power Prober Device Analyser (CV Enabled)",
+        "specifications": "Manufacturer: Keysight, Model: 1505A, Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Mercury Prober",
+        "specifications": "Manufacturer: Probe Solutions, Model: 007A, Category: Probe Station",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "MPI High Power Prober",
+        "specifications": "Manufacturer: MPI, Model: 1591, Category: Probe Station",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Olympus BH2 Microscope",
+        "specifications": "Manufacturer: Olympus, Model: BH2, Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Piezo Meter PM300",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Polytec Vibrometer System",
+        "specifications": "Manufacturer: Polytec, Model: Polytec System, Category: Other processes",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "RF Cascade Manual Prober",
+        "specifications": "Manufacturer: Cascade Microtech Inc, Model: RF Manual Prober, Category: Probe Station",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Ryowa Permeameter",
+        "specifications": "Manufacturer: Ryowa, Model: PMM - 9G1, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "SHB Mesa 200 HF",
+        "specifications": "Manufacturer: SHB Instruments Inc, Model: SHB Mesa 200 HF, Category: Device Characterisation",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Zygo Interferometer",
+        "specifications": "Manufacturer: ZYGO, Model: 1001A, Category: Surface analysis & TEM",
+        "location": "Lab A1.3.02",
+        "status": ""
+      },
+      {
+        "name": "Keysight UXR1104A Infiniium UXR-Series Oscilloscope: 110 GHz",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab B0.26",
+        "status": ""
+      },
+      {
+        "name": "Keysight M8199B 256 GSa/s Arbitrary Waveform Generator",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab B0.26",
+        "status": ""
+      },
+      {
+        "name": "Horiba XploRA microscope",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab B2.29",
+        "status": ""
+      },
+      {
+        "name": "QE station (Bentham)",
+        "specifications": "Manufacturer: Bentham, Category: Other processes",
+        "location": "Lab C1.06",
+        "status": ""
+      },
+      {
+        "name": "Picosun R200 CVD/ALD Lab",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab C3.04",
+        "status": ""
+      },
+      {
+        "name": "Cambridge NanoTech L200 CVD/ALD Lab",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab C3.04",
+        "status": ""
+      },
+      {
+        "name": "Applied Materials 300 mm ALD MCA",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab C3.05",
+        "status": ""
+      },
+      {
+        "name": "Quorum Q300TD Sputterer",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab C3.07",
+        "status": ""
+      },
+      {
+        "name": "Autolab Potentiostat",
+        "specifications": "Manufacturer: Tyndall, Category: Other processes",
+        "location": "Lab C3.09",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "tyndall-ireland",
+    "snapshotUrl": null,
+    "snapshotTimestamp": null,
+    "fetchedAt": "2026-08-21T09:32:34.898Z",
+    "equipment": [],
+    "note": "No historical snapshot available"
+  },
+  "analysis": {
+    "targetId": "tyndall-ireland",
+    "analyzedAt": "2026-08-21T09:32:37.028Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  }
+}

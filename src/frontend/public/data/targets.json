@@ -700,5 +700,47 @@
     "name": "Unicamp",
     "url": "https://www.iqm.unicamp.br/en/research/cemuiq/",
     "strategy": "ai"
+  },
+  {
+    "id": "caltech-kni",
+    "name": "Caltech Kavli Nanoscience Institute",
+    "url": "https://www.kni.caltech.edu/kni-laboratory",
+    "strategy": "ai",
+    "note": "Discovered batch."
+  },
+  {
+    "id": "maryland-fablab",
+    "name": "Maryland NanoCenter FabLab",
+    "url": "https://www.nanocenter.umd.edu/equipment/",
+    "strategy": "ai",
+    "note": "Discovered batch."
+  },
+  {
+    "id": "asu-nanofab",
+    "name": "ASU NanoFab",
+    "url": "https://cores.research.asu.edu/semiconductor-device-processing/nanofab/get-started/",
+    "strategy": "ai",
+    "note": "Discovered batch."
+  },
+  {
+    "id": "tyndall-ireland",
+    "name": "Tyndall National Institute",
+    "url": "https://oacf1.tyndall.ie/WebForms/Equipment/EquipmentList.aspx",
+    "strategy": "ai",
+    "note": "Discovered batch; live equipment list."
+  },
+  {
+    "id": "iitr-iic",
+    "name": "IIT Roorkee Institute Instrumentation Centre",
+    "url": "https://iitr.ac.in/Centres/Institute%20Instrumentation%20Centre/Research/Analytical%20Facilities.html",
+    "strategy": "ai",
+    "note": "Discovered batch."
+  },
+  {
+    "id": "upenn-singh",
+    "name": "Penn Nanoscale Characterization Facility",
+    "url": "https://wiki.nano.upenn.edu/wiki/index.php?title=Nanoscale_Characterization_Facility",
+    "strategy": "ai",
+    "note": "Discovered batch."
   }
 ]

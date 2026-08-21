@@ -1,9 +1,0 @@
-{
-  "targetId": "epfl-cmi",
-  "name": "EPFL Center of MicroNanoTechnology (CMi)",
-  "url": "https://www.epfl.ch/research/facilities/cmi/equipment/",
-  "scrapedAt": "2026-08-21T09:28:42.905Z",
-  "method": "ai-heal",
-  "healthy": false,
-  "equipment": []
-}

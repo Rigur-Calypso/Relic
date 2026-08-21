@@ -268,6 +268,16 @@
     ]
   },
   {
+    "targetId": "asu-nanofab",
+    "analyzedAt": "2026-08-21T09:26:29.878Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "basel-nano",
     "analyzedAt": "2026-08-21T05:45:44.348Z",
     "vitalityScore": 66.6,
@@ -413,6 +423,21 @@
     ],
     "added": [],
     "modified": []
+  },
+  {
+    "targetId": "caltech-kni",
+    "analyzedAt": "2026-08-21T09:21:54.978Z",
+    "vitalityScore": 100,
+    "summary": "All 11 equipment categories from historical data remain present in the current snapshot, with minor singularization of names and slight specification text updates. No equipment was removed.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "PECVD",
+        "change": "Specification detailing 'Plasma-enhanced chemical vapor deposition' was cleared in current snapshot."
+      }
+    ]
   },
   {
     "targetId": "cambridge-nano",
@@ -1062,6 +1087,43 @@
     ]
   },
   {
+    "targetId": "iitr-iic",
+    "analyzedAt": "2026-08-21T09:35:10.770Z",
+    "vitalityScore": 100,
+    "summary": "All 22 historical equipment items are retained in the current inventory. Several new instruments and facilities (FE-SEM_Gemini 560, LN2 Plant, MALDI-TOF/TOF MS) have been added, and specifications/locations have been updated.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "FE-SEM_Gemini 560"
+      },
+      {
+        "name": "LN2 Plant"
+      },
+      {
+        "name": "MALDI-TOF/TOF MS"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Macromolecular Crystallographic Unit (MCU)",
+        "change": "Updated name to 'MCU (High Intensity X-Ray Diffraction)' and added location details."
+      },
+      {
+        "name": "GI-X-Ray Diffractometer",
+        "change": "Updated name to 'GI-XRD (Thin Film)' and added specifications."
+      },
+      {
+        "name": "Vibrating sample magnetometer (VSM)",
+        "change": "Updated name to 'VSM (Lake Shore)'."
+      },
+      {
+        "name": "Electron Paramagnetic Resonance (EPR) Spectroscopy",
+        "change": "Updated name to 'EPR/ESR'."
+      }
+    ]
+  },
+  {
     "targetId": "iowastate-mario",
     "analyzedAt": "2026-08-20T20:45:39.013Z",
     "vitalityScore": 100,
@@ -1436,6 +1498,129 @@
       {
         "name": "X-Ray Diffractometer",
         "change": "Updated and expanded into X-ray Diffractometer (XRD) and High Resolution XRD (HR-XRD)."
+      }
+    ]
+  },
+  {
+    "targetId": "maryland-fablab",
+    "analyzedAt": "2026-08-21T09:25:03.484Z",
+    "vitalityScore": 88,
+    "summary": "Several historical items were removed including key equipment such as the EVG 620 Mask Aligner, Dicing Saw B, Raith offline computer, and SPECIAL coin cell battery listing. Multiple new tools and characterization instruments were added, alongside minor renamings and location updates for existing instruments.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "EVG 620 Mask Aligner",
+        "severity": "critical",
+        "reason": "Equipment entry no longer present on current facility page."
+      },
+      {
+        "name": "Dicing Saw B - Microautomation",
+        "severity": "critical",
+        "reason": "Dicing Saw B removed from active listing."
+      },
+      {
+        "name": "SPECIAL: coin cell battery with ALD-protected electrode",
+        "severity": "minor",
+        "reason": "Special sample listing removed."
+      },
+      {
+        "name": "Raith off line computer",
+        "severity": "minor",
+        "reason": "Offline workstation removed from equipment list."
+      },
+      {
+        "name": "TA Instruments DSC Q100",
+        "severity": "moderate",
+        "reason": "Replaced or upgraded to TA Instruments DSC250."
+      }
+    ],
+    "added": [
+      {
+        "name": "Envision One cDLM 3D Printer"
+      },
+      {
+        "name": "BioAssemblyBot 400 3D Bioprinter"
+      },
+      {
+        "name": "UpNano NanoOne 1000 2PP 3D Printer"
+      },
+      {
+        "name": "Glove Box -N2"
+      },
+      {
+        "name": "Glove Box - ANSLab"
+      },
+      {
+        "name": "Tergeo Plasma Cleaner from PIE Scientific"
+      },
+      {
+        "name": "Oxford PECVD-Cobra"
+      },
+      {
+        "name": "Oxford ICP Etcher - ALE"
+      },
+      {
+        "name": "Oxford Etcher ( Bosch)"
+      },
+      {
+        "name": "Q Exactive plus high resolution mass spectrometer"
+      },
+      {
+        "name": "Fractionator"
+      },
+      {
+        "name": "Inverted Research Grade Microscope"
+      },
+      {
+        "name": "Stereo Research Grade Microscope"
+      },
+      {
+        "name": "CESI System"
+      },
+      {
+        "name": "Spectrophotometer"
+      },
+      {
+        "name": "Profilm 3D"
+      },
+      {
+        "name": "Horiba Raman"
+      },
+      {
+        "name": "Hitachi TM4000Plus Table-Top SEM w/ EDS"
+      },
+      {
+        "name": "ZEISS Axio Observer Z1 Inverted Microscope"
+      },
+      {
+        "name": "JEOL NEOARM AC-TEM"
+      },
+      {
+        "name": "PIPS II Ion Polishing System (Gatan)"
+      },
+      {
+        "name": "TA Instruments DSC250"
+      },
+      {
+        "name": "Microscope 5- FABLAB Front Hall"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Tystar CVD",
+        "change": "Renamed to Tystar CVD - Oxide Tube"
+      },
+      {
+        "name": "Profilometer P-1 Long Scan Profiler",
+        "change": "Updated to Profilometer P-10 Long Scan Profiler"
+      },
+      {
+        "name": "Ultramicrotome: Leica EM UC6",
+        "change": "Location changed from FML to AIM Lab"
+      },
+      {
+        "name": "Furnace Preclean Web Bench",
+        "change": "Name typo corrected to Furnace Preclean Wet Bench"
       }
     ]
   },
@@ -2482,6 +2667,16 @@
     ]
   },
   {
+    "targetId": "tyndall-ireland",
+    "analyzedAt": "2026-08-21T09:32:37.028Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "ucdavis-cnm",
     "analyzedAt": "2026-08-20T20:01:20.500Z",
     "vitalityScore": 90,
@@ -2849,6 +3044,49 @@
       {
         "name": "Helios FIB-SEM",
         "change": "Updated to specify model name 'FEI Helios 600i FIB-SEM'."
+      }
+    ]
+  },
+  {
+    "targetId": "upenn-singh",
+    "analyzedAt": "2026-08-21T09:37:55.230Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment remains present with expanded specification details, and one new instrument (ZEISS Orion NanoFab Helium Ion Microscope) was added.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "ZEISS Orion NanoFab Helium Ion Microscope"
+      }
+    ],
+    "modified": [
+      {
+        "name": "JEOL 7500F HRSEM",
+        "change": "Specifications updated from category description to detailed feature specifications."
+      },
+      {
+        "name": "TFS Quanta 600 FEG ESEM",
+        "change": "Specifications updated from category description to detailed feature specifications."
+      },
+      {
+        "name": "TESCAN S8000X FIB/SEM",
+        "change": "Specifications updated from category description to detailed feature specifications."
+      },
+      {
+        "name": "JEOL F200",
+        "change": "Specifications updated from category description to detailed feature specifications."
+      },
+      {
+        "name": "JEOL NEOARM",
+        "change": "Specifications updated from category description to detailed feature specifications."
+      },
+      {
+        "name": "EMS/Quorum Q150T ES Sputter Coater",
+        "change": "Specifications updated from category description to detailed feature specifications."
+      },
+      {
+        "name": "Gatan Solarus 950 Advanced Plasma System",
+        "change": "Specifications updated from category description to detailed feature specifications."
       }
     ]
   },
