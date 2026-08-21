@@ -1,0 +1,1816 @@
+{
+  "targetId": "vit-cif",
+  "name": "VIT University",
+  "url": "https://crf.vit.ac.in/research/facilities",
+  "scrapedAt": "2026-08-20T20:31:02.117Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "High Resolution Transmission Electron Microscope (HR-TEM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Gas Chromatography - Mass Spectrometry (GC-MS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fourier Transform Infra-Red Spectrophotometer (FT-IR)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Elemental Analyzer (CHNS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High-Resolution Mass Spectrometer (HRMS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermogravimetric Analysis (TGA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Surface Area Analysis (BET)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance Spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Powder X-Ray Diffraction Facility",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV - Vis - NIR Spectrophotometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fluorescence Spectrophotometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatography (HPLC) - Agilent Infinity 2000",
+      "specifications": "Agilent Infinity 2000",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Viscometer (LMDV-60)",
+      "specifications": "LMDV-60",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Cooling Centrifuge",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ellipsometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Light Runner Kit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Magnetron Sputtering",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Optical Spectrum Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PCB Prototyping Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Software Defined Radio Device Bundle",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermal Evaporation Unit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vector Network Analyser (VNA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Clock Distribution Module",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Digital IQ Modulation Set",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Software Defined Radio (USRP)",
+      "specifications": "USRP",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ground Based LIDAR and Cyclone Register 360 3D point Cloud Modeling Software",
+      "specifications": "Cyclone Register 360 3D point Cloud Modeling Software",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Microwave Digestor",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Carbonation Chamber",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Hydraulic Column Testing System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ring Shear Apparatus",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Servo Hydraulic Actuator Testing System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Total Organic Carbon (TOC) Analyser",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Total Station & differential Global positioning System (DGPS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Integrated Laboratory Water Purification System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Autoclave Reactor and Filter Blocking Tendency Tester",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "NVIDIA Jetson AGX Xavier Developer Kit",
+      "specifications": "NVIDIA Jetson AGX Xavier",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LiDAR Sensor - Velodyne HDL-32E",
+      "specifications": "Velodyne HDL-32E",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Inertial Measurement Unit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LiDAR Sensor - Velodyne - VLP-16 PUCK",
+      "specifications": "Velodyne - VLP-16 PUCK",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Smoke Meter and Emission Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "KI-Box Combustion Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CONFOCAL MICROSCOPY",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CORROSION TEST",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FRETTING TRIBOCORROSION TEST",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "VICKERS MICROHARDNESS TEST",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "WETTABILITY TEST",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MATERIAL TESTING MACHINE",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Laser Damage Threshold",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Laser Shock Peening Setup",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vicker's and Knoop Hardness Studies",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Z - Scan Technique",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Advanced Gas Chromatography Coupled with Mass Spectrometry",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FTIR- Spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Weather Station",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PC Based Double Beam UV Spectrophotometer with Operating Software",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Visible Spectrophotometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "COD Digester",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Digital Nephelo/Turbidity Meter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electrospinning Apparatus",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Particle Size Analyser",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Raman Spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Spin Coater",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TGA and DSC",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermal Conductivity Measurement",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis Absorption Spectroscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Viscometer (DV2T)",
+      "specifications": "DV2T",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vacuum Sintering HOT Press Furnace",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FE-SEM and EBSD",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Creep Testing Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Single Potentiostat / Galvanostat",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Autocorrelator, Femtochrome 103 XL",
+      "specifications": "Femtochrome 103 XL",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Battery Tester",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Danfoss Variable Frequency Motor Drives",
+      "specifications": "Danfoss",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Voltage Testing and Insulation Diagnosis Facility",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Multi- Product Calibrator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Omicron Network Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Optical Spectrum Analyser (OSA) AQ6370D",
+      "specifications": "AQ6370D",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Power Quality Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Solar PV Array Simulator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Temperature & Pressure (Low & High) Calibrator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thin film sensor Fabrication",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Typhoon HIL 402 Real Time Emulator",
+      "specifications": "Typhoon HIL 402",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Dual Extruder FDM 3D Printer (Drona C300D)",
+      "specifications": "Drona C300D",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Dual Extruder FDM 3D Printer (Wanho D4S)",
+      "specifications": "Wanho D4S",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ultrasonic Vibration Assisted Machinery",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Force Measurement Dynamometer (Machining)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Wire EDM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Surface Profilometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AI NVIDIA Roboex",
+      "specifications": "NVIDIA",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Resolution Camera and High Speed Camera Module with NI Vision",
+      "specifications": "NI Vision",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vibration Test System (Shaker)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Low Velocity Bullet Impact Tester",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "3D-Bio Printers",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Flow Cytometry",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fourier Transform Infrared Spectroscopy (FTIR)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Performance liquid Chromatography (HPLC) - SPD M20A",
+      "specifications": "SPD M20A",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Performance Thin Layer Chromatography (HPTLC)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rheometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ultra Centrifuge",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Eddy Current Dynamometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Deep Learning Server",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HIL for Battery and Motor",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AI Car Computer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Full Cab Simulator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Gas Jet Erosion Tester",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Pin- On Disc Tribometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atomic Absorption Spectroscopy (AAS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Goniometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Dynamic Light Scattering (DLS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "EVOS – FLUORESCENCE MICROSCOPE",
+      "specifications": "EVOS",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Pin On Disc Tribometer - Room Temperature",
+      "specifications": "Room Temperature",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Residual stress",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Energy ball Mill",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-Ray Diffractometer (SCXRD)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "NANOPARTICLE TRACKING ANALYSER (NTA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Antenna Measurement",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Planar Sample Shielding Effectiveness Measurement in Free Space",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RF Device Measurement",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Material Sample S-Parameter Measurement",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Pre-compliance RE Measurement (CISPR22)",
+      "specifications": "CISPR22",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "KEYENCE DIGITAL MICROSCOPE-VHX-7000N",
+      "specifications": "KEYENCE VHX-7000N",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY (HPLC) - ANALYTICAL & PREPARATIVE SYSTEM",
+      "specifications": "ANALYTICAL & PREPARATIVE SYSTEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Gas Pycnometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vacuum Arc Melting Furnace (GE 402 TIG)",
+      "specifications": "GE 402 TIG",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electrochemical Corrosion Testing Facility",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "NABL ACCREDITED IN VITRO CYTOTOXICITY ASSAY FOR MEDICAL DEVICES",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis Spectrophotometer (JASCO V-730)",
+      "specifications": "JASCO V-730",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis Spectrophotometer (SHIMADZU)",
+      "specifications": "SHIMADZU",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis Spectrophotometer (HITACHI)",
+      "specifications": "HITACHI",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Epsilon 1 Benchtop XRF Spectrometer",
+      "specifications": "Epsilon 1 Benchtop",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Time Resolved and Steady State Photo-Luminescence Spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Mercury Intrusion Porosimetry",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ultraviolet-Visible-Near Infrared (UV-Vis-NIR) Spectrophotometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Impedance Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Prism Coupler",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Total Organic Carbon(TOC) Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "WATER AND WASTEWATER ANALYSIS",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Super-DAQ Precision Temperature Scanner",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TECAN MULTIMODE PLATE READER",
+      "specifications": "TECAN",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ULTRASONIC ATOMIZER",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ELECTROSPINNING DEVICE",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SMART UV PRINT LITHOGRAPHY",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FREEZE DRYER",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "QUANTITATIVE PCR",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DC Electronic Load",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Programmable DC Power Supply with PC Array Simulator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TCP0030A Current Probe",
+      "specifications": "TCP0030A",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FLASH CHROMATOGRAPHY SYSTEM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Source Measure Unit (SMU)",
+      "specifications": "SMU",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Pulsed Laser Deposition (PLD)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Gas Chromatography - Flame Ionization Detector (GC-FID)",
+      "specifications": "GC-FID",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HPLC-PDA-MS",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vibrating Sample Magnetometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ANTIGEN RETRIEVAL SYSTEM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma – Mass Spectrometry",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Inkjet printer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Laser Power Bed Fusion – 3D Metal Printer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Micro X-ray CT Scanner",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tribo Nanoindenter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "R2R Slot-die coater",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SMART EVAPORATOR (EVAPORATOR FOR HIGH-BOILING SOLVENTS)",
+      "specifications": "For High-Boiling Solvents",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Liquid Chromatography-Triple Quadrupole Mass Spectrometer (LC-MS/MS)",
+      "specifications": "LC-MS/MS",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Akta Prime Plus GE",
+      "specifications": "Akta Prime Plus GE",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AKTA-Start FPLC Chromatographic system",
+      "specifications": "AKTA-Start",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Biacore 3000",
+      "specifications": "3000",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Biologics LP System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electrochemical workstation",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Multimode Plate Reader",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nanodrop",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Automatic Weather Station (AWS) & Ultrasonic Anemometers 3D (3D-SA)",
+      "specifications": "AWS & Ultrasonic Anemometers 3D-SA",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LASER PRECIPITATION MONITORING (LPM)",
+      "specifications": "LPM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MULTI CHANNEL ANALYSIS OF SURFACE WAVES",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PROFOMETER -REBAR DIAMETER AND COVER METER",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PROFOMETER CORROSION HALF-CELL POTENTIAL",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ULTRASONIC PULSE VELOCITY",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ion exchange Chromatography System (DIONEX)",
+      "specifications": "DIONEX",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatography System – Analytical Reverse Phase",
+      "specifications": "Analytical Reverse Phase",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Cyclic Tri axial Testing Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Dew point Potential meter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bender Element Testing Equipment",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Resilient Modulus Testing System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Compression Testing Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Carbonation Test Chamber -100lit Capacity",
+      "specifications": "100lit Capacity",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Differential GPS",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Drone – Avio M1",
+      "specifications": "Avio M1",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LiDAR Scanner",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Digital CTM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Computerized cum analogue universal testing machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LUMINOMETER",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "NANODROP (BIOPHOTOMETER)",
+      "specifications": "BIOPHOTOMETER",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RECIPROCATING WEAR TESTER",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SCRATCH TESTER",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TaKaRa PCR THERMAL CYCLER",
+      "specifications": "TaKaRa",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DIGITAL LIGHT PROCESSING (DLP) 3D PRINTING",
+      "specifications": "DLP",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Automatic Film Applicator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Chemiluminescence Imaging System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electroporator - Nepa Gene ELEPO21",
+      "specifications": "Nepa Gene ELEPO21",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fermentation System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Viscometer – Ametek LVDV2T",
+      "specifications": "Ametek LVDV2T",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Microplate Spectrophotometer - Agilent BioTek Epoch",
+      "specifications": "Agilent BioTek Epoch",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis Spectrophotometer – Agilent Cary 3500 Multicell",
+      "specifications": "Agilent Cary 3500 Multicell",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fermenter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Mini lab SS Spray Dryer",
+      "specifications": "Mini lab SS",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "REAL-TIME PCR",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fluorescence Spectroscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "NanoDrop Spectrophotometer – Thermo ND One",
+      "specifications": "Thermo ND One",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Freeze Dryer (Lyophilizer) – Christ Alpha 1-2 LSC basic",
+      "specifications": "Christ Alpha 1-2 LSC basic",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Battery Test system",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Multi-Zone Chemical Vapour Deposition (CVD) system",
+      "specifications": "Multi-Zone CVD",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Data Acquisition and Logging Multimeter System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SP150 POTENTIOSTAT/GALVANOSTAT",
+      "specifications": "SP150",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electrochemical workstation with solar stimulator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "WAVECT WCU400 RT Controller",
+      "specifications": "WCU400 RT",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electrospinning Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LCR METER WITH TEMPERATURE CONTROLLER",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Muffle Furnace",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Probe Station with Source Meter Unit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DC & RF Magnetron Sputtering",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PLANETARY MONOMILL",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Two High Rolling Mill",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Variable Compression Ratio Engine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tensile Testing Frame (500 kN Capacity)",
+      "specifications": "500 kN Capacity",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Automatic Motorized Pull of Bond Strength Tester (16 kN capacity)",
+      "specifications": "16 kN capacity",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Pipe Surge and water Hammer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Flexural testing machine (200 kN capacity)",
+      "specifications": "200 kN capacity",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electro Chemical Workstation",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Compression Testing Frame (3000 kN / 500 kN Capacity)",
+      "specifications": "3000 kN / 500 kN Capacity",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Universal Testing Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ULTRA PURE WATER SYSTEM (PALL)",
+      "specifications": "PALL",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ultrasonic Pulse Velocity Tester",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Spectrofluorometers",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ion Chromatography",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma Optical Emission Spectrometer (ICP OES)",
+      "specifications": "ICP OES",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Concrete Surface Resistivity Meter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Concrete Cover Meter & Rebar Detector/Locator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Mahr Surf Surface profilometer",
+      "specifications": "Mahr Surf",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Kruss Drop Shape Analyzer",
+      "specifications": "Kruss",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Trinocular Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vickers Micro-Hardness Testing Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Temperature Silicon Carbide Tubular Vacuum Furnace",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Spectrox Sort XRF Alloy Analyzer",
+      "specifications": "Spectrox Sort",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tinius Olsen Universal Testing Machine (UTM)",
+      "specifications": "Tinius Olsen",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatography (HPLC)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Lyophilizer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Texture Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Colour Spectrophotometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Potter Spray Tower",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Real Time PCR (qPCR)",
+      "specifications": "qPCR",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Insitu Sterilizable Fermentor 5 LIT",
+      "specifications": "5 LIT",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Insitu Sterilizable Fermentor 14 LIT",
+      "specifications": "14 LIT",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Friction Stir Welding Machine -NC",
+      "specifications": "NC",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Linear movement automation with pipe fixture",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MIG Welding Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CRDI VCR Engine Test Setup (Computerized)",
+      "specifications": "Computerized",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FDM MD600",
+      "specifications": "MD600",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bomb calorimeter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Servo Universal Testing Machine - Instron",
+      "specifications": "Instron",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Chroma Power Quality Analyser PA2203A",
+      "specifications": "Chroma PA2203A",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DSPACE 1104",
+      "specifications": "1104",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Keysight MSOx3014G",
+      "specifications": "MSOx3014G",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Programmable DC Power Supply with solar array simulator 62050H-600S",
+      "specifications": "62050H-600S",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Shunt Active Filter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Temperature Furnace",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermo-Conversion Test Unit (TCTU)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Quanser Aero Workstation",
+      "specifications": "Quanser Aero",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Active Suspension System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Variable DC Power supply",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Quanser Magnetic Levitation System",
+      "specifications": "Quanser",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Quanser Double Inverted Pendulum System",
+      "specifications": "Quanser",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Speed GPU Workstation",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fluke Ti480 PRO Thermal Imaging Camera",
+      "specifications": "Fluke Ti480 PRO",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Gas chromatography",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ANALYTICAL TEST STATION FOR FUEL CELL",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "VACUUM OVEN",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HOT PRESS",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AUTOMATIC ETO STERILIZER",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MULTICAL CALIBRATION SYSTEM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Industrial Robot II",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scara Robot DRS60L",
+      "specifications": "DRS60L",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Industrial Robot I",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Turtlebote2e Mobile Robot",
+      "specifications": "Turtlebote2e",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Universal Robot UR5",
+      "specifications": "UR5",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Multisource Deposition System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscopy (AFM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Dynamic Test System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fourier Transform Infra-Red Spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fourier Transform Infrared Spectrophotometer (FTIR)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High-Performance Elemental Analyzer (CHNS Analysis)",
+      "specifications": "CHNS Analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Personal Environmental Monitor (PEM)",
+      "specifications": "PEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SARTORIUS ELECTRONIC BALANCE",
+      "specifications": "SARTORIUS",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Infrared Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Brunauer-Emmett-Teller (BET)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Temperature Servo Hydraulic Fatigue Test System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Gas sensing instrument",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PCB Milling Machine",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GC-TCD Chromatography",
+      "specifications": "GC-TCD",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Total Kjeldahl Nitrogen (TKN) Analyser",
+      "specifications": "TKN",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electro Spinning Unit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

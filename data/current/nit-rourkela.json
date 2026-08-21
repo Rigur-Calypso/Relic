@@ -1,0 +1,70 @@
+{
+  "targetId": "nit-rourkela",
+  "name": "NIT Rourkela",
+  "url": "https://crf.nitrkl.ac.in/",
+  "scrapedAt": "2026-08-20T20:14:37.862Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Rheometer for Asphalt",
+      "specifications": "Torque Range: 0.5µ Nm to 100m Nm Strain/position Resolution: 0.05 rad Normal force range: 0.1N to 20",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rotary Vacuum Evaporator",
+      "specifications": "Samples must not have corrosive agents.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance Spectrometer",
+      "specifications": "400 MHz Ultrashield Bruke",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis Spectrophotometer",
+      "specifications": "Samples must not be densely colored or turbid (except bacterial solution).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Multipurpose X-Ray Diffraction System",
+      "specifications": "Goniometer: Theta-theta goniometer for precise angular measurements. X-ray Source: Cu Ka radiation. Detector: Scintillation counter or solid-state detector. Resolution: High-resolution optics for detailed diffraction patterns. Sample Stage: Moto",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FARO-Gage",
+      "specifications": "•1.2m (4 ft.) spherical working volume •Accuracy up to 0.018mm (0.0007 in.) •Temperature & Overload Sensors: Allow the FARO Gage to maximize accuracy by detecting and compensating for thermal variations and improper handling •Internal Counterbala",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Fermentor & Bioreactor",
+      "specifications": "Digital Controller (Biostat B plus), Thermostat System( 8oC – 80oC), Dry Heating System, Culture vessel (5L), O2- Enrichment, MFCS/DA software, Stirrer Drive (20-2000 rpm), Exclusive flow (air, O2,",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Wavelength Dispersive X-Ray Fluorescence Spectroscopy (WDXRF)",
+      "specifications": "",
+      "location": "CRF Labs TI-010 &TI-003",
+      "status": ""
+    },
+    {
+      "name": "High Resolution Mass Spectrometer (HRMS)",
+      "specifications": "",
+      "location": "CRF Labs TI-010 &TI-003",
+      "status": ""
+    },
+    {
+      "name": "Laser Scanning Confocal Microscope (LSCM)",
+      "specifications": "",
+      "location": "CRF Labs TI-010 &TI-003",
+      "status": ""
+    }
+  ]
+}

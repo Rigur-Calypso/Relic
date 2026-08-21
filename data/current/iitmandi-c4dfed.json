@@ -1,0 +1,58 @@
+{
+  "targetId": "iitmandi-c4dfed",
+  "name": "IIT Mandi",
+  "url": "https://amrc.iitmandi.ac.in/",
+  "scrapedAt": "2026-08-20T18:46:54.957Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Transmission Electron Microscope",
+      "specifications": "",
+      "location": "Advanced Material Research Center, IIT Mandi",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope",
+      "specifications": "",
+      "location": "Advanced Material Research Center, IIT Mandi",
+      "status": ""
+    },
+    {
+      "name": "Confocal Microscope",
+      "specifications": "",
+      "location": "Advanced Material Research Center, IIT Mandi",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance (NMR) Spectrometer",
+      "specifications": "",
+      "location": "Advanced Material Research Center, IIT Mandi",
+      "status": ""
+    },
+    {
+      "name": "Mass Spectrometer",
+      "specifications": "",
+      "location": "Advanced Material Research Center, IIT Mandi",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectrometer",
+      "specifications": "",
+      "location": "Advanced Material Research Center, IIT Mandi",
+      "status": ""
+    },
+    {
+      "name": "Infrared Spectrometer",
+      "specifications": "",
+      "location": "Advanced Material Research Center, IIT Mandi",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffractometer",
+      "specifications": "",
+      "location": "Advanced Material Research Center, IIT Mandi",
+      "status": ""
+    }
+  ]
+}

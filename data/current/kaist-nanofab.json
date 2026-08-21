@@ -1,0 +1,9 @@
+{
+  "targetId": "kaist-nanofab",
+  "name": "KAIST",
+  "url": "https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+  "scrapedAt": "2026-08-20T20:24:40.295Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

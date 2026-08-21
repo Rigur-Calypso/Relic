@@ -1,0 +1,14 @@
+{
+  "targetId": "iith-crf",
+  "analyzedAt": "2026-08-20T20:28:58.779Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment has been preserved, and a new instrument (HORIBA LabRAM HR EVOLUTION CONFOCAL RAMAN SPECTROMETER) has been added to the facility.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "HORIBA LabRAM HR EVOLUTION CONFOCAL RAMAN SPECTROMETER"
+    }
+  ],
+  "modified": []
+}

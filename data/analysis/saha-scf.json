@@ -1,0 +1,21 @@
+{
+  "targetId": "saha-scf",
+  "analyzedAt": "2026-08-20T18:53:19.731Z",
+  "vitalityScore": 90,
+  "summary": "Minor changes in naming conventions and loss of specific specification details for one of the electromagnets, but overall equipment inventory remains mostly intact.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "variable field electromagnet (0-2.3 tesla)",
+      "severity": "minor",
+      "reason": "Specific entry removed, though a similar electromagnet exists; specifications were dropped on one instance."
+    }
+  ],
+  "added": [],
+  "modified": [
+    {
+      "name": "AC Resistivity and Magnetoresistance Setup",
+      "change": "Renamed to AC Resistivity and Magnetoresistance equipment."
+    }
+  ]
+}

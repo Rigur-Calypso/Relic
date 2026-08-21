@@ -1,0 +1,159 @@
+{
+  "targetId": "stuttgart-mpg",
+  "snapshotUrl": "http://web.archive.org/web/20240229130050/https://www.fkf.mpg.de/6731663/25_Tools",
+  "snapshotTimestamp": "20240229130050",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T20:08:15.816Z",
+  "equipment": [
+    {
+      "name": "100 kV Electron Beam Writer",
+      "specifications": "JEOL JBX6300FS under Stable Environmental Conditions (Magnetic Field, Temperature, Humidity)",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "SEM-based Electron Beam Writer",
+      "specifications": "Raith eLine, Raith eLine plus with Interferometer-controlled Sample Stage",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Mask Aligner",
+      "specifications": "Karl Suess MA 6 and MJB 3 for Exposure",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Direct Laser Writer",
+      "specifications": "Kloé Dilase 250",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope Combined with Focused Ion Beam",
+      "specifications": "Zeiss Crossbeam with Micromanipulators and Gas Injection",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Cryo-Stage",
+      "specifications": "-150 °C to 400 °C (Kammrath & Weiss)",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Photo Camera Setups",
+      "specifications": "Nikon",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Stereo Microscopes",
+      "specifications": "Nikon",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Optical Microscopes",
+      "specifications": "Nikon",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Digital Microscopes",
+      "specifications": "Olympus, also in Ar-Glovebox",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscopes",
+      "specifications": "Zeiss Merlin, Zeiss Gemini SEM 500 with EDX, EBSD, EBIC, in-situ Scanning Probe Microscopy, Micromanipulation Tools, Cryo-Stage",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "ICP-RIE",
+      "specifications": "Oxford Instruments PlasmaPro 100 Cobra and Sentech SI 500 with Fluorine, Chlorine, and Bromine Chemistry",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Water-based Atomic Layer Deposition",
+      "specifications": "Cambridge Nanotechnology Shavanna 100 (Ti-, Hf-, Al-oxides)",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Plasma-enhanced Atomic Layer Deposition",
+      "specifications": "Sentech ALD with Real-time Monitoring",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Thin Film Sputtering",
+      "specifications": "Leica ACE600",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Thermal Evaporation",
+      "specifications": "Leybold Univex Systems",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Thermal Atomic Layer Deposition",
+      "specifications": "Cambridge Nanotechnology Shavanna 100",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "GHz Plasma Cleaner",
+      "specifications": "Diener",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Annealing Oven",
+      "specifications": "Dr. Eberl-MBE-Komponenten",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Critical Point Dryer",
+      "specifications": "Leica EM CPD300",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Target Preparation Tool",
+      "specifications": "Leica EM TPX for Milling, Sawing, Grinding and Polishing Samples",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Cross Section Polisher",
+      "specifications": "JEOL IB-091010CP",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Profilometer",
+      "specifications": "Veeco Dektak 8",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Ellipsometer",
+      "specifications": "Sentech SENResearch",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    },
+    {
+      "name": "Vacuum Scanning Probe Microscope",
+      "specifications": "AFM/STM with Load-Lock for Sample and Tip Exchange (Semilab)",
+      "location": "Nanostructuring Lab",
+      "status": ""
+    }
+  ]
+}

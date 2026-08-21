@@ -1,0 +1,520 @@
+{
+  "targetId": "iith-crf",
+  "name": "IIT Hyderabad",
+  "url": "https://che.iith.ac.in/Research%20Facilities.HTML",
+  "scrapedAt": "2026-08-20T20:27:58.138Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "ANTOR PAAR LITE SIZER 500",
+      "specifications": "Colloidal Size Analysis & Zeta Potential Measurement",
+      "location": "A-517",
+      "status": ""
+    },
+    {
+      "name": "FUMEHOOD",
+      "specifications": "Chemical Synthesis",
+      "location": "A-517",
+      "status": ""
+    },
+    {
+      "name": "RHEOMETER WITH MICROSCOPE",
+      "specifications": "Multiple geometries, Rheo-microscope 20x, Peltier Temperature Hood - Conc. Cylinder (-30C to 200C)",
+      "location": "A-001",
+      "status": ""
+    },
+    {
+      "name": "OPTICAL TWEEZERS",
+      "specifications": "Force Spectroscopy",
+      "location": "A-210",
+      "status": ""
+    },
+    {
+      "name": "ATOMIC FORCE MICROSCOPY",
+      "specifications": "Atomic force microscopy",
+      "location": "Sheds-02",
+      "status": ""
+    },
+    {
+      "name": "DC SPURTTERING",
+      "specifications": "DC spurttering system",
+      "location": "A-709",
+      "status": ""
+    },
+    {
+      "name": "GONIOMETER",
+      "specifications": "Automated goniometer / Toniometer",
+      "location": "Sheds-01",
+      "status": ""
+    },
+    {
+      "name": "GRAPHITIZING FURNACE",
+      "specifications": "Graphitizing furnace",
+      "location": "Sheds-01",
+      "status": ""
+    },
+    {
+      "name": "ICP-OES",
+      "specifications": "ICP-OES",
+      "location": "Sheds-02",
+      "status": ""
+    },
+    {
+      "name": "ION CHROMATOGRAPHY",
+      "specifications": "Metrom ion chromatography system",
+      "location": "Sheds-01",
+      "status": ""
+    },
+    {
+      "name": "MASSLESS LITHOGRAPHY SYSTEM",
+      "specifications": "Maskless lithography system",
+      "location": "Sheds-02",
+      "status": ""
+    },
+    {
+      "name": "NANOINDENTION TESTER WITH HIGH & LOW LOAD OPTION",
+      "specifications": "Nano indention tester with high & low load option",
+      "location": "A-709",
+      "status": ""
+    },
+    {
+      "name": "PECVD",
+      "specifications": "Plasma enhanced chemical vapour deposition",
+      "location": "A-709",
+      "status": ""
+    },
+    {
+      "name": "PLASMA CHAMBER",
+      "specifications": "Plasma chamber",
+      "location": "Sheds-01",
+      "status": ""
+    },
+    {
+      "name": "SMALL ANGLE X-RAY SCATTERING (SAXS)",
+      "specifications": "Small angle x-ray scattering (SAXS)",
+      "location": "Sheds-01",
+      "status": ""
+    },
+    {
+      "name": "UV VIS SPECTROSCOPY",
+      "specifications": "UV Vis spectroscopy",
+      "location": "A-709",
+      "status": ""
+    },
+    {
+      "name": "3D-OPTICAL PROFILER",
+      "specifications": "3d-optical profiler",
+      "location": "Sheds-01",
+      "status": ""
+    },
+    {
+      "name": "HORIBA LabRAM HR EVOLUTION CONFOCAL RAMAN SPECTROMETER",
+      "specifications": "HORIBA LabRAM HR Evolution Confocal Raman Spectrometer",
+      "location": "A-317",
+      "status": ""
+    },
+    {
+      "name": "FIXED BED MICRO REACTOR",
+      "specifications": "Temp 500 C and Pressure 50 bar",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "FTIR",
+      "specifications": "Mid IR range",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "GAS CHROMATOGRAPH (AGILENT 7890B)",
+      "specifications": "Liquid and gas samples",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "GAS CHROMATOGRAPH (SHIMAZDU GC2030)",
+      "specifications": "Liquid and gas sample, TCD and FID detector",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "HIGH TEMPERATURE AND PRESSURE BATCH REACTOR (PARR INSTRUMENTS)",
+      "specifications": "Temp 500C Pressure 100 bar",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "MICRO-GC (AGILENT)",
+      "specifications": "Permanent gas and light hydrocarbon analysis",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "POWDER XRD",
+      "specifications": "Powder sample, Thin film and SAXS",
+      "location": "A-318",
+      "status": ""
+    },
+    {
+      "name": "TGA",
+      "specifications": "Maximum temperature 1500 degree C",
+      "location": "ChE PG lab",
+      "status": ""
+    },
+    {
+      "name": "UV-VIS NIR SPECTROSCOPY",
+      "specifications": "Solid and liquid samples in entire spectral range",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "BIOSENSOR WORK STATION",
+      "specifications": "Toxic gas analysers/ detects sensitive analysers",
+      "location": "A-224",
+      "status": ""
+    },
+    {
+      "name": "HPLC",
+      "specifications": "Organic and inorganic analyser / Highly efficient analyser",
+      "location": "A-224",
+      "status": ""
+    },
+    {
+      "name": "ROTATORY BED BIOREACTOR 1LTS AND 2LTS",
+      "specifications": "Immobilised beads can be properly used/ Bead and substrate interaction",
+      "location": "A-224",
+      "status": ""
+    },
+    {
+      "name": "7L BIOREACTOR AND SOLID-STATE FERMENTATION SSF",
+      "specifications": "Submerged Fermentation, Solid state fermentation/ semi-pilot scale up",
+      "location": "A-224",
+      "status": ""
+    },
+    {
+      "name": "3 L BIOREACTOR",
+      "specifications": "Submerged Fermentation, Solid state fermentation/ semi-pilot scale up",
+      "location": "A-224",
+      "status": ""
+    },
+    {
+      "name": "SCANNING ELECTROCHEMICAL MICROSCOPE (SECM)",
+      "specifications": "Surface scanning for determining the chemical/electrochemical activity in heterogeneous systems.",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "BATTERY TESTING MACHINE",
+      "specifications": "Battery Charge and Discharge characteristics can be determined.",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "DRIVING SIMULATOR",
+      "specifications": "Driving Simulator",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "HPC CLUSTER",
+      "specifications": "High Performance Computing Cluster",
+      "location": "Institute Data Center",
+      "status": ""
+    },
+    {
+      "name": "FLIR IMAGING SYSTEM",
+      "specifications": "Thermal Imaging",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FLOW MEASUREMENT SYSTEM",
+      "specifications": "FLUID MECHANICS LAB: Teaching, Hydrostatics and properties of fluid, 2.5m flow channel, weirs, impact of jet, losses in pipes",
+      "location": "A-321",
+      "status": ""
+    },
+    {
+      "name": "FUJITSU WORKSTATION CELSIUS M 470",
+      "specifications": "CAE Computer lab: Teaching",
+      "location": "A-420",
+      "status": ""
+    },
+    {
+      "name": "HIGH SPEED CAMERA",
+      "specifications": "High Speed Imaging",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RAIN DROP FACILITY",
+      "specifications": "Flow field measurement",
+      "location": "Research Center Complex",
+      "status": ""
+    },
+    {
+      "name": "CELL COUNTER",
+      "specifications": "Counting Cells",
+      "location": "A-712",
+      "status": ""
+    },
+    {
+      "name": "FORMLAB 3D PRINTER",
+      "specifications": "Printing resins (non-transparent), resolution 1 mm",
+      "location": "A-712",
+      "status": ""
+    },
+    {
+      "name": "LEICA SP8 CONFOCAL MICROSCOPY",
+      "specifications": "3D imaging of fluorescent signals, fluorescent imaging with multiple wavelengths, FRAP and protein diffusion.",
+      "location": "A-712",
+      "status": ""
+    },
+    {
+      "name": "HIGH TEMPERATURE POLYMER PRESS-BENCH TOP",
+      "specifications": "Performing polymer films and Casting.",
+      "location": "A-517",
+      "status": ""
+    },
+    {
+      "name": "HIGH SPEED CENTRIFUGE",
+      "specifications": "High Speed Centrifuge.",
+      "location": "A-517",
+      "status": ""
+    },
+    {
+      "name": "AUTOMATED COLUMN FLOTATION",
+      "specifications": "Flotation of fine particles",
+      "location": "A-004",
+      "status": ""
+    },
+    {
+      "name": "ELECTRICAL CAPACITANCE VOLUME TOMOGRAPGHY (ECVT)",
+      "specifications": "Phase volume concentration in Gas-Solids systems",
+      "location": "A-004",
+      "status": ""
+    },
+    {
+      "name": "ELECTRICAL RESISTANCE TOMOGRAPHY",
+      "specifications": "Planar conductivity distribution measurement",
+      "location": "A-004",
+      "status": ""
+    },
+    {
+      "name": "ISA MILL/AGITATOR MILL",
+      "specifications": "Ultrafine grinding device",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MICRON PARTICLE SIZE ANALYZER",
+      "specifications": "Micron Particle size distribution",
+      "location": "A-004",
+      "status": ""
+    },
+    {
+      "name": "MICROWAVE PLASMA ATOMIC EMISSION SPECTROMETER (MPAES)",
+      "specifications": "Multi-species composition analysis of minerals",
+      "location": "A-318",
+      "status": ""
+    },
+    {
+      "name": "OPTICAL FIBER PROBE",
+      "specifications": "Particle concentration & velocity measurement",
+      "location": "A-004",
+      "status": ""
+    },
+    {
+      "name": "VISCOMETER - BROOKFEILD RST - CC",
+      "specifications": "Viscosity measurement",
+      "location": "A-004",
+      "status": ""
+    },
+    {
+      "name": "2D MICRO DIV/LIF SYSTEM",
+      "specifications": "2D flow Visualisation and planar flow field measurement",
+      "location": "Sheds-04",
+      "status": ""
+    },
+    {
+      "name": "2D MINI LDA SYSTEM",
+      "specifications": "2D point measurement of velocity and turbulence of fluids",
+      "location": "Sheds-04",
+      "status": ""
+    },
+    {
+      "name": "FLOW CYTOMETER",
+      "specifications": "Cell analysis and sorting",
+      "location": "A-708",
+      "status": ""
+    },
+    {
+      "name": "RHEOMETER",
+      "specifications": "Rheological measurements",
+      "location": "A-708",
+      "status": ""
+    },
+    {
+      "name": "SHAKING INCUBATOR",
+      "specifications": "Bacterial cell culture",
+      "location": "A-708",
+      "status": ""
+    },
+    {
+      "name": "ULTRA-LOW TEMPERATURE FREEZER",
+      "specifications": "Sample storage up to -86 deg C",
+      "location": "A-708",
+      "status": ""
+    },
+    {
+      "name": "COUPLED TANK SYSTEM",
+      "specifications": "Process Control lab: Teaching Lab",
+      "location": "A-121",
+      "status": ""
+    },
+    {
+      "name": "DISTILLATION COLUMN",
+      "specifications": "Mass Trasnfer lab: Teaching Lab",
+      "location": "A-120",
+      "status": ""
+    },
+    {
+      "name": "PLUNGING JET EXPERIMENTAL SET UP",
+      "specifications": "Controlled Flow rates for Plunging Jet Experiments",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "TEMPERATURE PROCESS CONTROLLER",
+      "specifications": "Process Control Lab: Teaching",
+      "location": "A-121",
+      "status": ""
+    },
+    {
+      "name": "DIFFERENTIAL SCANNING CALORIMETRY",
+      "specifications": "Differential scanning calorimetry",
+      "location": "A-318",
+      "status": ""
+    },
+    {
+      "name": "DYNAMIC LIGHT SCATTERING (DLS)",
+      "specifications": "Particle Size & Zeta Potential",
+      "location": "A-708",
+      "status": ""
+    },
+    {
+      "name": "FULLY AUTOMATED RESEARCH GRADE METALLURGICAL MICROSOPE",
+      "specifications": "Microscope",
+      "location": "A-708",
+      "status": ""
+    },
+    {
+      "name": "GEL PERMEATION AND SIZE EXCLUSION CHROMATOGRAPH (GPC/SEC) SYSTEM",
+      "specifications": "Gel permeation and size exclusion chromatograph",
+      "location": "A-318",
+      "status": ""
+    },
+    {
+      "name": "IMPEDANCE ANALYZER MODULE WITH ACCESSORIES",
+      "specifications": "Impedance analyzer",
+      "location": "PG Shed Lab 1",
+      "status": ""
+    },
+    {
+      "name": "PHENOM SCANNING ELECTRON MICROSCOPE",
+      "specifications": "Scanning electron microscope",
+      "location": "A-708",
+      "status": ""
+    },
+    {
+      "name": "SITC OF MCR-92 MODULAR COMPACT RHEOMETER",
+      "specifications": "Rheometer",
+      "location": "A-708",
+      "status": ""
+    },
+    {
+      "name": "CIRCULAR DICHROISM SPECTROMETER/ POLARIMETER",
+      "specifications": "Measurement of protein secondary structure, protein conformation, protein folding, ligand-protein interactions, thermal transitions in proteins",
+      "location": "A-318",
+      "status": ""
+    },
+    {
+      "name": "HYBRID CELL IMAGING MULTI-MODE READER",
+      "specifications": "Integrated Absorbance/ fluorescence / luminescence/ time-resolved fluorescence reading across all platforms (monochromator-based), integrated bright field and fluorescence real time imaging across multiple platforms (filter-based)",
+      "location": "A-321",
+      "status": ""
+    },
+    {
+      "name": "MULTIPLEX ARRAY READER",
+      "specifications": "Simultaneous measurement of multiple biological analytes (e.g., cytokines) in varied solutions",
+      "location": "A-321",
+      "status": ""
+    },
+    {
+      "name": "HIGH PRESSURE BATCH REACTOR",
+      "specifications": "High Pressure Batch Reactor with Temperature 200oC and Pressure 150bar",
+      "location": "A-519",
+      "status": ""
+    },
+    {
+      "name": "STEREOLITHOGRAPHY (SLA)",
+      "specifications": "SLA based 3d printer",
+      "location": "A-210",
+      "status": ""
+    },
+    {
+      "name": "SHIMADZU'S GAS CHROMATOGRAPHY SYSTEM",
+      "specifications": "NA",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "HIGH PRESSURE LABORATORY REACTOR",
+      "specifications": "NA",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "PROGRAMMABLE TUBE FURNACE",
+      "specifications": "NA",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "BET",
+      "specifications": "BET surface area",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "TEMPERATURE PROGRAMMED STUDIES",
+      "specifications": "chemisorption, TPD, TPR",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "GC-MS",
+      "specifications": "NA",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "ROTARY VACUUM EVAPORATOR",
+      "specifications": "NA",
+      "location": "A-116",
+      "status": ""
+    },
+    {
+      "name": "LC-MS",
+      "specifications": "",
+      "location": "A-318",
+      "status": ""
+    },
+    {
+      "name": "CHNS-O",
+      "specifications": "CHNS-O",
+      "location": "A-116",
+      "status": ""
+    }
+  ]
+}

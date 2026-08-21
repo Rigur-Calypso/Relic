@@ -1,0 +1,27 @@
+{
+  "targetId": "manipal-cif",
+  "snapshotUrl": "http://web.archive.org/web/20240817133741/https://cif.manipal.edu/",
+  "snapshotTimestamp": "20240817133741",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T20:00:18.774Z",
+  "equipment": [
+    {
+      "name": "Scanning Electron Microscope - EDS",
+      "specifications": "",
+      "location": "",
+      "status": "active"
+    },
+    {
+      "name": "X-Ray Diffractometer",
+      "specifications": "",
+      "location": "",
+      "status": "active"
+    },
+    {
+      "name": "Silver sputtering unit",
+      "specifications": "",
+      "location": "",
+      "status": "under maintenance"
+    }
+  ]
+}

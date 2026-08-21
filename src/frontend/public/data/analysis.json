@@ -1,5 +1,65 @@
 [
   {
+    "targetId": "aalto-micronova",
+    "analyzedAt": "2026-08-20T20:23:35.694Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "alberta-nanofab",
+    "analyzedAt": "2026-08-20T20:27:39.345Z",
+    "vitalityScore": 40,
+    "summary": "The lab facility page underwent a significant equipment refresh, retaining variations of the Bruker D8 systems while losing the nGauge AFM and S/TEM systems completely. Several new systems such as the Plasma-Therm PECVD, Keyence Surface Profiler, and Heidelberg MLA150 were added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "nGauge AFM",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment list."
+      },
+      {
+        "name": "S/TEM",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment list."
+      }
+    ],
+    "added": [
+      {
+        "name": "Plasma-Therm Versaline PECVD"
+      },
+      {
+        "name": "Keyence VK-X3050 3D Surface Profiler"
+      },
+      {
+        "name": "Heidelberg MLA150"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Bruker D8D plus",
+        "change": "Updated name to Bruker D8D plus diffractometer and expanded specifications to include Advanced XRD techniques, Non-Coplanar Scan, Pole Figure, 2D Stress Measurement, and Multi-Angle Scattering."
+      },
+      {
+        "name": "Bruker D8D+",
+        "change": "Updated specifications and naming to Bruker D8 DISCOVER SAXS X-ray diffractometer with advanced material characterization capabilities."
+      }
+    ]
+  },
+  {
+    "targetId": "amrita-cif",
+    "analyzedAt": "2026-08-20T20:18:03.357Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "anna-caf",
     "analyzedAt": "2026-08-20T14:24:27.482Z",
     "vitalityScore": 95,
@@ -31,6 +91,100 @@
       {
         "name": "Dynamic Light Scattering",
         "change": "Specifications expanded with minimum sample volume and fluid viscosity ranges."
+      }
+    ]
+  },
+  {
+    "targetId": "annamalai-cif",
+    "analyzedAt": "2026-08-20T18:55:25.103Z",
+    "vitalityScore": 60,
+    "summary": "The lab facility page has lost several minor equipment items and specifications details for the remaining instruments, though core major equipment remains present.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Flame Photometer",
+        "severity": "moderate",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Digital Conductivity / TDS Meter",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Digital pH Meter",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Muffle Furnace",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Hot Air Oven",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Digital Balance",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Magnetic Stirrer",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Refractometer",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Centrifuge",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      },
+      {
+        "name": "Distillation Water Still",
+        "severity": "minor",
+        "reason": "Instrument is missing from the current equipment list."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "Field Emission Scanning Electron Microscope (FESEM)",
+        "change": "Detailed specifications and model numbers were removed."
+      },
+      {
+        "name": "Scanning Electron Microscope (SEM)",
+        "change": "Detailed specifications and model numbers were removed."
+      },
+      {
+        "name": "Laser Scanning Confocal Microscope",
+        "change": "Renamed to Confocal Microscope and all specifications were removed."
+      },
+      {
+        "name": "Fluorescence Assisted Cell Sorter (FACS)",
+        "change": "Renamed to Flow Cytometer - Cell Sorter (FACS Aria III) and specifications were reduced."
+      },
+      {
+        "name": "Inductively Coupled Plasma - Mass Spectrophotometer (ICP-MS)",
+        "change": "Detailed specifications were removed."
+      },
+      {
+        "name": "Atomic Force Microscope (AFM)",
+        "change": "Detailed specifications were removed."
+      },
+      {
+        "name": "Simultaneous Thermal Analyzer",
+        "change": "Renamed to Simultaneous Thermal Analysis (STA) and specifications were reduced."
+      },
+      {
+        "name": "UV-Visible Spectrophotometer",
+        "change": "Detailed specifications were removed."
       }
     ]
   },
@@ -212,6 +366,16 @@
   {
     "targetId": "cense-iisc",
     "analyzedAt": "2026-08-20T13:18:23.552Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "colostate-arc",
+    "analyzedAt": "2026-08-20T20:46:50.903Z",
     "vitalityScore": null,
     "summary": "No historical snapshot to compare against.",
     "knowledgeLoss": false,
@@ -416,6 +580,25 @@
     "modified": []
   },
   {
+    "targetId": "du-usic",
+    "analyzedAt": "2026-08-20T18:51:39.707Z",
+    "vitalityScore": 95,
+    "summary": "The lab facility page mostly retains its historical equipment list with a few updates, including the addition of an AFM Machine and improved specification details for the Dynamic Light Scattering equipment. No critical equipment losses were identified.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "AFM Machine"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Dynamic Light Scattering (Horiba)",
+        "change": "Added specification details for Horiba"
+      }
+    ]
+  },
+  {
     "targetId": "duke-smif",
     "analyzedAt": "2026-08-20T14:19:58.429Z",
     "vitalityScore": null,
@@ -426,51 +609,33 @@
     "modified": []
   },
   {
+    "targetId": "ethz-brnc",
+    "analyzedAt": "2026-08-20T20:07:24.763Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "gauhati-usic",
+    "analyzedAt": "2026-08-20T20:17:27.008Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "harvard-cns",
-    "analyzedAt": "2026-08-20T17:54:49.705Z",
-    "vitalityScore": 0,
-    "summary": "All six historical equipment items were removed from the listing, resulting in complete knowledge loss for those entries, while two new instruments were added.",
-    "knowledgeLoss": true,
-    "removed": [
-      {
-        "name": "Oxford ICP-CVD (CVD-14)",
-        "severity": "critical",
-        "reason": "Instrument removed from current equipment list."
-      },
-      {
-        "name": "GEMStar ALD (ALD-2)",
-        "severity": "critical",
-        "reason": "Instrument removed from current equipment list."
-      },
-      {
-        "name": "Rheometer",
-        "severity": "critical",
-        "reason": "Instrument removed from current equipment list."
-      },
-      {
-        "name": "Denton E-beam Evaporator (EE-4)",
-        "severity": "critical",
-        "reason": "Instrument removed from current equipment list."
-      },
-      {
-        "name": "EL 6",
-        "severity": "critical",
-        "reason": "Instrument removed from current equipment list."
-      },
-      {
-        "name": "EL 7",
-        "severity": "critical",
-        "reason": "Instrument removed from current equipment list."
-      }
-    ],
-    "added": [
-      {
-        "name": "FIB 4 Helios Dual-Beam FIBSEM"
-      },
-      {
-        "name": "Jupiter XR Atomic Force Microscope (SPM-12)"
-      }
-    ],
+    "analyzedAt": "2026-08-20T20:49:37.615Z",
+    "vitalityScore": null,
+    "summary": "Current page yielded only a partial equipment list (facility landing page); diff suppressed to avoid an unreliable knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
     "modified": []
   },
   {
@@ -481,6 +646,154 @@
     "knowledgeLoss": false,
     "removed": [],
     "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "iiserb-cif",
+    "analyzedAt": "2026-08-20T18:49:42.225Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items have been successfully preserved and are present in the current equipment list, with several items receiving additional specifications, location data, or supplementary entries.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Gel Permeation Chomatographer"
+      },
+      {
+        "name": "Thermogravimetric Analyser"
+      },
+      {
+        "name": "Isothermal Titration Calorimeter"
+      },
+      {
+        "name": "Differential Scanning Calorimeter"
+      },
+      {
+        "name": "Elemental Analyser, CHNSO"
+      },
+      {
+        "name": "Surface Area And Gas And Vapour Adsorption Measurement Instrument"
+      },
+      {
+        "name": "Superconducting Quantum Interference Device Magnetometer"
+      },
+      {
+        "name": "Ellipsometry"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Size Exclusion Chromatography",
+        "change": "Added location information and slightly formatted specification text."
+      },
+      {
+        "name": "Dynamic Light Scattering / Zeta Potential Measurement",
+        "change": "Added location information and condensed specification text."
+      },
+      {
+        "name": "Thermogravimetric Analyzer",
+        "change": "Added location information."
+      },
+      {
+        "name": "Isothermal Titration Calorimeter",
+        "change": "Added location information and minor text adjustments in specifications."
+      },
+      {
+        "name": "Differential Scanning Calorimeter",
+        "change": "Added location information and minor formatting in specifications."
+      },
+      {
+        "name": "CHNSO Analyzer",
+        "change": "Added location information."
+      },
+      {
+        "name": "Atomic Force Microscope",
+        "change": "Added location information."
+      },
+      {
+        "name": "BET Surface Area Measurement",
+        "change": "Added location information and slightly refined text."
+      },
+      {
+        "name": "Superconducting Quantum Interference Device",
+        "change": "Updated name slightly and added location information."
+      },
+      {
+        "name": "High Resolution (HR) Raman Microspectrometer",
+        "change": "Added location information and slightly condensed specifications."
+      },
+      {
+        "name": "EPR",
+        "change": "Added location information and condensed specification phrasing."
+      },
+      {
+        "name": "Rheometer",
+        "change": "Added location information and shortened specifications text."
+      }
+    ]
+  },
+  {
+    "targetId": "iisertvm-cif",
+    "analyzedAt": "2026-08-20T18:50:31.418Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "iitgn-cif",
+    "analyzedAt": "2026-08-20T18:46:46.227Z",
+    "vitalityScore": 100,
+    "summary": "All historical instruments have been preserved, and several new instruments such as GPC, FTIR, PPMS, Micro XCT, XPS, Wafer Probe Station, Universal Testing Machine, and Confocal Raman Spectrometer have been added.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "GPC"
+      },
+      {
+        "name": "FTIR (INVENIO S)"
+      },
+      {
+        "name": "PPMS"
+      },
+      {
+        "name": "Micro XCT"
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy (XPS)"
+      },
+      {
+        "name": "Wafer Probe Station"
+      },
+      {
+        "name": "Universal Testing Machine"
+      },
+      {
+        "name": "Confocal Raman Spectrometer"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Transmission Electron Microscope",
+        "change": "The name was updated to include the model name directly in the title as 'Transmission Electron Microscope (Model: Themis 300 G3)'."
+      }
+    ]
+  },
+  {
+    "targetId": "iith-crf",
+    "analyzedAt": "2026-08-20T20:28:58.779Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment has been preserved, and a new instrument (HORIBA LabRAM HR EVOLUTION CONFOCAL RAMAN SPECTROMETER) has been added to the facility.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "HORIBA LabRAM HR EVOLUTION CONFOCAL RAMAN SPECTROMETER"
+      }
+    ],
     "modified": []
   },
   {
@@ -547,6 +860,133 @@
         "change": "Renamed to 'Thermal Analysis System'."
       }
     ]
+  },
+  {
+    "targetId": "iitmandi-c4dfed",
+    "analyzedAt": "2026-08-20T18:47:31.257Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items are preserved in the current list, with only location details being updated.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Transmission Electron Microscope",
+        "change": "Location updated"
+      },
+      {
+        "name": "Scanning Electron Microscope",
+        "change": "Location updated"
+      },
+      {
+        "name": "Confocal Microscope",
+        "change": "Location updated"
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR) Spectrometer",
+        "change": "Location updated"
+      },
+      {
+        "name": "Mass Spectrometer",
+        "change": "Location updated"
+      },
+      {
+        "name": "X-ray Photoelectron Spectrometer",
+        "change": "Location updated"
+      },
+      {
+        "name": "Infrared Spectrometer",
+        "change": "Location updated"
+      },
+      {
+        "name": "X-ray Diffractometer",
+        "change": "Location updated"
+      }
+    ]
+  },
+  {
+    "targetId": "iitp-cif",
+    "analyzedAt": "2026-08-20T20:29:29.410Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment is still present in the current list, with improvements in status and name descriptions.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Single Crystal X-Ray Diffractometer (SC-XRD)",
+        "change": "Status updated from under maintenance to working"
+      },
+      {
+        "name": "Physiorption/Chemisorption Analyzer",
+        "change": "Status updated from sanctioned to working"
+      },
+      {
+        "name": "Differential Scanning Calorimetry",
+        "change": "Name updated to Differential Scanning Calorimetry (DSC) and status updated from sanctioned to working"
+      },
+      {
+        "name": "Thermogravimetric Analyzer",
+        "change": "Name updated to Thermogravimetric Analyzer (TGA) and status updated from sanctioned to working"
+      },
+      {
+        "name": "Particle Size and Zeta potential Analyzer",
+        "change": "Status updated from sanctioned to working"
+      },
+      {
+        "name": "FEG Scanning electron microscope",
+        "change": "Name updated to FEG Scanning electron microscope with EDS and status updated from sanctioned"
+      }
+    ]
+  },
+  {
+    "targetId": "iowastate-mario",
+    "analyzedAt": "2026-08-20T20:45:39.013Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items are still present in the current equipment list, though their formatting and specification fields have been slightly reorganized.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Scanning Electron Microscope",
+        "change": "Specifications moved into the instrument name string."
+      },
+      {
+        "name": "Small-angle X-ray scattering instrument",
+        "change": "Name and specifications reformatted."
+      },
+      {
+        "name": "Energy Dispersive X-ray Spectrometer",
+        "change": "Specifications moved into the instrument name string."
+      },
+      {
+        "name": "X-ray Photoelectron Spectrometer",
+        "change": "Specifications moved into the instrument name string."
+      },
+      {
+        "name": "X-ray Diffractometer",
+        "change": "Specifications moved into the instrument name string."
+      },
+      {
+        "name": "X-ray fluorescence spectrometer",
+        "change": "Specifications moved into the instrument name string."
+      },
+      {
+        "name": "Thermogravimetric analyzer",
+        "change": "Specifications moved into the instrument name string."
+      }
+    ]
+  },
+  {
+    "targetId": "jadavpur-cif",
+    "analyzedAt": "2026-08-20T20:30:28.512Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
   },
   {
     "targetId": "jncasr",
@@ -665,6 +1105,16 @@
     ]
   },
   {
+    "targetId": "kaist-nanofab",
+    "analyzedAt": "2026-08-20T20:25:12.623Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "kit-nano",
     "analyzedAt": "2026-08-20T18:36:03.341Z",
     "vitalityScore": null,
@@ -673,6 +1123,83 @@
     "removed": [],
     "added": [],
     "modified": []
+  },
+  {
+    "targetId": "kth-electrum",
+    "analyzedAt": "2026-08-20T20:23:04.785Z",
+    "vitalityScore": 92,
+    "summary": "Comparing the historical equipment list to the current one shows mostly stable lab infrastructure with a few items removed (such as Balance, Dektak, Canon EOS 350D, Iwatsu, Keysight, TGA/FTIR Interface, and FE-TEM), several new equipment additions, and minor location or status modifications for a few systems.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "FE-TEM",
+        "severity": "critical",
+        "reason": "Instrument removed from current inventory."
+      },
+      {
+        "name": "Dektak",
+        "severity": "moderate",
+        "reason": "Removed from C-APL."
+      },
+      {
+        "name": "Balance",
+        "severity": "minor",
+        "reason": "Removed from C-Epitaxy."
+      },
+      {
+        "name": "Canon EOS 350D",
+        "severity": "minor",
+        "reason": "Removed from C-Anneal."
+      },
+      {
+        "name": "Iwatsu",
+        "severity": "moderate",
+        "reason": "Removed from N-Powerelectronics Lab."
+      },
+      {
+        "name": "Keysight",
+        "severity": "moderate",
+        "reason": "Removed from N-Powerelectronics Lab."
+      },
+      {
+        "name": "TGA/FTIR Interface",
+        "severity": "minor",
+        "reason": "Removed from Albano Hus 3."
+      }
+    ],
+    "added": [
+      {
+        "name": "APL-HMDS"
+      },
+      {
+        "name": "UVO Cleaner"
+      },
+      {
+        "name": "NSR i-line stepper"
+      },
+      {
+        "name": "ALS-stepper"
+      },
+      {
+        "name": "AFM/SPM CellKraft Humidifier Albanova"
+      },
+      {
+        "name": "Sica"
+      },
+      {
+        "name": "THz Antenna Measurement Chamber"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Empyrean",
+        "change": "Name updated to Empyrean x-ray reflectometer/diffractometer."
+      },
+      {
+        "name": "FIB/SEM Albanova",
+        "change": "Status changed from D to C."
+      }
+    ]
   },
   {
     "targetId": "lbnl-foundry",
@@ -708,6 +1235,97 @@
         "change": "Upgraded to High NA EUV prototype scanner with updated specifications and location"
       }
     ]
+  },
+  {
+    "targetId": "manipal-cif",
+    "analyzedAt": "2026-08-20T20:00:26.084Z",
+    "vitalityScore": 80,
+    "summary": "The lab facility has significantly expanded its equipment list over time, adding numerous new instruments such as AFM, BET, NMR, and XPS. While core instruments like SEM and XRD have been retained or upgraded (e.g., to FE-SEM and HR-XRD), the historical 'Silver sputtering unit' is no longer listed, resulting in a minor knowledge loss.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Silver sputtering unit",
+        "severity": "minor",
+        "reason": "The instrument is absent from the current equipment list."
+      }
+    ],
+    "added": [
+      {
+        "name": "Atomic Force Microscope (AFM)"
+      },
+      {
+        "name": "Auto Lab / Potentiostat"
+      },
+      {
+        "name": "Brunauer Emmett Teller (BET)"
+      },
+      {
+        "name": "Differential Scanning Calorimetry (DSC)"
+      },
+      {
+        "name": "FE-Scanning Electron Microscope (FE-SEM)"
+      },
+      {
+        "name": "Fourier Transform Infrared (FTIR)"
+      },
+      {
+        "name": "Gas Chromatography Mass Spectrometry (GCMS/MS)"
+      },
+      {
+        "name": "High Performance Liquid Chromatography (HPLC)"
+      },
+      {
+        "name": "High Resolution XRD (HR-XRD)"
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR)"
+      },
+      {
+        "name": "Photoluminescence Spectrometer (PL)"
+      },
+      {
+        "name": "Thermal Analysis (TGA-DTA)"
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy (XPS)"
+      },
+      {
+        "name": "Zetasizer"
+      },
+      {
+        "name": "Raman Spectrometer"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Scanning Electron Microscope - EDS",
+        "change": "Updated and expanded into FE-Scanning Electron Microscope (FE-SEM) and Scanning Electron Microscope with EDAX (SEM with EDAX)."
+      },
+      {
+        "name": "X-Ray Diffractometer",
+        "change": "Updated and expanded into X-ray Diffractometer (XRD) and High Resolution XRD (HR-XRD)."
+      }
+    ]
+  },
+  {
+    "targetId": "mcgill-nano",
+    "analyzedAt": "2026-08-20T20:27:12.010Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "melbourne-mcn",
+    "analyzedAt": "2026-08-20T20:25:46.895Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
   },
   {
     "targetId": "mit-mrsec",
@@ -746,6 +1364,54 @@
     ]
   },
   {
+    "targetId": "monash-mcem",
+    "analyzedAt": "2026-08-20T20:26:49.683Z",
+    "vitalityScore": 65,
+    "summary": "The lab facility has added several new advanced instruments such as the Thermo Scientific Spectra Ultra FEGTEM, Thermo Scientific Talos F200i FEGTEM, JEOL IT800 SHL FEGSEM, and Tescan Clara/NewTec In-Situ FEGSEM. However, notable legacy equipment such as the FEI Tecnai G2 F20 S-TWIN TEM, FEI Tecnai G2 T20 TWIN TEM, and JEOL JSM-7001F FEGSEM have been removed, resulting in a moderate loss of historical capability and knowledge.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "FEI Tecnai G2 F20 S-TWIN TEM",
+        "severity": "critical",
+        "reason": "Instrument removed from current equipment list"
+      },
+      {
+        "name": "FEI Tecnai G2 T20 TWIN TEM",
+        "severity": "critical",
+        "reason": "Instrument removed from current equipment list"
+      },
+      {
+        "name": "JEOL JSM-7001F FEGSEM",
+        "severity": "critical",
+        "reason": "Instrument removed from current equipment list"
+      }
+    ],
+    "added": [
+      {
+        "name": "Thermo Scientific Spectra Ultra FEGTEM"
+      },
+      {
+        "name": "Thermo Scientific Talos F200i FEGTEM"
+      },
+      {
+        "name": "JEOL IT800 SHL FEGSEM"
+      },
+      {
+        "name": "Tescan Clara/NewTec In-Situ FEGSEM"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Thermo Scientific Spectra φ FEGTEM",
+        "change": "Updated name to Thermo Scientific Spectra Ά FEGTEM and added location details"
+      },
+      {
+        "name": "Double-corrected FEI Titan3 80-300 FEGTEM",
+        "change": "Updated specifications text and added location details"
+      }
+    ]
+  },
+  {
     "targetId": "msu-ceo",
     "analyzedAt": "2026-08-20T18:31:20.433Z",
     "vitalityScore": 100,
@@ -757,79 +1423,128 @@
   },
   {
     "targetId": "ncsu-aif",
-    "analyzedAt": "2026-08-20T18:04:58.957Z",
-    "vitalityScore": 0,
-    "summary": "All six historical instruments and microscope systems were removed from the current page, resulting in total loss of facility equipment listings.",
-    "knowledgeLoss": true,
-    "removed": [
-      {
-        "name": "Scanning Electron Microscopes",
-        "severity": "critical",
-        "reason": "Removed entirely from facility page"
-      },
-      {
-        "name": "Transmission Electron Microscopes",
-        "severity": "critical",
-        "reason": "Removed entirely from facility page"
-      },
-      {
-        "name": "X-ray Scattering and Spectroscopy Instruments",
-        "severity": "critical",
-        "reason": "Removed entirely from facility page"
-      },
-      {
-        "name": "Time-of-Flight Mass Spectrometry",
-        "severity": "critical",
-        "reason": "Removed entirely from facility page"
-      },
-      {
-        "name": "Scanning Probe Microscopy",
-        "severity": "critical",
-        "reason": "Removed entirely from facility page"
-      },
-      {
-        "name": "Nanoindentation",
-        "severity": "critical",
-        "reason": "Removed entirely from facility page"
-      }
-    ],
+    "analyzedAt": "2026-08-20T20:21:06.721Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
     "added": [],
     "modified": []
   },
   {
-    "targetId": "northwestern-nuance",
-    "analyzedAt": "2026-08-20T18:11:29.702Z",
-    "vitalityScore": 25,
-    "summary": "All historical equipment items including the IONTOF M6 ToF-SIMS, Hitachi S-3400, and Hitachi SU8030 are no longer listed on the current page, resulting in significant knowledge loss. New instruments have been added to the facility.",
+    "targetId": "nit-rourkela",
+    "analyzedAt": "2026-08-20T20:15:09.418Z",
+    "vitalityScore": 35,
+    "summary": "Comparing the historical and current equipment lists shows significant turnover in the facility. Key instruments like the Transmission Electron Microscope, Scanning Electron Microscope, BET Surface Area Analyzer, and Single Crystal X-ray Diffractometer were removed. The High-Resolution Mass Spectrometer remains, while the X-ray Diffractometer appears to have been updated to a Multipurpose X-Ray Diffraction System. Several new instruments such as the Rheometer, NMR, and Fermentor have been added.",
     "knowledgeLoss": true,
     "removed": [
       {
-        "name": "IONTOF M6 Time-of-Flight Secondary Ion Mass Spectrometry (ToF-SIMS)",
+        "name": "Transmission Electron Microscope",
         "severity": "critical",
-        "reason": "Instrument and its detailed specifications and location details are completely missing from current page."
+        "reason": "Instrument completely removed from the current equipment inventory."
       },
       {
-        "name": "Hitachi S-3400",
+        "name": "Scanning Electron Microscope",
         "severity": "critical",
-        "reason": "Instrument removed from current equipment list."
+        "reason": "Instrument completely removed from the current equipment inventory."
       },
       {
-        "name": "Hitachi SU8030",
+        "name": "BET Surface Area Analyzer",
         "severity": "critical",
-        "reason": "Instrument removed from current equipment list."
+        "reason": "Instrument completely removed from the current equipment inventory."
+      },
+      {
+        "name": "Single Crystal X-ray Diffractometer",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment inventory."
       }
     ],
     "added": [
       {
-        "name": "Hitachi S-4800"
+        "name": "Rheometer for Asphalt"
       },
       {
-        "name": "Hitachi SU8700"
+        "name": "Rotary Vacuum Evaporator"
       },
       {
-        "name": "JEOL JIB 4700"
+        "name": "Nuclear Magnetic Resonance Spectrometer"
+      },
+      {
+        "name": "UV-Vis Spectrophotometer"
+      },
+      {
+        "name": "FARO-Gage"
+      },
+      {
+        "name": "Fermentor & Bioreactor"
+      },
+      {
+        "name": "Wavelength Dispersive X-Ray Fluorescence Spectroscopy (WDXRF)"
+      },
+      {
+        "name": "Laser Scanning Confocal Microscope (LSCM)"
       }
     ],
+    "modified": [
+      {
+        "name": "X-ray Diffractometer",
+        "change": "Upgraded or replaced by Multipurpose X-Ray Diffraction System with detailed specifications."
+      },
+      {
+        "name": "High-Resolution Mass Spectrometer",
+        "change": "Retained in the facility with updated location details."
+      }
+    ]
+  },
+  {
+    "targetId": "nit-trichy",
+    "analyzedAt": "2026-08-20T20:14:20.907Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "northeastern-nano",
+    "analyzedAt": "2026-08-20T20:02:23.312Z",
+    "vitalityScore": 85,
+    "summary": "The lab facility page has been updated to include location information for equipment and several new tools have been added. Most historical equipment is preserved, but a few items such as the Laser airborne counter and standalone FESEM/AFM entries appear modified or omitted in favor of more specific listings.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Laser airborne counter",
+        "severity": "critical",
+        "reason": "The standalone laser airborne counter was removed, though a combined laser airborne and liquid counter is now present."
+      }
+    ],
+    "added": [
+      {
+        "name": "Laser airborne and liquid counter"
+      },
+      {
+        "name": "Zeta potential measurement tool"
+      },
+      {
+        "name": "Surface energy and contact angle automated measurement"
+      }
+    ],
+    "modified": [
+      {
+        "name": "TSI CNC particle counters",
+        "change": "Resolution specification modified and a generic CNC particle counters entry added alongside the TSI model."
+      }
+    ]
+  },
+  {
+    "targetId": "northwestern-nuance",
+    "analyzedAt": "2026-08-20T20:49:37.622Z",
+    "vitalityScore": null,
+    "summary": "Current page yielded only a partial equipment list (facility landing page); diff suppressed to avoid an unreliable knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
     "modified": []
   },
   {
@@ -925,6 +1640,37 @@
     ]
   },
   {
+    "targetId": "nthu-taiwan",
+    "analyzedAt": "2026-08-20T20:13:04.765Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "ntu-nanofab",
+    "analyzedAt": "2026-08-20T18:39:12.780Z",
+    "vitalityScore": 66.6,
+    "summary": "The lab facility page lost two equipment listings compared to the historical snapshot: ICP RIE and Ion Implanter System.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "ICP RIE",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment list."
+      },
+      {
+        "name": "Ion Implanter System",
+        "severity": "critical",
+        "reason": "Instrument completely removed from the current equipment list."
+      }
+    ],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "oregonstate-nano",
     "analyzedAt": "2026-08-20T18:21:59.387Z",
     "vitalityScore": null,
@@ -933,6 +1679,21 @@
     "removed": [],
     "added": [],
     "modified": []
+  },
+  {
+    "targetId": "oxford-dmc",
+    "analyzedAt": "2026-08-20T20:06:45.732Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment remains listed in the current inventory, with only minor formatting changes in the specifications for the plasma cleaner.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Fischione 1020 plasma cleaner",
+        "change": "Moved specification 'x2' into the item name string as '(x2)'"
+      }
+    ]
   },
   {
     "targetId": "pennstate-mri",
@@ -958,6 +1719,16 @@
     "analyzedAt": "2026-08-20T17:56:25.183Z",
     "vitalityScore": null,
     "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "pu-chd-cil",
+    "analyzedAt": "2026-08-20T18:52:44.510Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items remain present in the current list. No knowledge loss has occurred.",
     "knowledgeLoss": false,
     "removed": [],
     "added": [],
@@ -1050,6 +1821,27 @@
       {
         "name": "Headway Spin Coater",
         "change": "Corrected maximum spin speed from 800RPM to 8000RPM and added category tag."
+      }
+    ]
+  },
+  {
+    "targetId": "saha-scf",
+    "analyzedAt": "2026-08-20T18:53:19.731Z",
+    "vitalityScore": 90,
+    "summary": "Minor changes in naming conventions and loss of specific specification details for one of the electromagnets, but overall equipment inventory remains mostly intact.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "variable field electromagnet (0-2.3 tesla)",
+        "severity": "minor",
+        "reason": "Specific entry removed, though a similar electromagnet exists; specifications were dropped on one instance."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "AC Resistivity and Magnetoresistance Setup",
+        "change": "Renamed to AC Resistivity and Magnetoresistance equipment."
       }
     ]
   },
@@ -1152,6 +1944,193 @@
     ]
   },
   {
+    "targetId": "sppu-pune",
+    "analyzedAt": "2026-08-20T20:39:06.685Z",
+    "vitalityScore": 90,
+    "summary": "All major equipment items were retained between the historical and current snapshots, but minor specification details were removed for the Confocal Microscope, LCMSMS, and GCMSMS.",
+    "knowledgeLoss": true,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "LCMSMS",
+        "change": "Specifications were shortened from 'Liquid Chromatography Mass Spectrometer (LCMSMS)' to 'Liquid Chromatography Mass Spectrometer'."
+      },
+      {
+        "name": "GCMSMS",
+        "change": "Specifications were shortened from 'Gas Chromatography Mass Spectrometer (GCMSMS)' to 'Gas Chromatography Mass Spectrometer'."
+      },
+      {
+        "name": "Confocal Microscope",
+        "change": "Specifications text was removed."
+      }
+    ]
+  },
+  {
+    "targetId": "srm-cif",
+    "analyzedAt": "2026-08-20T20:48:00.539Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "ssn-cif",
+    "analyzedAt": "2026-08-20T20:39:48.450Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "standrews-nano",
+    "analyzedAt": "2026-08-20T20:10:36.155Z",
+    "vitalityScore": 85,
+    "summary": "Comparison between the historical and current equipment lists shows significant updates and modernization in several facilities, such as the addition of advanced X-ray diffractometers, newer mass spectrometers, and updated electron microscopes. However, some specific older instruments (e.g., several specific thermal analysis units and older crystallography generators like Rigaku FRX/MM007) were removed or replaced.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Waters LCT ESI mass spectrometer",
+        "severity": "critical",
+        "reason": "Instrument no longer present on the current equipment list."
+      },
+      {
+        "name": "Micromass GCT mass spectrometer",
+        "severity": "critical",
+        "reason": "Instrument no longer listed in current mass spec inventory."
+      },
+      {
+        "name": "Rigaku FRX high brilliance rotating anode generator",
+        "severity": "critical",
+        "reason": "Replaced by newer Synergy-S systems in the crystallography suite."
+      },
+      {
+        "name": "Rigaku MM007 HF high brilliance rotating anode generator",
+        "severity": "critical",
+        "reason": "Replaced by newer Synergy-S systems in the crystallography suite."
+      },
+      {
+        "name": "Physics workshop equipment (Sodick milling/EDM, Haas, Harding)",
+        "severity": "critical",
+        "reason": "Entire physics workshop equipment section is missing from the current page."
+      }
+    ],
+    "added": [
+      {
+        "name": "Sciex 6600"
+      },
+      {
+        "name": "HPC cluster"
+      },
+      {
+        "name": "Renishaw inVia Qontor"
+      },
+      {
+        "name": "JEOL JXA-iSP100"
+      },
+      {
+        "name": "JEOL IT200"
+      },
+      {
+        "name": "JEOL IT800"
+      },
+      {
+        "name": "Thermo Scientific Orbitrap Exploris MX"
+      },
+      {
+        "name": "Rigaku XtaLAB Synergy-S"
+      },
+      {
+        "name": "Bruker AV-IV NEO 400"
+      },
+      {
+        "name": "Kratos Axis Ultra DLD XPS"
+      },
+      {
+        "name": "Micromeritics 3Flex"
+      },
+      {
+        "name": "Netzsch STA 449F5 with QMS403 Mass Spec"
+      }
+    ],
+    "modified": [
+      {
+        "name": "ABSciex 4800 MALDI TOF/TOF Analyser",
+        "change": "Renamed/updated description to Sciex 4800 MALDI TOF/TOF Analyser."
+      },
+      {
+        "name": "FEI Scios SEM",
+        "change": "Updated specifications to Dualbeam FIB/SEM with EBSD and EDX detectors."
+      },
+      {
+        "name": "Titan Themis STEM/TEM",
+        "change": "Updated naming to FEI Titan Themis."
+      }
+    ]
+  },
+  {
+    "targetId": "stuttgart-mpg",
+    "analyzedAt": "2026-08-20T20:08:22.645Z",
+    "vitalityScore": 95,
+    "summary": "The lab facility page shows overall equipment expansion with several new tools added, minor restructuring of specifications, and the absorption of the standalone Cryo-Stage into specific microscope listings without actual hardware loss.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Cryo-Stage",
+        "severity": "minor",
+        "reason": "Integrated into the specifications of the Scanning Electron Microscope and SEM-FIB listings rather than appearing as a standalone entry."
+      }
+    ],
+    "added": [
+      {
+        "name": "Diamond Scratcher"
+      },
+      {
+        "name": "Diamond Wire Saw"
+      },
+      {
+        "name": "Argon Ion Polisher"
+      },
+      {
+        "name": "Argon Ion Surface and Cross Section Polisher"
+      },
+      {
+        "name": "Needle Probe Station"
+      },
+      {
+        "name": "Argon Gloveboxes"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Scanning Electron Microscope Combined with Focused Ion Beam",
+        "change": "Added integrated Cryo-Stage specifications."
+      },
+      {
+        "name": "Scanning Electron Microscopes",
+        "change": "Added detailed manufacturer and accessory information for EBSD, Micromanipulation Tools, and Cryo-Stage."
+      },
+      {
+        "name": "ICP-RIE",
+        "change": "Split and re-categorized Sentech SI 500 into a separate or modified entry."
+      }
+    ]
+  },
+  {
+    "targetId": "technion-mnfu",
+    "analyzedAt": "2026-08-20T18:38:23.691Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "texasam-mcf",
     "analyzedAt": "2026-08-20T18:30:45.321Z",
     "vitalityScore": 100,
@@ -1179,6 +2158,26 @@
         "change": "Specification description simplified from 'with EDS' to 'EDS'"
       }
     ]
+  },
+  {
+    "targetId": "texastech-nano",
+    "analyzedAt": "2026-08-20T20:48:00.653Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "thapar-cif",
+    "analyzedAt": "2026-08-20T20:19:36.040Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and specifications remain completely unchanged in the current list.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
   },
   {
     "targetId": "tifr-cf",
@@ -1254,18 +2253,61 @@
     ]
   },
   {
-    "targetId": "uci-inrf",
-    "analyzedAt": "2026-08-20T18:01:22.811Z",
-    "vitalityScore": 0,
-    "summary": "The SPTS APS PM etching tool documented in the historical record is completely absent from the current equipment list, representing a total loss of equipment information.",
+    "targetId": "ucdavis-cnm",
+    "analyzedAt": "2026-08-20T20:01:20.500Z",
+    "vitalityScore": 90,
+    "summary": "The lab facility has experienced significant expansion with multiple new equipment additions, particularly in packaging, lithography, and metrology. Only one historical item was removed, indicating high retention of historical knowledge and capability.",
     "knowledgeLoss": true,
     "removed": [
       {
-        "name": "SPTS APS PM",
+        "name": "NPGS Electron Beam Lithography",
         "severity": "critical",
-        "reason": "Instrument was completely removed from the current equipment list."
+        "reason": "The system is no longer present in the current inventory, replaced or removed from the lithography section."
       }
     ],
+    "added": [
+      {
+        "name": "Raith PicoMaster 200"
+      },
+      {
+        "name": "Heidelburg uPG101 Laser Lithography System"
+      },
+      {
+        "name": "Laurell Photoresist Spinner"
+      },
+      {
+        "name": "Keyance VK-X3000 Laser Confocal Microscope"
+      },
+      {
+        "name": "TOHO FLX2000-A"
+      },
+      {
+        "name": "Ficontec FL-300 Optoelectronic/Flip Chip Die Bonder"
+      },
+      {
+        "name": "G&P POLI 500 Chemical Mechanical Polisher"
+      },
+      {
+        "name": "DISCO DAG810 Grinder"
+      },
+      {
+        "name": "X-Display MTP-1003 Micro Transfer Printer"
+      }
+    ],
+    "modified": [
+      {
+        "name": "4 point probe",
+        "change": "Item may have been updated or renamed, but similar metrology function is maintained via other tools."
+      }
+    ]
+  },
+  {
+    "targetId": "uci-inrf",
+    "analyzedAt": "2026-08-20T20:21:06.836Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
     "added": [],
     "modified": []
   },
@@ -1326,6 +2368,20 @@
         "change": "Generic summary entry was expanded into detailed individual instrument records including Titan Krios G4 and FEI Titan 80-300."
       }
     ]
+  },
+  {
+    "targetId": "ucr-cfamm",
+    "analyzedAt": "2026-08-20T20:01:54.644Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment has been preserved and a new digital microscope was added to the facility.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Digital Microscope VHX-7000"
+      }
+    ],
+    "modified": []
   },
   {
     "targetId": "ucsb-nano",
@@ -1481,24 +2537,42 @@
   },
   {
     "targetId": "unc-chanl",
-    "analyzedAt": "2026-08-20T18:06:10.640Z",
-    "vitalityScore": 0,
-    "summary": "All historical equipment, including the High Resolution S/TEM and AFM-IR, has been removed from the current facility listing.",
+    "analyzedAt": "2026-08-20T20:21:06.958Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "unist-ucrf",
+    "analyzedAt": "2026-08-20T20:12:01.686Z",
+    "vitalityScore": 85,
+    "summary": "Most equipment has been preserved and updated. The Advanced TEM was renamed to Titan G2 with specifications, and the 600 MHz FT-NMR was clarified as Solid state. However, the original general 600 MHz FT-NMR entry was replaced or lost in favor of the solid-state specific entries, leading to a minor knowledge loss regarding general liquid/solid classification.",
     "knowledgeLoss": true,
     "removed": [
       {
-        "name": "High Resolution S/TEM",
-        "severity": "critical",
-        "reason": "Entire instrument removed from the current list."
-      },
-      {
-        "name": "AFM-IR",
-        "severity": "critical",
-        "reason": "Entire instrument removed from the current list."
+        "name": "600 MHz FT-NMR (Varian)",
+        "severity": "minor",
+        "reason": "Replaced by a more specific solid-state NMR entry."
       }
     ],
-    "added": [],
-    "modified": []
+    "added": [
+      {
+        "name": "Varian 600 MHz FT-NMR(Solid)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Advanced TEM",
+        "change": "Renamed and updated to Titan G2 (투과전자현미경4_Advanced TEM)."
+      },
+      {
+        "name": "600 MHz FT-NMR (Varian)",
+        "change": "Updated to specify solid-state application."
+      }
+    ]
   },
   {
     "targetId": "unm-cint",
@@ -1616,6 +2690,514 @@
     ]
   },
   {
+    "targetId": "vit-cif",
+    "analyzedAt": "2026-08-20T20:31:38.830Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items have been successfully preserved or updated with expanded modern details, with no significant knowledge loss observed.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Time Resolved and Steady State Photo-Luminescence Spectrometer"
+      },
+      {
+        "name": "Mercury Intrusion Porosimetry"
+      },
+      {
+        "name": "Impedance Analyzer"
+      },
+      {
+        "name": "WATER AND WASTEWATER ANALYSIS"
+      },
+      {
+        "name": "Super-DAQ Precision Temperature Scanner"
+      },
+      {
+        "name": "TECAN MULTIMODE PLATE READER"
+      },
+      {
+        "name": "ULTRASONIC ATOMIZER"
+      },
+      {
+        "name": "ELECTROSPINNING DEVICE"
+      },
+      {
+        "name": "SMART UV PRINT LITHOGRAPHY"
+      },
+      {
+        "name": "FREEZE DRYER"
+      },
+      {
+        "name": "QUANTITATIVE PCR"
+      },
+      {
+        "name": "DC Electronic Load"
+      },
+      {
+        "name": "Programmable DC Power Supply with PC Array Simulator"
+      },
+      {
+        "name": "TCP0030A Current Probe"
+      },
+      {
+        "name": "FLASH CHROMATOGRAPHY SYSTEM"
+      },
+      {
+        "name": "Source Measure Unit (SMU)"
+      },
+      {
+        "name": "Pulsed Laser Deposition (PLD)"
+      },
+      {
+        "name": "Gas Chromatography - Flame Ionization Detector (GC-FID)"
+      },
+      {
+        "name": "HPLC-PDA-MS"
+      },
+      {
+        "name": "Vibrating Sample Magnetometer"
+      },
+      {
+        "name": "ANTIGEN RETRIEVAL SYSTEM"
+      },
+      {
+        "name": "Inductively Coupled Plasma – Mass Spectrometry"
+      },
+      {
+        "name": "Inkjet printer"
+      },
+      {
+        "name": "Laser Power Bed Fusion – 3D Metal Printer"
+      },
+      {
+        "name": "Micro X-ray CT Scanner"
+      },
+      {
+        "name": "Tribo Nanoindenter"
+      },
+      {
+        "name": "R2R Slot-die coater"
+      },
+      {
+        "name": "X-ray Photoelectron Spectroscopy"
+      },
+      {
+        "name": "SMART EVAPORATOR (EVAPORATOR FOR HIGH-BOILING SOLVENTS)"
+      },
+      {
+        "name": "Liquid Chromatography-Triple Quadrupole Mass Spectrometer (LC-MS/MS)"
+      },
+      {
+        "name": "Akta Prime Plus GE"
+      },
+      {
+        "name": "AKTA-Start FPLC Chromatographic system"
+      },
+      {
+        "name": "Biacore 3000"
+      },
+      {
+        "name": "Biologics LP System"
+      },
+      {
+        "name": "Electrochemical workstation"
+      },
+      {
+        "name": "Multimode Plate Reader"
+      },
+      {
+        "name": "Nanodrop"
+      },
+      {
+        "name": "Automatic Weather Station (AWS) & Ultrasonic Anemometers 3D (3D-SA)"
+      },
+      {
+        "name": "LASER PRECIPITATION MONITORING (LPM)"
+      },
+      {
+        "name": "MULTI CHANNEL ANALYSIS OF SURFACE WAVES"
+      },
+      {
+        "name": "PROFOMETER -REBAR DIAMETER AND COVER METER"
+      },
+      {
+        "name": "PROFOMETER CORROSION HALF-CELL POTENTIAL"
+      },
+      {
+        "name": "ULTRASONIC PULSE VELOCITY"
+      },
+      {
+        "name": "Ion exchange Chromatography System (DIONEX)"
+      },
+      {
+        "name": "High Performance Liquid Chromatography System – Analytical Reverse Phase"
+      },
+      {
+        "name": "Cyclic Tri axial Testing Machine"
+      },
+      {
+        "name": "Dew point Potential meter"
+      },
+      {
+        "name": "Bender Element Testing Equipment"
+      },
+      {
+        "name": "Resilient Modulus Testing System"
+      },
+      {
+        "name": "Compression Testing Machine"
+      },
+      {
+        "name": "Carbonation Test Chamber -100lit Capacity"
+      },
+      {
+        "name": "Differential GPS"
+      },
+      {
+        "name": "Drone – Avio M1"
+      },
+      {
+        "name": "LiDAR Scanner"
+      },
+      {
+        "name": "Digital CTM"
+      },
+      {
+        "name": "Computerized cum analogue universal testing machine"
+      },
+      {
+        "name": "LUMINOMETER"
+      },
+      {
+        "name": "NANODROP (BIOPHOTOMETER)"
+      },
+      {
+        "name": "RECIPROCATING WEAR TESTER"
+      },
+      {
+        "name": "SCRATCH TESTER"
+      },
+      {
+        "name": "TaKaRa PCR THERMAL CYCLER"
+      },
+      {
+        "name": "DIGITAL LIGHT PROCESSING (DLP) 3D PRINTING"
+      },
+      {
+        "name": "Automatic Film Applicator"
+      },
+      {
+        "name": "Chemiluminescence Imaging System"
+      },
+      {
+        "name": "Electroporator - Nepa Gene ELEPO21"
+      },
+      {
+        "name": "Fermentation System"
+      },
+      {
+        "name": "Viscometer – Ametek LVDV2T"
+      },
+      {
+        "name": "Microplate Spectrophotometer - Agilent BioTek Epoch"
+      },
+      {
+        "name": "UV-Vis Spectrophotometer – Agilent Cary 3500 Multicell"
+      },
+      {
+        "name": "Fermenter"
+      },
+      {
+        "name": "Mini lab SS Spray Dryer"
+      },
+      {
+        "name": "REAL-TIME PCR"
+      },
+      {
+        "name": "Fluorescence Spectroscopy"
+      },
+      {
+        "name": "NanoDrop Spectrophotometer – Thermo ND One"
+      },
+      {
+        "name": "Freeze Dryer (Lyophilizer) – Christ Alpha 1-2 LSC basic"
+      },
+      {
+        "name": "Battery Test system"
+      },
+      {
+        "name": "Multi-Zone Chemical Vapour Deposition (CVD) system"
+      },
+      {
+        "name": "Data Acquisition and Logging Multimeter System"
+      },
+      {
+        "name": "SP150 POTENTIOSTAT/GALVANOSTAT"
+      },
+      {
+        "name": "Electrochemical workstation with solar stimulator"
+      },
+      {
+        "name": "WAVECT WCU400 RT Controller"
+      },
+      {
+        "name": "Electrospinning Machine"
+      },
+      {
+        "name": "LCR METER WITH TEMPERATURE CONTROLLER"
+      },
+      {
+        "name": "Muffle Furnace"
+      },
+      {
+        "name": "Probe Station with Source Meter Unit"
+      },
+      {
+        "name": "DC & RF Magnetron Sputtering"
+      },
+      {
+        "name": "PLANETARY MONOMILL"
+      },
+      {
+        "name": "Two High Rolling Mill"
+      },
+      {
+        "name": "Variable Compression Ratio Engine"
+      },
+      {
+        "name": "Tensile Testing Frame (500 kN Capacity)"
+      },
+      {
+        "name": "Automatic Motorized Pull of Bond Strength Tester (16 kN capacity)"
+      },
+      {
+        "name": "Pipe Surge and water Hammer"
+      },
+      {
+        "name": "Flexural testing machine (200 kN capacity)"
+      },
+      {
+        "name": "Electro Chemical Workstation"
+      },
+      {
+        "name": "Compression Testing Frame (3000 kN / 500 kN Capacity)"
+      },
+      {
+        "name": "Universal Testing Machine"
+      },
+      {
+        "name": "ULTRA PURE WATER SYSTEM (PALL)"
+      },
+      {
+        "name": "Ultrasonic Pulse Velocity Tester"
+      },
+      {
+        "name": "Spectrofluorometers"
+      },
+      {
+        "name": "Concrete Surface Resistivity Meter"
+      },
+      {
+        "name": "Concrete Cover Meter & Rebar Detector/Locator"
+      },
+      {
+        "name": "Mahr Surf Surface profilometer"
+      },
+      {
+        "name": "Kruss Drop Shape Analyzer"
+      },
+      {
+        "name": "Trinocular Microscope"
+      },
+      {
+        "name": "Vickers Micro-Hardness Testing Machine"
+      },
+      {
+        "name": "High Temperature Silicon Carbide Tubular Vacuum Furnace"
+      },
+      {
+        "name": "Spectrox Sort XRF Alloy Analyzer"
+      },
+      {
+        "name": "Tinius Olsen Universal Testing Machine (UTM)"
+      },
+      {
+        "name": "High Performance Liquid Chromatography (HPLC)"
+      },
+      {
+        "name": "Lyophilizer"
+      },
+      {
+        "name": "Texture Analyzer"
+      },
+      {
+        "name": "Colour Spectrophotometer"
+      },
+      {
+        "name": "Potter Spray Tower"
+      },
+      {
+        "name": "Real Time PCR (qPCR)"
+      },
+      {
+        "name": "Insitu Sterilizable Fermentor 5 LIT"
+      },
+      {
+        "name": "Insitu Sterilizable Fermentor 14 LIT"
+      },
+      {
+        "name": "Friction Stir Welding Machine -NC"
+      },
+      {
+        "name": "Linear movement automation with pipe fixture"
+      },
+      {
+        "name": "MIG Welding Machine"
+      },
+      {
+        "name": "CRDI VCR Engine Test Setup (Computerized)"
+      },
+      {
+        "name": "FDM MD600"
+      },
+      {
+        "name": "Bomb calorimeter"
+      },
+      {
+        "name": "Servo Universal Testing Machine - Instron"
+      },
+      {
+        "name": "Chroma Power Quality Analyser PA2203A"
+      },
+      {
+        "name": "DSPACE 1104"
+      },
+      {
+        "name": "Keysight MSOx3014G"
+      },
+      {
+        "name": "Programmable DC Power Supply with solar array simulator 62050H-600S"
+      },
+      {
+        "name": "Shunt Active Filter"
+      },
+      {
+        "name": "High Temperature Furnace"
+      },
+      {
+        "name": "Thermo-Conversion Test Unit (TCTU)"
+      },
+      {
+        "name": "Quanser Aero Workstation"
+      },
+      {
+        "name": "Active Suspension System"
+      },
+      {
+        "name": "Variable DC Power supply"
+      },
+      {
+        "name": "Quanser Magnetic Levitation System"
+      },
+      {
+        "name": "Quanser Double Inverted Pendulum System"
+      },
+      {
+        "name": "High Speed GPU Workstation"
+      },
+      {
+        "name": "Fluke Ti480 PRO Thermal Imaging Camera"
+      },
+      {
+        "name": "Gas chromatography"
+      },
+      {
+        "name": "ANALYTICAL TEST STATION FOR FUEL CELL"
+      },
+      {
+        "name": "VACUUM OVEN"
+      },
+      {
+        "name": "HOT PRESS"
+      },
+      {
+        "name": "AUTOMATIC ETO STERILIZER"
+      },
+      {
+        "name": "MULTICAL CALIBRATION SYSTEM"
+      },
+      {
+        "name": "Industrial Robot II"
+      },
+      {
+        "name": "Scara Robot DRS60L"
+      },
+      {
+        "name": "Industrial Robot I"
+      },
+      {
+        "name": "Turtlebote2e Mobile Robot"
+      },
+      {
+        "name": "Universal Robot UR5"
+      },
+      {
+        "name": "Multisource Deposition System"
+      },
+      {
+        "name": "Atomic Force Microscopy (AFM)"
+      },
+      {
+        "name": "Dynamic Test System"
+      },
+      {
+        "name": "Fourier Transform Infra-Red Spectrometer"
+      },
+      {
+        "name": "Fourier Transform Infrared Spectrophotometer (FTIR)"
+      },
+      {
+        "name": "High-Performance Elemental Analyzer (CHNS Analysis)"
+      },
+      {
+        "name": "Personal Environmental Monitor (PEM)"
+      },
+      {
+        "name": "SARTORIUS ELECTRONIC BALANCE"
+      },
+      {
+        "name": "Infrared Microscope"
+      },
+      {
+        "name": "Brunauer-Emmett-Teller (BET)"
+      },
+      {
+        "name": "High Temperature Servo Hydraulic Fatigue Test System"
+      },
+      {
+        "name": "Gas sensing instrument"
+      },
+      {
+        "name": "PCB Milling Machine"
+      },
+      {
+        "name": "GC-TCD Chromatography"
+      },
+      {
+        "name": "Total Kjeldahl Nitrogen (TKN) Analyser"
+      },
+      {
+        "name": "Electro Spinning Unit"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Displacement Controlled Hydraulic Jack with Loading Frame",
+        "change": "Renamed to Hydraulic Column Testing System"
+      }
+    ]
+  },
+  {
     "targetId": "vt-ncfl",
     "analyzedAt": "2026-08-20T18:04:01.649Z",
     "vitalityScore": 80,
@@ -1661,10 +3243,30 @@
     ]
   },
   {
+    "targetId": "warwick-rtp",
+    "analyzedAt": "2026-08-20T20:09:43.720Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "washington-moles",
     "analyzedAt": "2026-08-20T18:24:21.069Z",
     "vitalityScore": null,
     "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "weizmann-nano",
+    "analyzedAt": "2026-08-20T20:24:33.409Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and specifications remain exactly the same in the current list with no knowledge loss.",
     "knowledgeLoss": false,
     "removed": [],
     "added": [],

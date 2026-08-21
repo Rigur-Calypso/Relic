@@ -1,0 +1,51 @@
+{
+  "targetId": "iowastate-mario",
+  "snapshotUrl": "http://web.archive.org/web/20231117134818/https://www.biotech.iastate.edu/marl/",
+  "snapshotTimestamp": "20231117134818",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T20:45:31.962Z",
+  "equipment": [
+    {
+      "name": "Scanning Electron Microscope",
+      "specifications": "SEM",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "Small-angle X-ray scattering instrument",
+      "specifications": "SAXS",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "Energy Dispersive X-ray Spectrometer",
+      "specifications": "EDS",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectrometer",
+      "specifications": "XPS",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffractometer",
+      "specifications": "XRD",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "X-ray fluorescence spectrometer",
+      "specifications": "XRF",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "Thermogravimetric analyzer",
+      "specifications": "TGA",
+      "location": "23 Town Engineering",
+      "status": ""
+    }
+  ]
+}

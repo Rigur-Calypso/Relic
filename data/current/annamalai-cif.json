@@ -1,0 +1,58 @@
+{
+  "targetId": "annamalai-cif",
+  "name": "Annamalai University",
+  "url": "https://annamalaiuniversity.ac.in/laboratory_cisl.php",
+  "scrapedAt": "2026-08-20T18:53:30.539Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "specifications": "",
+      "location": "Centralised Instrumentation and Service Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Confocal Microscope",
+      "specifications": "",
+      "location": "Centralised Instrumentation and Service Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Scanning Electron Microscope (FESEM)",
+      "specifications": "",
+      "location": "Centralised Instrumentation and Service Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Flow Cytometer - Cell Sorter (FACS Aria III)",
+      "specifications": "FACS Aria III",
+      "location": "Centralised Instrumentation and Service Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma - Mass Spectrophotometer (ICP-MS)",
+      "specifications": "ICP-MS",
+      "location": "Centralised Instrumentation and Service Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "specifications": "",
+      "location": "Centralised Instrumentation and Service Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Simultaneous Thermal Analysis (STA)",
+      "specifications": "STA",
+      "location": "Centralised Instrumentation and Service Laboratory",
+      "status": ""
+    },
+    {
+      "name": "UV-Visible Spectrophotometer",
+      "specifications": "",
+      "location": "Centralised Instrumentation and Service Laboratory",
+      "status": ""
+    }
+  ]
+}

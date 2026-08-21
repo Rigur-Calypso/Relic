@@ -1,0 +1,117 @@
+{
+  "targetId": "annamalai-cif",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://annamalaiuniversity.ac.in/laboratory_cisl.php",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:55:17.569Z",
+  "equipment": [
+    {
+      "name": "Field Emission Scanning Electron Microscope (FESEM) with EDAX",
+      "specifications": "CARL ZEISS – SIGMA 300 FESEM with EDAX; Magnification: x 10 to 10,00,000; Accelerating Voltage: 0.02 KV to 30 KV; Resolution: 1.0 nm (15 & 30KV), 1.8 nm (1KV); Detectors: SE2, In-lens, BSD; Electron Source: Schottky Field Emitter",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Scanning Electron Microscope (SEM) with EDS",
+      "specifications": "JEOL-JSM – IT 200; Magnification: x 18 to 3 00 000; Accelerating Voltage: 0.5 KV to 30 KV; Resolution: 3.0 nm (HV) , 4.5 nm (LV); Image Mode: Secondary Electron Image (SEI), Backscattered Electron Image",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Laser Scanning Confocal Microscope",
+      "specifications": "NIKON- A1 MP; Laser Source: 405, 488, 457, 477, 514, 560, 640 nm; Objective: 10x, 20x, 40x, 60x (oil); Resolution: 4K/4K",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Fluorescence Assisted Cell Sorter (FACS)",
+      "specifications": "BD - FACS ARIA III; Laser Source: (633 nm, 488nm, 375nm); Processing signals: Forward Scatter, Side Scatter, Fluorescence; Sampling range: 120µm to 120 nm",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Inductively Coupled Plasma - Mass Spectrophotometer (ICP-MS)",
+      "specifications": "AGILENT – 7700x; Detection limit: 0.1 ppt; Carrier gas: Helium; Mass Resolution: <0.3 amu to > 0.1 amu",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "specifications": "AGILENT – 5500 AFM; Imaging mode: Contact & Non contact mode; Large scanner: 90 μm X 90 μm X 8 μm; Small scanner: 9 μm X 9 μm X 2 μm",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Simultaneous Thermal Analyzer",
+      "specifications": "NETZSCH - STA 449 F3 JUPITER; Mode: Thermo Gravimetric (TG), Differential Thermal Analyser (DTA), Differential Scanning Calorimetry (DSC); Temperature range: RT to 1400 ºC @ 10, 20 ºC/min",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "UV-Visible Spectrophotometer",
+      "specifications": "SHIMADZU – UV 1800; Source: W and D2; Range: 190 - 1100 nm; Mode: % A, %T; Sample cell: Quartz (10mm path)",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Flame Photometer",
+      "specifications": "SYSTRONICS - FP 130; Range: 1 to 100 ppm; Sensitivity: 0.1 ppm-1; Flame system: LPG; Element: Na, K & Ca",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Digital Conductivity / TDS Meter",
+      "specifications": "DEEP VISION – Model 641; Range Conductivity: 200μs to 1000ms; Range TDS: 200ppm to 1000ppm; Accuracy: ±0.5% FS",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Digital pH Meter",
+      "specifications": "DEEP VISION – Model 101; pH Range: 0 to 14 pH (0.01 pH); Volt range: 0 to ±1999mV (1mV); Temp. range: RT to 110 ͦC",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Muffle Furnace",
+      "specifications": "900˚C",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Hot Air Oven",
+      "specifications": "Temperature controller upto 300°",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Digital Balance",
+      "specifications": "0.001 – 220 gms",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Magnetic Stirrer",
+      "specifications": "Motorless with Hot Plate",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Refractometer",
+      "specifications": "Liquid RI",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Centrifuge",
+      "specifications": "8x5ml tube, 5250 RPM",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    },
+    {
+      "name": "Distillation Water Still",
+      "specifications": "1 lit. / hr.",
+      "location": "Centralised Instrumentation and Service Laboratory (CISL), Annamalai University",
+      "status": "Operational"
+    }
+  ]
+}

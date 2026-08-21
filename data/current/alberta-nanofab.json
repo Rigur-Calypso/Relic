@@ -1,0 +1,40 @@
+{
+  "targetId": "alberta-nanofab",
+  "name": "Alberta",
+  "url": "https://www.nanofab.ualberta.ca/",
+  "scrapedAt": "2026-08-20T20:27:22.326Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Plasma-Therm Versaline PECVD",
+      "specifications": "Optical Emission Interferometry (OEI)",
+      "location": "nanoFAB",
+      "status": ""
+    },
+    {
+      "name": "Bruker D8D plus diffractometer",
+      "specifications": "Advanced XRD techniques, Non-Coplanar Scan, Pole Figure, 2D Stress Measurement, and Multi-Angle Scattering",
+      "location": "nanoFAB",
+      "status": ""
+    },
+    {
+      "name": "Keyence VK-X3050 3D Surface Profiler",
+      "specifications": "Multi-mode Optical Profilometer: Confocal, White Light Interferometry, and Focus Variation",
+      "location": "nanoFAB",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg MLA150",
+      "specifications": "Field alignment capability, DWL alignment precision",
+      "location": "nanoFAB",
+      "status": ""
+    },
+    {
+      "name": "Bruker D8 DISCOVER SAXS X-ray diffractometer",
+      "specifications": "Advanced material characterization and nanostructure analysis",
+      "location": "nanoFAB",
+      "status": ""
+    }
+  ]
+}

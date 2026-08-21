@@ -1,0 +1,351 @@
+{
+  "targetId": "standrews-nano",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.st-andrews.ac.uk/chemistry/research/facilities/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T20:10:28.137Z",
+  "equipment": [
+    {
+      "name": "Waters LCT ESI mass spectrometer",
+      "specifications": "with 2795 HPLC and Photodiode Array Detector",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "Thermo LCQ Fleet",
+      "specifications": "3D quadrupole ion trap with ESI interface and Dionex u3000 HPLC",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "ABSciex 4800 MALDI TOF/TOF Analyser",
+      "specifications": "",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "ABSciex 5600+",
+      "specifications": "ESI MSMS mass spectrometer and Eksigent nanoflow HPLC",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "Genomic Solutions, ProGest and ProPrep",
+      "specifications": "in-gel digestion robots",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "FEI Scios SEM",
+      "specifications": "dual column SEM and focused ion beam (FIB) instrument with EDS and EBSD",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "JEM 2011 TEM",
+      "specifications": "for conventional TEM imaging and diffraction",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "Titan Themis STEM/TEM",
+      "specifications": "probe-corrected, equipped with EDS and electron energy loss spectrometer (EELS), resolution of 0.08nm",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "Bruker EMXplus spectrometer",
+      "specifications": "Continuous wave EPR at X-band (9.5 GHz) with variable temperature capability (4 K – 500 K)",
+      "location": "Electron paramagnetic resonance facility",
+      "status": ""
+    },
+    {
+      "name": "Bruker Elexsys E580 spectrometer",
+      "specifications": "Pulse EPR at X-band (9.5 GHz) with a cryogen free variable temperature cryostat (1.5 K – 300 K)",
+      "location": "Electron paramagnetic resonance facility",
+      "status": ""
+    },
+    {
+      "name": "Thermo Fisher Scientific ICP-OES iCAP 6000 Series",
+      "specifications": "Instrument detection range: 0.01ppm – 5ppm",
+      "location": "Purdie Building, room 217",
+      "status": ""
+    },
+    {
+      "name": "Agilent 7500 series ICP-MS spectrometer",
+      "specifications": "",
+      "location": "Purdie Building, room 217",
+      "status": ""
+    },
+    {
+      "name": "Jasco V650 UV/Vis",
+      "specifications": "for solid or liquid samples",
+      "location": "Purdie Building, room 217",
+      "status": ""
+    },
+    {
+      "name": "Perkin Elmer Lambda 35 UV/VIS spectrometer",
+      "specifications": "",
+      "location": "Purdie Building, room 217",
+      "status": ""
+    },
+    {
+      "name": "Shimadzu IRAffinity 1S IR Spectrometer",
+      "specifications": "FTiR for solid or liquid samples",
+      "location": "Purdie Building, room 217",
+      "status": ""
+    },
+    {
+      "name": "Thermo Exactive Orbitrap mass spectrometer",
+      "specifications": "measurements to within 5ppm, ESI, APcI, ASAP",
+      "location": "Mass spectrometry facility",
+      "status": ""
+    },
+    {
+      "name": "Micromass GCT mass spectrometer",
+      "specifications": "with solids probe, EI and CI ionisation techniques",
+      "location": "Mass spectrometry facility",
+      "status": ""
+    },
+    {
+      "name": "Sodick high speed 5 axis milling machine",
+      "specifications": "uh650l",
+      "location": "Physics workshop",
+      "status": ""
+    },
+    {
+      "name": "Sodick die sinking edm",
+      "specifications": "ad35l",
+      "location": "Physics workshop",
+      "status": ""
+    },
+    {
+      "name": "Sodick wire edm",
+      "specifications": "vl400q",
+      "location": "Physics workshop",
+      "status": ""
+    },
+    {
+      "name": "Haas cnc turning center",
+      "specifications": "st-10",
+      "location": "Physics workshop",
+      "status": ""
+    },
+    {
+      "name": "Harding cnc machining center",
+      "specifications": "gx-series",
+      "location": "Physics workshop",
+      "status": ""
+    },
+    {
+      "name": "PANalytical Empyrean diffractometers",
+      "specifications": "three units",
+      "location": "Powder x-ray diffraction facility",
+      "status": ""
+    },
+    {
+      "name": "Rigaku Miniflex diffractometer",
+      "specifications": "operating in reflection geometry",
+      "location": "Powder x-ray diffraction facility",
+      "status": ""
+    },
+    {
+      "name": "Stoe diffractometers",
+      "specifications": "two units, operating in transmission, capillary, mode",
+      "location": "Powder x-ray diffraction facility",
+      "status": ""
+    },
+    {
+      "name": "Perkin Elmer System 2000 (FT)",
+      "specifications": "Raman spectrometer",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rigaku FRX high brilliance rotating anode generator",
+      "specifications": "dual port, Mo radiation, with two Dectris Pilatus P200 detectors, Oxford Cobra and DTC LT accessories",
+      "location": "Chemical Crystallography suite",
+      "status": ""
+    },
+    {
+      "name": "Rigaku MM007 HF high brilliance rotating anode generator",
+      "specifications": "dual port, Cu radiation, with Dectris Pilatus P200 and P100 detectors, Oxford Cobra and SmartStream LT accessories",
+      "location": "Chemical Crystallography suite",
+      "status": ""
+    },
+    {
+      "name": "Rigaku SCX Mini",
+      "specifications": "sealed tube generator, SHINE Optic, Mo Radiation, with Mercury CCD detector and Oxford DTC LT accessory",
+      "location": "Chemical Crystallography suite",
+      "status": ""
+    },
+    {
+      "name": "Bruker Avance III spectrometers",
+      "specifications": "400 MHz HFXY and 600 MHz",
+      "location": "Solid state NMR spectroscopy service",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV 300",
+      "specifications": "with BBFO probe",
+      "location": "Solution-phase NMR spectroscopy service",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-III HD 400",
+      "specifications": "with BBFO probe",
+      "location": "Solution-phase NMR spectroscopy service",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-II 400",
+      "specifications": "with BBFO probe",
+      "location": "Solution-phase NMR spectroscopy service",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-III HD 500",
+      "specifications": "four frequency channels",
+      "location": "Solution-phase NMR spectroscopy service",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-III 500",
+      "specifications": "equipped with nitrogen-cooled Prodigy cryoprobes with direct observed (BBO)",
+      "location": "Solution-phase NMR spectroscopy service",
+      "status": ""
+    },
+    {
+      "name": "Bruker HD 700",
+      "specifications": "equipped with nitrogen-cooled Prodigy cryoprobes with inverse triple resonance geometry (TXI)",
+      "location": "Solution-phase NMR spectroscopy service",
+      "status": ""
+    },
+    {
+      "name": "Omicron Scanning Tunneling Microscope (STM)",
+      "specifications": "UHV variable-temperature",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "CreaTec low-temperature (4K) Scanning Tunneling Microscope (STM with qPlus AFM)",
+      "specifications": "UHV, capable of single molecule electronic spectroscopy, vibrational spectroscopy and manipulation",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "Molecular Imaging STM instruments",
+      "specifications": "Four instruments, work in ambient and electrochemical environments, capable of Atomic Force Microscopy (AFM)",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscopes",
+      "specifications": "Two further AFM instruments",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "UHV Nicolet FTIR",
+      "specifications": "with polarisation modulation (PM) and ATR attachment",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "Digilab FTIR system",
+      "specifications": "with Specac diffuse reflectance accessory and online Hiden QMS",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "Scienta X-ray photoelectron spectrometer (XPS)",
+      "specifications": "with monochromatic source",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "UHV High Resolution Electron Energy Loss Spectroscopy (HREELS) system",
+      "specifications": "",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "UHV LEED/AES/TPD/high pressure cell and gas chromatograph",
+      "specifications": "",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "UHV quartz micro-balance system",
+      "specifications": "",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "Tensiometer",
+      "specifications": "for contact angle measurements",
+      "location": "Surface science facility",
+      "status": ""
+    },
+    {
+      "name": "Netzsch STA 449C with Mass Spec",
+      "specifications": "TGA/DTA or TGA/DSC under oxidising or reducing atmosphere to 1500°C, coupled to a Pfeiffer mass spectrometer",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Stanton Redcroft STA-780 simultaneous TG-DTA",
+      "specifications": "RT–1500°C, in oxidising or reducing atmosphere",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Stanton Redcroft TG1000M",
+      "specifications": "TGA (RT–1000°C) in air",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Netzsch Thermogravimetric Analyzer TG 209",
+      "specifications": "TGA, RT–900°C, oxidising or reducing atmosphere",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Netzsch DSC 204 F1",
+      "specifications": "range -180°C to 700°C, sensitivity: 3.2 μV/mW",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Netzsch Dilatometer DIL402C",
+      "specifications": "oxidising or reducing atmosphere to 1500°C",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Hiden IGA porosimeter",
+      "specifications": "gas and vapour adsorption, BET analysis",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Micromeritics Accupyc 1340 series Gas Pycnometer",
+      "specifications": "measures true density by gas displacement",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Micromeritics ASAP 2020 Accelerated Surface Area and Porosimetry System",
+      "specifications": "",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    },
+    {
+      "name": "Micromeritics Tristar ii Surface Area and Porosity Instrument",
+      "specifications": "with VacPrep 061 Degasser",
+      "location": "Thermal analysis and porosimetry facility",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "targetId": "kth-electrum",
+  "analyzedAt": "2026-08-20T20:23:04.785Z",
+  "vitalityScore": 92,
+  "summary": "Comparing the historical equipment list to the current one shows mostly stable lab infrastructure with a few items removed (such as Balance, Dektak, Canon EOS 350D, Iwatsu, Keysight, TGA/FTIR Interface, and FE-TEM), several new equipment additions, and minor location or status modifications for a few systems.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "FE-TEM",
+      "severity": "critical",
+      "reason": "Instrument removed from current inventory."
+    },
+    {
+      "name": "Dektak",
+      "severity": "moderate",
+      "reason": "Removed from C-APL."
+    },
+    {
+      "name": "Balance",
+      "severity": "minor",
+      "reason": "Removed from C-Epitaxy."
+    },
+    {
+      "name": "Canon EOS 350D",
+      "severity": "minor",
+      "reason": "Removed from C-Anneal."
+    },
+    {
+      "name": "Iwatsu",
+      "severity": "moderate",
+      "reason": "Removed from N-Powerelectronics Lab."
+    },
+    {
+      "name": "Keysight",
+      "severity": "moderate",
+      "reason": "Removed from N-Powerelectronics Lab."
+    },
+    {
+      "name": "TGA/FTIR Interface",
+      "severity": "minor",
+      "reason": "Removed from Albano Hus 3."
+    }
+  ],
+  "added": [
+    {
+      "name": "APL-HMDS"
+    },
+    {
+      "name": "UVO Cleaner"
+    },
+    {
+      "name": "NSR i-line stepper"
+    },
+    {
+      "name": "ALS-stepper"
+    },
+    {
+      "name": "AFM/SPM CellKraft Humidifier Albanova"
+    },
+    {
+      "name": "Sica"
+    },
+    {
+      "name": "THz Antenna Measurement Chamber"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Empyrean",
+      "change": "Name updated to Empyrean x-ray reflectometer/diffractometer."
+    },
+    {
+      "name": "FIB/SEM Albanova",
+      "change": "Status changed from D to C."
+    }
+  ]
+}

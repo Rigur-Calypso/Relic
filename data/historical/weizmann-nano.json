@@ -1,16 +1,10 @@
 {
   "targetId": "weizmann-nano",
-  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.weizmann.ac.il/condmat/submicron/home-page",
-  "snapshotTimestamp": "~20240101",
-  "snapshotVia": "brightdata-redirect",
-  "fetchedAt": "2026-08-20T18:37:34.901Z",
+  "snapshotUrl": "http://web.archive.org/web/20240221221347/https://www.weizmann.ac.il/condmat/submicron/home-page",
+  "snapshotTimestamp": "20240221221347",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T20:24:27.410Z",
   "equipment": [
-    {
-      "name": "MBE system",
-      "specifications": "GaAs and InAs based semiconductors structures (heterostructures and nanowires)",
-      "location": "MBE laboratories",
-      "status": ""
-    },
     {
       "name": "electron beam writing (EBL) system",
       "specifications": "capable of producing less than 10 nm wide features",
@@ -18,19 +12,13 @@
       "status": ""
     },
     {
-      "name": "optical lithography system",
-      "specifications": "patterning down to ~1 micrometer",
-      "location": "optical lithography laboratories",
-      "status": ""
-    },
-    {
-      "name": "UHV evaporator",
+      "name": "UHV evaporators",
       "specifications": "",
       "location": "",
       "status": ""
     },
     {
-      "name": "UHV plasma etching and deposition tool",
+      "name": "UHV plasma etching and deposition tools",
       "specifications": "",
       "location": "",
       "status": ""
@@ -42,13 +30,13 @@
       "status": ""
     },
     {
-      "name": "dilution refrigerator",
+      "name": "dilution refrigerators",
       "specifications": "",
       "location": "",
       "status": ""
     },
     {
-      "name": "He4 and He3 system",
+      "name": "He4 and He3 systems",
       "specifications": "",
       "location": "",
       "status": ""

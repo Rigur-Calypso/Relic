@@ -1,0 +1,154 @@
+{
+  "targetId": "pu-chd-cil",
+  "name": "Panjab University",
+  "url": "https://rsic.puchd.ac.in/",
+  "scrapedAt": "2026-08-20T18:51:53.860Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Transmission Electron Microscope (TEM)",
+      "specifications": "Hitachi (H-7500)",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Transmission Electron Microscope (SEM)",
+      "specifications": "Model JSM6100 (Jeol) with Image Analyser",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Elemental Analyser for CHN",
+      "specifications": "Thermo Scientific",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FT-NMR Cryo-magnet Spectrometer",
+      "specifications": "400 MHz (Bruker)",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffractometer (Powder Method)",
+      "specifications": "Panalytical.s X.Pert Pro",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LC-MS Spectrometer",
+      "specifications": "Model Q-ToF Micro Waters",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Liquid Nitrogen Plant",
+      "specifications": "Stirling (StirLIN-1)",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "F.T.Infra-Red Spectrophotometer",
+      "specifications": "Model RZX (Perkin Elmer)",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-VIS-NIR Spectrophotometer",
+      "specifications": "Model Lambda 750 Perkin Elmer",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "WD-XRF Spectrometer",
+      "specifications": "Model-S8 TIGER Bruker",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MALDI SYNAPT XS HD MASS SPECTROMETER",
+      "specifications": "MAKE: WATERS CORPORATION U.K, MODEL: Maldi-TOF Synapt XS HD Mass Spectrometer",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GAS CHROMATOGRAPHY MASS SPECTROMETER",
+      "specifications": "MAKE: THERMO SCIENTIFIC, U.S, MODEL: TRACE 1300 G.C COUPLED WITH THERMO TSQ8000 TRIPLE QUADRUPOLE MS",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AVANCE NEO 500MHz FT-NMR SPECTROMETER",
+      "specifications": "MAKE: BRUKER, SWITERZLAND, MODEL: AVANCE - II 500 MHz",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HIGH RESOLUTION TRANSMISSION ELECTRON MICROSCOPE",
+      "specifications": "MAKE: JEOL, MODEL: JEM 2100 plus",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FIELD EMISSION SCANNING ELECTRON MICROSCOPE",
+      "specifications": "MAKE: HITACHI, JAPAN, MODEL: SU8010 SERIES",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CONFOCAL MICROSCOPE",
+      "specifications": "MAKE: NIKON, MODEL: A1R",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SMALL ANGLE X-RAY SCATTERING",
+      "specifications": "MAKE: ANTON PAAR, MODEL: SAXSPACE",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ICP MS ICAP",
+      "specifications": "MAKE: THERMO SCIENTIFIC, MODEL: CAP RQ ICP-MS",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AAS",
+      "specifications": "MAKE: THERMO SCIENTIFIC, U.S, MODEL: FLASH 2000",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CRITICAL POINT DRYER",
+      "specifications": "MAKE: LEICA, MODEL: EM CPD 300",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ULTRA MICROTOME",
+      "specifications": "MAKE: LEICA, MODEL: ULTRA CUT EM UC7",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RHEOMETER",
+      "specifications": "MAKE: ANTON PAAR, MODEL: RHEOLAB QC ROTATIONAL RHEOMETER",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "THERMO GRAVIMETRIC ANALYSIS",
+      "specifications": "MAKE: SETARAM, MODEL: SETSYS",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DIFFERENTIAL SCANNING CALORIMETRY",
+      "specifications": "MAKE: SETARAM, MODEL: SETLINE DSC+",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

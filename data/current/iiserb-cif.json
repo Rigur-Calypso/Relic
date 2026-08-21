@@ -1,0 +1,130 @@
+{
+  "targetId": "iiserb-cif",
+  "name": "IISER Bhopal",
+  "url": "https://www.iiserb.ac.in/cif/other_facility",
+  "scrapedAt": "2026-08-20T18:49:17.396Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Size Exclusion Chromatography",
+      "specifications": "Agilent PL-GPC50 Plus Integrated SEC/GPC system with triple detectors (RI, PL-BV 400 viscometer and PL-RTLS dual angle light scattering)",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Dynamic Light Scattering / Zeta Potential Measurement",
+      "specifications": "Ultrafast Laser system for Transient Absorption and Fluorescence Up-conversion experiments. Spitfire Ti:Sapphire regenerative ultrafast amplifier system delivers 120 fs pulses in the wavelength range of 780-120 nm with average pulse/energy of 4mJ at 1KHz. MAITAI laser (~120 fs, 80 MHz, 2.5 W at 800 nm).",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Thermogravimetric Analyzer",
+      "specifications": "Scanning rates from 0.1 to 200°C/min Temperature range 15°C to 1000°C.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Isothermal Titration Calorimeter",
+      "specifications": "TA Instruments Nano ITC, differential power compensation design, gold cell effective volume 190 uL, temperature range 2 – 800C, injection syringe capacity 50 uL, stirring rate 150 – 400 rpm.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Differential Scanning Calorimeter",
+      "specifications": "Temperature range -100 °C to 450 °C with intra-cooler facility, controlled heating rate 0.01 to 100 °C/min.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "CHNSO Analyzer",
+      "specifications": "Fully Automated PC controlled Elemental Analyser for Solids, Liquid and liquid volatile samples. Operating modes for measurement of CHNS, CHN CNS, S, Trace S and O-TCD and Cl separately.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope",
+      "specifications": "Agilent 5500 AFM/SPM capable of Contact mode AFM, Lateral Force Mode (LFM), Resonant Mode AFM, Phase Imaging, Force Modulation Microscopy, Scanning Kelvin Probe Microscopy (SKM), Magnetic Force Mode and Electrostatic Force Mode (MFM/ EFM), Scanning Tunneling Microscopy. Heating stage up to 1500C.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "BET Surface Area Measurement",
+      "specifications": "Volumetric gas adsorption method with automated real time dead volume measurement. Measures surface area from 0.01m2/g and above (N2/77K), 0.0005 m2/g and above (Kr/77K). Pore size ranging from 0.32 - 500 nm in pore diameter.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Superconducting Quantum Interference",
+      "specifications": "Device Vibrating Sample Magnetometer with the sensitivity of a SQUID magnetometer equipped with a Pulse Tube Cooler.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "High Resolution (HR) Raman Microspectrometer",
+      "specifications": "Integrated Raman system including a confocal microscope, Czerny-Turner type achromatic spectrograph (~800mm) with spectral resolution of 0.4 cm-1/pixel at spectral range 200–1050nm, excitation source 632.8 nm air cooled He-Ne laser.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "EPR",
+      "specifications": "X and Q-band capable instrument with variable temperature accessories for liquid nitrogen and liquid helium temperatures, and ENDOR accessories.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Rheometer",
+      "specifications": "Model MCR-102 by Anton Paar with parallel plate (PP50), cone and plate (CP25-1, CP50-1, CP50-2), and concentric cylinder (CC27) geometries. Air-bearing-supported synchronous EC.",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Gel Permeation Chomatographer",
+      "specifications": "",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Thermogravimetric Analyser",
+      "specifications": "TGA 4000",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Isothermal Titration Calorimeter",
+      "specifications": "Nano ITC",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Differential Scanning Calorimeter",
+      "specifications": "DSC 4000",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Elemental Analyser, CHNSO",
+      "specifications": "",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Surface Area And Gas And Vapour Adsorption Measurement Instrument",
+      "specifications": "BET",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Superconducting Quantum Interference Device Magnetometer",
+      "specifications": "",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    },
+    {
+      "name": "Ellipsometry",
+      "specifications": "",
+      "location": "Central Instrumentation Facility",
+      "status": ""
+    }
+  ]
+}

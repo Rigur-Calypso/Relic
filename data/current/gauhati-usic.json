@@ -1,0 +1,40 @@
+{
+  "targetId": "gauhati-usic",
+  "name": "Gauhati University",
+  "url": "https://gauhati.ac.in/saif/",
+  "scrapedAt": "2026-08-20T20:16:49.602Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Powder XRD (Empyrean)",
+      "specifications": "Powder X-ray diffractometer",
+      "location": "SAIF Guwahati",
+      "status": ""
+    },
+    {
+      "name": "XRF (Zetium)",
+      "specifications": "X-ray fluorescence spectrometer",
+      "location": "SAIF Guwahati",
+      "status": ""
+    },
+    {
+      "name": "Single-Crystal XRD",
+      "specifications": "Single crystal X-ray diffractometer",
+      "location": "SAIF Guwahati",
+      "status": "end-of-life"
+    },
+    {
+      "name": "DSC-3",
+      "specifications": "Differential scanning calorimeter",
+      "location": "SAIF Guwahati",
+      "status": ""
+    },
+    {
+      "name": "TGA-2",
+      "specifications": "Thermogravimetric analyser",
+      "location": "SAIF Guwahati",
+      "status": ""
+    }
+  ]
+}

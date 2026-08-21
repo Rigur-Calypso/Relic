@@ -1,0 +1,40 @@
+{
+  "targetId": "iitgn-cif",
+  "analyzedAt": "2026-08-20T18:46:46.227Z",
+  "vitalityScore": 100,
+  "summary": "All historical instruments have been preserved, and several new instruments such as GPC, FTIR, PPMS, Micro XCT, XPS, Wafer Probe Station, Universal Testing Machine, and Confocal Raman Spectrometer have been added.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "GPC"
+    },
+    {
+      "name": "FTIR (INVENIO S)"
+    },
+    {
+      "name": "PPMS"
+    },
+    {
+      "name": "Micro XCT"
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy (XPS)"
+    },
+    {
+      "name": "Wafer Probe Station"
+    },
+    {
+      "name": "Universal Testing Machine"
+    },
+    {
+      "name": "Confocal Raman Spectrometer"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Transmission Electron Microscope",
+      "change": "The name was updated to include the model name directly in the title as 'Transmission Electron Microscope (Model: Themis 300 G3)'."
+    }
+  ]
+}

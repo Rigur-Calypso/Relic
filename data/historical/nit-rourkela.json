@@ -1,0 +1,45 @@
+{
+  "targetId": "nit-rourkela",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://crf.nitrkl.ac.in/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T20:15:02.490Z",
+  "equipment": [
+    {
+      "name": "Transmission Electron Microscope",
+      "specifications": "TEM",
+      "location": "Central Research Facility, National Institute of Technology Rourkela",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope",
+      "specifications": "SEM",
+      "location": "Central Research Facility, National Institute of Technology Rourkela",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffractometer",
+      "specifications": "XRD",
+      "location": "Central Research Facility, National Institute of Technology Rourkela",
+      "status": ""
+    },
+    {
+      "name": "BET Surface Area Analyzer",
+      "specifications": "BET",
+      "location": "Central Research Facility, National Institute of Technology Rourkela",
+      "status": ""
+    },
+    {
+      "name": "High-Resolution Mass Spectrometer",
+      "specifications": "HRMS",
+      "location": "Central Research Facility, National Institute of Technology Rourkela",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-ray Diffractometer",
+      "specifications": "SCXRD",
+      "location": "Central Research Facility, National Institute of Technology Rourkela",
+      "status": ""
+    }
+  ]
+}

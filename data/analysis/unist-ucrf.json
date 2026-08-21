@@ -1,0 +1,29 @@
+{
+  "targetId": "unist-ucrf",
+  "analyzedAt": "2026-08-20T20:12:01.686Z",
+  "vitalityScore": 85,
+  "summary": "Most equipment has been preserved and updated. The Advanced TEM was renamed to Titan G2 with specifications, and the 600 MHz FT-NMR was clarified as Solid state. However, the original general 600 MHz FT-NMR entry was replaced or lost in favor of the solid-state specific entries, leading to a minor knowledge loss regarding general liquid/solid classification.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "600 MHz FT-NMR (Varian)",
+      "severity": "minor",
+      "reason": "Replaced by a more specific solid-state NMR entry."
+    }
+  ],
+  "added": [
+    {
+      "name": "Varian 600 MHz FT-NMR(Solid)"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Advanced TEM",
+      "change": "Renamed and updated to Titan G2 (투과전자현미경4_Advanced TEM)."
+    },
+    {
+      "name": "600 MHz FT-NMR (Varian)",
+      "change": "Updated to specify solid-state application."
+    }
+  ]
+}

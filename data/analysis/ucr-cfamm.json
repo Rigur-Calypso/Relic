@@ -1,0 +1,14 @@
+{
+  "targetId": "ucr-cfamm",
+  "analyzedAt": "2026-08-20T20:01:54.644Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment has been preserved and a new digital microscope was added to the facility.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Digital Microscope VHX-7000"
+    }
+  ],
+  "modified": []
+}

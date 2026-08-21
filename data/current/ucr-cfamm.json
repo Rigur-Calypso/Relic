@@ -1,0 +1,46 @@
+{
+  "targetId": "ucr-cfamm",
+  "name": "UC Riverside",
+  "url": "https://cfamm.ucr.edu/",
+  "scrapedAt": "2026-08-20T20:01:31.230Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "STEM Titan Themis",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TEM Talos 120",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FIB/SEM Quanta 200i",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SEM NNS450",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SEM Mira3",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Digital Microscope VHX-7000",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

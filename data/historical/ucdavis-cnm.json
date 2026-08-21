@@ -1,0 +1,267 @@
+{
+  "targetId": "ucdavis-cnm",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cnm2.ucdavis.edu/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T20:01:11.143Z",
+  "equipment": [
+    {
+      "name": "GCA 8500 i-line Stepper",
+      "specifications": "i-line Stepper",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "EVG 620-mask aligner",
+      "specifications": "mask aligner",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Karl Suss MA4 1 & 2",
+      "specifications": "MA4 1 & 2",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Brewer Photoresist Spinners 1 & 2",
+      "specifications": "Photoresist Spinners 1 & 2",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "NPGS Electron Beam Lithography",
+      "specifications": "Electron Beam Lithography",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Sky 335R6 Heated-Roller Laminator",
+      "specifications": "Heated-Roller Laminator",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "PlasmaTherm Apex SLR RIE/ICP",
+      "specifications": "Apex SLR RIE/ICP",
+      "location": "Etch",
+      "status": ""
+    },
+    {
+      "name": "PlasmaTherm Apex SLR RIE",
+      "specifications": "Apex SLR RIE",
+      "location": "Etch",
+      "status": ""
+    },
+    {
+      "name": "PlasmaTherm Versaline DSE",
+      "specifications": "Versaline DSE",
+      "location": "Etch",
+      "status": ""
+    },
+    {
+      "name": "PlasmaTherm Vision 320 RIE",
+      "specifications": "Vision 320 RIE",
+      "location": "Etch",
+      "status": ""
+    },
+    {
+      "name": "IntlVac Nanoquest IBE/RIBE/CAIBE",
+      "specifications": "Nanoquest IBE/RIBE/CAIBE",
+      "location": "Etch",
+      "status": ""
+    },
+    {
+      "name": "Xactix XeF2 Etcher",
+      "specifications": "XeF2 Etcher",
+      "location": "Etch",
+      "status": ""
+    },
+    {
+      "name": "PETS RIE",
+      "specifications": "RIE",
+      "location": "Etch",
+      "status": ""
+    },
+    {
+      "name": "Yield Engineering Systems G500 O2 Plasma Etcher",
+      "specifications": "G500 O2 Plasma Etcher",
+      "location": "Etch",
+      "status": ""
+    },
+    {
+      "name": "IntlVac Nanochrome I Ebeam/Thermal Evaporator",
+      "specifications": "Nanochrome I Ebeam/Thermal Evaporator",
+      "location": "Thin Film Deposition",
+      "status": ""
+    },
+    {
+      "name": "CHA E-beam Evaporator",
+      "specifications": "E-beam Evaporator",
+      "location": "Thin Film Deposition",
+      "status": ""
+    },
+    {
+      "name": "Lesker Labline Sputter System",
+      "specifications": "Labline Sputter System",
+      "location": "Thin Film Deposition",
+      "status": ""
+    },
+    {
+      "name": "Picosun R-200 PEALD",
+      "specifications": "R-200 PEALD",
+      "location": "Thin Film Deposition",
+      "status": ""
+    },
+    {
+      "name": "PlasmaTherm Versaline HDPCVD",
+      "specifications": "Versaline HDPCVD",
+      "location": "Thin Film Deposition",
+      "status": ""
+    },
+    {
+      "name": "PlasmaTherm Vision 310 PECVD",
+      "specifications": "Vision 310 PECVD",
+      "location": "Thin Film Deposition",
+      "status": ""
+    },
+    {
+      "name": "Quorum Tech Gold/Carbon Sputter Coater",
+      "specifications": "Gold/Carbon Sputter Coater",
+      "location": "Thin Film Deposition",
+      "status": ""
+    },
+    {
+      "name": "J.A. Woollam M-2000 Ellipsometer",
+      "specifications": "M-2000 Ellipsometer",
+      "location": "Metrology",
+      "status": ""
+    },
+    {
+      "name": "Bruker Dektak XT",
+      "specifications": "Dektak XT",
+      "location": "Metrology",
+      "status": ""
+    },
+    {
+      "name": "Nanometrics Nanospec",
+      "specifications": "Nanospec",
+      "location": "Metrology",
+      "status": ""
+    },
+    {
+      "name": "4 point probe",
+      "specifications": "4 point probe",
+      "location": "Metrology",
+      "status": ""
+    },
+    {
+      "name": "HP 4155A and Probe Station",
+      "specifications": "4155A and Probe Station",
+      "location": "Metrology",
+      "status": ""
+    },
+    {
+      "name": "FEI Scios Dualbeam FIB/SEM",
+      "specifications": "Scios Dualbeam FIB/SEM",
+      "location": "Microscopy and Micro Analysis",
+      "status": ""
+    },
+    {
+      "name": "FEI Nova NanoSEM 430",
+      "specifications": "Nova NanoSEM 430",
+      "location": "Microscopy and Micro Analysis",
+      "status": ""
+    },
+    {
+      "name": "Nikon TMS Infrared Microscope",
+      "specifications": "TMS Infrared Microscope",
+      "location": "Microscopy and Micro Analysis",
+      "status": ""
+    },
+    {
+      "name": "Carl Zeiss Axiotron Microscope",
+      "specifications": "Axiotron Microscope",
+      "location": "Microscopy and Micro Analysis",
+      "status": ""
+    },
+    {
+      "name": "Nitrogen Glove Box",
+      "specifications": "Glove Box",
+      "location": "Cleaning and Preparation",
+      "status": ""
+    },
+    {
+      "name": "Novascan UV Ozone Cleaner",
+      "specifications": "UV Ozone Cleaner",
+      "location": "Cleaning and Preparation",
+      "status": ""
+    },
+    {
+      "name": "Semitool Spin Rinser",
+      "specifications": "Spin Rinser",
+      "location": "Cleaning and Preparation",
+      "status": ""
+    },
+    {
+      "name": "Ultra T SCSx124 Substrate Cleaning System",
+      "specifications": "SCSx124 Substrate Cleaning System",
+      "location": "Cleaning and Preparation",
+      "status": ""
+    },
+    {
+      "name": "EVG 501 Wafer Bonder",
+      "specifications": "501 Wafer Bonder",
+      "location": "Packaging",
+      "status": ""
+    },
+    {
+      "name": "EVG 810 Plasma Activation",
+      "specifications": "810 Plasma Activation",
+      "location": "Packaging",
+      "status": ""
+    },
+    {
+      "name": "Disco DAD 321 Dicing Saw",
+      "specifications": "DAD 321 Dicing Saw",
+      "location": "Packaging",
+      "status": ""
+    },
+    {
+      "name": "Tousimis AutoSamdri 815 Critical Point Dryer",
+      "specifications": "AutoSamdri 815 Critical Point Dryer",
+      "location": "Packaging",
+      "status": ""
+    },
+    {
+      "name": "Nordson DAGE 4000 Bond Tester System",
+      "specifications": "DAGE 4000 Bond Tester System",
+      "location": "Packaging",
+      "status": ""
+    },
+    {
+      "name": "West Bond 7700E Wire Bonder",
+      "specifications": "7700E Wire Bonder",
+      "location": "Packaging",
+      "status": ""
+    },
+    {
+      "name": "Allwin AW610 Rapid Thermal Processor",
+      "specifications": "AW610 Rapid Thermal Processor",
+      "location": "Thermal Processing",
+      "status": ""
+    },
+    {
+      "name": "Annealsys As-One RTP",
+      "specifications": "As-One RTP",
+      "location": "Thermal Processing",
+      "status": ""
+    },
+    {
+      "name": "Programmable Oven",
+      "specifications": "Programmable Oven",
+      "location": "Thermal Processing",
+      "status": ""
+    }
+  ]
+}

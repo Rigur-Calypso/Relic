@@ -1,0 +1,9 @@
+{
+  "targetId": "melbourne-mcn",
+  "name": "Melbourne MCN",
+  "url": "https://nanomelbourne.com/",
+  "scrapedAt": "2026-08-20T20:25:20.462Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

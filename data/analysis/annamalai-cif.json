@@ -1,0 +1,94 @@
+{
+  "targetId": "annamalai-cif",
+  "analyzedAt": "2026-08-20T18:55:25.103Z",
+  "vitalityScore": 60,
+  "summary": "The lab facility page has lost several minor equipment items and specifications details for the remaining instruments, though core major equipment remains present.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Flame Photometer",
+      "severity": "moderate",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Digital Conductivity / TDS Meter",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Digital pH Meter",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Muffle Furnace",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Hot Air Oven",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Digital Balance",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Magnetic Stirrer",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Refractometer",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Centrifuge",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    },
+    {
+      "name": "Distillation Water Still",
+      "severity": "minor",
+      "reason": "Instrument is missing from the current equipment list."
+    }
+  ],
+  "added": [],
+  "modified": [
+    {
+      "name": "Field Emission Scanning Electron Microscope (FESEM)",
+      "change": "Detailed specifications and model numbers were removed."
+    },
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "change": "Detailed specifications and model numbers were removed."
+    },
+    {
+      "name": "Laser Scanning Confocal Microscope",
+      "change": "Renamed to Confocal Microscope and all specifications were removed."
+    },
+    {
+      "name": "Fluorescence Assisted Cell Sorter (FACS)",
+      "change": "Renamed to Flow Cytometer - Cell Sorter (FACS Aria III) and specifications were reduced."
+    },
+    {
+      "name": "Inductively Coupled Plasma - Mass Spectrophotometer (ICP-MS)",
+      "change": "Detailed specifications were removed."
+    },
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "change": "Detailed specifications were removed."
+    },
+    {
+      "name": "Simultaneous Thermal Analyzer",
+      "change": "Renamed to Simultaneous Thermal Analysis (STA) and specifications were reduced."
+    },
+    {
+      "name": "UV-Visible Spectrophotometer",
+      "change": "Detailed specifications were removed."
+    }
+  ]
+}

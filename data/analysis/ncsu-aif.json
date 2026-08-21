@@ -1,41 +1,10 @@
 {
   "targetId": "ncsu-aif",
-  "analyzedAt": "2026-08-20T18:04:58.957Z",
-  "vitalityScore": 0,
-  "summary": "All six historical instruments and microscope systems were removed from the current page, resulting in total loss of facility equipment listings.",
-  "knowledgeLoss": true,
-  "removed": [
-    {
-      "name": "Scanning Electron Microscopes",
-      "severity": "critical",
-      "reason": "Removed entirely from facility page"
-    },
-    {
-      "name": "Transmission Electron Microscopes",
-      "severity": "critical",
-      "reason": "Removed entirely from facility page"
-    },
-    {
-      "name": "X-ray Scattering and Spectroscopy Instruments",
-      "severity": "critical",
-      "reason": "Removed entirely from facility page"
-    },
-    {
-      "name": "Time-of-Flight Mass Spectrometry",
-      "severity": "critical",
-      "reason": "Removed entirely from facility page"
-    },
-    {
-      "name": "Scanning Probe Microscopy",
-      "severity": "critical",
-      "reason": "Removed entirely from facility page"
-    },
-    {
-      "name": "Nanoindentation",
-      "severity": "critical",
-      "reason": "Removed entirely from facility page"
-    }
-  ],
+  "analyzedAt": "2026-08-20T20:21:06.721Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
   "added": [],
   "modified": []
 }

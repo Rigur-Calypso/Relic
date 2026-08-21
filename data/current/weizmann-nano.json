@@ -1,0 +1,46 @@
+{
+  "targetId": "weizmann-nano",
+  "name": "Weizmann Institute",
+  "url": "https://www.weizmann.ac.il/condmat/submicron/home-page",
+  "scrapedAt": "2026-08-20T20:23:46.579Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "electron beam writing (EBL) system",
+      "specifications": "capable of producing less than 10 nm wide features",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UHV evaporators",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UHV plasma etching and deposition tools",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SEM",
+      "specifications": "less than 10 angstroms resolution",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "dilution refrigerators",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "He4 and He3 systems",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

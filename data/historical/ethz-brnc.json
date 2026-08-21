@@ -1,0 +1,15 @@
+{
+  "targetId": "ethz-brnc",
+  "snapshotUrl": "http://web.archive.org/web/20240114001658/https://www.zurich.ibm.com/brnc/",
+  "snapshotTimestamp": "20240114001658",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T20:07:22.584Z",
+  "equipment": [
+    {
+      "name": "scanning tunneling microscope",
+      "specifications": "",
+      "location": "IBM Research - Zurich Laboratory",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "targetId": "ethz-brnc",
+  "name": "ETH Zurich BRNC",
+  "url": "https://www.zurich.ibm.com/brnc/",
+  "scrapedAt": "2026-08-20T20:06:54.090Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

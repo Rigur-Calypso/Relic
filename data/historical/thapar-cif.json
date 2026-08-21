@@ -1,0 +1,147 @@
+{
+  "targetId": "thapar-cif",
+  "snapshotUrl": "http://web.archive.org/web/20240225213409/https://see.thapar.edu/pages/instrumental-facility",
+  "snapshotTimestamp": "20240225213409",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T20:19:29.730Z",
+  "equipment": [
+    {
+      "name": "Inductively Coupled Plasma - Optical Emission Spectroscopy (ICP-OES)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Performance Liquid Chromatography (HPLC)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Gas Chromatography (GC)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Microwave Digestion System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Stack Monitoring Kit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Flue Gas Analyzer",
+      "specifications": "with Gas attachments",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ambient fine dust sampler",
+      "specifications": "for PM 2.5 and PM 10",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Weather Monitoring Station",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Air Quality Modelling Facility",
+      "specifications": "with AERMOD, CALPUFF and CALROAD softwares",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Water Quality Monitoring and Assessment Laboratory",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Florescence spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Solar module analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Digital hand tachometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Air Velocity measurement",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Infrared thermometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Lux meter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermal Imaging Camera",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Pyranometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Flashpoint apparatus",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Cloud point & pour point apparatus",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High-volume sampler",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Di-gas analyser",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TOC analyser",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

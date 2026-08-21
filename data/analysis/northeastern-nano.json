@@ -1,0 +1,31 @@
+{
+  "targetId": "northeastern-nano",
+  "analyzedAt": "2026-08-20T20:02:23.312Z",
+  "vitalityScore": 85,
+  "summary": "The lab facility page has been updated to include location information for equipment and several new tools have been added. Most historical equipment is preserved, but a few items such as the Laser airborne counter and standalone FESEM/AFM entries appear modified or omitted in favor of more specific listings.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Laser airborne counter",
+      "severity": "critical",
+      "reason": "The standalone laser airborne counter was removed, though a combined laser airborne and liquid counter is now present."
+    }
+  ],
+  "added": [
+    {
+      "name": "Laser airborne and liquid counter"
+    },
+    {
+      "name": "Zeta potential measurement tool"
+    },
+    {
+      "name": "Surface energy and contact angle automated measurement"
+    }
+  ],
+  "modified": [
+    {
+      "name": "TSI CNC particle counters",
+      "change": "Resolution specification modified and a generic CNC particle counters entry added alongside the TSI model."
+    }
+  ]
+}

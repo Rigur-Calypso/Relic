@@ -1,0 +1,43 @@
+{
+  "targetId": "iitmandi-c4dfed",
+  "analyzedAt": "2026-08-20T18:47:31.257Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment items are preserved in the current list, with only location details being updated.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Transmission Electron Microscope",
+      "change": "Location updated"
+    },
+    {
+      "name": "Scanning Electron Microscope",
+      "change": "Location updated"
+    },
+    {
+      "name": "Confocal Microscope",
+      "change": "Location updated"
+    },
+    {
+      "name": "Nuclear Magnetic Resonance (NMR) Spectrometer",
+      "change": "Location updated"
+    },
+    {
+      "name": "Mass Spectrometer",
+      "change": "Location updated"
+    },
+    {
+      "name": "X-ray Photoelectron Spectrometer",
+      "change": "Location updated"
+    },
+    {
+      "name": "Infrared Spectrometer",
+      "change": "Location updated"
+    },
+    {
+      "name": "X-ray Diffractometer",
+      "change": "Location updated"
+    }
+  ]
+}

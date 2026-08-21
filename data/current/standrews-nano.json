@@ -1,0 +1,316 @@
+{
+  "targetId": "standrews-nano",
+  "name": "St Andrews",
+  "url": "https://www.st-andrews.ac.uk/chemistry/research/facilities/",
+  "scrapedAt": "2026-08-20T20:10:01.372Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Thermo LCQ Fleet",
+      "specifications": "3D quadrupole ion trap with ESI interface and Dionex u3000 HPLC",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "Sciex 4800 MALDI TOF/TOF Analyser",
+      "specifications": "MALDI TOF/TOF Analyser",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "ABSciex 5600+",
+      "specifications": "ESI MSMS mass spectrometer and Eksigent nanoflow HPLC",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "Sciex 6600",
+      "specifications": "ESI MSMS mass spectrometer and Eksigent microflow HPLC",
+      "location": "Biomedical Sciences Research Complex mass spectrometry and proteomics facility",
+      "status": ""
+    },
+    {
+      "name": "HPC cluster",
+      "specifications": "3520 cores for high-performance computing",
+      "location": "St Andrews",
+      "status": ""
+    },
+    {
+      "name": "Renishaw inVia Qontor",
+      "specifications": "Confocal Raman spectrometer with various in situ Linkam stages",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "JEOL JXA-iSP100",
+      "specifications": "Electron probe microanalyser (EPMA) with 5 wavelength dispersive X-ray spectrometers (WDS) and a panachromatic cathodoluminescence detector",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "JEOL IT200",
+      "specifications": "W-filament SEM equipped with an EDX detector",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "JEOL IT800",
+      "specifications": "FE-SEM, resolution down to ~ 1 nm, with an EDX detector and a soft X-ray emission spectrometer (SXES)",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "FEI Scios",
+      "specifications": "Dualbeam FIB/SEM with EBSD and EDX detectors",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "FEI Titan Themis",
+      "specifications": "Probe-corrected (S)TEM equipped with EDX and electron energy loss spectrometers (EELS)",
+      "location": "Electron microscopy facility",
+      "status": ""
+    },
+    {
+      "name": "Bruker EMXplus",
+      "specifications": "Continuous wave EPR spectrometer at X-band (9.5 GHz) with variable temperature capability (4 K – 500 K)",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker Elexsys E580",
+      "specifications": "Pulse EPR spectrometer at X-band (9.5 GHz) with a cryogen free variable temperature cryostat (1.5 K – 300 K) and upgrades",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermo Exactive Orbitrap",
+      "specifications": "Accurate mass service instrument with ESI and APcI/ASAP ionisation techniques",
+      "location": "Chemistry Mass Spectrometry Accurate mass service",
+      "status": ""
+    },
+    {
+      "name": "Thermo Scientific Orbitrap Exploris MX",
+      "specifications": "Mass spectrometer with Vanquish standard LC",
+      "location": "Chemistry Mass Spectrometry Accurate mass service",
+      "status": ""
+    },
+    {
+      "name": "PANalytical Empyrean diffractometers",
+      "specifications": "Powder x-ray diffractometers (three units)",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rigaku Miniflex diffractometer",
+      "specifications": "Powder x-ray diffractometer operating in reflection geometry",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Stoe diffractometer",
+      "specifications": "Double Stoe diffractometer operating in transmission, capillary mode",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Renishaw inVia Qontor",
+      "specifications": "Confocal Raman spectrometer",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rigaku XtaLAB Synergy-S",
+      "specifications": "Diffractometers (two units: one Mo radiation, one Cu), each incorporating a PhotonJet-S MAX microfocus sealed-tube X-ray source and a HyPix-Arc 100° Hybrid Photon Counting detector",
+      "location": "Single Crystal X-ray Diffraction Facility",
+      "status": ""
+    },
+    {
+      "name": "Rigaku SCX Mini",
+      "specifications": "Sealed tube generator, SHINE Optic, Mo Radiation, with Mercury CCD detector and Oxford DTC cryosystem",
+      "location": "Single Crystal X-ray Diffraction Facility",
+      "status": ""
+    },
+    {
+      "name": "Bruker Avance III 400 MHz",
+      "specifications": "HFXY spectrometer with fast MAS up to 40 kHz",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker Avance III 600 MHz",
+      "specifications": "HXY spectrometer with fast MAS up to 60 kHz",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-IV NEO 400",
+      "specifications": "NMR spectrometer with BBFO probe",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-III HD 400",
+      "specifications": "NMR spectrometer with BBFO probe",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-II 400",
+      "specifications": "NMR spectrometer with BBFO probe",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-III HD 500",
+      "specifications": "NMR spectrometer with four frequency channels and room temperature probes",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker AV-III 500",
+      "specifications": "Equipped with nitrogen-cooled Prodigy cryoprobes with direct observed (BBO) geometry",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker HD 700",
+      "specifications": "Equipped with nitrogen-cooled Prodigy cryoprobes with inverse triple resonance geometry (TXI)",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Kratos Axis Ultra DLD XPS",
+      "specifications": "Allows routine measurements, high pressure/high temperature treatments, in-situ measurements and angle resolved measurements",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "Scienta X-ray photoelectron spectrometer",
+      "specifications": "XPS allowing routine measurements and qualitative depth sampling",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "Omicron Scanning Tunnelling Microscope",
+      "specifications": "UHV variable-temperature STM",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "CreaTec Scanning Tunnelling Microscope",
+      "specifications": "UHV low-temperature (4K) STM with qPlus AFM",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "HREELS system",
+      "specifications": "UHV High Resolution Electron Energy Loss Spectroscopy system",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "TPD system",
+      "specifications": "UHV Temperature Programmed Desorption system",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "Quartz micro-balance system",
+      "specifications": "UHV quartz micro-balance system",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "Tensiometer",
+      "specifications": "Tensiometer for contact angle measurements",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "Molecular Imaging STM instruments",
+      "specifications": "Two instruments working in ambient and electrochemical environments with AFM capability",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "Nicolet Avatar FTIR spectrometers",
+      "specifications": "Two spectrometers with Specac diffuse reflectance accessory and online Hiden QMS",
+      "location": "Surface Science Facility",
+      "status": ""
+    },
+    {
+      "name": "Hiden IGA",
+      "specifications": "CO2 and N2 adsorption by gravimetric method",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Micromeritics Accupyc 1340 series Gas Pycnometer",
+      "specifications": "Measures true density by gas displacement",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Micromeritics ASAP 2020",
+      "specifications": "Accelerated Surface Area and Porosimetry System",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Micromeritics Tristar ii",
+      "specifications": "Surface Area and Porosity Instrument with VacPrep 061 Degasser",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Micromeritics 3Flex",
+      "specifications": "Surface area and microporosity analysis",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Netzsch STA 449F5 with QMS403 Mass Spec",
+      "specifications": "TGA/DTA or TGA/DSC coupled to an Aeolos Quadro mass spectrometer",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Netzsch STA 449C",
+      "specifications": "Simultaneous TG-DTA or DSC (two units)",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Stanton Redcroft STA-780",
+      "specifications": "Simultaneous TG-DTA, RT–1000°C",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Netzsch DSC 204 F1",
+      "specifications": "Differential Scanning Calorimeter, range -170°C to 600°C",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Netzsch Dilatometer DIL402C",
+      "specifications": "Thermal expansion measurement",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Jasco V650",
+      "specifications": "UV/Vis spectrometer for solid or liquid samples",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    },
+    {
+      "name": "Shimadzu IRAffinity 1S",
+      "specifications": "IR Spectrometer for solid or liquid samples",
+      "location": "Materials Characterisation Suite, rooms 217A-J",
+      "status": ""
+    }
+  ]
+}

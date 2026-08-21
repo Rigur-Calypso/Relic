@@ -1,0 +1,508 @@
+{
+  "targetId": "vit-cif",
+  "analyzedAt": "2026-08-20T20:31:38.830Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment items have been successfully preserved or updated with expanded modern details, with no significant knowledge loss observed.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Time Resolved and Steady State Photo-Luminescence Spectrometer"
+    },
+    {
+      "name": "Mercury Intrusion Porosimetry"
+    },
+    {
+      "name": "Impedance Analyzer"
+    },
+    {
+      "name": "WATER AND WASTEWATER ANALYSIS"
+    },
+    {
+      "name": "Super-DAQ Precision Temperature Scanner"
+    },
+    {
+      "name": "TECAN MULTIMODE PLATE READER"
+    },
+    {
+      "name": "ULTRASONIC ATOMIZER"
+    },
+    {
+      "name": "ELECTROSPINNING DEVICE"
+    },
+    {
+      "name": "SMART UV PRINT LITHOGRAPHY"
+    },
+    {
+      "name": "FREEZE DRYER"
+    },
+    {
+      "name": "QUANTITATIVE PCR"
+    },
+    {
+      "name": "DC Electronic Load"
+    },
+    {
+      "name": "Programmable DC Power Supply with PC Array Simulator"
+    },
+    {
+      "name": "TCP0030A Current Probe"
+    },
+    {
+      "name": "FLASH CHROMATOGRAPHY SYSTEM"
+    },
+    {
+      "name": "Source Measure Unit (SMU)"
+    },
+    {
+      "name": "Pulsed Laser Deposition (PLD)"
+    },
+    {
+      "name": "Gas Chromatography - Flame Ionization Detector (GC-FID)"
+    },
+    {
+      "name": "HPLC-PDA-MS"
+    },
+    {
+      "name": "Vibrating Sample Magnetometer"
+    },
+    {
+      "name": "ANTIGEN RETRIEVAL SYSTEM"
+    },
+    {
+      "name": "Inductively Coupled Plasma – Mass Spectrometry"
+    },
+    {
+      "name": "Inkjet printer"
+    },
+    {
+      "name": "Laser Power Bed Fusion – 3D Metal Printer"
+    },
+    {
+      "name": "Micro X-ray CT Scanner"
+    },
+    {
+      "name": "Tribo Nanoindenter"
+    },
+    {
+      "name": "R2R Slot-die coater"
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy"
+    },
+    {
+      "name": "SMART EVAPORATOR (EVAPORATOR FOR HIGH-BOILING SOLVENTS)"
+    },
+    {
+      "name": "Liquid Chromatography-Triple Quadrupole Mass Spectrometer (LC-MS/MS)"
+    },
+    {
+      "name": "Akta Prime Plus GE"
+    },
+    {
+      "name": "AKTA-Start FPLC Chromatographic system"
+    },
+    {
+      "name": "Biacore 3000"
+    },
+    {
+      "name": "Biologics LP System"
+    },
+    {
+      "name": "Electrochemical workstation"
+    },
+    {
+      "name": "Multimode Plate Reader"
+    },
+    {
+      "name": "Nanodrop"
+    },
+    {
+      "name": "Automatic Weather Station (AWS) & Ultrasonic Anemometers 3D (3D-SA)"
+    },
+    {
+      "name": "LASER PRECIPITATION MONITORING (LPM)"
+    },
+    {
+      "name": "MULTI CHANNEL ANALYSIS OF SURFACE WAVES"
+    },
+    {
+      "name": "PROFOMETER -REBAR DIAMETER AND COVER METER"
+    },
+    {
+      "name": "PROFOMETER CORROSION HALF-CELL POTENTIAL"
+    },
+    {
+      "name": "ULTRASONIC PULSE VELOCITY"
+    },
+    {
+      "name": "Ion exchange Chromatography System (DIONEX)"
+    },
+    {
+      "name": "High Performance Liquid Chromatography System – Analytical Reverse Phase"
+    },
+    {
+      "name": "Cyclic Tri axial Testing Machine"
+    },
+    {
+      "name": "Dew point Potential meter"
+    },
+    {
+      "name": "Bender Element Testing Equipment"
+    },
+    {
+      "name": "Resilient Modulus Testing System"
+    },
+    {
+      "name": "Compression Testing Machine"
+    },
+    {
+      "name": "Carbonation Test Chamber -100lit Capacity"
+    },
+    {
+      "name": "Differential GPS"
+    },
+    {
+      "name": "Drone – Avio M1"
+    },
+    {
+      "name": "LiDAR Scanner"
+    },
+    {
+      "name": "Digital CTM"
+    },
+    {
+      "name": "Computerized cum analogue universal testing machine"
+    },
+    {
+      "name": "LUMINOMETER"
+    },
+    {
+      "name": "NANODROP (BIOPHOTOMETER)"
+    },
+    {
+      "name": "RECIPROCATING WEAR TESTER"
+    },
+    {
+      "name": "SCRATCH TESTER"
+    },
+    {
+      "name": "TaKaRa PCR THERMAL CYCLER"
+    },
+    {
+      "name": "DIGITAL LIGHT PROCESSING (DLP) 3D PRINTING"
+    },
+    {
+      "name": "Automatic Film Applicator"
+    },
+    {
+      "name": "Chemiluminescence Imaging System"
+    },
+    {
+      "name": "Electroporator - Nepa Gene ELEPO21"
+    },
+    {
+      "name": "Fermentation System"
+    },
+    {
+      "name": "Viscometer – Ametek LVDV2T"
+    },
+    {
+      "name": "Microplate Spectrophotometer - Agilent BioTek Epoch"
+    },
+    {
+      "name": "UV-Vis Spectrophotometer – Agilent Cary 3500 Multicell"
+    },
+    {
+      "name": "Fermenter"
+    },
+    {
+      "name": "Mini lab SS Spray Dryer"
+    },
+    {
+      "name": "REAL-TIME PCR"
+    },
+    {
+      "name": "Fluorescence Spectroscopy"
+    },
+    {
+      "name": "NanoDrop Spectrophotometer – Thermo ND One"
+    },
+    {
+      "name": "Freeze Dryer (Lyophilizer) – Christ Alpha 1-2 LSC basic"
+    },
+    {
+      "name": "Battery Test system"
+    },
+    {
+      "name": "Multi-Zone Chemical Vapour Deposition (CVD) system"
+    },
+    {
+      "name": "Data Acquisition and Logging Multimeter System"
+    },
+    {
+      "name": "SP150 POTENTIOSTAT/GALVANOSTAT"
+    },
+    {
+      "name": "Electrochemical workstation with solar stimulator"
+    },
+    {
+      "name": "WAVECT WCU400 RT Controller"
+    },
+    {
+      "name": "Electrospinning Machine"
+    },
+    {
+      "name": "LCR METER WITH TEMPERATURE CONTROLLER"
+    },
+    {
+      "name": "Muffle Furnace"
+    },
+    {
+      "name": "Probe Station with Source Meter Unit"
+    },
+    {
+      "name": "DC & RF Magnetron Sputtering"
+    },
+    {
+      "name": "PLANETARY MONOMILL"
+    },
+    {
+      "name": "Two High Rolling Mill"
+    },
+    {
+      "name": "Variable Compression Ratio Engine"
+    },
+    {
+      "name": "Tensile Testing Frame (500 kN Capacity)"
+    },
+    {
+      "name": "Automatic Motorized Pull of Bond Strength Tester (16 kN capacity)"
+    },
+    {
+      "name": "Pipe Surge and water Hammer"
+    },
+    {
+      "name": "Flexural testing machine (200 kN capacity)"
+    },
+    {
+      "name": "Electro Chemical Workstation"
+    },
+    {
+      "name": "Compression Testing Frame (3000 kN / 500 kN Capacity)"
+    },
+    {
+      "name": "Universal Testing Machine"
+    },
+    {
+      "name": "ULTRA PURE WATER SYSTEM (PALL)"
+    },
+    {
+      "name": "Ultrasonic Pulse Velocity Tester"
+    },
+    {
+      "name": "Spectrofluorometers"
+    },
+    {
+      "name": "Concrete Surface Resistivity Meter"
+    },
+    {
+      "name": "Concrete Cover Meter & Rebar Detector/Locator"
+    },
+    {
+      "name": "Mahr Surf Surface profilometer"
+    },
+    {
+      "name": "Kruss Drop Shape Analyzer"
+    },
+    {
+      "name": "Trinocular Microscope"
+    },
+    {
+      "name": "Vickers Micro-Hardness Testing Machine"
+    },
+    {
+      "name": "High Temperature Silicon Carbide Tubular Vacuum Furnace"
+    },
+    {
+      "name": "Spectrox Sort XRF Alloy Analyzer"
+    },
+    {
+      "name": "Tinius Olsen Universal Testing Machine (UTM)"
+    },
+    {
+      "name": "High Performance Liquid Chromatography (HPLC)"
+    },
+    {
+      "name": "Lyophilizer"
+    },
+    {
+      "name": "Texture Analyzer"
+    },
+    {
+      "name": "Colour Spectrophotometer"
+    },
+    {
+      "name": "Potter Spray Tower"
+    },
+    {
+      "name": "Real Time PCR (qPCR)"
+    },
+    {
+      "name": "Insitu Sterilizable Fermentor 5 LIT"
+    },
+    {
+      "name": "Insitu Sterilizable Fermentor 14 LIT"
+    },
+    {
+      "name": "Friction Stir Welding Machine -NC"
+    },
+    {
+      "name": "Linear movement automation with pipe fixture"
+    },
+    {
+      "name": "MIG Welding Machine"
+    },
+    {
+      "name": "CRDI VCR Engine Test Setup (Computerized)"
+    },
+    {
+      "name": "FDM MD600"
+    },
+    {
+      "name": "Bomb calorimeter"
+    },
+    {
+      "name": "Servo Universal Testing Machine - Instron"
+    },
+    {
+      "name": "Chroma Power Quality Analyser PA2203A"
+    },
+    {
+      "name": "DSPACE 1104"
+    },
+    {
+      "name": "Keysight MSOx3014G"
+    },
+    {
+      "name": "Programmable DC Power Supply with solar array simulator 62050H-600S"
+    },
+    {
+      "name": "Shunt Active Filter"
+    },
+    {
+      "name": "High Temperature Furnace"
+    },
+    {
+      "name": "Thermo-Conversion Test Unit (TCTU)"
+    },
+    {
+      "name": "Quanser Aero Workstation"
+    },
+    {
+      "name": "Active Suspension System"
+    },
+    {
+      "name": "Variable DC Power supply"
+    },
+    {
+      "name": "Quanser Magnetic Levitation System"
+    },
+    {
+      "name": "Quanser Double Inverted Pendulum System"
+    },
+    {
+      "name": "High Speed GPU Workstation"
+    },
+    {
+      "name": "Fluke Ti480 PRO Thermal Imaging Camera"
+    },
+    {
+      "name": "Gas chromatography"
+    },
+    {
+      "name": "ANALYTICAL TEST STATION FOR FUEL CELL"
+    },
+    {
+      "name": "VACUUM OVEN"
+    },
+    {
+      "name": "HOT PRESS"
+    },
+    {
+      "name": "AUTOMATIC ETO STERILIZER"
+    },
+    {
+      "name": "MULTICAL CALIBRATION SYSTEM"
+    },
+    {
+      "name": "Industrial Robot II"
+    },
+    {
+      "name": "Scara Robot DRS60L"
+    },
+    {
+      "name": "Industrial Robot I"
+    },
+    {
+      "name": "Turtlebote2e Mobile Robot"
+    },
+    {
+      "name": "Universal Robot UR5"
+    },
+    {
+      "name": "Multisource Deposition System"
+    },
+    {
+      "name": "Atomic Force Microscopy (AFM)"
+    },
+    {
+      "name": "Dynamic Test System"
+    },
+    {
+      "name": "Fourier Transform Infra-Red Spectrometer"
+    },
+    {
+      "name": "Fourier Transform Infrared Spectrophotometer (FTIR)"
+    },
+    {
+      "name": "High-Performance Elemental Analyzer (CHNS Analysis)"
+    },
+    {
+      "name": "Personal Environmental Monitor (PEM)"
+    },
+    {
+      "name": "SARTORIUS ELECTRONIC BALANCE"
+    },
+    {
+      "name": "Infrared Microscope"
+    },
+    {
+      "name": "Brunauer-Emmett-Teller (BET)"
+    },
+    {
+      "name": "High Temperature Servo Hydraulic Fatigue Test System"
+    },
+    {
+      "name": "Gas sensing instrument"
+    },
+    {
+      "name": "PCB Milling Machine"
+    },
+    {
+      "name": "GC-TCD Chromatography"
+    },
+    {
+      "name": "Total Kjeldahl Nitrogen (TKN) Analyser"
+    },
+    {
+      "name": "Electro Spinning Unit"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Displacement Controlled Hydraulic Jack with Loading Frame",
+      "change": "Renamed to Hydraulic Column Testing System"
+    }
+  ]
+}

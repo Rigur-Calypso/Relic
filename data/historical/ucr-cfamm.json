@@ -1,0 +1,39 @@
+{
+  "targetId": "ucr-cfamm",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cfamm.ucr.edu/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T20:01:48.826Z",
+  "equipment": [
+    {
+      "name": "STEM Titan Themis",
+      "specifications": "",
+      "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+      "status": ""
+    },
+    {
+      "name": "TEM Talos 120",
+      "specifications": "",
+      "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+      "status": ""
+    },
+    {
+      "name": "FIB/SEM Quanta 200i",
+      "specifications": "",
+      "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+      "status": ""
+    },
+    {
+      "name": "SEM NNS450",
+      "specifications": "",
+      "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+      "status": ""
+    },
+    {
+      "name": "SEM Mira3",
+      "specifications": "",
+      "location": "Central Facility for Advanced Microscopy and Microanalysis (CFAMM)",
+      "status": ""
+    }
+  ]
+}

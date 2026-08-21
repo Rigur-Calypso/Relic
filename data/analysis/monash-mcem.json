@@ -1,0 +1,48 @@
+{
+  "targetId": "monash-mcem",
+  "analyzedAt": "2026-08-20T20:26:49.683Z",
+  "vitalityScore": 65,
+  "summary": "The lab facility has added several new advanced instruments such as the Thermo Scientific Spectra Ultra FEGTEM, Thermo Scientific Talos F200i FEGTEM, JEOL IT800 SHL FEGSEM, and Tescan Clara/NewTec In-Situ FEGSEM. However, notable legacy equipment such as the FEI Tecnai G2 F20 S-TWIN TEM, FEI Tecnai G2 T20 TWIN TEM, and JEOL JSM-7001F FEGSEM have been removed, resulting in a moderate loss of historical capability and knowledge.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "FEI Tecnai G2 F20 S-TWIN TEM",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list"
+    },
+    {
+      "name": "FEI Tecnai G2 T20 TWIN TEM",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list"
+    },
+    {
+      "name": "JEOL JSM-7001F FEGSEM",
+      "severity": "critical",
+      "reason": "Instrument removed from current equipment list"
+    }
+  ],
+  "added": [
+    {
+      "name": "Thermo Scientific Spectra Ultra FEGTEM"
+    },
+    {
+      "name": "Thermo Scientific Talos F200i FEGTEM"
+    },
+    {
+      "name": "JEOL IT800 SHL FEGSEM"
+    },
+    {
+      "name": "Tescan Clara/NewTec In-Situ FEGSEM"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Thermo Scientific Spectra φ FEGTEM",
+      "change": "Updated name to Thermo Scientific Spectra Ά FEGTEM and added location details"
+    },
+    {
+      "name": "Double-corrected FEI Titan3 80-300 FEGTEM",
+      "change": "Updated specifications text and added location details"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "targetId": "stuttgart-mpg",
+  "analyzedAt": "2026-08-20T20:08:22.645Z",
+  "vitalityScore": 95,
+  "summary": "The lab facility page shows overall equipment expansion with several new tools added, minor restructuring of specifications, and the absorption of the standalone Cryo-Stage into specific microscope listings without actual hardware loss.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Cryo-Stage",
+      "severity": "minor",
+      "reason": "Integrated into the specifications of the Scanning Electron Microscope and SEM-FIB listings rather than appearing as a standalone entry."
+    }
+  ],
+  "added": [
+    {
+      "name": "Diamond Scratcher"
+    },
+    {
+      "name": "Diamond Wire Saw"
+    },
+    {
+      "name": "Argon Ion Polisher"
+    },
+    {
+      "name": "Argon Ion Surface and Cross Section Polisher"
+    },
+    {
+      "name": "Needle Probe Station"
+    },
+    {
+      "name": "Argon Gloveboxes"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Scanning Electron Microscope Combined with Focused Ion Beam",
+      "change": "Added integrated Cryo-Stage specifications."
+    },
+    {
+      "name": "Scanning Electron Microscopes",
+      "change": "Added detailed manufacturer and accessory information for EBSD, Micromanipulation Tools, and Cryo-Stage."
+    },
+    {
+      "name": "ICP-RIE",
+      "change": "Split and re-categorized Sentech SI 500 into a separate or modified entry."
+    }
+  ]
+}

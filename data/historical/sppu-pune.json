@@ -1,0 +1,75 @@
+{
+  "targetId": "sppu-pune",
+  "snapshotUrl": "http://web.archive.org/web/20231215053543/http://cif.unipune.ac.in/",
+  "snapshotTimestamp": "20231215053543",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T20:39:00.248Z",
+  "equipment": [
+    {
+      "name": "NMR 500 MHz",
+      "specifications": "Nuclear Magnetic Resonance (Liquid State 500MHz)",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "LCMSMS",
+      "specifications": "Liquid Chromatography Mass Spectrometer (LCMSMS)",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "GCMSMS",
+      "specifications": "Gas Chromatography Mass Spectrometer (GCMSMS)",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "FESEM-EDS",
+      "specifications": "Field Emission Scanning Electron Microscopy (FESEM) - Energy Dispersive Spectroscopy (EDS)",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "CD Spectropolarimeter",
+      "specifications": "Circular Dichroism Spectropolarimeter with stopped flow",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X'RD",
+      "specifications": "Single Crystal X’Ray Diffractometer",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "Confocal Microscope",
+      "specifications": "Confocal Microscope",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "Thermophoresis",
+      "specifications": "",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "ICPMS-LA",
+      "specifications": "Inductively Coupled Plasma Mass Spectrometry with Laser Ablation",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "PPMS",
+      "specifications": "Physical Properties Measurements System",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    },
+    {
+      "name": "AFM",
+      "specifications": "Atomic Force Microscopy",
+      "location": "Central Instrumentation Facility, Savitribai Phule Pune University",
+      "status": ""
+    }
+  ]
+}

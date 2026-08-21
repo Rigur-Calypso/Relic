@@ -1,0 +1,10 @@
+{
+  "targetId": "mcgill-nano",
+  "analyzedAt": "2026-08-20T20:27:12.010Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

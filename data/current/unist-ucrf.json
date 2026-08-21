@@ -1,0 +1,58 @@
+{
+  "targetId": "unist-ucrf",
+  "name": "UNIST",
+  "url": "https://ucrf.unist.ac.kr/",
+  "scrapedAt": "2026-08-20T20:11:38.862Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Photoactivated localization microscopy_Super Resolution",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "600 MHz FT-NMR (Solid)",
+      "specifications": "600 MHz",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Titan G2(투과전자현미경4_Advanced TEM)",
+      "specifications": "Advanced TEM",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-beam lithography",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GC/HRMS",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CNC 5-Axes Machining",
+      "specifications": "5-Axes",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "7T MRI Scanner for rodent models",
+      "specifications": "7T",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Varian 600 MHz FT-NMR(Solid)",
+      "specifications": "600 MHz",
+      "location": "",
+      "status": "not working"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "targetId": "iiserb-cif",
+  "snapshotUrl": "http://web.archive.org/web/20240229210424/https://www.iiserb.ac.in/cif/other_facility",
+  "snapshotTimestamp": "20240229210424",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T18:49:34.650Z",
+  "equipment": [
+    {
+      "name": "Size Exclusion Chromatography",
+      "specifications": "An Agilent PL-GPC50 Plus Integrated SEC/GPC system with triple detectors (RI, PL-BV 400 viscometer and PL-RTLS dual angle light scattering).",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Dynamic Light Scattering / Zeta Potential Measurement",
+      "specifications": "The Ultrafast Laser system is capable of carrying out Transient Absorption and Fluorescence Up-conversion experiments. The Transient Absorption Laser System: Spitfire Ti:Sapphire regenerative ultrafast amplifier system delivers 120 fs pulses in the wavelength range of 780-120 nm with an average pulse/energy of 4mJ at a repetition rate of 1KHz. Further, output of the regenerative amplifier is coupled to Optical Parametric Amplifier, TOPAS to extend the wavelength tunability from 400-2000nm.The Fluorescence Up-conversion Laser System: Fluorescence Up-conversion, also known as fluorescence sum frequency generation, works on the principle of frequency mixing of fluorescence, originating from a fluorescent molecule upon excitation by an ultra-short pump pulse, with another ultra-short probe laser pulse. The fundamental for the Up-conversion is taken from MAITAI laser (Spectra Physics, ~120 fs, 80 MHz, 2.5 W at 800 nm) can be frequency doubled and is used to excite the sample and the frequency mixing is performed in a non-linear optical crystal, e.g. BBO (̢-Borium Borate). The time evolution of the fluorescence is obtained by delaying the probe pulse using a mechanical delay stage. This technique of Fluorescence Up-conversion is used to study photo-physical properties of excited states.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermogravimetric Analyzer",
+      "specifications": "Scanning rates from 0.1 to 200C/min Temperature range 15C to 1000C.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Isothermal Titration Calorimeter",
+      "specifications": "TA Instruments Nano ITC, differential power compensation design, effective cell volume of gold cells is 190 L, temperature range 2  800C, injection syringe capacity 50 L, stirring rate 150  400 rpm.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Differential Scanning Calorimeter",
+      "specifications": "Temperature range -100 C to 450 C (having intra-cooler facility) Controlled heating rate 0.01 to 100 C/min.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CHNSO Analyzer",
+      "specifications": "Fully Automated PC controlled Elemental Analyser for Solids, Liquid and liquid volatile samples. Operating modes for measurement of CHNS, CHN CNS, S, Trace S and O-TCD and Cl separately.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope",
+      "specifications": "Agilent 5500 AFM/SPM capable of Contact mode AFM, Lateral Force Mode (LFM), Resonant Mode AFM, Phase Imaging, Force Modulation Microscopy, Scanning Kelvin Probe Microscopy (SKM), Magnetic Force Mode and Electrostatic Force Mode (MFM/ EFM), Scanning Tunneling Microscopy. Heating stage up to 1500C.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "BET Surface Area Measurement",
+      "specifications": "Volumetric gas adsorption method with automated real time dead volume measurement. Measures surface area from 0.01m2/g and above (N2/77K), 0.0005 m2/g and above (Kr/77K). Measures pore size ranging from 0.32 - 500 nm in pore diameter.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Superconducting Quantum Interference Device",
+      "specifications": "Vibrating Sample Magnetometer with the sensitivity of a SQUID magnetometer, equipped with a Pulse Tube Cooler which eliminates the need for liquid cryogens.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "High Resolution (HR) Raman Microspectrometer",
+      "specifications": "Integrated Raman system that includes a confocal microscope, a large focal length (~800mm) Czerny-Turner type achromatic spectrograph with spectral resolution of 0.4 cm-1/pixel operating at the spectral range of 2001050nm, source of excitation is 632.8 nm, air cooled He-Ne laser.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "EPR",
+      "specifications": "X and Q-band capable instrument. Variable temperature accessories for both liquid nitrogen and liquid helium temperatures. ENDOR accessories included.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rheometer",
+      "specifications": "Model MCR-102 by Anton Paar with parallel plate (PP50), cone and plate (CP25-1, CP50-1, CP50- 2), and concentric cylinder (CC27) geometries. Air-bearing-supported synchronous EC, steel frame optimized for mechanical and thermal stiffness.",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

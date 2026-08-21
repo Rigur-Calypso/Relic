@@ -1,0 +1,10 @@
+{
+  "targetId": "warwick-rtp",
+  "analyzedAt": "2026-08-20T20:09:43.720Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

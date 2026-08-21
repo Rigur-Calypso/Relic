@@ -1,0 +1,84 @@
+{
+  "targetId": "iiserb-cif",
+  "analyzedAt": "2026-08-20T18:49:42.225Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment items have been successfully preserved and are present in the current equipment list, with several items receiving additional specifications, location data, or supplementary entries.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Gel Permeation Chomatographer"
+    },
+    {
+      "name": "Thermogravimetric Analyser"
+    },
+    {
+      "name": "Isothermal Titration Calorimeter"
+    },
+    {
+      "name": "Differential Scanning Calorimeter"
+    },
+    {
+      "name": "Elemental Analyser, CHNSO"
+    },
+    {
+      "name": "Surface Area And Gas And Vapour Adsorption Measurement Instrument"
+    },
+    {
+      "name": "Superconducting Quantum Interference Device Magnetometer"
+    },
+    {
+      "name": "Ellipsometry"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Size Exclusion Chromatography",
+      "change": "Added location information and slightly formatted specification text."
+    },
+    {
+      "name": "Dynamic Light Scattering / Zeta Potential Measurement",
+      "change": "Added location information and condensed specification text."
+    },
+    {
+      "name": "Thermogravimetric Analyzer",
+      "change": "Added location information."
+    },
+    {
+      "name": "Isothermal Titration Calorimeter",
+      "change": "Added location information and minor text adjustments in specifications."
+    },
+    {
+      "name": "Differential Scanning Calorimeter",
+      "change": "Added location information and minor formatting in specifications."
+    },
+    {
+      "name": "CHNSO Analyzer",
+      "change": "Added location information."
+    },
+    {
+      "name": "Atomic Force Microscope",
+      "change": "Added location information."
+    },
+    {
+      "name": "BET Surface Area Measurement",
+      "change": "Added location information and slightly refined text."
+    },
+    {
+      "name": "Superconducting Quantum Interference Device",
+      "change": "Updated name slightly and added location information."
+    },
+    {
+      "name": "High Resolution (HR) Raman Microspectrometer",
+      "change": "Added location information and slightly condensed specifications."
+    },
+    {
+      "name": "EPR",
+      "change": "Added location information and condensed specification phrasing."
+    },
+    {
+      "name": "Rheometer",
+      "change": "Added location information and shortened specifications text."
+    }
+  ]
+}

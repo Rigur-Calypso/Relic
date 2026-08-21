@@ -1,21 +1,10 @@
 {
   "targetId": "unc-chanl",
-  "analyzedAt": "2026-08-20T18:06:10.640Z",
-  "vitalityScore": 0,
-  "summary": "All historical equipment, including the High Resolution S/TEM and AFM-IR, has been removed from the current facility listing.",
-  "knowledgeLoss": true,
-  "removed": [
-    {
-      "name": "High Resolution S/TEM",
-      "severity": "critical",
-      "reason": "Entire instrument removed from the current list."
-    },
-    {
-      "name": "AFM-IR",
-      "severity": "critical",
-      "reason": "Entire instrument removed from the current list."
-    }
-  ],
+  "analyzedAt": "2026-08-20T20:21:06.958Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
   "added": [],
   "modified": []
 }

@@ -1,0 +1,15 @@
+{
+  "targetId": "oxford-dmc",
+  "analyzedAt": "2026-08-20T20:06:45.732Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment remains listed in the current inventory, with only minor formatting changes in the specifications for the plasma cleaner.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Fischione 1020 plasma cleaner",
+      "change": "Moved specification 'x2' into the item name string as '(x2)'"
+    }
+  ]
+}

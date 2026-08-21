@@ -2,7 +2,7 @@
 
 Two artifacts to submit: a **GitHub repo** (everything you built) and a **live link**
 (the interactive dashboard). The dashboard deploys as a **static site** — it reads the
-22-lab JSON baked into the build, so no backend/API keys are exposed publicly. (Locally,
+101-lab JSON baked into the build, so no backend/API keys are exposed publicly. (Locally,
 the same build auto-detects the Express backend and enables the live Scrape/Heal/Analyze
 buttons.)
 
@@ -38,7 +38,7 @@ needed.
    - Output: `src/frontend/dist`
 3. Click **Deploy**. You'll get a URL like `https://relic-<you>.vercel.app`.
 
-That URL is your submission link. It shows all 22 labs, vitality scores, and the semantic
+That URL is your submission link. It shows all 101 labs, vitality scores, and the semantic
 diffs. Re-running the pipeline locally + `git push` will auto-redeploy with fresh data.
 
 > Netlify works too: New site from Git → same build command → publish dir `src/frontend/dist`.
@@ -64,6 +64,6 @@ calls and need your keys.
 
 | Link | Shows |
 |------|-------|
-| **GitHub repo** | Full pipeline, the multi-key Gemini rotation engine, Wayback-through-Bright-Data, all 22 analyses, `README.md`, `Finasco.txt` (problem log) |
-| **Vercel link** | Interactive dashboard: 22 labs, 8 knowledge-loss cases, click-through semantic diffs |
+| **GitHub repo** | Full pipeline, the multi-key Gemini rotation engine, Wayback-through-Bright-Data, all 101 analyses, `README.md`, `Finasco.txt` (problem log) |
+| **Vercel link** | Interactive dashboard: 101 labs, 28 knowledge-loss cases, click-through semantic diffs |
 | **Demo video** | The live self-heal + "scraper healthy, knowledge lost" punchline |

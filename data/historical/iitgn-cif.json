@@ -1,0 +1,105 @@
+{
+  "targetId": "iitgn-cif",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://iitgn.ac.in/cif/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:46:39.455Z",
+  "equipment": [
+    {
+      "name": "Bio-AFM",
+      "specifications": "Label free imaging of biological molecules at the nanoscale, Molecules like DNA/proteins/lipids and soft materials with ultra-high resolution",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Advanced Analytical FE-SEM",
+      "specifications": "Surface microstructure and feature analysis, High-speed elemental and crystallographic mapping",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Scanning Electron Microscope (FE-SEM)",
+      "specifications": "Visualization of surface morphology, estimation of particle size and size distribution, basic elemental analysis",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma (ICP-MS)",
+      "specifications": "Heavy metal detection in various samples, detection of metals in the blood, etc.",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma (ICP-OES)",
+      "specifications": "Heavy metal detection in various samples, detection of metals in the blood, etc.",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Matrix Associated LASER desorption Ionization- Time of Flight (MALDI-TOF)",
+      "specifications": "Proteomics research, Bio-marker discovery",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Liquid Chromatography-Mass spectrometer (LC-MS)",
+      "specifications": "Molecular weight information about each chromatographic peak",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-Ray Diffractometer (SCXRD)",
+      "specifications": "Evaluation of crystal structure of compounds",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "X-Ray Diffractometer (XRD)",
+      "specifications": "Crystallinity, crystal structure, and percent phase composition",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Multipurpose XRD",
+      "specifications": "Powder XRD, Thin Film XRD with variable tempreture (1100°C) small angle xray scattering",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscope",
+      "specifications": "Model: Themis 300 G3. Diffraction, Phase and Z contrast Imaging up to atomic length scale and EDS defectors for elemental analysis.",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Nuclean Magnetic Resonance (NMR)",
+      "specifications": "Structural elucidation of compounds",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Confocal Microscope",
+      "specifications": "Live cell imagining, FRET assays, Expression analysis using fluorescent probes",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Circular Dichroism Spectrometer",
+      "specifications": "Air cooled 150W Xenon lamp, highest Signal-to-Noise ratio.",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "DLS/ZETA Sizer",
+      "specifications": "The sensitivity to measure small and dilute samples",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    },
+    {
+      "name": "Flow Cytometer",
+      "specifications": "Provides a powerful, sensitive and unmatched technique for monitoring different populations of biomolecules",
+      "location": "Central Instrumentation Facility (CIF), IIT Gandhinagar",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "targetId": "iitmandi-c4dfed",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://amrc.iitmandi.ac.in/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:47:24.443Z",
+  "equipment": [
+    {
+      "name": "Transmission Electron Microscope",
+      "specifications": "",
+      "location": "Microscopy Facilities",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope",
+      "specifications": "",
+      "location": "Microscopy Facilities",
+      "status": ""
+    },
+    {
+      "name": "Confocal Microscope",
+      "specifications": "",
+      "location": "Microscopy Facilities",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance (NMR) Spectrometer",
+      "specifications": "",
+      "location": "Spectroscopy and Analytical Chemistry Facilities",
+      "status": ""
+    },
+    {
+      "name": "Mass Spectrometer",
+      "specifications": "",
+      "location": "Spectroscopy and Analytical Chemistry Facilities",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectrometer",
+      "specifications": "",
+      "location": "Spectroscopy and Analytical Chemistry Facilities",
+      "status": ""
+    },
+    {
+      "name": "Infrared Spectrometer",
+      "specifications": "",
+      "location": "Spectroscopy and Analytical Chemistry Facilities",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffractometer",
+      "specifications": "",
+      "location": "X-ray and Crystallography Facilities",
+      "status": ""
+    }
+  ]
+}

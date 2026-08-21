@@ -1,0 +1,75 @@
+{
+  "targetId": "saha-scf",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.saha.ac.in/web/home-ecmpd/nmr-facilities",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T18:53:12.960Z",
+  "equipment": [
+    {
+      "name": "7 tesla cryomagnet",
+      "specifications": "BRUKER 300 UltraShield, Bore diameter 54 mm",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "variable field electromagnet",
+      "specifications": "0-2.3 tesla",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "pulsed spectrometer",
+      "specifications": "4-100 MHz, BRUKER MSL 100",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "pulsed spectrometer",
+      "specifications": "5-400 MHz, THAMWAY PROT 4103MR",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "temperature controller",
+      "specifications": "140-400 K, BRUKER",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Helium cryostats and temperature controller",
+      "specifications": "3-300 K, OXFORD",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "variable field electromagnet",
+      "specifications": "0-2.3 tesla, VARIAN, Field stabilization by Hall probe sensor, Pole gap 50 mm",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "cw spectrometer",
+      "specifications": "4-35 MHz, VARIAN WL210",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "temperature controller",
+      "specifications": "100-400 K, VARIAN",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Potentiostat/Galvanostat",
+      "specifications": "EG&G VERSASTAT II",
+      "location": "NMR Laboratory",
+      "status": ""
+    },
+    {
+      "name": "AC Resistivity and Magnetoresistance Setup",
+      "specifications": "Home Built, Temperature Range 3-300 K; Magnetic Field 0-2.3 tesla",
+      "location": "NMR Laboratory",
+      "status": ""
+    }
+  ]
+}

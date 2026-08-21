@@ -1,0 +1,35 @@
+{
+  "targetId": "iitp-cif",
+  "analyzedAt": "2026-08-20T20:29:29.410Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment is still present in the current list, with improvements in status and name descriptions.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Single Crystal X-Ray Diffractometer (SC-XRD)",
+      "change": "Status updated from under maintenance to working"
+    },
+    {
+      "name": "Physiorption/Chemisorption Analyzer",
+      "change": "Status updated from sanctioned to working"
+    },
+    {
+      "name": "Differential Scanning Calorimetry",
+      "change": "Name updated to Differential Scanning Calorimetry (DSC) and status updated from sanctioned to working"
+    },
+    {
+      "name": "Thermogravimetric Analyzer",
+      "change": "Name updated to Thermogravimetric Analyzer (TGA) and status updated from sanctioned to working"
+    },
+    {
+      "name": "Particle Size and Zeta potential Analyzer",
+      "change": "Status updated from sanctioned to working"
+    },
+    {
+      "name": "FEG Scanning electron microscope",
+      "change": "Name updated to FEG Scanning electron microscope with EDS and status updated from sanctioned"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "targetId": "monash-mcem",
+  "name": "Monash MCEM",
+  "url": "https://www.monash.edu/researchinfrastructure/mcem",
+  "scrapedAt": "2026-08-20T20:26:30.584Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Thermo Scientific Spectra Ά FEGTEM",
+      "specifications": "FEGTEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Double-corrected FEI Titan3 80-300 FEGTEM",
+      "specifications": "Double-corrected 80-300 FEGTEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Thermo Scientific Spectra Ultra FEGTEM",
+      "specifications": "Ultra FEGTEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Thermo Scientific Talos F200i FEGTEM",
+      "specifications": "F200i FEGTEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Thermo Scientific Verios 5 UC FEGSEM",
+      "specifications": "5 UC FEGSEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "FEI Nova NanoSEM 450 FEGSEM",
+      "specifications": "450 FEGSEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "JEOL IT800 SHL FEGSEM",
+      "specifications": "IT800 SHL FEGSEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Tescan Clara/NewTec In-Situ FEGSEM",
+      "specifications": "In-Situ FEGSEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "Thermo Scientific Helios 5 UX FIB-SEM",
+      "specifications": "5 UX FIB-SEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    },
+    {
+      "name": "FEI Quanta 3D FEGSEM",
+      "specifications": "3D FEGSEM",
+      "location": "Monash Centre for Electron Microscopy",
+      "status": ""
+    }
+  ]
+}

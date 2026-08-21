@@ -1,0 +1,10 @@
+{
+  "targetId": "pu-chd-cil",
+  "analyzedAt": "2026-08-20T18:52:44.510Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment items remain present in the current list. No knowledge loss has occurred.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

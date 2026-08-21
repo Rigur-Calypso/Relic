@@ -1,0 +1,58 @@
+{
+  "targetId": "iitp-cif",
+  "name": "IIT Patna",
+  "url": "https://saif.iitp.ac.in/",
+  "scrapedAt": "2026-08-20T20:29:09.315Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Single Crystal X-Ray Diffractometer (SC-XRD)",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "working"
+    },
+    {
+      "name": "High Resolution - Liquid Chromatography Mass Spectrometry (HR-LCMS)",
+      "specifications": "HPLC & UHR-TOF mass spectrometer",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "under maintenance"
+    },
+    {
+      "name": "500 MHz NMR Spectrometer",
+      "specifications": "500 MHz",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "working"
+    },
+    {
+      "name": "Physiorption/Chemisorption Analyzer",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "working"
+    },
+    {
+      "name": "Differential Scanning Calorimetry (DSC)",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "working"
+    },
+    {
+      "name": "Thermogravimetric Analyzer (TGA)",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "working"
+    },
+    {
+      "name": "Particle Size and Zeta potential Analyzer",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "working"
+    },
+    {
+      "name": "FEG Scanning electron microscope with EDS",
+      "specifications": "with EDS",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": ""
+    }
+  ]
+}

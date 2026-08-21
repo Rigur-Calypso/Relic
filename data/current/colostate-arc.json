@@ -1,0 +1,34 @@
+{
+  "targetId": "colostate-arc",
+  "name": "Colorado State",
+  "url": "https://www.research.colostate.edu/arc/",
+  "scrapedAt": "2026-08-20T20:32:35.114Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "FIB-SEM",
+      "specifications": "",
+      "location": "Analytical Resources Core (ARC)",
+      "status": "Installed"
+    },
+    {
+      "name": "Crossbeam 550 Laser FIB-SEM",
+      "specifications": "Laser FIB-SEM",
+      "location": "Analytical Resources Core (ARC)",
+      "status": ""
+    },
+    {
+      "name": "NMR",
+      "specifications": "600 MHz",
+      "location": "Analytical Resources Core (ARC)",
+      "status": ""
+    },
+    {
+      "name": "Electron Probe MicroAnalyzer",
+      "specifications": "",
+      "location": "Analytical Resources Core (ARC)",
+      "status": ""
+    }
+  ]
+}

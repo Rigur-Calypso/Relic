@@ -1,0 +1,142 @@
+{
+  "targetId": "srm-cif",
+  "name": "SRM University",
+  "url": "https://www.srmist.edu.in/research/research-wings/nrc/",
+  "scrapedAt": "2026-08-20T20:31:50.962Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "High Resolution Scanning Electron Microscope (HRSEM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron spectroscopy (XPS)",
+      "specifications": "PHI Versaprobe III",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Probe Microscopy (SPM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Quantum Efficiency measurement system",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Vibrating sample magnetometer (VSM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-Ray Diffractometer (SC-XRD)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray diffractometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-vis Spectrophotometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FT-IR spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GC-MS mass spectrometer & Gas chromatography",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LZT meter (combined LSR & LFA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermal Constant Measurement System (TC-1200RH)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Impedance Analyzer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Probe Station System T01 EC",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Pulsed Laser Deposition (PLD)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Spark Plasma Sintering (SPS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "E-beam evaporation",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "RF&DC magnetron Sputtering",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Arc melting unit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electro spinning",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ball milling unit",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope (AFM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

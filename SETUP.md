@@ -49,7 +49,13 @@ so the demo starts healthy.
 4. `npm run heal -- decoy` → **HEALTHY** again (Gemini re-extract).
 5. `npm run analyze -- decoy` → **"Knowledge Lost: Atomic Force Microscope removed."**
 
-## Pipeline results (last full run — 22 labs)
+## Pipeline results — 101 labs, 2,556 instruments, 28 knowledge-loss cases
+
+The dashboard now monitors **101 facilities** worldwide (see `targets.json`); 62 have a
+real historical diff, 39 are current-only ("no history"). The table below highlights the
+original hero cases — the full set is in the live dashboard.
+
+### Highlights
 
 Clean run on `gemini-3.6-flash` via the multi-key rotation pool. `Current`/`Historical`
 are extracted equipment counts; `0` historical = no usable Wayback capture.
@@ -79,9 +85,9 @@ are extracted equipment counts; `0` historical = no usable Wayback capture.
 | University of Hyderabad CIF | 10 | 10 | 100 | — |
 | Anna University | 28 | 28 | 95 | ⚠ minor |
 
-**22 labs, ~800+ instruments tracked, 8 genuine knowledge-loss cases.** Sites with `—`
-historical had no usable Wayback capture (rich current data only); the decoy is the
-deferred interactive target.
+**Scaled to 101 labs, 2,556 instruments tracked, 28 genuine knowledge-loss cases.** Sites
+with `—` historical had no usable Wayback capture (rich current data only); the decoy is
+the deferred interactive target.
 
 ## Operational notes (important, learned during the run)
 

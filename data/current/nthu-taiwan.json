@@ -1,0 +1,154 @@
+{
+  "targetId": "nthu-taiwan",
+  "name": "NTHU Taiwan",
+  "url": "https://nscric.site.nthu.edu.tw/p/404-1186-124139.php",
+  "scrapedAt": "2026-08-20T20:12:15.691Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "SolidNMR",
+      "specifications": "BRUKER AVANCE III 400MHz Solid NMR",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "NMR700",
+      "specifications": "VARIAN 700 NMR",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "NMR500",
+      "specifications": "Bruker AVANCE 500MHz NMR",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "HPLC/MS-MS",
+      "specifications": "VARIAN 901-MS TQ-FT Mass Spectrometer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "HRMS",
+      "specifications": "High Resolution Mass Spectrometer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "TOF-SIMS",
+      "specifications": "Time-of-Flight Secondary Ion Mass Spectrometer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "EPR",
+      "specifications": "Electron Paramagnetic Resonance Spectrometer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "FTIR",
+      "specifications": "Fourier-transform infrared spectroscopy",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "SXRD",
+      "specifications": "Single Crystal X-ray Diffractometer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "TA",
+      "specifications": "Thermal Analyzer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "HRXPS",
+      "specifications": "High-Resolution X-ray Photoelectron Spectrometer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "ICP-OES",
+      "specifications": "Inductively Coupled Plasma Optical Emission Spectrometer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "ICP-MS",
+      "specifications": "Inductively Coupled Plasma-Mass Spectrometer",
+      "location": "Chemistry",
+      "status": ""
+    },
+    {
+      "name": "FE-EPMA",
+      "specifications": "High Resolution Hyper Probe",
+      "location": "Material",
+      "status": ""
+    },
+    {
+      "name": "HPXRD",
+      "specifications": "X Ray Powder Diffractometer",
+      "location": "Material",
+      "status": ""
+    },
+    {
+      "name": "AES/ESCA",
+      "specifications": "AES/ESCA Scanning Microprobe",
+      "location": "Material",
+      "status": ""
+    },
+    {
+      "name": "ESCA",
+      "specifications": "Electron spectroscopy for chemical analysis",
+      "location": "Material",
+      "status": ""
+    },
+    {
+      "name": "UHRTEM",
+      "specifications": "Spherical-aberration Corrected Field Emission TEM",
+      "location": "Material",
+      "status": ""
+    },
+    {
+      "name": "HRTEM",
+      "specifications": "JEOL JEM-F200",
+      "location": "Material",
+      "status": ""
+    },
+    {
+      "name": "SPM",
+      "specifications": "Scanning Probe Microscopy",
+      "location": "Material",
+      "status": ""
+    },
+    {
+      "name": "HRFEGSEM",
+      "specifications": "High resolution thermal field emission scanning electron microscope",
+      "location": "Material",
+      "status": ""
+    },
+    {
+      "name": "SQUID",
+      "specifications": "Surperconducting Quantum Interference Devices Magnetometer",
+      "location": "Physical",
+      "status": ""
+    },
+    {
+      "name": "BioNMR850",
+      "specifications": "Biological Nuclear Magnetic Resonance Spectrometer 850MHz",
+      "location": "Biology",
+      "status": ""
+    },
+    {
+      "name": "HC-TEM",
+      "specifications": "High Contrast Transmission Electron Microscope",
+      "location": "Biology",
+      "status": ""
+    }
+  ]
+}

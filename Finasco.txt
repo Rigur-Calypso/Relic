@@ -182,6 +182,30 @@
             app shell (fixed header + independently scrolling columns) and added a
             "N labs monitored / M with knowledge loss" header stat.
 
+--------------------------------------------------------------------------------
+ P11. Scaling from 22 -> 101 monitored labs
+--------------------------------------------------------------------------------
+ Goal     : Push past 100 labs.
+ Method   : Two more discovery sweeps (~190 institutions total via bdata search +
+            keyword probe, zero Gemini) yielded 79 new validated pages -> 101.
+            A resumable orchestrator (scripts/run-remaining.mjs) runs
+            scrape->wayback->diff only for targets missing an analysis file, so it
+            survives interruptions and quota ceilings.
+ Quota    : The full run needed ~250 Gemini calls — more than one model's 7x20=140
+            free-tier ceiling. Hit the cap on gemini-3.6-flash mid-run; the NEW
+            per-model quota tracking (gemini.js) let the SAME 7 keys keep going on
+            gemini-flash-lite-latest (its own 140-call bucket). Finished all 101
+            in-day across both models.
+ Data-qual: Fixed a real bug — when a live scrape extracts 0 (or a thin landing
+            page), the diff would falsely report "total knowledge loss". Added a
+            guard in diff.js (empty current -> skip) and suppressed 2 thin-scrape
+            artifacts (Harvard CNS, Northwestern NUANCE) that mislabeled loss.
+ Speed    : archive.org's availability API always 429s from one IP; removed its
+            slow backoff so wayback drops straight to the Bright-Data-proxied
+            redirect. Made make-static-data.mjs skip unparseable files so a push
+            during an active run can never break the Vercel build.
+ Result   : 101 labs, 2,556 instruments, 62 real diffs, 28 knowledge-loss cases.
+
 ================================================================================
  SUMMARY OF OPEN ITEMS
    - P6: cense-iisc has no usable Wayback capture (rich current data only).

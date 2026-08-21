@@ -1,16 +1,10 @@
 {
   "targetId": "uci-inrf",
-  "analyzedAt": "2026-08-20T18:01:22.811Z",
-  "vitalityScore": 0,
-  "summary": "The SPTS APS PM etching tool documented in the historical record is completely absent from the current equipment list, representing a total loss of equipment information.",
-  "knowledgeLoss": true,
-  "removed": [
-    {
-      "name": "SPTS APS PM",
-      "severity": "critical",
-      "reason": "Instrument was completely removed from the current equipment list."
-    }
-  ],
+  "analyzedAt": "2026-08-20T20:21:06.836Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
   "added": [],
   "modified": []
 }

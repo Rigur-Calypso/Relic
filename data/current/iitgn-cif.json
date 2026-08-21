@@ -1,0 +1,154 @@
+{
+  "targetId": "iitgn-cif",
+  "name": "IIT Gandhinagar",
+  "url": "https://iitgn.ac.in/cif/",
+  "scrapedAt": "2026-08-20T18:46:22.398Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "GPC",
+      "specifications": "1500 Series HPLC Pumps equipped with Refractive Index (RI), Evaporative Light Scattering (ELSD), and UV detectors for polymer characterization, protein and biopolymer analysis, drug formulation studies, and industrial quality control.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FTIR (INVENIO S)",
+      "specifications": "High-sensitivity FTIR measurements with ATR for rapid qualitative analysis. Supports solid, liquid, powder, and film samples with high spectral resolution and signal stability.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bio-AFM",
+      "specifications": "Label free imaging of biological molecules at the nanoscale, Molecules like DNA/proteins/lipids and soft materials with ultra-high resolution",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Advanced Analytical FE-SEM",
+      "specifications": "Surface microstructure and feature analysis, High-speed elemental and crystallographic mapping",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Field Emission Scanning Electron Microscope (FE-SEM)",
+      "specifications": "Visualization of surface morphology, estimation of particle size and size distribution, basic elemental analysis",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma (ICP-MS)",
+      "specifications": "Heavy metal detection in various samples, detection of metals in the blood, etc.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma (ICP-OES)",
+      "specifications": "Heavy metal detection in various samples, detection of metals in the blood, etc.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Matrix Associated LASER desorption Ionization- Time of Flight (MALDI-TOF)",
+      "specifications": "Proteomics research, Bio-marker discovery",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Liquid Chromatography-Mass spectrometer (LC-MS)",
+      "specifications": "Molecular weight information about each chromatographic peak",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-Ray Diffractometer (SCXRD)",
+      "specifications": "Evaluation of crystal structure of compounds",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-Ray Diffractometer (XRD)",
+      "specifications": "Crystallinity, crystal structure, and percent phase composition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Multipurpose XRD",
+      "specifications": "Powder XRD, Thin Film XRD with variable tempreture (1100°C) small angle xray scattering",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscope (Model: Themis 300 G3)",
+      "specifications": "Diffraction, Phase and Z contrast Imaging up to atomic length scale and EDS defectors for elemental analysis.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nuclean Magnetic Resonance (NMR)",
+      "specifications": "Structural elucidation of compounds",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Confocal Microscope",
+      "specifications": "Live cell imagining, FRET assays, Expression analysis using fluorescent probes",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Circular Dichroism Spectrometer",
+      "specifications": "Air cooled 150W Xenon lamp, highest Signal-to-Noise ratio.",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DLS/ZETA Sizer",
+      "specifications": "The sensitivity to measure small and dilute samples",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Flow Cytometer",
+      "specifications": "Provides a powerful, sensitive and unmatched technique for monitoring different populations of biomolecules",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PPMS",
+      "specifications": "A cryogenic system that can measure both electrical and magnetic properties",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Micro XCT",
+      "specifications": "Internal crack detection, crack propagation checkup, Porous structure analysis, Reverse engineering of mechanical tools",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy (XPS)",
+      "specifications": "Elemental composition of surface and quantification of there relative concentrations with some limitations, Chemical states of elements, Sputter depth profiling",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Wafer Probe Station",
+      "specifications": "Optical Microscope with Zooming Capability, Locking roll out stage, Easy on wafer navigation",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Universal Testing Machine",
+      "specifications": "Creep and stress relaxation tests, orce and strain controlled tension, compression, 3 point bending tests",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Confocal Raman Spectrometer",
+      "specifications": "Spectrograph equipped with a research-grade microscope capable of producing Raman wavenumber transfer 50 to 4000 cm-1 and PL (330 nm to 1.6 microns)",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

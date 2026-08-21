@@ -1,0 +1,10 @@
+{
+  "targetId": "melbourne-mcn",
+  "analyzedAt": "2026-08-20T20:25:46.895Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

@@ -1,0 +1,65 @@
+{
+  "targetId": "nit-rourkela",
+  "analyzedAt": "2026-08-20T20:15:09.418Z",
+  "vitalityScore": 35,
+  "summary": "Comparing the historical and current equipment lists shows significant turnover in the facility. Key instruments like the Transmission Electron Microscope, Scanning Electron Microscope, BET Surface Area Analyzer, and Single Crystal X-ray Diffractometer were removed. The High-Resolution Mass Spectrometer remains, while the X-ray Diffractometer appears to have been updated to a Multipurpose X-Ray Diffraction System. Several new instruments such as the Rheometer, NMR, and Fermentor have been added.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Transmission Electron Microscope",
+      "severity": "critical",
+      "reason": "Instrument completely removed from the current equipment inventory."
+    },
+    {
+      "name": "Scanning Electron Microscope",
+      "severity": "critical",
+      "reason": "Instrument completely removed from the current equipment inventory."
+    },
+    {
+      "name": "BET Surface Area Analyzer",
+      "severity": "critical",
+      "reason": "Instrument completely removed from the current equipment inventory."
+    },
+    {
+      "name": "Single Crystal X-ray Diffractometer",
+      "severity": "critical",
+      "reason": "Instrument completely removed from the current equipment inventory."
+    }
+  ],
+  "added": [
+    {
+      "name": "Rheometer for Asphalt"
+    },
+    {
+      "name": "Rotary Vacuum Evaporator"
+    },
+    {
+      "name": "Nuclear Magnetic Resonance Spectrometer"
+    },
+    {
+      "name": "UV-Vis Spectrophotometer"
+    },
+    {
+      "name": "FARO-Gage"
+    },
+    {
+      "name": "Fermentor & Bioreactor"
+    },
+    {
+      "name": "Wavelength Dispersive X-Ray Fluorescence Spectroscopy (WDXRF)"
+    },
+    {
+      "name": "Laser Scanning Confocal Microscope (LSCM)"
+    }
+  ],
+  "modified": [
+    {
+      "name": "X-ray Diffractometer",
+      "change": "Upgraded or replaced by Multipurpose X-Ray Diffraction System with detailed specifications."
+    },
+    {
+      "name": "High-Resolution Mass Spectrometer",
+      "change": "Retained in the facility with updated location details."
+    }
+  ]
+}

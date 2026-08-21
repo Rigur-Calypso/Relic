@@ -1,0 +1,57 @@
+{
+  "targetId": "iitp-cif",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://saif.iitp.ac.in/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-20T20:29:23.277Z",
+  "equipment": [
+    {
+      "name": "Single Crystal X-Ray Diffractometer (SC-XRD)",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "under maintenance"
+    },
+    {
+      "name": "High Resolution - Liquid Chromatography Mass Spectrometry (HR-LCMS)",
+      "specifications": "HPLC & UHR-TOF mass spectrometer",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "under maintenance"
+    },
+    {
+      "name": "500 MHz NMR Spectrometer",
+      "specifications": "500 MHz",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "working"
+    },
+    {
+      "name": "Physiorption/Chemisorption Analyzer",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "sanctioned"
+    },
+    {
+      "name": "Differential Scanning Calorimetry",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "sanctioned"
+    },
+    {
+      "name": "Thermogravimetric Analyzer",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "sanctioned"
+    },
+    {
+      "name": "Particle Size and Zeta potential Analyzer",
+      "specifications": "",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "sanctioned"
+    },
+    {
+      "name": "FEG Scanning electron microscope",
+      "specifications": "with EDS",
+      "location": "SAIF IIT Patna, Science Block-4, Ground Floor, Bihta-801106, Patna, Bihar",
+      "status": "sanctioned"
+    }
+  ]
+}

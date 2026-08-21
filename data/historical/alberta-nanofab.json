@@ -1,0 +1,33 @@
+{
+  "targetId": "alberta-nanofab",
+  "snapshotUrl": "http://web.archive.org/web/20240110085753/https://www.nanofab.ualberta.ca/",
+  "snapshotTimestamp": "20240110085753",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-20T20:27:32.640Z",
+  "equipment": [
+    {
+      "name": "Bruker D8D+",
+      "specifications": "SAXS, GI-SAXS, WAXS",
+      "location": "",
+      "status": "Available"
+    },
+    {
+      "name": "nGauge AFM",
+      "specifications": "AFM",
+      "location": "",
+      "status": "Available"
+    },
+    {
+      "name": "S/TEM",
+      "specifications": "In-situ heating, Imaging, Diffraction and EDX",
+      "location": "",
+      "status": "Available"
+    },
+    {
+      "name": "Bruker D8D plus",
+      "specifications": "XRD, XRR, GI-SAXS/GI-WAXS and SAXS",
+      "location": "",
+      "status": "Operational"
+    }
+  ]
+}

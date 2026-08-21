@@ -1,0 +1,52 @@
+{
+  "targetId": "iowastate-mario",
+  "name": "Iowa State",
+  "url": "https://www.biotech.iastate.edu/marl/",
+  "scrapedAt": "2026-08-20T20:36:10.115Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "specifications": "",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "Energy Dispersive X-ray Spectrometer (EDS)",
+      "specifications": "",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffractometer (XRD)",
+      "specifications": "",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "Small-angle X-ray Scattering (SAXS) instrument",
+      "specifications": "",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectrometer (XPS)",
+      "specifications": "",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "Thermogravimetric analyzer (TGA)",
+      "specifications": "",
+      "location": "23 Town Engineering",
+      "status": ""
+    },
+    {
+      "name": "X-ray fluorescence spectrometer (XRF)",
+      "specifications": "",
+      "location": "23 Town Engineering",
+      "status": ""
+    }
+  ]
+}

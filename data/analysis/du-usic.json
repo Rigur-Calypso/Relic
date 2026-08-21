@@ -1,0 +1,19 @@
+{
+  "targetId": "du-usic",
+  "analyzedAt": "2026-08-20T18:51:39.707Z",
+  "vitalityScore": 95,
+  "summary": "The lab facility page mostly retains its historical equipment list with a few updates, including the addition of an AFM Machine and improved specification details for the Dynamic Light Scattering equipment. No critical equipment losses were identified.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "AFM Machine"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Dynamic Light Scattering (Horiba)",
+      "change": "Added specification details for Horiba"
+    }
+  ]
+}

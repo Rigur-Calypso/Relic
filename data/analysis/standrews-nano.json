@@ -1,0 +1,86 @@
+{
+  "targetId": "standrews-nano",
+  "analyzedAt": "2026-08-20T20:10:36.155Z",
+  "vitalityScore": 85,
+  "summary": "Comparison between the historical and current equipment lists shows significant updates and modernization in several facilities, such as the addition of advanced X-ray diffractometers, newer mass spectrometers, and updated electron microscopes. However, some specific older instruments (e.g., several specific thermal analysis units and older crystallography generators like Rigaku FRX/MM007) were removed or replaced.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Waters LCT ESI mass spectrometer",
+      "severity": "critical",
+      "reason": "Instrument no longer present on the current equipment list."
+    },
+    {
+      "name": "Micromass GCT mass spectrometer",
+      "severity": "critical",
+      "reason": "Instrument no longer listed in current mass spec inventory."
+    },
+    {
+      "name": "Rigaku FRX high brilliance rotating anode generator",
+      "severity": "critical",
+      "reason": "Replaced by newer Synergy-S systems in the crystallography suite."
+    },
+    {
+      "name": "Rigaku MM007 HF high brilliance rotating anode generator",
+      "severity": "critical",
+      "reason": "Replaced by newer Synergy-S systems in the crystallography suite."
+    },
+    {
+      "name": "Physics workshop equipment (Sodick milling/EDM, Haas, Harding)",
+      "severity": "critical",
+      "reason": "Entire physics workshop equipment section is missing from the current page."
+    }
+  ],
+  "added": [
+    {
+      "name": "Sciex 6600"
+    },
+    {
+      "name": "HPC cluster"
+    },
+    {
+      "name": "Renishaw inVia Qontor"
+    },
+    {
+      "name": "JEOL JXA-iSP100"
+    },
+    {
+      "name": "JEOL IT200"
+    },
+    {
+      "name": "JEOL IT800"
+    },
+    {
+      "name": "Thermo Scientific Orbitrap Exploris MX"
+    },
+    {
+      "name": "Rigaku XtaLAB Synergy-S"
+    },
+    {
+      "name": "Bruker AV-IV NEO 400"
+    },
+    {
+      "name": "Kratos Axis Ultra DLD XPS"
+    },
+    {
+      "name": "Micromeritics 3Flex"
+    },
+    {
+      "name": "Netzsch STA 449F5 with QMS403 Mass Spec"
+    }
+  ],
+  "modified": [
+    {
+      "name": "ABSciex 4800 MALDI TOF/TOF Analyser",
+      "change": "Renamed/updated description to Sciex 4800 MALDI TOF/TOF Analyser."
+    },
+    {
+      "name": "FEI Scios SEM",
+      "change": "Updated specifications to Dualbeam FIB/SEM with EBSD and EDX detectors."
+    },
+    {
+      "name": "Titan Themis STEM/TEM",
+      "change": "Updated naming to FEI Titan Themis."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "targetId": "kth-electrum",
   "name": "KTH",
   "url": "http://intranet.myfab.se/KTHAcreo/Resources/Alltools.aspx",
-  "scrapedAt": "2026-08-20T18:33:28.655Z",
+  "scrapedAt": "2026-08-20T20:22:02.842Z",
   "method": "ai-heal",
   "healthy": true,
   "equipment": [
@@ -10,6 +10,12 @@
       "name": "M07 Olympus/camera",
       "specifications": "Olympus Microscope",
       "location": "C-Q-Etch",
+      "status": "A"
+    },
+    {
+      "name": "4-Point",
+      "specifications": "Four Dimensions, Inc Model 280",
+      "location": "C-Anneal",
       "status": "A"
     },
     {
@@ -37,6 +43,12 @@
       "status": "A"
     },
     {
+      "name": "UVO Cleaner",
+      "specifications": "Jelight COmpany, Inc 42-220",
+      "location": "C-APL",
+      "status": "A"
+    },
+    {
       "name": "M01 Olympus",
       "specifications": "Olympus BX60M",
       "location": "C-APL-gul",
@@ -47,12 +59,6 @@
       "specifications": "LEITZ MPV-SP Thin film interferometry",
       "location": "C-Anneal",
       "status": "A"
-    },
-    {
-      "name": "Adixen Leak Detector",
-      "specifications": "Adixen HLT",
-      "location": "C-APL",
-      "status": "B"
     },
     {
       "name": "NSR i-line stepper",
@@ -73,16 +79,16 @@
       "status": "A"
     },
     {
+      "name": "ALS-stepper",
+      "specifications": "GCA/Ultratech ALS 2035 G-line",
+      "location": "C-APL-ALS",
+      "status": "E"
+    },
+    {
       "name": "M05 Nikon/auto",
       "specifications": "Nikon Microscope",
       "location": "Y-ES-lab 3390",
       "status": "A"
-    },
-    {
-      "name": "Epsilon2000 SiGe epitaxy",
-      "specifications": "ASM200 Si-epi",
-      "location": "C-Epitaxy",
-      "status": "E"
     },
     {
       "name": "Manual probstation",
@@ -97,33 +103,9 @@
       "status": "C"
     },
     {
-      "name": "Barbara",
-      "specifications": "Provac PAK 600 Coating System",
-      "location": "C-Metal-III/V",
-      "status": "D"
-    },
-    {
-      "name": "Indira",
-      "specifications": "Balzers BA 510 Thermal Evaporator",
-      "location": "C-Metal-III/V",
-      "status": "D"
-    },
-    {
       "name": "HR X-Ray",
       "specifications": "X-Ray X-Ray",
       "location": "Y-HR X-ray",
-      "status": "B"
-    },
-    {
-      "name": "MLA150_Electrum",
-      "specifications": "Heidelberg Instruments MLA150",
-      "location": "C-APL-ALS",
-      "status": "D"
-    },
-    {
-      "name": "CPD",
-      "specifications": "tousimis Automegasamdris-938",
-      "location": "C-Wet Chemistry",
       "status": "B"
     },
     {
@@ -161,6 +143,12 @@
       "specifications": "Thermco Fisher Thermo iCE 3000",
       "location": "Y-External chemistry lab",
       "status": "B"
+    },
+    {
+      "name": "Freeze Dryer",
+      "specifications": "Ilshin Lab Ilshin",
+      "location": "Albano Hus 3, 3133",
+      "status": "A"
     },
     {
       "name": "Differential scanning calorimetry (DSC)",
@@ -235,12 +223,6 @@
       "status": "A"
     },
     {
-      "name": "Läcksökaren",
-      "specifications": "Pfeifer QualyTest HLT260",
-      "location": "C-Sluss",
-      "status": "A"
-    },
-    {
       "name": "Cryogenic Probestation",
       "specifications": "Janis ST-500-UHT",
       "location": "N-Measurement",
@@ -265,28 +247,52 @@
       "status": "B"
     },
     {
-      "name": "TEK 370A 2kV/16A",
-      "specifications": "Tektronix 370A",
-      "location": "ProSemi Power Device Lab",
+      "name": "Skivthk",
+      "specifications": "Mitutoyo RDP transducer indicator E307-1",
+      "location": "C-Wet Chemistry",
       "status": "A"
     },
     {
-      "name": "IWATSU CS-5200 5kV/400A",
-      "specifications": "Iwatsu I-V 5KV 400A",
-      "location": "ProSemi Power Device Lab",
-      "status": "C"
+      "name": "Kemvåg",
+      "specifications": "? ?",
+      "location": "C-Wet Chemistry",
+      "status": "A"
     },
     {
-      "name": "Keysight B1505A w 10kV/1500A",
-      "specifications": "Keysight B5105B",
-      "location": "ProSemi Power Device Lab",
-      "status": "D"
+      "name": "M13 Nikon/camera",
+      "specifications": "Nikon Nikon",
+      "location": "C-Coherent-Wet",
+      "status": "A"
     },
     {
-      "name": "Karl Suss",
-      "specifications": "Karl Suss Mask aligner MA8/BA8",
-      "location": "C-Gul 1",
-      "status": "C"
+      "name": "M08 Leitz/camera",
+      "specifications": "Leitz Microscope with camera",
+      "location": "C-Wet Chemistry",
+      "status": "A"
+    },
+    {
+      "name": "M09 Nikon/camera",
+      "specifications": "Nikon Microsocpe with camera",
+      "location": "C-Wet Chemistry",
+      "status": "A"
+    },
+    {
+      "name": "MS01 Nikon",
+      "specifications": "Nikon Stereo microscope SMZ-2B",
+      "location": "C-Wet Chemistry",
+      "status": "A"
+    },
+    {
+      "name": "MS02 Nikon",
+      "specifications": "Nikon Stereo microscope SMZ-2T",
+      "location": "C-Coherent-Wet",
+      "status": "A"
+    },
+    {
+      "name": "M14 Olympus/camera",
+      "specifications": "Olympus BX60",
+      "location": "C-Si-metal",
+      "status": "A"
     },
     {
       "name": "AFM/SSRM",
@@ -317,6 +323,18 @@
       "specifications": "JPK Instruments Nanowizard 3",
       "location": "Albanova E1:1019A",
       "status": "C"
+    },
+    {
+      "name": "AFM/SPM CellKraft Humidifier Albanova",
+      "specifications": "CellKraft P2",
+      "location": "Albanova E1:1019A",
+      "status": "A"
+    },
+    {
+      "name": "AFM/SPM IPS Bipotentiostat Albanova",
+      "specifications": "IPS PGU-BI 1000",
+      "location": "Albanova E1:1019A",
+      "status": "A"
     },
     {
       "name": "SPM/AFM Icon Albanova",
@@ -541,7 +559,7 @@
       "status": "C"
     },
     {
-      "name": "THZ Antenna Measurement Chamber",
+      "name": "THz Antenna Measurement Chamber",
       "specifications": "MST MST Lab",
       "location": "Y-MST",
       "status": "D"

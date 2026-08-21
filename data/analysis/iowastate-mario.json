@@ -1,0 +1,39 @@
+{
+  "targetId": "iowastate-mario",
+  "analyzedAt": "2026-08-20T20:45:39.013Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment items are still present in the current equipment list, though their formatting and specification fields have been slightly reorganized.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Scanning Electron Microscope",
+      "change": "Specifications moved into the instrument name string."
+    },
+    {
+      "name": "Small-angle X-ray scattering instrument",
+      "change": "Name and specifications reformatted."
+    },
+    {
+      "name": "Energy Dispersive X-ray Spectrometer",
+      "change": "Specifications moved into the instrument name string."
+    },
+    {
+      "name": "X-ray Photoelectron Spectrometer",
+      "change": "Specifications moved into the instrument name string."
+    },
+    {
+      "name": "X-ray Diffractometer",
+      "change": "Specifications moved into the instrument name string."
+    },
+    {
+      "name": "X-ray fluorescence spectrometer",
+      "change": "Specifications moved into the instrument name string."
+    },
+    {
+      "name": "Thermogravimetric analyzer",
+      "change": "Specifications moved into the instrument name string."
+    }
+  ]
+}

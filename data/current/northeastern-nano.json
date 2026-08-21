@@ -1,0 +1,100 @@
+{
+  "targetId": "northeastern-nano",
+  "name": "Northeastern",
+  "url": "https://cmc.sites.northeastern.edu/facilities/",
+  "scrapedAt": "2026-08-20T20:02:05.583Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "CMP tool",
+      "specifications": "with end point detection",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Laser surface scanner",
+      "specifications": "200 nm resolution",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Laser airborne and liquid counter",
+      "specifications": "200 nm resolution",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "CNC particle counters",
+      "specifications": "10 nm resolution",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Zeta potential measurement tool",
+      "specifications": "down to 1 nm particles",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscope",
+      "specifications": "",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "FESEM",
+      "specifications": "",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Nanolithography System",
+      "specifications": "E-beam, AFM, capable of making structures down to 20 nm",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "TSI CNC particle counters",
+      "specifications": "2 nm resolution",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "PSIA XE150 Atomic Force Microscope",
+      "specifications": "",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Nikkon Fluorescence microscope",
+      "specifications": "",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Karl Ziess Supra 25 FESEM",
+      "specifications": "with EDS",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Surface energy and contact angle automated measurement",
+      "specifications": "",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Zygo Surface Profiler",
+      "specifications": "",
+      "location": "Egan Research Center",
+      "status": ""
+    },
+    {
+      "name": "Nanoimprint Lithography",
+      "specifications": "",
+      "location": "Egan Research Center",
+      "status": ""
+    }
+  ]
+}

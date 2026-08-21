@@ -1,0 +1,23 @@
+{
+  "targetId": "sppu-pune",
+  "analyzedAt": "2026-08-20T20:39:06.685Z",
+  "vitalityScore": 90,
+  "summary": "All major equipment items were retained between the historical and current snapshots, but minor specification details were removed for the Confocal Microscope, LCMSMS, and GCMSMS.",
+  "knowledgeLoss": true,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "LCMSMS",
+      "change": "Specifications were shortened from 'Liquid Chromatography Mass Spectrometer (LCMSMS)' to 'Liquid Chromatography Mass Spectrometer'."
+    },
+    {
+      "name": "GCMSMS",
+      "change": "Specifications were shortened from 'Gas Chromatography Mass Spectrometer (GCMSMS)' to 'Gas Chromatography Mass Spectrometer'."
+    },
+    {
+      "name": "Confocal Microscope",
+      "change": "Specifications text was removed."
+    }
+  ]
+}
