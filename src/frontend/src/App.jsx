@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState, useCallback, useRef } from 'react';
 import Cursor from './components/Cursor.jsx';
 import Globe from './components/Globe.jsx';
 import LabCard from './components/LabCard.jsx';
+import Splash from './components/Splash.jsx';
 
 const FILTERS = [
   { key: 'all', label: 'All', dot: 'var(--g2)' },
@@ -22,6 +23,7 @@ function CountUp({ to }) {
 }
 
 export default function App() {
+  const [splashDone, setSplashDone] = useState(false);
   const [labs, setLabs] = useState([]);
   const [loading, setLoading] = useState(true);
   const [live, setLive] = useState(false);
@@ -35,6 +37,7 @@ export default function App() {
   const [lookupError, setLookupError] = useState('');
   const dashRef = useRef(null);
   const lookupRef = useRef(null);
+  const onSplashDone = useCallback(() => setSplashDone(true), []);
 
   const load = useCallback(async () => {
     try {
@@ -93,7 +96,9 @@ export default function App() {
 
   return (
     <>
+      {!splashDone && <Splash onDone={onSplashDone} />}
       <Cursor />
+      <div className={`app-main ${splashDone ? 'app-in' : ''}`}>
       <div className="aurora" /><div className="orb a" /><div className="orb b" /><div className="orb c" />
 
       <nav className="nav">
@@ -180,6 +185,7 @@ export default function App() {
       </section>
 
       <footer>RELIC · the self-healing web memory — a Bright Data × Gemini pipeline monitoring {labs.length || '100+'} facilities.</footer>
+      </div>
     </>
   );
 }
