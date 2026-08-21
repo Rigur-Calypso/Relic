@@ -11,7 +11,7 @@ function facilityType(name) {
   return 'University Core';
 }
 
-export default function LabCard({ lab, live, busy, onAction, index = 0, highlighted }) {
+export default function LabCard({ lab, live, busy, anyBusy, onAction, index = 0, highlighted }) {
   const ref = useRef(null);
   const v = lab.vitalityScore;
   const color = bandColor(v);
@@ -80,7 +80,7 @@ export default function LabCard({ lab, live, busy, onAction, index = 0, highligh
           {live && (
             <div className="acts">
               {['scrape', 'heal', 'analyze'].map((k) => (
-                <button key={k} className={`act ${k === 'heal' ? 'heal' : ''}`} data-cursor disabled={!!busy}
+                <button key={k} className={`act ${k === 'heal' ? 'heal' : ''}`} data-cursor disabled={anyBusy}
                   onClick={() => onAction(lab.id, k)} title={`Run ${k}`}>
                   {busy === k ? <span className="spin" /> : null}<span style={{ textTransform: 'capitalize' }}>{k}</span>
                 </button>

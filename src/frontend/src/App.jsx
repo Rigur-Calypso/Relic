@@ -104,7 +104,7 @@ export default function App() {
           <a href="#lookup" onClick={(e) => { e.preventDefault(); scrollTo(lookupRef); }}>On-demand</a>
         </div>
         <span className={`live ${live ? '' : 'ro'}`}><span className="p" />{live ? 'Live' : 'Snapshot'}</span>
-        <button className="cta" data-cursor onClick={() => scrollTo(lookupRef)}>Analyze a facility</button>
+        <button className="cta" data-cursor type="button" onClick={() => scrollTo(lookupRef)}>Analyze a facility</button>
       </nav>
 
       <header className="hero">
@@ -120,8 +120,8 @@ export default function App() {
           <div className="chip crit"><div className="n mono"><CountUp to={stats.loss} /></div><div className="l">Showing knowledge loss</div></div>
         </div>
         <div className="cta-row">
-          <button className="btn primary" data-cursor onClick={() => scrollTo(dashRef)}>Explore the dashboard →</button>
-          <button className="btn ghost" data-cursor onClick={() => scrollTo(lookupRef)}>Name any college ✦</button>
+          <button className="btn primary" data-cursor type="button" onClick={() => scrollTo(dashRef)}>Explore the dashboard →</button>
+          <button className="btn ghost" data-cursor type="button" onClick={() => scrollTo(lookupRef)}>Name any college ✦</button>
         </div>
       </header>
 
@@ -135,25 +135,24 @@ export default function App() {
         <h2>The knowledge continuity map</h2>
         <p className="lead">Every card is a live diff of a facility’s equipment page against its Wayback history. Point to any dot on the globe to jump to it.</p>
 
-        {live && (
-          <form className="lookup" id="lookup" ref={lookupRef} onSubmit={runLookup}>
-            <div className="field">
-              <span className="k"><svg width="17" height="17" viewBox="0 0 16 16" fill="none"><path d="M8 1.5 14 5v6l-6 3.5L2 11V5l6-3.5Z" stroke="currentColor" strokeWidth="1.3" strokeLinejoin="round" /><path d="M8 5.2 10.6 6.7v3L8 11.2 5.4 9.7v-3L8 5.2Z" fill="currentColor" /></svg></span>
-              <input data-cursor value={lookupQ} onChange={(e) => setLookupQ(e.target.value)}
-                placeholder="Name any institution — e.g. “University of Tokyo” — to scrape & diff it live" />
-            </div>
-            <button className="go" data-cursor type="submit" disabled={lookupBusy || !lookupQ.trim()}>
-              {lookupBusy ? <><span className="spin" />Scraping…</> : 'Analyze on demand'}
-            </button>
-            <div className={`hint ${lookupError ? 'err' : ''}`}>
-              {lookupError ? `Couldn’t analyze that: ${lookupError}` : 'Bright Data finds the page, scrapes it, pulls the Wayback version, and Gemini diffs them — in ~30s.'}
-            </div>
-          </form>
-        )}
+        <form className={`lookup ${!live ? 'lookup-disabled' : ''}`} id="lookup" ref={lookupRef} onSubmit={runLookup}>
+          <div className="field">
+            <span className="k"><svg width="17" height="17" viewBox="0 0 16 16" fill="none"><path d="M8 1.5 14 5v6l-6 3.5L2 11V5l6-3.5Z" stroke="currentColor" strokeWidth="1.3" strokeLinejoin="round" /><path d="M8 5.2 10.6 6.7v3L8 11.2 5.4 9.7v-3L8 5.2Z" fill="currentColor" /></svg></span>
+            <input data-cursor value={lookupQ} onChange={(e) => setLookupQ(e.target.value)} disabled={!live}
+              placeholder={live ? 'Name any institution — e.g. “University of Tokyo” — to scrape & diff it live' : 'Start the API server to enable on-demand analysis'} />
+          </div>
+          <button className="go" data-cursor type="submit" disabled={!live || lookupBusy || !lookupQ.trim()}>
+            {lookupBusy ? <><span className="spin" />Scraping…</> : 'Analyze on demand'}
+          </button>
+          <div className={`hint ${lookupError ? 'err' : ''}`}>
+            {!live ? 'On-demand analysis requires the live API server. Currently viewing a static snapshot.'
+              : lookupError ? `Couldn't analyze that: ${lookupError}` : 'Bright Data finds the page, scrapes it, pulls the Wayback version, and Gemini diffs them — in ~30s.'}
+          </div>
+        </form>
 
         {lookupResult && (
           <div className="adhoc">
-            <div className="lbl">◆ On-demand result<span className="x" data-cursor onClick={() => setLookupResult(null)}>✕ dismiss</span></div>
+            <div className="lbl">◆ On-demand result<button type="button" className="x" data-cursor onClick={() => setLookupResult(null)}>✕ dismiss</button></div>
             <LabCard lab={lookupResult} live={false} />
           </div>
         )}
@@ -164,7 +163,7 @@ export default function App() {
             <input data-cursor value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search facilities…" />
           </div>
           {FILTERS.map((f) => (
-            <button key={f.key} className="dchip" data-cursor aria-pressed={filter === f.key} onClick={() => setFilter(f.key)}>
+            <button key={f.key} className="dchip" data-cursor type="button" aria-pressed={filter === f.key} onClick={() => setFilter(f.key)}>
               {f.key !== 'all' && <span className="dot" style={{ background: f.dot }} />}{f.label} <span className="c">{counts[f.key] ?? 0}</span>
             </button>
           ))}
@@ -175,7 +174,7 @@ export default function App() {
           {loading ? <div className="skeleton">{Array.from({ length: 6 }).map((_, i) => <div className="sk" key={i} />)}</div>
             : shown.length ? shown.map((l, i) => (
               <LabCard key={l.id} lab={l} live={live} index={i} highlighted={highlightId === l.id}
-                busy={busy?.id === l.id ? busy.kind : null} onAction={onAction} />
+                busy={busy?.id === l.id ? busy.kind : null} anyBusy={!!busy} onAction={onAction} />
             )) : <div className="empty">No facilities match this view.</div>}
         </div>
       </section>
