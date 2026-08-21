@@ -28,19 +28,10 @@ export default function LabCard({ lab, live, busy, anyBusy, onAction, index = 0,
     io.observe(el); return () => io.disconnect();
   }, []);
 
-  function onMove(e) {
-    const el = ref.current; if (!el) return;
-    const r = el.getBoundingClientRect();
-    const px = (e.clientX - r.left) / r.width - 0.5, py = (e.clientY - r.top) / r.height - 0.5;
-    el.style.transform = `rotateY(${px * 8}deg) rotateX(${-py * 8}deg) translateY(-4px)`;
-  }
-  const reset = () => { if (ref.current) ref.current.style.transform = ''; };
-
   return (
     <article ref={ref} id={`lab-${lab.id}`}
       className={`tcard ${highlighted ? 'hl' : ''}`}
-      style={{ animationDelay: `${Math.min(index, 9) * 40}ms` }}
-      onMouseMove={onMove} onMouseLeave={reset}>
+      style={{ animationDelay: `${Math.min(index, 9) * 40}ms` }}>
       <div className="L">
         <div className="top">
           <div>
