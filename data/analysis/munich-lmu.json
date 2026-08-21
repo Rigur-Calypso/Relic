@@ -1,0 +1,15 @@
+{
+  "targetId": "munich-lmu",
+  "analyzedAt": "2026-08-21T05:45:12.161Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment is still present in the current facility list. One item, the FT-IR, had a minor name modification for clarity.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "FT-IR",
+      "change": "Name updated to FT-IR spectrometer platform and microscope"
+    }
+  ]
+}

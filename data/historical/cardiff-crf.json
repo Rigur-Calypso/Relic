@@ -1,0 +1,57 @@
+{
+  "targetId": "cardiff-crf",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.cardiff.ac.uk/research-equipment/equipment",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-21T05:28:53.055Z",
+  "equipment": [
+    {
+      "name": "HiSeq",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Laser",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "MiSeq",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TPR/TPD",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Relaxometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SEM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oscilloscopes",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Raman Spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

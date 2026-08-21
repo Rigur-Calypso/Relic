@@ -1,0 +1,40 @@
+{
+  "targetId": "aachen-rwth",
+  "name": "RWTH Aachen",
+  "url": "https://www.gfe.rwth-aachen.de/cms/~ocjm/gfe/?lidx=1",
+  "scrapedAt": "2026-08-21T05:44:13.557Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Electron Probe Microanalysis EPMA",
+      "specifications": "",
+      "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+      "status": ""
+    },
+    {
+      "name": "FIB – Focused Ion Beam",
+      "specifications": "",
+      "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+      "status": ""
+    },
+    {
+      "name": "Large Chamber SEM",
+      "specifications": "",
+      "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscopy",
+      "specifications": "",
+      "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+      "status": ""
+    },
+    {
+      "name": "TEM / STEM",
+      "specifications": "",
+      "location": "Central Facility for Electron Microscopy, RWTH Aachen University",
+      "status": ""
+    }
+  ]
+}

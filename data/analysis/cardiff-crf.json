@@ -1,0 +1,36 @@
+{
+  "targetId": "cardiff-crf",
+  "analyzedAt": "2026-08-21T05:29:19.790Z",
+  "vitalityScore": 62.5,
+  "summary": "Three instruments (HiSeq, MiSeq, and Oscilloscopes) were removed from the facility list, indicating knowledge loss, while new instruments (XPS1, XPS2, Profilometer) were added.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "HiSeq",
+      "severity": "critical",
+      "reason": "Instrument present historically but absent in current page."
+    },
+    {
+      "name": "MiSeq",
+      "severity": "critical",
+      "reason": "Instrument present historically but absent in current page."
+    },
+    {
+      "name": "Oscilloscopes",
+      "severity": "critical",
+      "reason": "Instrument present historically but absent in current page."
+    }
+  ],
+  "added": [
+    {
+      "name": "XPS1"
+    },
+    {
+      "name": "XPS2"
+    },
+    {
+      "name": "Profilometer"
+    }
+  ],
+  "modified": []
+}

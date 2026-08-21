@@ -1,0 +1,76 @@
+{
+  "targetId": "trinity-crann",
+  "name": "Trinity College Dublin",
+  "url": "https://www.tcd.ie/crann/advanced-microscopy-laboratory/",
+  "scrapedAt": "2026-08-21T05:42:25.356Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "The Nion UltraSTEM",
+      "specifications": "STEM/TEM",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "JEOL 2100 LaB TEM",
+      "specifications": "TEM",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "FEI Titan 80 – 300kV FEG S/TEM",
+      "specifications": "80 – 300kV FEG S/TEM",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Zeiss ULTRA plus Cryo SEM",
+      "specifications": "Cryo SEM",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Zeiss ULTRA plus",
+      "specifications": "SEM",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Zeiss SUPRA 40",
+      "specifications": "Electron Beam Lithography",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Elionix ELS 7700",
+      "specifications": "Electron Beam Lithography",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Zeiss AURIGA Focused Ion Beam",
+      "specifications": "Focused Ion Beam",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Zeiss ORION Nanofab",
+      "specifications": "Focused Ion Beam",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "ZEISS Sigma 300 VP",
+      "specifications": "Focused Ion Beam",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Fishione 1040 NanoMill",
+      "specifications": "Sample Preparation",
+      "location": "Advanced Microscopy Laboratory",
+      "status": ""
+    }
+  ]
+}

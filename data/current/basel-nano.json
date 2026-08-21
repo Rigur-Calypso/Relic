@@ -1,0 +1,28 @@
+{
+  "targetId": "basel-nano",
+  "name": "University of Basel",
+  "url": "https://nanoscience.unibas.ch/en/services/",
+  "scrapedAt": "2026-08-21T05:45:19.623Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "microscopes",
+      "specifications": "",
+      "location": "Nano Imaging Lab",
+      "status": ""
+    },
+    {
+      "name": "atomic force microscope",
+      "specifications": "",
+      "location": "Nano Imaging Lab",
+      "status": ""
+    },
+    {
+      "name": "cryo-electron microscope",
+      "specifications": "",
+      "location": "Nano Imaging Lab",
+      "status": ""
+    }
+  ]
+}

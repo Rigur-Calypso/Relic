@@ -1,0 +1,177 @@
+{
+  "targetId": "munich-lmu",
+  "snapshotUrl": "http://web.archive.org/web/20240301215745/https://www.physik.lmu.de/hybridnano/en/research/facilities/",
+  "snapshotTimestamp": "20240301215745",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-21T05:45:06.155Z",
+  "equipment": [
+    {
+      "name": "Physical Vapour Deposition Platform",
+      "specifications": "Angstrom Instruments",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Enhanced Chemical Vapour Deposition",
+      "specifications": "Oxford Instruments",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Inductively Coupled Plasma Reactive Ion Etching",
+      "specifications": "Oxford Instruments",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Van der Waas Materials Transfer Setup",
+      "specifications": "",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Electron Beam Lithography System",
+      "specifications": "Raith GmbH",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Dektak Profilometer",
+      "specifications": "Bruker",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Spincoaters",
+      "specifications": "",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Low-repetition rate femtosecond laser with optical parametric amplifier",
+      "specifications": "Light Conversion",
+      "location": "Ultra-fast Lab",
+      "status": ""
+    },
+    {
+      "name": "High-repetition rate femtosecond laser with optical parametric oscillator",
+      "specifications": "APE",
+      "location": "Ultra-fast Lab",
+      "status": ""
+    },
+    {
+      "name": "Supercontinuum white light laser",
+      "specifications": "NKT Photonics",
+      "location": "Ultra-fast Lab",
+      "status": ""
+    },
+    {
+      "name": "Liquid Helium closed-cycle cryostat",
+      "specifications": "Montana",
+      "location": "Ultra-fast Lab",
+      "status": ""
+    },
+    {
+      "name": "Si- and InGaAs- based detection systems",
+      "specifications": "multiple",
+      "location": "Ultra-fast Lab",
+      "status": ""
+    },
+    {
+      "name": "O2 Plasma Cleaner",
+      "specifications": "Diener electronic",
+      "location": "Chemlab",
+      "status": ""
+    },
+    {
+      "name": "UV/Ozone Cleaner",
+      "specifications": "Bioforce",
+      "location": "Chemlab",
+      "status": ""
+    },
+    {
+      "name": "Spin coater",
+      "specifications": "Laurell Model WS 650MZ 23NPPB",
+      "location": "Chemlab",
+      "status": ""
+    },
+    {
+      "name": "pH meter",
+      "specifications": "VWR pH enomenal MD8000L",
+      "location": "Chemlab",
+      "status": ""
+    },
+    {
+      "name": "High Temperature Furnace",
+      "specifications": "HTM Reetz",
+      "location": "Chemlab",
+      "status": ""
+    },
+    {
+      "name": "ICP-OES",
+      "specifications": "Agilent 5900",
+      "location": "Chemlab",
+      "status": ""
+    },
+    {
+      "name": "Witec microscope",
+      "specifications": "Oxford Instruments",
+      "location": "Characterisation lab",
+      "status": ""
+    },
+    {
+      "name": "FT-IR",
+      "specifications": "Invenio spectrometer platform and Lumos microscope, Bruker",
+      "location": "Characterisation lab",
+      "status": ""
+    },
+    {
+      "name": "Quantum printer Nanoscribe",
+      "specifications": "",
+      "location": "Characterisation lab",
+      "status": ""
+    },
+    {
+      "name": "Ellipsometer",
+      "specifications": "Vase, J.A. Woollam",
+      "location": "Characterisation lab",
+      "status": ""
+    },
+    {
+      "name": "Spero Chemical Imaging Microscope",
+      "specifications": "DRS Daylight solutions",
+      "location": "Characterisation lab",
+      "status": ""
+    },
+    {
+      "name": "experimental (free space optics) SNOM system",
+      "specifications": "",
+      "location": "SNOM Lab",
+      "status": ""
+    },
+    {
+      "name": "Scattering Scanning Optical Near-Field Microscopy",
+      "specifications": "S-SNOM, Attocube systems",
+      "location": "SNOM Lab",
+      "status": ""
+    },
+    {
+      "name": "Quantum cascade laser",
+      "specifications": "QCL, Daylight solutions",
+      "location": "SNOM Lab",
+      "status": ""
+    },
+    {
+      "name": "Stuttgart Instruments Laser",
+      "specifications": "NIR, VIS, MIR",
+      "location": "SNOM Lab",
+      "status": ""
+    },
+    {
+      "name": "Broadband MIR Laser",
+      "specifications": "Toptica",
+      "location": "SNOM Lab",
+      "status": ""
+    }
+  ]
+}

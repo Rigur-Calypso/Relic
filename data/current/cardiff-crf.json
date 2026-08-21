@@ -1,0 +1,58 @@
+{
+  "targetId": "cardiff-crf",
+  "name": "Cardiff University",
+  "url": "https://www.cardiff.ac.uk/research-equipment/equipment",
+  "scrapedAt": "2026-08-21T05:28:15.315Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Laser",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TPR/TPD",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Relaxometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "XPS1",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "XPS2",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SEM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Raman Spectrometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Profilometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}
