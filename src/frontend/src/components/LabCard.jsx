@@ -1,115 +1,93 @@
-import VitalityRing, { band } from './VitalityRing.jsx';
+import { useRef, useEffect } from 'react';
+import { countryOf } from '../geo.js';
 
-/* derive a country pill from the URL's TLD */
-function country(url) {
-  let host = '';
-  try { host = new URL(url).host; } catch { return null; }
-  if (/github\.io|localhost|YOUR_GH/.test(host)) return null;   // decoy placeholder
-  const m = [
-    [/\.ac\.uk$|\.uk$/, 'UK'], [/\.ac\.in$|\.res\.in$|\.iisc|\.iitb|\.ac\.in/, 'India'],
-    [/\.edu\.au$|\.au$/, 'Australia'], [/\.ca$/, 'Canada'], [/\.ch$/, 'Switzerland'],
-    [/\.de$/, 'Germany'], [/\.fr$/, 'France'], [/\.nl$/, 'Netherlands'], [/\.se$/, 'Sweden'],
-    [/\.fi$/, 'Finland'], [/\.dk$/, 'Denmark'], [/\.be$/, 'Belgium'], [/\.il$/, 'Israel'],
-    [/\.ac\.kr$|\.kr$/, 'South Korea'], [/\.ac\.jp$|\.jp$/, 'Japan'], [/\.edu\.sg$|\.sg$/, 'Singapore'],
-    [/\.hk$/, 'Hong Kong'], [/\.tw$/, 'Taiwan'], [/\.gov$/, 'USA'], [/\.edu$/, 'USA'],
-  ];
-  for (const [re, name] of m) if (re.test(host)) return name;
-  return host.split('.').slice(-1)[0]?.toUpperCase() || null;
-}
+const bandColor = (v) => v == null ? null : v >= 90 ? '#12B26B' : v >= 60 ? '#E8990C' : '#F0435A';
 
-/* derive a facility-type pill from the name */
 function facilityType(name) {
   const n = name.toLowerCase();
-  if (/nanofab|cleanroom|nanoscale|nanofabrication|nano center|nanolab|micro\b|nnfc|cmi|mc2/.test(n)) return 'Cleanroom';
+  if (/nanofab|cleanroom|nanoscale|nanofabrication|nano center|nanolab|nnfc|cmi|mc2/.test(n)) return 'Cleanroom';
   if (/national|csir|\bnpl\b|nims|argonne|oak ridge|brookhaven|molecular foundry|sandia|nist|pnnl|nrel|ames/.test(n)) return 'National Lab';
   if (/iiser|iisc|jncasr|tifr|research institute/.test(n)) return 'Research Institute';
   return 'University Core';
 }
 
-function KnowledgeBlock({ lab }) {
-  const { vitalityScore, knowledgeLoss, summary, removed = [], added = [] } = lab;
-
-  if (vitalityScore == null) {
-    return (
-      <div className="kb kb-none">
-        <div className="kb-top"><span className="kb-label">No historical baseline</span></div>
-        <div className="kb-sum">{summary || 'Tracking current inventory; no Wayback capture to compare against yet.'}</div>
-      </div>
-    );
-  }
-  if (!knowledgeLoss) {
-    return (
-      <div className="kb kb-good">
-        <div className="kb-top"><span className="kb-label">✓ Knowledge intact</span></div>
-        <div className="kb-sum">{summary || 'All historical instruments remain present.'}</div>
-        {added.length > 0 && <div className="added">＋ {added.length} instrument{added.length > 1 ? 's' : ''} added since baseline</div>}
-      </div>
-    );
-  }
-  const shown = removed.slice(0, 4);
-  const more = removed.length - shown.length;
-  return (
-    <div className="kb kb-crit">
-      <div className="kb-top">
-        <span className="kb-label">Knowledge lost</span>
-        <span className="kb-count">{removed.length} removed</span>
-      </div>
-      <div className="kb-sum">{summary}</div>
-      <div className="difflist">
-        {shown.map((r, i) => (
-          <div className="diff" key={i}>
-            <span className="minus">−</span>
-            <span className="name" title={r.name}>{r.name}</span>
-            <span className={`sev sev-${r.severity || 'moderate'}`}>{r.severity || 'moderate'}</span>
-          </div>
-        ))}
-        {more > 0 && <div className="more">+ {more} more instrument{more > 1 ? 's' : ''} removed</div>}
-      </div>
-    </div>
-  );
-}
-
-export default function LabCard({ lab, live, busy, onAction, index = 0 }) {
-  const b = band(lab.vitalityScore);
+export default function LabCard({ lab, live, busy, onAction, index = 0, highlighted }) {
+  const ref = useRef(null);
+  const v = lab.vitalityScore;
+  const color = bandColor(v);
   const type = facilityType(lab.name);
-  const loc = country(lab.url);
-  const snap = lab.vitalityScore == null ? 'baseline' : 'vs. history';
+  const loc = countryOf(lab.url);
+  const state = v == null ? 'none' : lab.knowledgeLoss ? 'loss' : 'ok';
+  const removed = lab.removed || [];
+  const shown = removed.slice(0, 3);
+  const more = removed.length - shown.length;
+
+  useEffect(() => {
+    const el = ref.current; if (!el) return;
+    const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { el.classList.add('in'); io.disconnect(); } }), { threshold: 0.12 });
+    io.observe(el); return () => io.disconnect();
+  }, []);
+
+  function onMove(e) {
+    const el = ref.current; if (!el) return;
+    const r = el.getBoundingClientRect();
+    const px = (e.clientX - r.left) / r.width - 0.5, py = (e.clientY - r.top) / r.height - 0.5;
+    el.style.transform = `rotateY(${px * 8}deg) rotateX(${-py * 8}deg) translateY(-4px)`;
+  }
+  const reset = () => { if (ref.current) ref.current.style.transform = ''; };
 
   return (
-    <article className={`card is-${b}`} style={{ animationDelay: `${Math.min(index, 8) * 45}ms` }}>
-      <div className="c-head">
-        <div className="txt">
-          <h2 className="c-name">{lab.name}</h2>
-          <div className="pills">
-            <span className="pill"><span className="fg" />{type}</span>
-            {loc && <span className="pill">{loc}</span>}
-            {lab.method === 'ai-heal' && <span className="pill">AI-healed</span>}
+    <article ref={ref} id={`lab-${lab.id}`}
+      className={`tcard ${highlighted ? 'hl' : ''}`}
+      style={{ animationDelay: `${Math.min(index, 9) * 40}ms` }}
+      onMouseMove={onMove} onMouseLeave={reset}>
+      <div className="L">
+        <div className="top">
+          <div>
+            <h3 className="name">{lab.name}</h3>
+            <div className="loc">{[type, loc, lab.method === 'ai-heal' ? 'AI-healed' : null].filter(Boolean).join(' · ')}</div>
+          </div>
+          <div className={`score ${v == null ? 'none' : ''}`}
+            style={v == null ? undefined : { background: `linear-gradient(135deg,${color},${color})`, boxShadow: `0 10px 20px -8px ${color}` }}>
+            {v == null ? '—' : Math.round(v)}
           </div>
         </div>
-        <VitalityRing score={lab.vitalityScore} />
-      </div>
 
-      <KnowledgeBlock lab={lab} />
+        {state === 'loss' && <span className="badge loss">⚠ {removed.length} removed</span>}
+        {state === 'ok' && <span className="badge ok">✓ knowledge intact</span>}
+        {state === 'none' && <span className="badge non">no baseline</span>}
 
-      <div className="c-foot">
-        <span className="track">Tracking <b>{lab.trackingCount}</b> active instrument{lab.trackingCount === 1 ? '' : 's'}</span>
-        <span className="snap mono">{snap}</span>
-        {live && (
-          <div className="actions">
-            {['scrape', 'heal', 'analyze'].map((k) => (
-              <button
-                key={k}
-                className={`btn ${k === 'heal' ? 'heal' : ''}`}
-                disabled={!!busy}
-                onClick={() => onAction(lab.id, k)}
-                title={`Run ${k}`}
-              >
-                {busy === k ? <span className="spin" /> : null}
-                <span style={{ textTransform: 'capitalize' }}>{k}</span>
-              </button>
+        <div className="desc">{lab.summary || (state === 'none' ? 'Tracking current inventory; no Wayback capture to compare yet.' : '')}</div>
+
+        {state === 'loss' && removed.length > 0 && (
+          <div className="removed">
+            {shown.map((r, i) => (
+              <div className="r" key={i}>
+                <span className="m">−</span>
+                <span className="t" title={r.name}>{r.name}</span>
+                <span className={`sev ${r.severity || 'moderate'}`}>{r.severity || 'moderate'}</span>
+              </div>
             ))}
+            {more > 0 && <div className="more">+ {more} more removed</div>}
           </div>
         )}
+        {state === 'ok' && (lab.added || []).length > 0 && (
+          <div className="added">＋ {lab.added.length} instrument{lab.added.length > 1 ? 's' : ''} added since baseline</div>
+        )}
+
+        <div className="foot">
+          <span>Tracking <b>{lab.trackingCount}</b> instrument{lab.trackingCount === 1 ? '' : 's'}</span>
+          {live && (
+            <div className="acts">
+              {['scrape', 'heal', 'analyze'].map((k) => (
+                <button key={k} className={`act ${k === 'heal' ? 'heal' : ''}`} data-cursor disabled={!!busy}
+                  onClick={() => onAction(lab.id, k)} title={`Run ${k}`}>
+                  {busy === k ? <span className="spin" /> : null}<span style={{ textTransform: 'capitalize' }}>{k}</span>
+                </button>
+              ))}
+            </div>
+          )}
+        </div>
       </div>
     </article>
   );

@@ -1,0 +1,46 @@
+{
+  "targetId": "tsukuba-nims",
+  "name": "University of Tsukuba",
+  "url": "https://applphys.bk.tsukuba.ac.jp/research-fields/?lang=en",
+  "scrapedAt": "2026-08-21T05:47:49.736Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "high-resolution x-ray microscope",
+      "specifications": "high-resolution",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "scanning probe microscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "scanning electron microscope",
+      "specifications": "",
+      "location": "Advanced SEM Technology Laboratory",
+      "status": ""
+    },
+    {
+      "name": "NMR imaging systems",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GAMMA 10/PDX",
+      "specifications": "world’s largest tandem mirror device",
+      "location": "Plasma Research Center",
+      "status": ""
+    },
+    {
+      "name": "scanning tunneling microscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

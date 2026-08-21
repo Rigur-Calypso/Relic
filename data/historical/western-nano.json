@@ -1,0 +1,165 @@
+{
+  "targetId": "western-nano",
+  "snapshotUrl": "http://web.archive.org/web/20240526113628/https://www.uwo.ca/fab/equipment/",
+  "snapshotTimestamp": "20240526113628",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-21T05:49:45.610Z",
+  "equipment": [
+    {
+      "name": "1540XB FIB/SEM",
+      "specifications": "",
+      "location": "Characterization",
+      "status": ""
+    },
+    {
+      "name": "Tencor P7 Profilometer",
+      "specifications": "",
+      "location": "Characterization",
+      "status": ""
+    },
+    {
+      "name": "1530 SEM",
+      "specifications": "",
+      "location": "Characterization",
+      "status": ""
+    },
+    {
+      "name": "Woollam Ellipsometer",
+      "specifications": "",
+      "location": "Characterization",
+      "status": ""
+    },
+    {
+      "name": "Leica Stereozoom",
+      "specifications": "",
+      "location": "Characterization",
+      "status": ""
+    },
+    {
+      "name": "Zeiss Axioskop",
+      "specifications": "",
+      "location": "Characterization",
+      "status": ""
+    },
+    {
+      "name": "Mitutoyo Finescope",
+      "specifications": "",
+      "location": "Characterization",
+      "status": ""
+    },
+    {
+      "name": "Neutronix-Quintel NXQ4006 Mask Aligner",
+      "specifications": "",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Solitec 5110 coater/developer",
+      "specifications": "",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Karl Suss MA6 Mask Aligner",
+      "specifications": "",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "CEE 200 spinner",
+      "specifications": "",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Zeiss 1530 e-beam Lithography",
+      "specifications": "",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Yield Engineering YES-3TA HMDS oven",
+      "specifications": "",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Zeiss 1540XB FIB lithography",
+      "specifications": "",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Innopsys Innostamp",
+      "specifications": "",
+      "location": "Lithography",
+      "status": ""
+    },
+    {
+      "name": "Angstrom e-beam Deposition",
+      "specifications": "",
+      "location": "Deposition",
+      "status": ""
+    },
+    {
+      "name": "IKO Electroplating Bench",
+      "specifications": "",
+      "location": "Deposition",
+      "status": ""
+    },
+    {
+      "name": "Custom e-beam Deposition",
+      "specifications": "",
+      "location": "Deposition",
+      "status": ""
+    },
+    {
+      "name": "Filgen Osmium Plasma Coater",
+      "specifications": "",
+      "location": "Deposition",
+      "status": ""
+    },
+    {
+      "name": "STS PECVD",
+      "specifications": "",
+      "location": "Deposition",
+      "status": ""
+    },
+    {
+      "name": "Edwards Auto500 Sputtering",
+      "specifications": "",
+      "location": "Deposition",
+      "status": ""
+    },
+    {
+      "name": "Trion Orion RIE",
+      "specifications": "",
+      "location": "Etching",
+      "status": ""
+    },
+    {
+      "name": "Grey Lab Spinner",
+      "specifications": "",
+      "location": "Miscellaneous",
+      "status": ""
+    },
+    {
+      "name": "Ozone Cleaner",
+      "specifications": "",
+      "location": "Miscellaneous",
+      "status": ""
+    },
+    {
+      "name": "Spin Rinse Dryer",
+      "specifications": "",
+      "location": "Miscellaneous",
+      "status": ""
+    },
+    {
+      "name": "Dicing Saw",
+      "specifications": "",
+      "location": "Miscellaneous",
+      "status": ""
+    }
+  ]
+}

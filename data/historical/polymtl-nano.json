@@ -1,0 +1,123 @@
+{
+  "targetId": "polymtl-nano",
+  "snapshotUrl": "http://web.archive.org/web/20250531042703/https://www.polymtl.ca/gcmlab/en/microfabrication",
+  "snapshotTimestamp": "20250531042703",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-21T05:50:18.035Z",
+  "equipment": [
+    {
+      "name": "MA6 Mask Aligner",
+      "specifications": "Manufacturer: Karl Suss, Model: MA-6/BA-6, Mask dimensions: <= 7 inches, Sample size: 1cm2 to 6 in, Contact modes: 5 available (hard vacuum to proximity), Lamp: 350W Hg, Optics: UV 400 (436 – 405 – 365 – 335 – 313 nm lines), Exposure modes: Constant power or constant intensity, Alignment modes: Front to front/ back to front (optic)",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Surface pretreatment oven",
+      "specifications": "Manufacturer: Yield Engineering Systems, Model: YES-310TA, Number of programs available: 12, Silanisation material: HMDS",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Brewer Spincoater",
+      "specifications": "Manufacturer: Brewer Science, Model: 200cbx",
+      "location": "Photolithography room",
+      "status": ""
+    },
+    {
+      "name": "Raith e-line",
+      "specifications": "Model: Raith e-line, Beam size: less than 2 nm at 20 kV, Beam energy: 100eV to 30 KeV, Beam current: 20 pA to 20 nA, Minimum linewidth: 20 nm (with PMMA950), Accessories: FBMS (fixed beam moving stage), Maximum sample size: 10cm, Maximale sample thickness: 2mm",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Picomaster 150",
+      "specifications": "Resolutions up to 300 nm, sample size: form a few mm to 150 mm wafers, Write area up to 100 mm, Optical Module with 375 nm wavelength, Real-time laser controlled auto focus, Direct drawing option on camera image, 4095 grayscale levels, Automatic switching between 4 write modes: 300, 500, 900 nm and 5 microns, Area search with automatic marker recognition, Top side alignement only, up to 0.3 ̴m top side alignment accuracy",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "DEEP REACTIVE ION ETCHING (DRIE-ICP)",
+      "specifications": "Manufacturer: Oxford, Model: Plasmalab System 100 ICP 180",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "SUSS SB6e",
+      "specifications": "Manufacturer: Suss Microtech, Sample size (mm): 2.5*2.5 cm parts to full 150mm (6 in) wafers, Alignment precision after bonding: 1 micron, Temperature (C): room to 500 Celcius, Maximal applied strenght: de 300 N a 20 KN, Vacuum: 5.10-5 mBar",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Parylene deposition system",
+      "specifications": "Manufacturer: Specialty Coating Systems, Model: PDS 2010",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Dicing Saw",
+      "specifications": "Manufacturer: Advanced Dicing Technology, Model: ADT 7100 Provectus, minimal sample size: few mm parts, maximal sample size: 8 inches wafers, Maximal trench depth: 2.1 mm, Cutting speed: 0 to 600 mm/s, Spindle speed: 60 KRPM max, 1.2 KW",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "SUPERCRITICAL DRYING (CPD)",
+      "specifications": "Manufacturer: Tousimis, Model: Autosamdri 815B, Samples: parcelles jusqu'a 100mm de diametre (4po), Drying fluid: CO2",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Rapid Thermal Annealing (RTA)",
+      "specifications": "Manufacturer: AG Associates, Model: Heatpulse 410, Substrates: Semiconductors, metals, inorganic dielectrics, Sample holder: 4 in. diameter, Steady-state temperature range: 400-1150 C (max 1350 C)",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "UV Ozonizing Oven",
+      "specifications": "Manufacturer: UVOCS, Model: T10x10 OES",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "MetPrep4",
+      "specifications": "Marque/Model: Allied High Tech MetPrep4, Taille d'echantillon: Gaufre 2'', 4'' ou 6''",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Strasbaugh 6EC",
+      "specifications": "Marque/Model: Strasbaugh 6EC, Taille d'echantillon: Gaufre 4'' ou 6''",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Analytical Probe Station",
+      "specifications": "Model: EB-6, Stage: 6\"-6\", Stage travel: 2\"-2\", Total microscope magnification: 20X a 100X, Resolution: one micron",
+      "location": "Microfabrication Lab (LMF)",
+      "status": ""
+    },
+    {
+      "name": "Four points probe",
+      "specifications": "Probe spacing: 1 mm, Probe radius: 100 Pm, Probe material: Tungsten carbide, Temperature de mesure: -30 C to 150 C, Models: Bridgetech probes, Keithley 220 current source, Agilent 34401A voltmeter, Temptronic TP3000 temperature controller",
+      "location": "GCM Lab",
+      "status": ""
+    },
+    {
+      "name": "Sputtering and E-beam evaporation system",
+      "specifications": "Manufacturer: Homemade, Model: Homemade, Substrates: Semiconductors, metals, plastics, Sample holder: 4 in. diameter, Base pressure: 1x10-7 torr",
+      "location": "GCM Lab",
+      "status": ""
+    },
+    {
+      "name": "Magnetron sputterer",
+      "specifications": "Manufacturer: Homemade, Model: Homemade, Substrates: Semiconductors, metals, plastics, Sample holder: 4 in diameter, Base pressure: 5x10-7 torr",
+      "location": "GCM Lab",
+      "status": ""
+    },
+    {
+      "name": "E-beam evaporator",
+      "specifications": "Manufacturer: Edwards, Substrates: Any except plastics and photoresins, Sample holder: 4 in. diameter, Base pressure: 1x10-6 torr",
+      "location": "GCM Lab",
+      "status": ""
+    }
+  ]
+}

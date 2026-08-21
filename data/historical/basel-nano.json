@@ -1,0 +1,27 @@
+{
+  "targetId": "basel-nano",
+  "snapshotUrl": "http://web.archive.org/web/20231123194839/https://nanoscience.unibas.ch/en/services/",
+  "snapshotTimestamp": "20231123194839",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-21T05:45:38.061Z",
+  "equipment": [
+    {
+      "name": "Atomic force microscope",
+      "specifications": "",
+      "location": "Nano Imaging Lab",
+      "status": ""
+    },
+    {
+      "name": "Cryo-electron microscope",
+      "specifications": "",
+      "location": "Nano Imaging Lab",
+      "status": ""
+    },
+    {
+      "name": "EDX",
+      "specifications": "",
+      "location": "Nano Imaging Lab",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "targetId": "bilkent-unam",
+  "analyzedAt": "2026-08-21T05:51:49.878Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment and instrumentation are fully preserved. Several item names and specifications were reformatted or normalized for clarity, but no actual knowledge or equipment was lost.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Accurate-Mass Quadrupole Time-of-Flight (Q-TOF) LC/MS",
+      "change": "Name and specifications reformatted to 'Accurate-Mass Quadrupole Time-of-Flight LC/MS' with specifications 'Q-TOF'."
+    },
+    {
+      "name": "High Resolution Mass Time-of-Flight (TOF) LC/MS",
+      "change": "Name and specifications reformatted to 'High Resolution Mass Time-of-Flight LC/MS' with specifications 'TOF'."
+    },
+    {
+      "name": "Modified Chemical Vapor Deposition (MCVD)",
+      "change": "Name and specifications reformatted to 'Modified Chemical Vapor Deposition' with specifications 'MCVD'."
+    },
+    {
+      "name": "Precision Etching Coating System (PECS)",
+      "change": "Name and specifications reformatted to 'Precision Etching Coating System' with specifications 'PECS'."
+    },
+    {
+      "name": "Precision Ion Polishing System (PIPS)",
+      "change": "Name and specifications reformatted to 'Precision Ion Polishing System' with specifications 'PIPS'."
+    }
+  ]
+}

@@ -1,5 +1,15 @@
 [
   {
+    "targetId": "aachen-rwth",
+    "analyzedAt": "2026-08-21T05:44:35.072Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and instrumentation lists remain fully preserved between the historical snapshot and the current page.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "aalto-micronova",
     "analyzedAt": "2026-08-20T20:23:35.694Z",
     "vitalityScore": null,
@@ -258,6 +268,57 @@
     ]
   },
   {
+    "targetId": "basel-nano",
+    "analyzedAt": "2026-08-21T05:45:44.348Z",
+    "vitalityScore": 66.6,
+    "summary": "The lab facility page has lost the EDX equipment listing, while adding a generic microscopes entry. Atomic force and cryo-electron microscopes have been retained.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "EDX",
+        "severity": "critical",
+        "reason": "The entire EDX instrument has been removed from the current equipment list."
+      }
+    ],
+    "added": [
+      {
+        "name": "microscopes"
+      }
+    ],
+    "modified": []
+  },
+  {
+    "targetId": "bilkent-unam",
+    "analyzedAt": "2026-08-21T05:51:49.878Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and instrumentation are fully preserved. Several item names and specifications were reformatted or normalized for clarity, but no actual knowledge or equipment was lost.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Accurate-Mass Quadrupole Time-of-Flight (Q-TOF) LC/MS",
+        "change": "Name and specifications reformatted to 'Accurate-Mass Quadrupole Time-of-Flight LC/MS' with specifications 'Q-TOF'."
+      },
+      {
+        "name": "High Resolution Mass Time-of-Flight (TOF) LC/MS",
+        "change": "Name and specifications reformatted to 'High Resolution Mass Time-of-Flight LC/MS' with specifications 'TOF'."
+      },
+      {
+        "name": "Modified Chemical Vapor Deposition (MCVD)",
+        "change": "Name and specifications reformatted to 'Modified Chemical Vapor Deposition' with specifications 'MCVD'."
+      },
+      {
+        "name": "Precision Etching Coating System (PECS)",
+        "change": "Name and specifications reformatted to 'Precision Etching Coating System' with specifications 'PECS'."
+      },
+      {
+        "name": "Precision Ion Polishing System (PIPS)",
+        "change": "Name and specifications reformatted to 'Precision Ion Polishing System' with specifications 'PIPS'."
+      }
+    ]
+  },
+  {
     "targetId": "bits-pilani",
     "analyzedAt": "2026-08-20T13:18:44.179Z",
     "vitalityScore": 100,
@@ -361,6 +422,42 @@
     "knowledgeLoss": false,
     "removed": [],
     "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "cardiff-crf",
+    "analyzedAt": "2026-08-21T05:29:19.790Z",
+    "vitalityScore": 62.5,
+    "summary": "Three instruments (HiSeq, MiSeq, and Oscilloscopes) were removed from the facility list, indicating knowledge loss, while new instruments (XPS1, XPS2, Profilometer) were added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "HiSeq",
+        "severity": "critical",
+        "reason": "Instrument present historically but absent in current page."
+      },
+      {
+        "name": "MiSeq",
+        "severity": "critical",
+        "reason": "Instrument present historically but absent in current page."
+      },
+      {
+        "name": "Oscilloscopes",
+        "severity": "critical",
+        "reason": "Instrument present historically but absent in current page."
+      }
+    ],
+    "added": [
+      {
+        "name": "XPS1"
+      },
+      {
+        "name": "XPS2"
+      },
+      {
+        "name": "Profilometer"
+      }
+    ],
     "modified": []
   },
   {
@@ -627,6 +724,31 @@
     "removed": [],
     "added": [],
     "modified": []
+  },
+  {
+    "targetId": "ghent-nano",
+    "analyzedAt": "2026-08-21T05:46:32.541Z",
+    "vitalityScore": 95,
+    "summary": "The lab facility equipment list remains largely unchanged, with all core equipment preserved. Minor specification details were simplified or slightly trimmed across several instruments, and one historical wafer bonder capacity description changed.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "EVG 501 Wafer Bonder capacity specification (200 mm)",
+        "severity": "minor",
+        "reason": "The specification was shortened to mention only 150 mm wafers."
+      }
+    ],
+    "added": [],
+    "modified": [
+      {
+        "name": "EVG 501 Wafer Bonder",
+        "change": "Specifications were simplified regarding maximum wafer size capability."
+      },
+      {
+        "name": "FEI Nova 600 Nanolab Dual-Beam FIB-SEM",
+        "change": "Detailed feature list including EBSD, etch gas injectors, and nanomanipulators was removed from the description."
+      }
+    ]
   },
   {
     "targetId": "harvard-cns",
@@ -1237,6 +1359,16 @@
     ]
   },
   {
+    "targetId": "lund-nano",
+    "analyzedAt": "2026-08-21T05:47:18.663Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "manipal-cif",
     "analyzedAt": "2026-08-20T20:00:26.084Z",
     "vitalityScore": 80,
@@ -1420,6 +1552,21 @@
     "removed": [],
     "added": [],
     "modified": []
+  },
+  {
+    "targetId": "munich-lmu",
+    "analyzedAt": "2026-08-21T05:45:12.161Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment is still present in the current facility list. One item, the FT-IR, had a minor name modification for clarity.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "FT-IR",
+        "change": "Name updated to FT-IR spectrometer platform and microscope"
+      }
+    ]
   },
   {
     "targetId": "ncsu-aif",
@@ -1681,6 +1828,16 @@
     "modified": []
   },
   {
+    "targetId": "osaka-nano",
+    "analyzedAt": "2026-08-21T05:47:40.342Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "oxford-dmc",
     "analyzedAt": "2026-08-20T20:06:45.732Z",
     "vitalityScore": 100,
@@ -1711,6 +1868,39 @@
       {
         "name": "Leica MZ7.5 stereomicroscope",
         "change": "Title updated to include '10-80X' magnification detail."
+      }
+    ]
+  },
+  {
+    "targetId": "polymtl-nano",
+    "analyzedAt": "2026-08-21T05:50:24.821Z",
+    "vitalityScore": 85,
+    "summary": "Comparing the historical equipment list with the current list shows that most core instruments are preserved, with minor specification details lost for a few items and one specific system (Sputtering and E-beam evaporation system) removed, while a new RIE system was added.",
+    "knowledgeLoss": true,
+    "removed": [
+      {
+        "name": "Sputtering and E-beam evaporation system",
+        "severity": "critical",
+        "reason": "Entire system is missing from the current equipment list."
+      }
+    ],
+    "added": [
+      {
+        "name": "Reactive ion etching (RIE)"
+      }
+    ],
+    "modified": [
+      {
+        "name": "MA6 Mask Aligner",
+        "change": "Specifications simplified, removing some detailed alignment and optic line descriptions."
+      },
+      {
+        "name": "Raith e-line",
+        "change": "Removed accessories and specific minimum linewidth context details from specifications."
+      },
+      {
+        "name": "Rapid Thermal Annealing (RTA)",
+        "change": "Removed substrate types and max temperature details."
       }
     ]
   },
@@ -1748,6 +1938,16 @@
         "change": "Location detail 'Birck Nanotechnology Center' was removed, leaving 'TEM laboratory'."
       }
     ]
+  },
+  {
+    "targetId": "queens-nano",
+    "analyzedAt": "2026-08-21T05:49:13.958Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
   },
   {
     "targetId": "rice-shared",
@@ -2226,6 +2426,35 @@
     ]
   },
   {
+    "targetId": "trinity-crann",
+    "analyzedAt": "2026-08-21T05:56:41.456Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "tsukuba-nims",
+    "analyzedAt": "2026-08-21T05:48:07.485Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items are still present in the current list, with some specifications and location details updated or added.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "high-resolution x-ray microscope",
+        "change": "Added specifications"
+      },
+      {
+        "name": "scanning electron microscope",
+        "change": "Added location details"
+      }
+    ]
+  },
+  {
     "targetId": "tumunich-znn",
     "analyzedAt": "2026-08-20T18:36:43.211Z",
     "vitalityScore": 100,
@@ -2538,6 +2767,16 @@
   {
     "targetId": "unc-chanl",
     "analyzedAt": "2026-08-20T20:21:06.958Z",
+    "vitalityScore": null,
+    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "unicamp-brazil",
+    "analyzedAt": "2026-08-21T05:52:39.277Z",
     "vitalityScore": null,
     "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
     "knowledgeLoss": false,
@@ -3273,6 +3512,21 @@
     "modified": []
   },
   {
+    "targetId": "western-nano",
+    "analyzedAt": "2026-08-21T05:49:51.405Z",
+    "vitalityScore": 100,
+    "summary": "All equipment items present in the historical snapshot remain present in the current equipment list. The only change is the absence of location metadata in the current dataset, but no physical equipment was removed.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Equipment Locations",
+        "change": "Location metadata for all equipment items was removed in the current listing."
+      }
+    ]
+  },
+  {
     "targetId": "wisc-wcnt",
     "analyzedAt": "2026-08-20T18:08:15.056Z",
     "vitalityScore": null,
@@ -3343,6 +3597,105 @@
       {
         "name": "Oxford Cryo Bosch DRIE",
         "change": "Location updated from 'Becton Engineering and Applied Science Center, 5th floor' to 'Main Campus Cleanroom'."
+      }
+    ]
+  },
+  {
+    "targetId": "yonsei-nano",
+    "analyzedAt": "2026-08-21T05:48:48.039Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment items remain present in the current facility list. The changes consist solely of minor text refinements and updates to specifications and location descriptions without any loss of core lab equipment or capabilities.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Magnetic resonance imaging (MRI)",
+        "change": "Location updated to include IBS Hall."
+      },
+      {
+        "name": "Vibrating-sample magnetometer (VSM)",
+        "change": "Location updated to include IBS Hall and specifications slightly rephrased."
+      },
+      {
+        "name": "Transmission electron microscopy (TEM)",
+        "change": "Location updated to include IBS Hall and specification text slightly revised."
+      },
+      {
+        "name": "Nuclear Magnetic Resonance (NMR)",
+        "change": "Location updated to include IBS Hall and description refined."
+      },
+      {
+        "name": "X-ray diffractometer (XRD)",
+        "change": "Specifications text updated for clarity."
+      },
+      {
+        "name": "Photoluminescence (PL) spectrophotometer",
+        "change": "Specifications text updated for grammar and clarity."
+      },
+      {
+        "name": "Gas Chromatography and mass spectrometry (GC-MS)",
+        "change": "Specifications text polished."
+      },
+      {
+        "name": "Inductively coupled plasma mass spectrometry (ICP-MS)",
+        "change": "Specifications description simplified."
+      },
+      {
+        "name": "Fourier-transform infrared (FT-IR) spectrometer",
+        "change": "Specifications text refined."
+      },
+      {
+        "name": "Electron-Beam & Thermal Evaporator",
+        "change": "Specifications text updated."
+      },
+      {
+        "name": "Sputtering System",
+        "change": "Specifications text updated."
+      },
+      {
+        "name": "Reactive Ion Etching (RIE)",
+        "change": "Specifications text expanded."
+      },
+      {
+        "name": "Probe station",
+        "change": "Specifications text expanded."
+      },
+      {
+        "name": "Mask Aligner",
+        "change": "Specifications text rephrased."
+      },
+      {
+        "name": "Electron-beam lithography",
+        "change": "Specifications text revised."
+      },
+      {
+        "name": "Total internal reflection fluorescence microscope (TIRF)",
+        "change": "Specifications text updated with more detail."
+      },
+      {
+        "name": "Confocal microscope (with STORM)",
+        "change": "Specifications text refined."
+      },
+      {
+        "name": "Fluorescence-Activated Cell Sorting (FACS)",
+        "change": "Specifications text streamlined."
+      },
+      {
+        "name": "Tissue clearing system (with SMART labeling)",
+        "change": "Specifications text expanded."
+      },
+      {
+        "name": "Microplate reader",
+        "change": "Specifications text retained similarity."
+      },
+      {
+        "name": "3D Bioprinter",
+        "change": "Specifications text expanded."
+      },
+      {
+        "name": "Ultracentrifuge",
+        "change": "Specifications text polished."
       }
     ]
   }

@@ -1,0 +1,19 @@
+{
+  "targetId": "tsukuba-nims",
+  "analyzedAt": "2026-08-21T05:48:07.485Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment items are still present in the current list, with some specifications and location details updated or added.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "high-resolution x-ray microscope",
+      "change": "Added specifications"
+    },
+    {
+      "name": "scanning electron microscope",
+      "change": "Added location details"
+    }
+  ]
+}

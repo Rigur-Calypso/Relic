@@ -1,0 +1,15 @@
+{
+  "targetId": "western-nano",
+  "analyzedAt": "2026-08-21T05:49:51.405Z",
+  "vitalityScore": 100,
+  "summary": "All equipment items present in the historical snapshot remain present in the current equipment list. The only change is the absence of location metadata in the current dataset, but no physical equipment was removed.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Equipment Locations",
+      "change": "Location metadata for all equipment items was removed in the current listing."
+    }
+  ]
+}

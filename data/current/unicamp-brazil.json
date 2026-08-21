@@ -1,0 +1,9 @@
+{
+  "targetId": "unicamp-brazil",
+  "name": "Unicamp",
+  "url": "https://www.iqm.unicamp.br/en/research/cemuiq/",
+  "scrapedAt": "2026-08-21T05:51:58.845Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

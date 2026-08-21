@@ -1,0 +1,124 @@
+{
+  "targetId": "polymtl-nano",
+  "name": "Polytechnique Montreal",
+  "url": "https://www.polymtl.ca/gcmlab/en/microfabrication",
+  "scrapedAt": "2026-08-21T05:50:02.092Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "MA6 Mask Aligner",
+      "specifications": "Manufacturer: Karl Suss, Model: MA-6/BA-6, Mask dimensions: ≤ 7″, Sample size: 1cm2 to 6 in, Contact modes: 5 available, Lamp: 350W Hg, Optics: UV 400",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Surface pretreatment oven",
+      "specifications": "Manufacturer: Yield Engineering Systems, Model: YES-310TA, Number of programs available: 12, Silanisation material: HMDS",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Brewer spincoater",
+      "specifications": "Manufacturer: Brewer Science, Model: 200cbx, Small part up to 200 mm wafers",
+      "location": "Photolithography room",
+      "status": ""
+    },
+    {
+      "name": "Raith e-line",
+      "specifications": "Beam size: less than 2 nm at 20 kV, Beam energy: 100eV to 30 KeV, Beam current: 20 pA to 20 nA, Minimum linewidth: 20 nm, Maximum sample size: 10cm, Maximum sample thickness: 2mm",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Picomaster 150",
+      "specifications": "Manufacturer: Raith, Resolutions up to 300 nm, sample size: up to 150 mm wafers, Optical Module with 375 nm wavelength",
+      "location": "Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Deep reactive ion etchning (DRIE-ICP)",
+      "specifications": "Manufacturer: Oxford, Model: Plasmalab System 100 ICP 180, Aspect Ratio: Up to 30 :1",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Reactive ion etching (RIE)",
+      "specifications": "Available gases: SF6, O2, N2, Ar, He, CF4, C4F8, CHF3, Plasma type: RF, Plasma power: 300W (max)",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "SUSS SB6e",
+      "specifications": "Manufacturer: Suss Microtech, Sample size: 2.5x2.5 cm parts to full 150mm wafers, Temperature: room to 500 Celcius, Vacuum: 5.10-5 mBar",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Parylene deposition system",
+      "specifications": "Manufacturer: Specialty Coating Systems, Model: PDS 2010",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Dicing Saw",
+      "specifications": "Manufacturer: Advanced Dicing Technology, Model: ADT 7100 Provectus, Maximal sample size: 8 inches wafers, Spindle speed: 60 KRPM max, 1.2 KW",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Supercritical dryer",
+      "specifications": "Manufacturer: Tousimis, Model: Autosamdri 815B, Samples: up to 100mm diameter, Drying fluid: CO2",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Rapid Thermal Annealing (RTA)",
+      "specifications": "Manufacturer: AG Associates, Model: Heatpulse 410, Steady-state temperature range: 400-1150 °C",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "UV ozonizing oven",
+      "specifications": "Manufacturer: UVOCS, Model: T10x10 OES",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "MetPrep4 polisher",
+      "specifications": "Manufacturer: Allied High Tech, Model: MetPrep4, Sample size: Wafers 2'', 4'' or 6''",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Strasbaugh 6EC CMP",
+      "specifications": "Manufacturer: Strasbaugh, Model: Strasbaugh 6EC, Sample size: Wafers 4'' or 6''",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Analytical Probe Station",
+      "specifications": "Model: EB-6, Stage: 6″-6″, Stage travel: 2″-2″, Microscope magnification: 20X to 100X",
+      "location": "Microfabrication lab",
+      "status": ""
+    },
+    {
+      "name": "Four points probe",
+      "specifications": "Models: Bridgetech probes, Keithley 220 current source, Agilent 34401A voltmeter, Temptronic TP3000 temperature controller, Probe spacing: 1 mm, Probe radius: 100 µm",
+      "location": "GCM Lab",
+      "status": ""
+    },
+    {
+      "name": "Magnetron sputterer",
+      "specifications": "Manufacturer: Homemade, Model: Homemade, Base pressure: 5×10-7 torr, Target sample holder distance: 5 in",
+      "location": "GCM Lab",
+      "status": ""
+    },
+    {
+      "name": "E-beam evaporator",
+      "specifications": "Manufacturer: Edwards, Base pressure: 1×10-6 torr, Number of crucibles: 6",
+      "location": "GCM Lab",
+      "status": ""
+    }
+  ]
+}

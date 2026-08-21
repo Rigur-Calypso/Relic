@@ -1,0 +1,10 @@
+{
+  "targetId": "lund-nano",
+  "analyzedAt": "2026-08-21T05:47:18.663Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

@@ -1,0 +1,9 @@
+{
+  "targetId": "osaka-nano",
+  "name": "Osaka University",
+  "url": "https://www.sanken.osaka-u.ac.jp/en/organization/nnc/",
+  "scrapedAt": "2026-08-21T05:47:27.286Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

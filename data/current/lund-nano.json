@@ -1,0 +1,9 @@
+{
+  "targetId": "lund-nano",
+  "name": "Lund University",
+  "url": "https://www.nano.lu.se/labs/lund-nano-lab",
+  "scrapedAt": "2026-08-21T05:46:50.124Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

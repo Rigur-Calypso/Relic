@@ -1,0 +1,20 @@
+{
+  "targetId": "basel-nano",
+  "analyzedAt": "2026-08-21T05:45:44.348Z",
+  "vitalityScore": 66.6,
+  "summary": "The lab facility page has lost the EDX equipment listing, while adding a generic microscopes entry. Atomic force and cryo-electron microscopes have been retained.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "EDX",
+      "severity": "critical",
+      "reason": "The entire EDX instrument has been removed from the current equipment list."
+    }
+  ],
+  "added": [
+    {
+      "name": "microscopes"
+    }
+  ],
+  "modified": []
+}

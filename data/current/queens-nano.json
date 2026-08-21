@@ -1,0 +1,9 @@
+{
+  "targetId": "queens-nano",
+  "name": "Queen’s University",
+  "url": "https://www.chem.queensu.ca/facilities/nanofabrication-kings",
+  "scrapedAt": "2026-08-21T05:48:55.462Z",
+  "method": "ai-heal",
+  "healthy": false,
+  "equipment": []
+}

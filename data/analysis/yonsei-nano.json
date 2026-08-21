@@ -1,0 +1,99 @@
+{
+  "targetId": "yonsei-nano",
+  "analyzedAt": "2026-08-21T05:48:48.039Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment items remain present in the current facility list. The changes consist solely of minor text refinements and updates to specifications and location descriptions without any loss of core lab equipment or capabilities.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Magnetic resonance imaging (MRI)",
+      "change": "Location updated to include IBS Hall."
+    },
+    {
+      "name": "Vibrating-sample magnetometer (VSM)",
+      "change": "Location updated to include IBS Hall and specifications slightly rephrased."
+    },
+    {
+      "name": "Transmission electron microscopy (TEM)",
+      "change": "Location updated to include IBS Hall and specification text slightly revised."
+    },
+    {
+      "name": "Nuclear Magnetic Resonance (NMR)",
+      "change": "Location updated to include IBS Hall and description refined."
+    },
+    {
+      "name": "X-ray diffractometer (XRD)",
+      "change": "Specifications text updated for clarity."
+    },
+    {
+      "name": "Photoluminescence (PL) spectrophotometer",
+      "change": "Specifications text updated for grammar and clarity."
+    },
+    {
+      "name": "Gas Chromatography and mass spectrometry (GC-MS)",
+      "change": "Specifications text polished."
+    },
+    {
+      "name": "Inductively coupled plasma mass spectrometry (ICP-MS)",
+      "change": "Specifications description simplified."
+    },
+    {
+      "name": "Fourier-transform infrared (FT-IR) spectrometer",
+      "change": "Specifications text refined."
+    },
+    {
+      "name": "Electron-Beam & Thermal Evaporator",
+      "change": "Specifications text updated."
+    },
+    {
+      "name": "Sputtering System",
+      "change": "Specifications text updated."
+    },
+    {
+      "name": "Reactive Ion Etching (RIE)",
+      "change": "Specifications text expanded."
+    },
+    {
+      "name": "Probe station",
+      "change": "Specifications text expanded."
+    },
+    {
+      "name": "Mask Aligner",
+      "change": "Specifications text rephrased."
+    },
+    {
+      "name": "Electron-beam lithography",
+      "change": "Specifications text revised."
+    },
+    {
+      "name": "Total internal reflection fluorescence microscope (TIRF)",
+      "change": "Specifications text updated with more detail."
+    },
+    {
+      "name": "Confocal microscope (with STORM)",
+      "change": "Specifications text refined."
+    },
+    {
+      "name": "Fluorescence-Activated Cell Sorting (FACS)",
+      "change": "Specifications text streamlined."
+    },
+    {
+      "name": "Tissue clearing system (with SMART labeling)",
+      "change": "Specifications text expanded."
+    },
+    {
+      "name": "Microplate reader",
+      "change": "Specifications text retained similarity."
+    },
+    {
+      "name": "3D Bioprinter",
+      "change": "Specifications text expanded."
+    },
+    {
+      "name": "Ultracentrifuge",
+      "change": "Specifications text polished."
+    }
+  ]
+}

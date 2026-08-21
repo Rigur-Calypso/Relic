@@ -1,0 +1,10 @@
+{
+  "targetId": "unicamp-brazil",
+  "analyzedAt": "2026-08-21T05:52:39.277Z",
+  "vitalityScore": null,
+  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": []
+}

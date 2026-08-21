@@ -1,0 +1,33 @@
+{
+  "targetId": "polymtl-nano",
+  "analyzedAt": "2026-08-21T05:50:24.821Z",
+  "vitalityScore": 85,
+  "summary": "Comparing the historical equipment list with the current list shows that most core instruments are preserved, with minor specification details lost for a few items and one specific system (Sputtering and E-beam evaporation system) removed, while a new RIE system was added.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Sputtering and E-beam evaporation system",
+      "severity": "critical",
+      "reason": "Entire system is missing from the current equipment list."
+    }
+  ],
+  "added": [
+    {
+      "name": "Reactive ion etching (RIE)"
+    }
+  ],
+  "modified": [
+    {
+      "name": "MA6 Mask Aligner",
+      "change": "Specifications simplified, removing some detailed alignment and optic line descriptions."
+    },
+    {
+      "name": "Raith e-line",
+      "change": "Removed accessories and specific minimum linewidth context details from specifications."
+    },
+    {
+      "name": "Rapid Thermal Annealing (RTA)",
+      "change": "Removed substrate types and max temperature details."
+    }
+  ]
+}

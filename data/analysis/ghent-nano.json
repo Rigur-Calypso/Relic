@@ -1,0 +1,25 @@
+{
+  "targetId": "ghent-nano",
+  "analyzedAt": "2026-08-21T05:46:32.541Z",
+  "vitalityScore": 95,
+  "summary": "The lab facility equipment list remains largely unchanged, with all core equipment preserved. Minor specification details were simplified or slightly trimmed across several instruments, and one historical wafer bonder capacity description changed.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "EVG 501 Wafer Bonder capacity specification (200 mm)",
+      "severity": "minor",
+      "reason": "The specification was shortened to mention only 150 mm wafers."
+    }
+  ],
+  "added": [],
+  "modified": [
+    {
+      "name": "EVG 501 Wafer Bonder",
+      "change": "Specifications were simplified regarding maximum wafer size capability."
+    },
+    {
+      "name": "FEI Nova 600 Nanolab Dual-Beam FIB-SEM",
+      "change": "Detailed feature list including EBSD, etch gas injectors, and nanomanipulators was removed from the description."
+    }
+  ]
+}
