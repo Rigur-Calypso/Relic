@@ -610,5 +610,95 @@
     "name": "Thapar University",
     "url": "https://see.thapar.edu/pages/instrumental-facility",
     "strategy": "ai"
+  },
+  {
+    "id": "cardiff-crf",
+    "name": "Cardiff University",
+    "url": "https://www.cardiff.ac.uk/research-equipment/equipment",
+    "strategy": "ai"
+  },
+  {
+    "id": "trinity-crann",
+    "name": "Trinity College Dublin",
+    "url": "https://www.tcd.ie/crann/advanced-microscopy-laboratory/",
+    "strategy": "ai"
+  },
+  {
+    "id": "aachen-rwth",
+    "name": "RWTH Aachen",
+    "url": "https://www.gfe.rwth-aachen.de/cms/~ocjm/gfe/?lidx=1",
+    "strategy": "ai"
+  },
+  {
+    "id": "munich-lmu",
+    "name": "LMU Munich",
+    "url": "https://www.physik.lmu.de/hybridnano/en/research/facilities/",
+    "strategy": "ai"
+  },
+  {
+    "id": "basel-nano",
+    "name": "University of Basel",
+    "url": "https://nanoscience.unibas.ch/en/services/",
+    "strategy": "ai"
+  },
+  {
+    "id": "ghent-nano",
+    "name": "Ghent University",
+    "url": "https://www.ugent.be/namifab/en/infrastructure",
+    "strategy": "ai"
+  },
+  {
+    "id": "lund-nano",
+    "name": "Lund University",
+    "url": "https://www.nano.lu.se/labs/lund-nano-lab",
+    "strategy": "ai"
+  },
+  {
+    "id": "osaka-nano",
+    "name": "Osaka University",
+    "url": "https://www.sanken.osaka-u.ac.jp/en/organization/nnc/",
+    "strategy": "ai"
+  },
+  {
+    "id": "tsukuba-nims",
+    "name": "University of Tsukuba",
+    "url": "https://applphys.bk.tsukuba.ac.jp/research-fields/?lang=en",
+    "strategy": "ai"
+  },
+  {
+    "id": "yonsei-nano",
+    "name": "Yonsei University",
+    "url": "https://ibs.yonsei.ac.kr/hall.asp?mid=m03_02",
+    "strategy": "ai"
+  },
+  {
+    "id": "queens-nano",
+    "name": "Queen’s University",
+    "url": "https://www.chem.queensu.ca/facilities/nanofabrication-kings",
+    "strategy": "ai"
+  },
+  {
+    "id": "western-nano",
+    "name": "Western University",
+    "url": "https://www.uwo.ca/fab/equipment/",
+    "strategy": "ai"
+  },
+  {
+    "id": "polymtl-nano",
+    "name": "Polytechnique Montreal",
+    "url": "https://www.polymtl.ca/gcmlab/en/microfabrication",
+    "strategy": "ai"
+  },
+  {
+    "id": "bilkent-unam",
+    "name": "Bilkent University",
+    "url": "https://unam.bilkent.edu.tr/en/facility/",
+    "strategy": "ai"
+  },
+  {
+    "id": "unicamp-brazil",
+    "name": "Unicamp",
+    "url": "https://www.iqm.unicamp.br/en/research/cemuiq/",
+    "strategy": "ai"
   }
 ]

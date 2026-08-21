@@ -62,6 +62,16 @@ app.get('/api/labs', async (_req, res) => {
   catch (e) { res.status(500).json({ error: e.message }); }
 });
 
+// On-demand: name any institution → Bright Data search+scrape → Wayback → Gemini diff.
+app.post('/api/lookup', async (req, res) => {
+  const name = (req.body?.name || '').trim();
+  if (!name) return res.status(400).json({ error: 'Provide an institution name.' });
+  try {
+    const { lookup } = await import('../lookup.js');
+    res.json(await lookup(name));
+  } catch (e) { res.status(502).json({ error: e.message }); }
+});
+
 // Trigger scripts from the UI. Runs `node <script> <id>` and streams exit status back.
 function runScript(relPath, id) {
   return new Promise((res) => {

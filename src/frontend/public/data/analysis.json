@@ -640,9 +640,9 @@
   },
   {
     "targetId": "iiser-pune",
-    "analyzedAt": "2026-08-20T13:18:36.430Z",
+    "analyzedAt": "2026-08-21T03:24:16.422Z",
     "vitalityScore": 100,
-    "summary": "All historical lab equipment and specifications have been fully preserved without any removals or modifications.",
+    "summary": "All 11 equipment items from the historical snapshot remain present in the current list with no changes, additions, or removals.",
     "knowledgeLoss": false,
     "removed": [],
     "added": [],

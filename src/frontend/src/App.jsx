@@ -17,6 +17,10 @@ export default function App() {
   const [filter, setFilter] = useState('all');
   const [query, setQuery] = useState('');
   const [busy, setBusy] = useState(null); // { id, kind }
+  const [lookupQ, setLookupQ] = useState('');
+  const [lookupBusy, setLookupBusy] = useState(false);
+  const [lookupResult, setLookupResult] = useState(null);
+  const [lookupError, setLookupError] = useState('');
 
   const load = useCallback(async () => {
     // live API first (full functionality), static baked JSON as fallback
@@ -44,6 +48,26 @@ export default function App() {
       await load();
     } finally {
       setBusy(null);
+    }
+  }
+
+  async function runLookup(e) {
+    e?.preventDefault();
+    const name = lookupQ.trim();
+    if (!name || lookupBusy) return;
+    setLookupBusy(true); setLookupError(''); setLookupResult(null);
+    try {
+      const r = await fetch('/api/lookup', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name }),
+      });
+      const data = await r.json();
+      if (!r.ok) throw new Error(data.error || 'Lookup failed');
+      setLookupResult(data);
+    } catch (err) {
+      setLookupError(err.message || 'Lookup failed');
+    } finally {
+      setLookupBusy(false);
     }
   }
 
@@ -98,6 +122,39 @@ export default function App() {
           <p><span className="thesis">A healthy scraper is not the same as preserved knowledge.</span>{' '}
             RELIC diffs each lab’s live equipment listing against its Wayback history to catch instruments that were silently decommissioned.</p>
         </div>
+
+        {live && (
+          <form className="lookup" onSubmit={runLookup}>
+            <div className="field">
+              <span className="k" aria-hidden="true">
+                <svg width="17" height="17" viewBox="0 0 16 16" fill="none"><path d="M8 1.5 14 5v6l-6 3.5L2 11V5l6-3.5Z" stroke="currentColor" strokeWidth="1.3" strokeLinejoin="round"/><path d="M8 5.2 10.6 6.7v3L8 11.2 5.4 9.7v-3L8 5.2Z" fill="currentColor"/></svg>
+              </span>
+              <input value={lookupQ} onChange={(e) => setLookupQ(e.target.value)}
+                placeholder="Name any institution — e.g. “University of Tokyo” — to scrape & diff it live"
+                aria-label="Look up any institution" />
+            </div>
+            <button className="go" type="submit" disabled={lookupBusy || !lookupQ.trim()}>
+              {lookupBusy ? <><span className="spin" />Scraping…</> : <>Analyze on demand</>}
+            </button>
+            <div className={`hint ${lookupError ? 'err' : ''}`}>
+              {lookupError
+                ? `Couldn’t analyze that: ${lookupError}`
+                : 'Bright Data finds the facility page, scrapes it, pulls the Wayback version, and Gemini diffs them — in ~30s.'}
+            </div>
+          </form>
+        )}
+
+        {lookupResult && (
+          <div className="adhoc">
+            <div className="band-label">
+              ◆ On-demand result
+              <span className="x" onClick={() => setLookupResult(null)}>✕ dismiss</span>
+            </div>
+            <div className="adhoc-grid">
+              <LabCard lab={lookupResult} live={false} />
+            </div>
+          </div>
+        )}
 
         <section className="stats" aria-label="Overview">
           <div className="stat"><div className="n mono">{stats.total}</div><div className="l"><span className="dot" style={{ background: 'var(--accent)' }} />Facilities monitored</div></div>
