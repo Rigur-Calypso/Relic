@@ -1,0 +1,14 @@
+{
+  "targetId": "leeds-nano",
+  "analyzedAt": "2026-08-22T04:07:40.065Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment records are fully preserved in the current page, with no equipment removals identified. One new entry for microscopes was added to the photolithography bay.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Bright-field, darkfield and DIC microscopes"
+    }
+  ],
+  "modified": []
+}

@@ -1,0 +1,221 @@
+{
+  "target": {
+    "id": "unl-ncmn",
+    "name": "Nebraska Center for Materials & Nanoscience",
+    "url": "https://nanofab.unl.edu/equipment/",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 18."
+  },
+  "current": {
+    "targetId": "unl-ncmn",
+    "name": "Nebraska Center for Materials & Nanoscience",
+    "url": "https://nanofab.unl.edu/equipment/",
+    "scrapedAt": "2026-08-22T04:03:27.246Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Electron Beam Lithography (EBL) System",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Heidelberg DWL 66FS",
+        "specifications": "laser lithography system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "SUSS MicroTec MJB4",
+        "specifications": "mask aligner",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "FEI Strata 200xp",
+        "specifications": "Focused-Ion Beam (FIB) Workstation",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Trion Minilock-Phantom III",
+        "specifications": "reactive ion etching (RIE) system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oxford PlasmaPro 100",
+        "specifications": "deep RIE system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Intlvac Nanoquest-I",
+        "specifications": "ion beam etching and milling system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "AJA ATC-ORION 8000",
+        "specifications": "e-beam evaporation system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Bruker Dektak-XT",
+        "specifications": "stylus surface profiling system",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Wet etching bench",
+        "specifications": "",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Filmetrics F40",
+        "specifications": "Reflective Film Thickness Measurement System",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Nikon Eclipse L200N",
+        "specifications": "Optic Microscope with camera",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Lucas 302",
+        "specifications": "Four-probe Resistivity Measurement Stand",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Laurell WS-400-6NPP",
+        "specifications": "Spinner",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Super Nuova 120",
+        "specifications": "Hot Plate",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Thermo Scientific 3492M",
+        "specifications": "Oven",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Brason 2510",
+        "specifications": "UltraSonic Cleaner",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "unl-ncmn",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://nanofab.unl.edu/equipment/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-22T04:03:41.426Z",
+    "equipment": [
+      {
+        "name": "Spinner",
+        "specifications": "Laurell WS-400-6NPP",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Hot Plate",
+        "specifications": "Super Nuova 120",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "Oven",
+        "specifications": "Thermo Scientific 3492M",
+        "location": "",
+        "status": ""
+      },
+      {
+        "name": "UltraSonic Cleaner",
+        "specifications": "Brason 2510",
+        "location": "",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "unl-ncmn",
+    "analyzedAt": "2026-08-22T04:04:16.465Z",
+    "vitalityScore": 100,
+    "summary": "All historical lab equipment items remain present with updated naming conventions, and 13 new instruments have been added to the facility listing.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Electron Beam Lithography (EBL) System"
+      },
+      {
+        "name": "Heidelberg DWL 66FS"
+      },
+      {
+        "name": "SUSS MicroTec MJB4"
+      },
+      {
+        "name": "FEI Strata 200xp"
+      },
+      {
+        "name": "Trion Minilock-Phantom III"
+      },
+      {
+        "name": "Oxford PlasmaPro 100"
+      },
+      {
+        "name": "Intlvac Nanoquest-I"
+      },
+      {
+        "name": "AJA ATC-ORION 8000"
+      },
+      {
+        "name": "Bruker Dektak-XT"
+      },
+      {
+        "name": "Wet etching bench"
+      },
+      {
+        "name": "Filmetrics F40"
+      },
+      {
+        "name": "Nikon Eclipse L200N"
+      },
+      {
+        "name": "Lucas 302"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Spinner",
+        "change": "Name updated to model number Laurell WS-400-6NPP"
+      },
+      {
+        "name": "Hot Plate",
+        "change": "Name updated to model number Super Nuova 120"
+      },
+      {
+        "name": "Oven",
+        "change": "Name updated to model number Thermo Scientific 3492M"
+      },
+      {
+        "name": "UltraSonic Cleaner",
+        "change": "Name updated to model number Brason 2510"
+      }
+    ]
+  }
+}

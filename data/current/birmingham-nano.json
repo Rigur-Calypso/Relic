@@ -1,0 +1,124 @@
+{
+  "targetId": "birmingham-nano",
+  "name": "Birmingham Nanoscale & Microscale Research Centre",
+  "url": "https://www.birmingham.ac.uk/research/centres-institutes/research-in-metallurgy-and-materials/characterisation-facility/equipment",
+  "scrapedAt": "2026-08-22T04:06:22.495Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Precision Cutting Machines",
+      "specifications": "Allows users to cut a wide range of sample sizes and hardnesses. Different blade types available, adjustable cutting speed.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Mounting Presses",
+      "specifications": "Two mounting presses available to embed samples in Bakelite and resin for SEM or other characterisation. High temperature and pressure system with automatic embedding methods.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Grinding and Polishing Equipment",
+      "specifications": "Manual and automatic methods for grinding and polishing samples (mounted in resin or hand-held). Grinding papers and polishing pads of different varieties available.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Engraver",
+      "specifications": "Used to mark and keep track of samples.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Ovens and Furnaces",
+      "specifications": "Tube and muffle ovens/furnaces for heat treating samples from room temperature to 1600 °C.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "X-ray Diffractometer (XRD)",
+      "specifications": "Uses copper line focus X-ray tube with a nickel Kβ absorber (0.02 mm; Kβ = 1.392250 Å) producing Kα radiation (Kα1 = 1.540593 Å, Kα2 = 1.544426 Å, Kα ratio 0.5, Kαav = 1.541874 Å). Increment size 0.0149282, power setting 30.0 kV and 20 mA. Powder sample volume 66 or 266 mm3, non-powdered sample holder max 35 x 10 mm. Includes multichanger and Anton-Parr heating stage unit up to 500 °C. Exports to XML, ASC, RAW, XY.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "X-ray Fluorescence Spectrometer (XRF)",
+      "specifications": "Non-destructive technique using X-rays to determine chemical composition.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "FTIR Spectrometer (Fourier Transform Infrared Spectroscopy)",
+      "specifications": "Non-destructive instrument using infrared light to measure infrared absorption and emission spectra.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Particle Size Analyzer (PSA)",
+      "specifications": "Uses lasers to characterise size and shape distribution of particles in powders or liquid suspension. Installed with wet and dry methods.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Zeta Potential Analyzer",
+      "specifications": "Non-destructive instrument used to measure electrical potentials at the slipping plane of particles in suspension.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Dilatometer",
+      "specifications": "Precision instrument used to measure dimensional changes (thermal expansion or shrinkage) as a function of temperature.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "STA (Simultaneous Thermal Analysis)",
+      "specifications": "Simultaneously measures TGA (Thermogravimetry) and DSC (Differential Scanning Calorimetry). Equipped with an autochanger holding up to 20 samples.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "DSC (Differential Scanning Calorimetry)",
+      "specifications": "Measures heat flow of a sample over a temperature range using a reference. Equipped with an autochanger for up to 20 samples.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Optical Microscopes",
+      "specifications": "Used for imaging samples, taking images, and taking measurements.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Keyence Digital Microscope (VHX-7000)",
+      "specifications": "Magnification x6000, 2D & 3D imaging and measurements, joystick controller, auto focus.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Hitachi TM3030+ Scanning Electron Microscope (SEM)",
+      "specifications": "Equipped with BSE (Back scattered electron) detector, SE (Secondary electron) detector, and EDX (energy-dispersive X-ray spectroscopy) detector for chemical composition measurement.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Hitachi TM4000+ Scanning Electron Microscope (SEM)",
+      "specifications": "Equipped with BSE (Back scattered electron) detector, SE (Secondary electron) detector, and EDX (energy-dispersive X-ray spectroscopy) detector for chemical composition measurement.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Tensile Testing Instruments",
+      "specifications": "Two instruments used for measuring tensile strength by applying force. Equipped with safety guards and touchscreen computer.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    },
+    {
+      "name": "Struers Duramin-40 Hardness Tester",
+      "specifications": "Used for measuring hardness of materials.",
+      "location": "Characterisation Facility, University of Birmingham",
+      "status": ""
+    }
+  ]
+}

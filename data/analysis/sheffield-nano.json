@@ -1,0 +1,19 @@
+{
+  "targetId": "sheffield-nano",
+  "analyzedAt": "2026-08-22T04:01:15.951Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment remains listed in the current inventory. One item (Laminar flow cabinets) was added, and optical microscopes had specifications merged into the item title. No knowledge loss occurred.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Laminar flow cabinets"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Optical microscopes",
+      "change": "Specifications 'With digital cameras' integrated directly into the name."
+    }
+  ]
+}

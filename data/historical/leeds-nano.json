@@ -1,0 +1,153 @@
+{
+  "targetId": "leeds-nano",
+  "snapshotUrl": "http://web.archive.org/web/20240523212944/https://cleanroom.leeds.ac.uk/facility-overview/",
+  "snapshotTimestamp": "20240523212944",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-22T04:07:32.218Z",
+  "equipment": [
+    {
+      "name": "Jeol 6300FS EBL system",
+      "specifications": "Patterning of sub-10-nm structures",
+      "location": "Electron Beam Lithography suite",
+      "status": ""
+    },
+    {
+      "name": "MLA 150 maskless lithography system",
+      "specifications": "",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "EVG 610 mask aligner",
+      "specifications": "",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "MJB 3 mask aligner",
+      "specifications": "2 units available",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "Sapphire MegPie megasonic cleaning and development system",
+      "specifications": "",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "Oxygen plasma ashers",
+      "specifications": "",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "Stylus profilers",
+      "specifications": "Contact characterisation",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "AFM",
+      "specifications": "Atomic Force Microscopy",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "Optical reflectometers",
+      "specifications": "Non-contact characterisation",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "3D optical profilers",
+      "specifications": "Non-contact characterisation",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "SEM",
+      "specifications": "Scanning Electron Microscope imaging",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "Sputtering system",
+      "specifications": "PVD system",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Thermal evaporators",
+      "specifications": "3 thermal evaporators available",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Electron-beam evaporators",
+      "specifications": "2 electron-beam evaporators available",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Wafer bonding instrument",
+      "specifications": "",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Die bonding instrument",
+      "specifications": "",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Rapid thermal annealer",
+      "specifications": "",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "ICP etching system",
+      "specifications": "For III-V semiconductors",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "RIE etching system",
+      "specifications": "Etching of shallow silicon, silicon oxides and silicon nitrides",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "Ion beam etching system",
+      "specifications": "CAIBE and RIBE capabilities",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "ALD system",
+      "specifications": "For oxides and nitrides of Ti, Hf, Sn and Al",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "PECVD system",
+      "specifications": "Silicon oxides, nitrides and oxynitrides",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "Parylene coating system",
+      "specifications": "Parylene-C and parylene-N coating",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "Probe stations",
+      "specifications": "Two probe stations with supporting electronics for DC-to-RF characterisation",
+      "location": "Test and Packaging rooms",
+      "status": ""
+    }
+  ]
+}

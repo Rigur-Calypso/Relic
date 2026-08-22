@@ -1,0 +1,23 @@
+{
+  "targetId": "utd-cleanroom",
+  "analyzedAt": "2026-08-22T04:02:57.208Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment and details are fully preserved. Minor cosmetic formatting changes incorporated specification details directly into item names.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Metallization equipment",
+      "change": "Renamed to 'Metallization (sputter, e-gun, thermal evap)' with specifications moved into the item name."
+    },
+    {
+      "name": "Thermal processing equipment",
+      "change": "Renamed to 'Thermal (oxidation/diffusion, RTP)' with specifications moved into the item name."
+    },
+    {
+      "name": "Lithography equipment",
+      "change": "Shortened name to 'Lithography'."
+    }
+  ]
+}

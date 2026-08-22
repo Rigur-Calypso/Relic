@@ -1,0 +1,57 @@
+{
+  "targetId": "utd-cleanroom",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cores.research.utdallas.edu/cleanroom/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-22T04:02:36.787Z",
+  "equipment": [
+    {
+      "name": "Plasma etch",
+      "specifications": "",
+      "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+      "status": ""
+    },
+    {
+      "name": "PECVD",
+      "specifications": "",
+      "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+      "status": ""
+    },
+    {
+      "name": "LPCVD",
+      "specifications": "",
+      "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+      "status": ""
+    },
+    {
+      "name": "Metallization equipment",
+      "specifications": "sputter, e-gun, thermal evap",
+      "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+      "status": ""
+    },
+    {
+      "name": "Wet chemical stations",
+      "specifications": "",
+      "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+      "status": ""
+    },
+    {
+      "name": "Thermal processing equipment",
+      "specifications": "oxidation/diffusion, RTP",
+      "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+      "status": ""
+    },
+    {
+      "name": "Lithography equipment",
+      "specifications": "",
+      "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+      "status": ""
+    },
+    {
+      "name": "Surface analysis tools",
+      "specifications": "",
+      "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+      "status": ""
+    }
+  ]
+}

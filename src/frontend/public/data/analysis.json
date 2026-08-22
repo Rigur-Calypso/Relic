@@ -329,6 +329,16 @@
     ]
   },
   {
+    "targetId": "birmingham-nano",
+    "analyzedAt": "2026-08-22T04:06:46.626Z",
+    "vitalityScore": null,
+    "summary": "No historical snapshot to compare against.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": []
+  },
+  {
     "targetId": "bits-pilani",
     "analyzedAt": "2026-08-20T13:18:44.179Z",
     "vitalityScore": 100,
@@ -350,6 +360,29 @@
       {
         "name": "Transmission electron microscopes",
         "change": "Updated location and added operational status while preserving equipment specifications."
+      }
+    ]
+  },
+  {
+    "targetId": "bristol-nsqi",
+    "analyzedAt": "2026-08-22T04:00:19.896Z",
+    "vitalityScore": 100,
+    "summary": "All 25 historical tools and equipment remain present in the current inventory. Several equipment listings have updated or expanded specifications, including the addition of Leica inspection microscopes alongside the Polyvar Polymet microscope.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Polyvar Polymet microscope",
+        "change": "Updated listing name to 'Polyvar Polymet / Leica Inspection Microscopes' and expanded specifications to include Leica viewers and inspection microscopes."
+      },
+      {
+        "name": "JLS Designs Plasmapod Plus and Plasmatherm RIE 550-570",
+        "change": "Updated specifications to include etching capability for polyimide."
+      },
+      {
+        "name": "Oxford Instruments System 100 ICP 180",
+        "change": "Specifications expanded to mention etching of silicon and LiNbO3 in addition to InP."
       }
     ]
   },
@@ -494,6 +527,313 @@
     "removed": [],
     "added": [],
     "modified": []
+  },
+  {
+    "targetId": "cmu-nanofab",
+    "analyzedAt": "2026-08-22T04:02:11.630Z",
+    "vitalityScore": 95,
+    "summary": "All 74 historical equipment items remain present in the current inventory. No instruments were removed or added. However, category and specification metadata was cleared across all listings.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "5-Target Nanofab Sputtering System #1",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "5-Target Nanofab Sputtering System #2",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "5-Target Nanofab Sputtering System #3",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "5-Target Nanofab Sputtering System #4",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "5-Target Nanofab Sputtering System #5",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "6-Target Nanofab Sputtering System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Anatech Hummer Gold Coater",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Cambridge Nanotech Fiji Atomic Layer Deposition System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Commonwealth Scientific Ion Beam Deposition System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "CVC Connexion Sputtering System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Leybold Heraeus Z-400 Sputtering System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Leybold Heraeus Z-400 Sputtering System #2",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Leybold Heraeus Z-650 Sputtering System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Perkin Elmer 6J Sputtering System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Perkin Elmer 8L Sputtering System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "SCS Labcoter 2 Parylene Deposition System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Tegal AMS Aluminum Nitride Sputtering System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Trion Orion II PECVD",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Ultek E-Beam Evaporator",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "GVD iCVD System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "GVD oCVD System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Kurt Lesker PVD 75 Electron Beam Evaporator",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Kurt Lesker PVD 75 Sputtering System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Plasma-Therm Versaline ICP RIE",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "STS Aspect AOE",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "STS Aspect ICP",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "STS Multiplex ICP RIE",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Micrion 2500 Focused Ion Beam System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Commonwealth Scientific Ion Mill",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Commonwealth Scientific Ion Mill #2",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Plasma-Therm 790 RIE",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Trion Phantom II RIE",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "IPC Barrel Etcher",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Samco UV-1 Ozone Cleaner",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "FEI Sirion 600 SEM / JC Nabity NPGS E-Beam Lithography",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "FEI Sirion 400 SEM / JC Nabity NPGS E-Beam Lithography",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Elionix ELS-G100 Electron Beam Lithography System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Nikon NSR-1505G4 Stepper",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Heidelberg DWL 66FS Laser Lithography System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Heidelberg DWL 66 Laser Lithography System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Karl Süss MA6/BA6 Contact Aligner",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Karl Süss MA56 Contact Aligner",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Karl Süss MJB3 Contact Aligner",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "YES HMDS Vapor Prime Vacuum Oven",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "CEE 100 Spray Developer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "CEE 100CB Table Top Spinner/Hotplate",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "CEE 100CB Bench Mount Spinner/Hotplate",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Solitec Photoresist Spinner",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Despatch Convection Oven - 90 ºC",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Blue M Oven - 120 ºC",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Photoresist Refrigerator",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "ASML 5500/80 i-Line Wafer Stepper",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "AG Heat Pulse 610i Rapid Thermal Annealer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Micro Magnetics SpinTherm 1000 Magnetic Annealing System",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "2\" Tube Annealing Furnace",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Blue M Variable Temp Ovens",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Hotpack Vacuum Oven",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Hotplates",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Olympus MX80 Inspection Microscope",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Olympus BH Inspection Microscope",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Olympus Widefield Zoom Microscope",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Micromanipulator Probe Stations",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "KLA Tencor P-15 Profilometer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Tencor P-2 Profilometer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Tencor Alpha-Step 200 Profilometer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Nanometrics Nanospec 210XP",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Semitool 870 Spin Rinser/Dryer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Semitool 880 Spin Rinser/Dryer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Semitool 270 Spin Rinser/Dryer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Tousimis Critical Point Dryer",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Copper Electroplating Bath",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Kulicke & Soffa 782-6 Dicing Saw",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Micromech Diamond Saw",
+        "change": "Specifications metadata removed"
+      },
+      {
+        "name": "Strasbaugh 6EC CMP",
+        "change": "Specifications metadata removed"
+      }
+    ]
   },
   {
     "targetId": "colostate-arc",
@@ -1299,6 +1639,28 @@
     "modified": []
   },
   {
+    "targetId": "kaust-corelabs",
+    "analyzedAt": "2026-08-22T04:05:59.466Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment remains present in the current inventory with no loss of capability. Two new processing systems (Wet benches and Pre-clean benches) have been added to the facility.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Wet benches"
+      },
+      {
+        "name": "Pre-clean benches"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Ion beam (argon-based) etching system",
+        "change": "Renamed to Ion beam etching equipment with argon details moved into specifications"
+      }
+    ]
+  },
+  {
     "targetId": "kit-nano",
     "analyzedAt": "2026-08-20T18:36:03.341Z",
     "vitalityScore": null,
@@ -1393,6 +1755,20 @@
     "knowledgeLoss": false,
     "removed": [],
     "added": [],
+    "modified": []
+  },
+  {
+    "targetId": "leeds-nano",
+    "analyzedAt": "2026-08-22T04:07:40.065Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment records are fully preserved in the current page, with no equipment removals identified. One new entry for microscopes was added to the photolithography bay.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Bright-field, darkfield and DIC microscopes"
+      }
+    ],
     "modified": []
   },
   {
@@ -1750,6 +2126,29 @@
       {
         "name": "FT-IR",
         "change": "Name updated to FT-IR spectrometer platform and microscope"
+      }
+    ]
+  },
+  {
+    "targetId": "ncku-taiwan",
+    "analyzedAt": "2026-08-22T04:08:56.645Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment remains present with added specification details for each Chemical Vapor Deposition system. No knowledge loss detected.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "1 & 2 Inch Chemical Vapor Deposition for Graphene",
+        "change": "Added specifications: '1 & 2 Inch'"
+      },
+      {
+        "name": "3 Inch Chemical Vapor Deposition for Graphene",
+        "change": "Added specifications: '3 Inch'"
+      },
+      {
+        "name": "3 Inch Chemical Vapor Deposition for Graphene",
+        "change": "Added specifications: '3 Inch'"
       }
     ]
   },
@@ -2210,6 +2609,33 @@
     ]
   },
   {
+    "targetId": "rutgers-nano",
+    "analyzedAt": "2026-08-22T04:05:22.427Z",
+    "vitalityScore": 100,
+    "summary": "All 40 historical equipment items remain present in the current inventory. A few entries underwent minor renaming or typographical corrections, but no knowledge or equipment was lost.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Ebeam (Angstorm)",
+        "change": "Corrected spelling to Ebeam (Angstrom)"
+      },
+      {
+        "name": "Ion Milling (Angstorm)",
+        "change": "Corrected spelling to Ion Milling (Angstrom)"
+      },
+      {
+        "name": "Trion Reactive Ion Etch",
+        "change": "Renamed to Reactive Ion Etch (Trion)"
+      },
+      {
+        "name": "Plasma Etcher (Low Vac)",
+        "change": "Renamed to Plasma Treatment Barrel Etcher with specifications updated to Low Vac"
+      }
+    ]
+  },
+  {
     "targetId": "saha-scf",
     "analyzedAt": "2026-08-20T18:53:19.731Z",
     "vitalityScore": 90,
@@ -2258,6 +2684,25 @@
       {
         "name": "Field Emission Gun-Transmission Electron Microscope (FEG-TEM) (120/200 kV)",
         "change": "Updated instrument name to include '(FEG-TEM 200 kV)'."
+      }
+    ]
+  },
+  {
+    "targetId": "sheffield-nano",
+    "analyzedAt": "2026-08-22T04:01:15.951Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment remains listed in the current inventory. One item (Laminar flow cabinets) was added, and optical microscopes had specifications merged into the item title. No knowledge loss occurred.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Laminar flow cabinets"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Optical microscopes",
+        "change": "Specifications 'With digital cameras' integrated directly into the name."
       }
     ]
   },
@@ -3009,6 +3454,73 @@
     ]
   },
   {
+    "targetId": "unl-ncmn",
+    "analyzedAt": "2026-08-22T04:04:16.465Z",
+    "vitalityScore": 100,
+    "summary": "All historical lab equipment items remain present with updated naming conventions, and 13 new instruments have been added to the facility listing.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Electron Beam Lithography (EBL) System"
+      },
+      {
+        "name": "Heidelberg DWL 66FS"
+      },
+      {
+        "name": "SUSS MicroTec MJB4"
+      },
+      {
+        "name": "FEI Strata 200xp"
+      },
+      {
+        "name": "Trion Minilock-Phantom III"
+      },
+      {
+        "name": "Oxford PlasmaPro 100"
+      },
+      {
+        "name": "Intlvac Nanoquest-I"
+      },
+      {
+        "name": "AJA ATC-ORION 8000"
+      },
+      {
+        "name": "Bruker Dektak-XT"
+      },
+      {
+        "name": "Wet etching bench"
+      },
+      {
+        "name": "Filmetrics F40"
+      },
+      {
+        "name": "Nikon Eclipse L200N"
+      },
+      {
+        "name": "Lucas 302"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Spinner",
+        "change": "Name updated to model number Laurell WS-400-6NPP"
+      },
+      {
+        "name": "Hot Plate",
+        "change": "Name updated to model number Super Nuova 120"
+      },
+      {
+        "name": "Oven",
+        "change": "Name updated to model number Thermo Scientific 3492M"
+      },
+      {
+        "name": "UltraSonic Cleaner",
+        "change": "Name updated to model number Brason 2510"
+      }
+    ]
+  },
+  {
     "targetId": "unm-cint",
     "analyzedAt": "2026-08-20T18:18:13.887Z",
     "vitalityScore": null,
@@ -3134,6 +3646,29 @@
       {
         "name": "Heidelberg uPG 101 Laser Pattern Generator (x2)",
         "change": "Quantity multiplier (x2) removed from instrument name."
+      }
+    ]
+  },
+  {
+    "targetId": "utd-cleanroom",
+    "analyzedAt": "2026-08-22T04:02:57.208Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and details are fully preserved. Minor cosmetic formatting changes incorporated specification details directly into item names.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Metallization equipment",
+        "change": "Renamed to 'Metallization (sputter, e-gun, thermal evap)' with specifications moved into the item name."
+      },
+      {
+        "name": "Thermal processing equipment",
+        "change": "Renamed to 'Thermal (oxidation/diffusion, RTP)' with specifications moved into the item name."
+      },
+      {
+        "name": "Lithography equipment",
+        "change": "Shortened name to 'Lithography'."
       }
     ]
   },

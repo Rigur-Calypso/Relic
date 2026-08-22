@@ -1,0 +1,146 @@
+{
+  "target": {
+    "id": "kaust-corelabs",
+    "name": "KAUST Nanofabrication Core Lab",
+    "url": "https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 10."
+  },
+  "current": {
+    "targetId": "kaust-corelabs",
+    "name": "KAUST Nanofabrication Core Lab",
+    "url": "https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+    "scrapedAt": "2026-08-22T04:05:36.930Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Diamond dicing equipment",
+        "specifications": "Capable of dicing wafers down to 1 cm by 1 cm chips",
+        "location": "Metrology and Bonding area, Nanofabrication Core Lab",
+        "status": ""
+      },
+      {
+        "name": "Gold/aluminum wire bonders",
+        "specifications": "Facilitates electrical connections with external characterization electronics",
+        "location": "Metrology and Bonding area, Nanofabrication Core Lab",
+        "status": ""
+      },
+      {
+        "name": "Plasma etching equipment",
+        "specifications": "Connected to reactive gasses (fluorides and chlorides) to etch more than fifty types of materials",
+        "location": "Etching area, Nanofabrication Core Lab",
+        "status": ""
+      },
+      {
+        "name": "Ion beam etching equipment",
+        "specifications": "Argon-based, produces sub-micron dense and isolated features with minimal edge roughness",
+        "location": "Etching area, Nanofabrication Core Lab",
+        "status": ""
+      },
+      {
+        "name": "Wet benches",
+        "specifications": "Uses various chemicals to etch metals, semiconductors, and insulators",
+        "location": "Etching area, Nanofabrication Core Lab",
+        "status": ""
+      },
+      {
+        "name": "Pre-clean benches",
+        "specifications": "Used for preparing wafers before processing to ensure minimal contamination",
+        "location": "Etching area, Nanofabrication Core Lab",
+        "status": ""
+      },
+      {
+        "name": "Optical photolithography system",
+        "specifications": "Mask resolution of 700 nm",
+        "location": "Lithography and mask making area, Nanofabrication Core Lab",
+        "status": ""
+      },
+      {
+        "name": "Electron beam lithography system",
+        "specifications": "Patterning features as small as 10 nm",
+        "location": "Lithography and mask making area, Nanofabrication Core Lab",
+        "status": ""
+      },
+      {
+        "name": "Two-photon laser lithography system",
+        "specifications": "Prints 3D nanostructures with micron-range dimensions",
+        "location": "Lithography and mask making area, Nanofabrication Core Lab",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "kaust-corelabs",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-22T04:05:51.251Z",
+    "equipment": [
+      {
+        "name": "Diamond dicing equipment",
+        "specifications": "Capable of dicing wafers down to 1 cm by 1 cm chips",
+        "location": "Nanofabrication Core Lab - Metrology and Bonding",
+        "status": ""
+      },
+      {
+        "name": "Gold/aluminum wire bonders",
+        "specifications": "Facilitates electrical connections with external characterization electronics",
+        "location": "Nanofabrication Core Lab - Metrology and Bonding",
+        "status": ""
+      },
+      {
+        "name": "Plasma etching equipment",
+        "specifications": "Connected to reactive gases (fluorides and chlorides), capable of etching more than 50 different types of materials",
+        "location": "Nanofabrication Core Lab - Etching Cleanroom",
+        "status": ""
+      },
+      {
+        "name": "Ion beam (argon-based) etching system",
+        "specifications": "Produces sub-micron dense and isolated features with minimal edge roughness",
+        "location": "Nanofabrication Core Lab - Etching",
+        "status": ""
+      },
+      {
+        "name": "Optical photolithography system",
+        "specifications": "Mask resolution of 700 nm",
+        "location": "Nanofabrication Core Lab - Lithography and mask making",
+        "status": ""
+      },
+      {
+        "name": "Electron beam lithography system",
+        "specifications": "Patterning features as small as 10 nm",
+        "location": "Nanofabrication Core Lab - Lithography and mask making",
+        "status": ""
+      },
+      {
+        "name": "Two-photon laser lithography system",
+        "specifications": "Prints 3D nanostructures with micron-range dimensions",
+        "location": "Nanofabrication Core Lab - Lithography and mask making",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "kaust-corelabs",
+    "analyzedAt": "2026-08-22T04:05:59.466Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment remains present in the current inventory with no loss of capability. Two new processing systems (Wet benches and Pre-clean benches) have been added to the facility.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [
+      {
+        "name": "Wet benches"
+      },
+      {
+        "name": "Pre-clean benches"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Ion beam (argon-based) etching system",
+        "change": "Renamed to Ion beam etching equipment with argon details moved into specifications"
+      }
+    ]
+  }
+}

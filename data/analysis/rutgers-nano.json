@@ -1,0 +1,27 @@
+{
+  "targetId": "rutgers-nano",
+  "analyzedAt": "2026-08-22T04:05:22.427Z",
+  "vitalityScore": 100,
+  "summary": "All 40 historical equipment items remain present in the current inventory. A few entries underwent minor renaming or typographical corrections, but no knowledge or equipment was lost.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Ebeam (Angstorm)",
+      "change": "Corrected spelling to Ebeam (Angstrom)"
+    },
+    {
+      "name": "Ion Milling (Angstorm)",
+      "change": "Corrected spelling to Ion Milling (Angstrom)"
+    },
+    {
+      "name": "Trion Reactive Ion Etch",
+      "change": "Renamed to Reactive Ion Etch (Trion)"
+    },
+    {
+      "name": "Plasma Etcher (Low Vac)",
+      "change": "Renamed to Plasma Treatment Barrel Etcher with specifications updated to Low Vac"
+    }
+  ]
+}

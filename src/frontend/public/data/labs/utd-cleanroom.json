@@ -1,0 +1,147 @@
+{
+  "target": {
+    "id": "utd-cleanroom",
+    "name": "UT Dallas Cleanroom Research Lab",
+    "url": "https://cores.research.utdallas.edu/cleanroom/",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 5."
+  },
+  "current": {
+    "targetId": "utd-cleanroom",
+    "name": "UT Dallas Cleanroom Research Lab",
+    "url": "https://cores.research.utdallas.edu/cleanroom/",
+    "scrapedAt": "2026-08-22T04:02:23.219Z",
+    "method": "ai-heal",
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "Plasma etch",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "PECVD",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "LPCVD",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Metallization (sputter, e-gun, thermal evap)",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Wet chemical stations",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Thermal (oxidation/diffusion, RTP)",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Lithography",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Surface analysis tools",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      }
+    ]
+  },
+  "historical": {
+    "targetId": "utd-cleanroom",
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://cores.research.utdallas.edu/cleanroom/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-22T04:02:36.787Z",
+    "equipment": [
+      {
+        "name": "Plasma etch",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "PECVD",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "LPCVD",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Metallization equipment",
+        "specifications": "sputter, e-gun, thermal evap",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Wet chemical stations",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Thermal processing equipment",
+        "specifications": "oxidation/diffusion, RTP",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Lithography equipment",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      },
+      {
+        "name": "Surface analysis tools",
+        "specifications": "",
+        "location": "Natural Science & Engineering Research Laboratories (NSERL)",
+        "status": ""
+      }
+    ]
+  },
+  "analysis": {
+    "targetId": "utd-cleanroom",
+    "analyzedAt": "2026-08-22T04:02:57.208Z",
+    "vitalityScore": 100,
+    "summary": "All historical equipment and details are fully preserved. Minor cosmetic formatting changes incorporated specification details directly into item names.",
+    "knowledgeLoss": false,
+    "removed": [],
+    "added": [],
+    "modified": [
+      {
+        "name": "Metallization equipment",
+        "change": "Renamed to 'Metallization (sputter, e-gun, thermal evap)' with specifications moved into the item name."
+      },
+      {
+        "name": "Thermal processing equipment",
+        "change": "Renamed to 'Thermal (oxidation/diffusion, RTP)' with specifications moved into the item name."
+      },
+      {
+        "name": "Lithography equipment",
+        "change": "Shortened name to 'Lithography'."
+      }
+    ]
+  }
+}

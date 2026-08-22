@@ -1,0 +1,28 @@
+{
+  "targetId": "ncku-taiwan",
+  "name": "NCKU Micro/Nano Fabrication",
+  "url": "https://researchoutput.ncku.edu.tw/en/organisations/center-for-micronano-science-and-technology/",
+  "scrapedAt": "2026-08-22T04:08:21.391Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "1 & 2 Inch Chemical Vapor Deposition for Graphene",
+      "specifications": "1 & 2 Inch",
+      "location": "Center for Micro/Nano Science and Technology",
+      "status": ""
+    },
+    {
+      "name": "3 Inch Chemical Vapor Deposition for Graphene",
+      "specifications": "3 Inch",
+      "location": "Center for Micro/Nano Science and Technology",
+      "status": ""
+    },
+    {
+      "name": "3 Inch Chemical Vapor Deposition for Graphene",
+      "specifications": "3 Inch",
+      "location": "Center for Micro/Nano Science and Technology",
+      "status": ""
+    }
+  ]
+}

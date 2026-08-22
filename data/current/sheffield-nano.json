@@ -1,0 +1,106 @@
+{
+  "targetId": "sheffield-nano",
+  "name": "Sheffield Nanoscience & Technology (NMRC)",
+  "url": "https://sheffield.ac.uk/engineering/diamond-engineering/our-facilities/cleanroom",
+  "scrapedAt": "2026-08-22T04:00:51.494Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Laminar flow cabinets",
+      "specifications": "7 units for wet chemical processes",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Plasma etching",
+      "specifications": "oxygen and argon",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Thermal evaporators",
+      "specifications": "",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Inert atmosphere tube furnace",
+      "specifications": "",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Desktop rapid thermal annealer (RTA)",
+      "specifications": "",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Optical microscopes with digital cameras",
+      "specifications": "",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Probe stations",
+      "specifications": "",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Source-measurement units",
+      "specifications": "Keysight B2900",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "LCR meters",
+      "specifications": "Keysight",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Solar simulator",
+      "specifications": "Newport multi-LED 0-1 sun",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Spinner",
+      "specifications": "",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Mask aligners",
+      "specifications": "LED and mercury arc technology",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Mask writer",
+      "specifications": "Heidelberg µPG101, Min. feature size = 1µm",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Diamond stylus surface profilometer",
+      "specifications": "Dektak",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Wire bonder",
+      "specifications": "",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    },
+    {
+      "name": "Sputter coater",
+      "specifications": "DC and RF",
+      "location": "Cleanroom (Room 1.06 - First Floor)",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "targetId": "rutgers-nano",
+  "name": "Rutgers Nanofabrication Facility",
+  "url": "https://sites.rutgers.edu/ncf/capabilities-and-charges/",
+  "scrapedAt": "2026-08-22T04:04:30.071Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Atomic Layer Deposition",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ebeam (Liquid N2)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ebeam (Angstrom)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ion Milling (Angstrom)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PECVD (Plasma Therm)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "PECVD (Unaxis)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Reactive Ion Etch (Trion)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma Treatment Barrel Etcher",
+      "specifications": "Low Vac",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Rapid Thermal Anneal",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Sputter (Denton-DV502 / Denton-Explorer)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Sputter (Sys & Des Fab)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Furnace (Boron)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Furnace (Phosphorus)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Furnace (Oxidation)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Furnace (Anneal/FGA)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Box Furnace (Thermcraft)",
+      "specifications": "O2 and N2 only",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Box Furnace (ThermoScientific)",
+      "specifications": "FGA and N2 only",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UVozone Cleaner",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Polisher/Grinder",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Laser Scribing, Marking and Ablation (Innotech)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermal Evaporator (Logitek)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Wafer Spin Rinse Dryer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Photoresist Spinner (Laurel)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Mask Aligner (Karl-Suss MJB3)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ultra Tech Mask Cleaner",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Detek Non-Contact Profilometer",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV-Vis-NIR Spectroscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Photoluminescence (PL) Spectroscopy",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Photoconductance (PCD), SunsVoc",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LCR Meter",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Film Sense Ellipsometry",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Contact Resistivity Measurement",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "4-Point-Probe (Ossila)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Film Metric",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Optical Microscope",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UV & Solar Simulator",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Sinton Carrier Lifetime Tester",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Scanning Electron Microscope (SEM)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Energy Dispersive Spectroscopy (EDS)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Electron-Beam Lithography (EBL)",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

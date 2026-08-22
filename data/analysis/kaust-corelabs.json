@@ -1,0 +1,22 @@
+{
+  "targetId": "kaust-corelabs",
+  "analyzedAt": "2026-08-22T04:05:59.466Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment remains present in the current inventory with no loss of capability. Two new processing systems (Wet benches and Pre-clean benches) have been added to the facility.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Wet benches"
+    },
+    {
+      "name": "Pre-clean benches"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Ion beam (argon-based) etching system",
+      "change": "Renamed to Ion beam etching equipment with argon details moved into specifications"
+    }
+  ]
+}
