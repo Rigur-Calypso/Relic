@@ -9,27 +9,46 @@
     "targetId": "technion-mnfu",
     "name": "Technion",
     "url": "https://mnfu.technion.ac.il/",
-    "scrapedAt": "2026-08-20T18:37:49.267Z",
+    "scrapedAt": "2026-08-22T09:22:30.701Z",
     "method": "ai-heal",
-    "healthy": false,
-    "equipment": []
+    "healthy": true,
+    "equipment": [
+      {
+        "name": "E-beam lithography tool",
+        "specifications": "Used for nanopatterning",
+        "location": "",
+        "status": ""
+      }
+    ]
   },
   "historical": {
     "targetId": "technion-mnfu",
-    "snapshotUrl": null,
-    "snapshotTimestamp": null,
-    "fetchedAt": "2026-08-20T18:38:21.550Z",
-    "equipment": [],
-    "note": "No historical snapshot available"
+    "snapshotUrl": "http://web.archive.org/web/20240101000000/https://mnfu.technion.ac.il/",
+    "snapshotTimestamp": "~20240101",
+    "snapshotVia": "brightdata-redirect",
+    "fetchedAt": "2026-08-22T09:25:12.956Z",
+    "equipment": [
+      {
+        "name": "E-beam lithography tool",
+        "specifications": "Used for nanopatterning",
+        "location": "Micro-Nano Fabrication Unit (MNFU) Cleanroom",
+        "status": ""
+      }
+    ]
   },
   "analysis": {
     "targetId": "technion-mnfu",
-    "analyzedAt": "2026-08-20T18:38:23.691Z",
-    "vitalityScore": null,
-    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
-    "knowledgeLoss": false,
+    "analyzedAt": "2026-08-22T09:25:20.567Z",
+    "vitalityScore": 85,
+    "summary": "The E-beam lithography tool remains present, but its cleanroom location detail was lost in the current listing.",
+    "knowledgeLoss": true,
     "removed": [],
     "added": [],
-    "modified": []
+    "modified": [
+      {
+        "name": "E-beam lithography tool",
+        "change": "Location information 'Micro-Nano Fabrication Unit (MNFU) Cleanroom' was removed."
+      }
+    ]
   }
 }

@@ -1,8 +1,99 @@
 {
   "targetId": "kit-nano",
-  "snapshotUrl": null,
-  "snapshotTimestamp": null,
-  "fetchedAt": "2026-08-20T18:36:01.217Z",
-  "equipment": [],
-  "note": "No historical snapshot available"
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://www.knmf.kit.edu/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-22T09:24:46.115Z",
+  "equipment": [
+    {
+      "name": "Electron Beam Lithography (EBL)",
+      "specifications": "Used to fabricate 20 nm small nanojunctions",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "ChemASAP – Automated Synthesis and Analysis Platform",
+      "specifications": "Automated synthesis and analysis platform for chemical compounds with high purity and reproducibility",
+      "location": "Institute of Biological and Chemical Systems – Functional Molecular Systems (IBCS-FMS)",
+      "status": "Under construction, completion by 2024"
+    },
+    {
+      "name": "Scanning Probe Lithography (DPN)",
+      "specifications": "Dip-pen nanolithography used to produce lipid microarrays",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Deep X-Ray Lithography (XRL)",
+      "specifications": "Used to produce polymer X-ray lenses free of birefringence and dichroism",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Single Crystal X-ray Diffraction (SCXD)",
+      "specifications": "Used to solve X-ray structures of Eu3+ complexes",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Auger Electron Spectroscopy (AES)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Atomic Force Microscopy (AFM)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Atom Probe Tomography (APT)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Focused Ion Beam (FIB)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Helium Ion Microscopy (HIM)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "nanoCT",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Nuclear Magnetic Resonance (NMR)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Transmission Electron Microscopy (TEM)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "Time-of-Flight Secondary Ion Mass Spectrometry (ToF-SIMS)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    },
+    {
+      "name": "X-ray Photoelectron Spectroscopy (XPS)",
+      "specifications": "",
+      "location": "Karlsruhe Nano Micro Facility (KNMFi)",
+      "status": ""
+    }
+  ]
 }

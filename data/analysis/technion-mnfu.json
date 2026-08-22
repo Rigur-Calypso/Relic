@@ -1,10 +1,15 @@
 {
   "targetId": "technion-mnfu",
-  "analyzedAt": "2026-08-20T18:38:23.691Z",
-  "vitalityScore": null,
-  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
-  "knowledgeLoss": false,
+  "analyzedAt": "2026-08-22T09:25:20.567Z",
+  "vitalityScore": 85,
+  "summary": "The E-beam lithography tool remains present, but its cleanroom location detail was lost in the current listing.",
+  "knowledgeLoss": true,
   "removed": [],
   "added": [],
-  "modified": []
+  "modified": [
+    {
+      "name": "E-beam lithography tool",
+      "change": "Location information 'Micro-Nano Fabrication Unit (MNFU) Cleanroom' was removed."
+    }
+  ]
 }

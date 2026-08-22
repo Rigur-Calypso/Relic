@@ -2,8 +2,147 @@
   "targetId": "kit-nano",
   "name": "KIT",
   "url": "https://www.knmf.kit.edu/",
-  "scrapedAt": "2026-08-20T18:35:34.686Z",
+  "scrapedAt": "2026-08-22T09:22:18.513Z",
   "method": "ai-heal",
-  "healthy": false,
-  "equipment": []
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "3D-DLW",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "3DP",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AES",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AFM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "APT (Atom Probe Tomography)",
+      "specifications": "Near-atomic resolution 3D elemental distribution",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ChemASAP",
+      "specifications": "Automated Synthesis and Analysis Platform",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CORREL",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DLW",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DPN",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "DRIE",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "EBL",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FIB (Focused Ion Beam)",
+      "specifications": "Sample target preparation",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HE",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "HIM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "LCM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "nanoCT",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "NMR",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SCXD",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "TEM",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ToF-SIMS",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "t-SPL",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "WERA",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "XPS",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
   "targetId": "technion-mnfu",
-  "snapshotUrl": null,
-  "snapshotTimestamp": null,
-  "fetchedAt": "2026-08-20T18:38:21.550Z",
-  "equipment": [],
-  "note": "No historical snapshot available"
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://mnfu.technion.ac.il/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-22T09:25:12.956Z",
+  "equipment": [
+    {
+      "name": "E-beam lithography tool",
+      "specifications": "Used for nanopatterning",
+      "location": "Micro-Nano Fabrication Unit (MNFU) Cleanroom",
+      "status": ""
+    }
+  ]
 }

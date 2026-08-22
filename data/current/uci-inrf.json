@@ -2,7 +2,7 @@
   "targetId": "uci-inrf",
   "name": "UC Irvine INRF",
   "url": "https://inrf.uci.edu/",
-  "scrapedAt": "2026-08-20T18:00:32.579Z",
+  "scrapedAt": "2026-08-22T09:22:41.878Z",
   "method": "ai-heal",
   "healthy": false,
   "equipment": []

@@ -1193,7 +1193,7 @@
     "trackingCount": 0,
     "healthy": false,
     "method": "ai-heal",
-    "scrapedAt": "2026-08-20T18:00:32.579Z",
+    "scrapedAt": "2026-08-22T09:22:41.878Z",
     "vitalityScore": null,
     "knowledgeLoss": false,
     "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
@@ -1407,7 +1407,7 @@
     "trackingCount": 0,
     "healthy": false,
     "method": "ai-heal",
-    "scrapedAt": "2026-08-20T18:08:58.216Z",
+    "scrapedAt": "2026-08-22T09:23:04.687Z",
     "vitalityScore": null,
     "knowledgeLoss": false,
     "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
@@ -1622,7 +1622,7 @@
     "trackingCount": 0,
     "healthy": false,
     "method": "ai-heal",
-    "scrapedAt": "2026-08-20T18:17:43.380Z",
+    "scrapedAt": "2026-08-22T09:23:19.247Z",
     "vitalityScore": null,
     "knowledgeLoss": false,
     "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
@@ -1971,16 +1971,67 @@
     "id": "kit-nano",
     "name": "KIT",
     "url": "https://www.knmf.kit.edu/",
-    "trackingCount": 0,
-    "healthy": false,
+    "trackingCount": 23,
+    "healthy": true,
     "method": "ai-heal",
-    "scrapedAt": "2026-08-20T18:35:34.686Z",
-    "vitalityScore": null,
-    "knowledgeLoss": false,
-    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
-    "removed": [],
-    "added": [],
-    "modified": []
+    "scrapedAt": "2026-08-22T09:22:18.513Z",
+    "vitalityScore": 88,
+    "knowledgeLoss": true,
+    "summary": "One major instrument (Deep X-Ray Lithography - XRL) was removed from the inventory. Several new instruments were added, and name acronyms were simplified while some detailed specifications were updated or omitted.",
+    "removed": [
+      {
+        "name": "Deep X-Ray Lithography (XRL)",
+        "severity": "critical",
+        "reason": "Instrument is no longer listed in the current facility equipment list."
+      }
+    ],
+    "added": [
+      {
+        "name": "3D-DLW"
+      },
+      {
+        "name": "3DP"
+      },
+      {
+        "name": "CORREL"
+      },
+      {
+        "name": "DLW"
+      },
+      {
+        "name": "DRIE"
+      },
+      {
+        "name": "HE"
+      },
+      {
+        "name": "LCM"
+      },
+      {
+        "name": "t-SPL"
+      },
+      {
+        "name": "WERA"
+      }
+    ],
+    "modified": [
+      {
+        "name": "Electron Beam Lithography (EBL)",
+        "change": "Name shortened to EBL and specific operational details were omitted."
+      },
+      {
+        "name": "ChemASAP – Automated Synthesis and Analysis Platform",
+        "change": "Name shortened to ChemASAP and 'Under construction' status was removed."
+      },
+      {
+        "name": "Atom Probe Tomography (APT)",
+        "change": "Name updated to 'APT (Atom Probe Tomography)' and detailed specifications were added."
+      },
+      {
+        "name": "Focused Ion Beam (FIB)",
+        "change": "Name updated to 'FIB (Focused Ion Beam)' and application details were added."
+      }
+    ]
   },
   {
     "id": "tumunich-znn",
@@ -2033,16 +2084,21 @@
     "id": "technion-mnfu",
     "name": "Technion",
     "url": "https://mnfu.technion.ac.il/",
-    "trackingCount": 0,
-    "healthy": false,
+    "trackingCount": 1,
+    "healthy": true,
     "method": "ai-heal",
-    "scrapedAt": "2026-08-20T18:37:49.267Z",
-    "vitalityScore": null,
-    "knowledgeLoss": false,
-    "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
+    "scrapedAt": "2026-08-22T09:22:30.701Z",
+    "vitalityScore": 85,
+    "knowledgeLoss": true,
+    "summary": "The E-beam lithography tool remains present, but its cleanroom location detail was lost in the current listing.",
     "removed": [],
     "added": [],
-    "modified": []
+    "modified": [
+      {
+        "name": "E-beam lithography tool",
+        "change": "Location information 'Micro-Nano Fabrication Unit (MNFU) Cleanroom' was removed."
+      }
+    ]
   },
   {
     "id": "ntu-nanofab",
@@ -2160,7 +2216,7 @@
     "trackingCount": 0,
     "healthy": false,
     "method": "ai-heal",
-    "scrapedAt": "2026-08-20T20:26:57.288Z",
+    "scrapedAt": "2026-08-22T09:23:28.484Z",
     "vitalityScore": null,
     "knowledgeLoss": false,
     "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
@@ -3530,7 +3586,7 @@
     "trackingCount": 0,
     "healthy": false,
     "method": "ai-heal",
-    "scrapedAt": "2026-08-20T20:08:33.917Z",
+    "scrapedAt": "2026-08-22T09:23:40.350Z",
     "vitalityScore": null,
     "knowledgeLoss": false,
     "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
@@ -3813,7 +3869,7 @@
     "trackingCount": 0,
     "healthy": false,
     "method": "ai-heal",
-    "scrapedAt": "2026-08-20T20:17:50.137Z",
+    "scrapedAt": "2026-08-22T09:21:59.854Z",
     "vitalityScore": null,
     "knowledgeLoss": false,
     "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
