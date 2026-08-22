@@ -1,10 +1,61 @@
 {
   "targetId": "kit-nano",
-  "analyzedAt": "2026-08-20T18:36:03.341Z",
-  "vitalityScore": null,
-  "summary": "Current scrape returned no equipment; skipping diff to avoid a false knowledge-loss signal.",
-  "knowledgeLoss": false,
-  "removed": [],
-  "added": [],
-  "modified": []
+  "analyzedAt": "2026-08-22T09:24:57.197Z",
+  "vitalityScore": 88,
+  "summary": "One major instrument (Deep X-Ray Lithography - XRL) was removed from the inventory. Several new instruments were added, and name acronyms were simplified while some detailed specifications were updated or omitted.",
+  "knowledgeLoss": true,
+  "removed": [
+    {
+      "name": "Deep X-Ray Lithography (XRL)",
+      "severity": "critical",
+      "reason": "Instrument is no longer listed in the current facility equipment list."
+    }
+  ],
+  "added": [
+    {
+      "name": "3D-DLW"
+    },
+    {
+      "name": "3DP"
+    },
+    {
+      "name": "CORREL"
+    },
+    {
+      "name": "DLW"
+    },
+    {
+      "name": "DRIE"
+    },
+    {
+      "name": "HE"
+    },
+    {
+      "name": "LCM"
+    },
+    {
+      "name": "t-SPL"
+    },
+    {
+      "name": "WERA"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Electron Beam Lithography (EBL)",
+      "change": "Name shortened to EBL and specific operational details were omitted."
+    },
+    {
+      "name": "ChemASAP – Automated Synthesis and Analysis Platform",
+      "change": "Name shortened to ChemASAP and 'Under construction' status was removed."
+    },
+    {
+      "name": "Atom Probe Tomography (APT)",
+      "change": "Name updated to 'APT (Atom Probe Tomography)' and detailed specifications were added."
+    },
+    {
+      "name": "Focused Ion Beam (FIB)",
+      "change": "Name updated to 'FIB (Focused Ion Beam)' and application details were added."
+    }
+  ]
 }
