@@ -12,7 +12,8 @@
     "analyze": "node src/analyzer/diff.js",
     "pipeline": "node src/scraper/scrape.js && node src/analyzer/wayback.js && node src/analyzer/diff.js",
     "static-data": "node scripts/make-static-data.mjs",
-    "run-remaining": "node scripts/run-remaining.mjs"
+    "run-remaining": "node scripts/run-remaining.mjs",
+    "readme-stats": "node scripts/gen-readme-stats.mjs"
   },
   "keywords": [],
   "author": "",
