@@ -1,0 +1,23 @@
+{
+  "targetId": "bristol-nsqi",
+  "analyzedAt": "2026-08-22T04:00:19.896Z",
+  "vitalityScore": 100,
+  "summary": "All 25 historical tools and equipment remain present in the current inventory. Several equipment listings have updated or expanded specifications, including the addition of Leica inspection microscopes alongside the Polyvar Polymet microscope.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "Polyvar Polymet microscope",
+      "change": "Updated listing name to 'Polyvar Polymet / Leica Inspection Microscopes' and expanded specifications to include Leica viewers and inspection microscopes."
+    },
+    {
+      "name": "JLS Designs Plasmapod Plus and Plasmatherm RIE 550-570",
+      "change": "Updated specifications to include etching capability for polyimide."
+    },
+    {
+      "name": "Oxford Instruments System 100 ICP 180",
+      "change": "Specifications expanded to mention etching of silicon and LiNbO3 in addition to InP."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "targetId": "bristol-nsqi",
+  "name": "Bristol NSQI Cleanroom",
+  "url": "https://www.bristol.ac.uk/physics/facilities/university-cleanroom/",
+  "scrapedAt": "2026-08-22T03:59:46.568Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Raith Voyager EBL system",
+      "specifications": "High performance electron beam lithography tool; >1cm²/hr writing speed at 50% pattern density; 8nm linewidth in HSQ resist; 30nm pitch grating with 10nm linewidth; Stitching accuracy <20nm; FBMS and MBMS patterning modes available",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Karl Suss MJB3 Mask Aligner",
+      "specifications": "3 inch maximum wafer size; UV 400 optics; Standard processes using S1800 series, LOR, AZ resists; Sub-micron resolution in vacuum contact mode",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "MIDAS MDA-400M-6 Mask Aligner",
+      "specifications": "Up to 6 inch wafer size; Sub-micron resolution in vacuum contact mode; Backside alignment using through-wafer IR illumination; Beam uniformity of 3% across 4 inch wafer",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Zeiss EVO SEM and EBL system",
+      "specifications": "30 kV accelerating voltage; Raith ELPHY plus patterning system; 50nm linewidth resolution; Imaging with tilt and rotation",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "JLS Designs Plasmapod Plus and Plasmatherm RIE 550-570",
+      "specifications": "Reactive Ion Etching (RIE) for SiO2, Si3N4, polyimide; Used to produce hard masks; Gases: CF4, CHF3, Ar, O2",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "JLS Designs Plasmapod RIE",
+      "specifications": "RIE for etching silicon and superconducting thin films (e.g., NbN); Gases: SF6, CHF3, Ar, O2, plus two spare gas lines",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Oxford Instruments System 100 ICP 180",
+      "specifications": "ICP-RIE configured for III-V, II-VI etching; 4 inch wafer holder; Up to 8 process gases suitable for etching silicon, LiNbO3, InP",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Oxford Instruments System 100 Cobra",
+      "specifications": "ICP-RIE configured for high quality Si etching; SF6-based processes (RIE, ICP-RIE, Bosch, Cryo); 4 inch wafer holder (up to 8 inch); Laser end-point detection",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Diener Zepto Plasma Asher",
+      "specifications": "O2 and Ar plasma asher; Surface functionalisation and sample cleaning; 105mm diameter chamber",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Moorfield Minilab Sputter Coater",
+      "specifications": "Three 2 inch diameter targets (Au, NiCr, Ti, Pd, Pt); Rotational sample holder; Confocal or parallel sputter head orientation; +/- 5% uniformity across 4 inch wafer",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Edwards E306 Thermal Evaporator",
+      "specifications": "Metal deposition (Au, Ni, Ag, Al, Cr); Thin films < 300 nm; Base pressure 1.10-6 mbar",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Oxford Instruments System 100 PECVD",
+      "specifications": "a-Si, SiO2 and Si3N4 deposition; Loadlocked system; Ammonia-free Si3N4 recipes available",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Moorfield Minilab E-beam Evaporator",
+      "specifications": "Metal deposition (Au, Ti, Al) and dielectric deposition (Al2O3, SiO2); Six-pocket e-beam gun (7 cc volume); Integrated into sputter coater system",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Cammax Precima EDB80 Die Bonder",
+      "specifications": "Eutectic die bonder; Precision placement; Vacuum pick and place",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Loadpoint Microace Series 3 Wafer Dicer",
+      "specifications": "4 inch wafer compatible; Single and multi pass cutting; Substrates up to 8 mm thick; Servo-driven y-axis with 2 μm resolution; Spindle speed 3000-40000 rpm",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Suss Auto Scriber",
+      "specifications": "Precision diamond scribing; Optical alignment; 3 inch wafer vacuum chuck",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "K&S 4524 Wire Bonder",
+      "specifications": "Gold ball bonding; 25um diameter wire; Fine pitch capillaries available",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "TPT HB16 Wire Bonder",
+      "specifications": "Gold ball and wedge bonding (25um wire); Aluminium wedge bonding (33um wire); 17-50um diameter wire bonding; Manual, semiautomatic, automatic bonding",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Zeiss EVO SEM",
+      "specifications": "Scanning Electron Microscope for surface characterisation and imaging; 5-30kV accelerating voltage; Variable pressure mode available",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Agilent Atomic Force Microscope",
+      "specifications": "Atomic-scale resolution AFM; Contact and Intermittent contact AFM modes available; Applications in material science, polymers, surface characterisation",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Dektak Surface Profiler",
+      "specifications": "Stylus with 2 μm diameter tip; 3D profilometer; Step height repeatability 4 Å; Vertical size limit 1 mm; 6 inch wafer compatible",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "J A Woollam RC2 Spectroscopic Ellipsometer",
+      "specifications": "Measurement of optical dispersion, film thickness, multi-layer characterisation; Wavelength range 210-2500 nm; Variable angle 45-90 degrees",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics Profilm3D Optical Profilometer",
+      "specifications": "Interferometric white light profilometer; Vertical feature resolution down to 0.001 µm; Automated XY stage; 20x and 100x objective lenses",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics White-Light Reflectometer",
+      "specifications": "Thin film thickness measurement; Wafers up to 6 inch",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    },
+    {
+      "name": "Polyvar Polymet / Leica Inspection Microscopes",
+      "specifications": "Inspection microscopes; Polyvar Polymet microscope fitted with objectives x2.5 to x150 calibrated for length measurements; Leica viewers and inspection microscopes",
+      "location": "University Cleanroom, Room 1.41, HH Wills Physics Laboratory",
+      "status": ""
+    }
+  ]
+}

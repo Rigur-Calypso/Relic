@@ -1,0 +1,307 @@
+{
+  "targetId": "cmu-nanofab",
+  "analyzedAt": "2026-08-22T04:02:11.630Z",
+  "vitalityScore": 95,
+  "summary": "All 74 historical equipment items remain present in the current inventory. No instruments were removed or added. However, category and specification metadata was cleared across all listings.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "5-Target Nanofab Sputtering System #1",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "5-Target Nanofab Sputtering System #2",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "5-Target Nanofab Sputtering System #3",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "5-Target Nanofab Sputtering System #4",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "5-Target Nanofab Sputtering System #5",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "6-Target Nanofab Sputtering System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Anatech Hummer Gold Coater",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Cambridge Nanotech Fiji Atomic Layer Deposition System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Commonwealth Scientific Ion Beam Deposition System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "CVC Connexion Sputtering System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Leybold Heraeus Z-400 Sputtering System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Leybold Heraeus Z-400 Sputtering System #2",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Leybold Heraeus Z-650 Sputtering System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Perkin Elmer 6J Sputtering System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Perkin Elmer 8L Sputtering System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "SCS Labcoter 2 Parylene Deposition System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Tegal AMS Aluminum Nitride Sputtering System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Trion Orion II PECVD",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Ultek E-Beam Evaporator",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "GVD iCVD System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "GVD oCVD System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Kurt Lesker PVD 75 Electron Beam Evaporator",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Kurt Lesker PVD 75 Sputtering System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Plasma-Therm Versaline ICP RIE",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "STS Aspect AOE",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "STS Aspect ICP",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "STS Multiplex ICP RIE",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Micrion 2500 Focused Ion Beam System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Commonwealth Scientific Ion Mill",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Commonwealth Scientific Ion Mill #2",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Plasma-Therm 790 RIE",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Trion Phantom II RIE",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "IPC Barrel Etcher",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Samco UV-1 Ozone Cleaner",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "FEI Sirion 600 SEM / JC Nabity NPGS E-Beam Lithography",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "FEI Sirion 400 SEM / JC Nabity NPGS E-Beam Lithography",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Elionix ELS-G100 Electron Beam Lithography System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Nikon NSR-1505G4 Stepper",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Heidelberg DWL 66FS Laser Lithography System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Heidelberg DWL 66 Laser Lithography System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Karl Süss MA6/BA6 Contact Aligner",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Karl Süss MA56 Contact Aligner",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Karl Süss MJB3 Contact Aligner",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "YES HMDS Vapor Prime Vacuum Oven",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "CEE 100 Spray Developer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "CEE 100CB Table Top Spinner/Hotplate",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "CEE 100CB Bench Mount Spinner/Hotplate",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Solitec Photoresist Spinner",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Despatch Convection Oven - 90 ºC",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Blue M Oven - 120 ºC",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Photoresist Refrigerator",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "ASML 5500/80 i-Line Wafer Stepper",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "AG Heat Pulse 610i Rapid Thermal Annealer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Micro Magnetics SpinTherm 1000 Magnetic Annealing System",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "2\" Tube Annealing Furnace",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Blue M Variable Temp Ovens",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Hotpack Vacuum Oven",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Hotplates",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Olympus MX80 Inspection Microscope",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Olympus BH Inspection Microscope",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Olympus Widefield Zoom Microscope",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Micromanipulator Probe Stations",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "KLA Tencor P-15 Profilometer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Tencor P-2 Profilometer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Tencor Alpha-Step 200 Profilometer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Nanometrics Nanospec 210XP",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Semitool 870 Spin Rinser/Dryer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Semitool 880 Spin Rinser/Dryer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Semitool 270 Spin Rinser/Dryer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Tousimis Critical Point Dryer",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Copper Electroplating Bath",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Kulicke & Soffa 782-6 Dicing Saw",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Micromech Diamond Saw",
+      "change": "Specifications metadata removed"
+    },
+    {
+      "name": "Strasbaugh 6EC CMP",
+      "change": "Specifications metadata removed"
+    }
+  ]
+}

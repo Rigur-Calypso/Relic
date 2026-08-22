@@ -1,0 +1,27 @@
+{
+  "targetId": "ncku-taiwan",
+  "snapshotUrl": "http://web.archive.org/web/20240421174307/https://researchoutput.ncku.edu.tw/en/organisations/center-for-micronano-science-and-technology",
+  "snapshotTimestamp": "20240421174307",
+  "snapshotVia": "availability-api",
+  "fetchedAt": "2026-08-22T04:08:33.535Z",
+  "equipment": [
+    {
+      "name": "1 & 2 Inch Chemical Vapor Deposition for Graphene",
+      "specifications": "",
+      "location": "Center for Micro/Nano Science and Technology",
+      "status": ""
+    },
+    {
+      "name": "3 Inch Chemical Vapor Deposition for Graphene",
+      "specifications": "",
+      "location": "Center for Micro/Nano Science and Technology",
+      "status": ""
+    },
+    {
+      "name": "3 Inch Chemical Vapor Deposition for Graphene",
+      "specifications": "",
+      "location": "Center for Micro/Nano Science and Technology",
+      "status": ""
+    }
+  ]
+}

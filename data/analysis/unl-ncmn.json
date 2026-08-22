@@ -1,0 +1,67 @@
+{
+  "targetId": "unl-ncmn",
+  "analyzedAt": "2026-08-22T04:04:16.465Z",
+  "vitalityScore": 100,
+  "summary": "All historical lab equipment items remain present with updated naming conventions, and 13 new instruments have been added to the facility listing.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [
+    {
+      "name": "Electron Beam Lithography (EBL) System"
+    },
+    {
+      "name": "Heidelberg DWL 66FS"
+    },
+    {
+      "name": "SUSS MicroTec MJB4"
+    },
+    {
+      "name": "FEI Strata 200xp"
+    },
+    {
+      "name": "Trion Minilock-Phantom III"
+    },
+    {
+      "name": "Oxford PlasmaPro 100"
+    },
+    {
+      "name": "Intlvac Nanoquest-I"
+    },
+    {
+      "name": "AJA ATC-ORION 8000"
+    },
+    {
+      "name": "Bruker Dektak-XT"
+    },
+    {
+      "name": "Wet etching bench"
+    },
+    {
+      "name": "Filmetrics F40"
+    },
+    {
+      "name": "Nikon Eclipse L200N"
+    },
+    {
+      "name": "Lucas 302"
+    }
+  ],
+  "modified": [
+    {
+      "name": "Spinner",
+      "change": "Name updated to model number Laurell WS-400-6NPP"
+    },
+    {
+      "name": "Hot Plate",
+      "change": "Name updated to model number Super Nuova 120"
+    },
+    {
+      "name": "Oven",
+      "change": "Name updated to model number Thermo Scientific 3492M"
+    },
+    {
+      "name": "UltraSonic Cleaner",
+      "change": "Name updated to model number Brason 2510"
+    }
+  ]
+}

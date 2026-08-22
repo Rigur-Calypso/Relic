@@ -1,0 +1,453 @@
+{
+  "targetId": "cmu-nanofab",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://nanofab.ece.cmu.edu/facilities-equipment/equipment.html",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-22T04:01:56.293Z",
+  "equipment": [
+    {
+      "name": "5-Target Nanofab Sputtering System #1",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "5-Target Nanofab Sputtering System #2",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "5-Target Nanofab Sputtering System #3",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "5-Target Nanofab Sputtering System #4",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "5-Target Nanofab Sputtering System #5",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "6-Target Nanofab Sputtering System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Anatech Hummer Gold Coater",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Cambridge Nanotech Fiji Atomic Layer Deposition System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Commonwealth Scientific Ion Beam Deposition System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CVC Connexion Sputtering System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Leybold Heraeus Z-400 Sputtering System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Leybold Heraeus Z-400 Sputtering System #2",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Leybold Heraeus Z-650 Sputtering System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Perkin Elmer 6J Sputtering System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Perkin Elmer 8L Sputtering System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SCS Labcoter 2 Parylene Deposition System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tegal AMS Aluminum Nitride Sputtering System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Trion Orion II PECVD",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Ultek E-Beam Evaporator",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GVD iCVD System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "GVD oCVD System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Kurt Lesker PVD 75 Electron Beam Evaporator",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Kurt Lesker PVD 75 Sputtering System",
+      "specifications": "Thin film deposition",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm Versaline ICP RIE",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "STS Aspect AOE",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "STS Aspect ICP",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "STS Multiplex ICP RIE",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Micrion 2500 Focused Ion Beam System",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Commonwealth Scientific Ion Mill",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Commonwealth Scientific Ion Mill #2",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Plasma-Therm 790 RIE",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Trion Phantom II RIE",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "IPC Barrel Etcher",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Samco UV-1 Ozone Cleaner",
+      "specifications": "Dry Etching",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FEI Sirion 600 SEM / JC Nabity NPGS E-Beam Lithography",
+      "specifications": "Electron Beam Lithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FEI Sirion 400 SEM / JC Nabity NPGS E-Beam Lithography",
+      "specifications": "Electron Beam Lithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Elionix ELS-G100 Electron Beam Lithography System",
+      "specifications": "Electron Beam Lithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nikon NSR-1505G4 Stepper",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg DWL 66FS Laser Lithography System",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg DWL 66 Laser Lithography System",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Karl Süss MA6/BA6 Contact Aligner",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Karl Süss MA56 Contact Aligner",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Karl Süss MJB3 Contact Aligner",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "YES HMDS Vapor Prime Vacuum Oven",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CEE 100 Spray Developer",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CEE 100CB Table Top Spinner/Hotplate",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "CEE 100CB Bench Mount Spinner/Hotplate",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Solitec Photoresist Spinner",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Despatch Convection Oven - 90 ºC",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Blue M Oven - 120 ºC",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Photoresist Refrigerator",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "ASML 5500/80 i-Line Wafer Stepper",
+      "specifications": "Photolithography",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AG Heat Pulse 610i Rapid Thermal Annealer",
+      "specifications": "Thermal Processing",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Micro Magnetics SpinTherm 1000 Magnetic Annealing System",
+      "specifications": "Thermal Processing",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "2\" Tube Annealing Furnace",
+      "specifications": "Thermal Processing",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Blue M Variable Temp Ovens",
+      "specifications": "Thermal Processing",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Hotpack Vacuum Oven",
+      "specifications": "Thermal Processing",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Hotplates",
+      "specifications": "Thermal Processing",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Olympus MX80 Inspection Microscope",
+      "specifications": "Inspection and Metrology",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Olympus BH Inspection Microscope",
+      "specifications": "Inspection and Metrology",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Olympus Widefield Zoom Microscope",
+      "specifications": "Inspection and Metrology",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Micromanipulator Probe Stations",
+      "specifications": "Inspection and Metrology",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "KLA Tencor P-15 Profilometer",
+      "specifications": "Inspection and Metrology",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tencor P-2 Profilometer",
+      "specifications": "Inspection and Metrology",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tencor Alpha-Step 200 Profilometer",
+      "specifications": "Inspection and Metrology",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nanometrics Nanospec 210XP",
+      "specifications": "Inspection and Metrology",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Semitool 870 Spin Rinser/Dryer",
+      "specifications": "Wet Chemistry",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Semitool 880 Spin Rinser/Dryer",
+      "specifications": "Wet Chemistry",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Semitool 270 Spin Rinser/Dryer",
+      "specifications": "Wet Chemistry",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Tousimis Critical Point Dryer",
+      "specifications": "Wet Chemistry",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Copper Electroplating Bath",
+      "specifications": "Wet Chemistry",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Kulicke & Soffa 782-6 Dicing Saw",
+      "specifications": "Back End and Post Processing",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Micromech Diamond Saw",
+      "specifications": "Back End and Post Processing",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Strasbaugh 6EC CMP",
+      "specifications": "Back End and Post Processing",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

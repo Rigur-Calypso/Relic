@@ -1,0 +1,23 @@
+{
+  "targetId": "ncku-taiwan",
+  "analyzedAt": "2026-08-22T04:08:56.645Z",
+  "vitalityScore": 100,
+  "summary": "All historical equipment remains present with added specification details for each Chemical Vapor Deposition system. No knowledge loss detected.",
+  "knowledgeLoss": false,
+  "removed": [],
+  "added": [],
+  "modified": [
+    {
+      "name": "1 & 2 Inch Chemical Vapor Deposition for Graphene",
+      "change": "Added specifications: '1 & 2 Inch'"
+    },
+    {
+      "name": "3 Inch Chemical Vapor Deposition for Graphene",
+      "change": "Added specifications: '3 Inch'"
+    },
+    {
+      "name": "3 Inch Chemical Vapor Deposition for Graphene",
+      "change": "Added specifications: '3 Inch'"
+    }
+  ]
+}

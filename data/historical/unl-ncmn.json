@@ -1,0 +1,33 @@
+{
+  "targetId": "unl-ncmn",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://nanofab.unl.edu/equipment/",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-22T04:03:41.426Z",
+  "equipment": [
+    {
+      "name": "Spinner",
+      "specifications": "Laurell WS-400-6NPP",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Hot Plate",
+      "specifications": "Super Nuova 120",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oven",
+      "specifications": "Thermo Scientific 3492M",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "UltraSonic Cleaner",
+      "specifications": "Brason 2510",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

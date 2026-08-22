@@ -183,6 +183,16 @@ const COORDS = {
   'louisville-mntc':  [38.2160, -85.7580],   // U Louisville, KY
   'sutd-cleanroom':   [1.3410, 103.9640],    // SUTD, Singapore
   'iitbhilai-cif':    [21.1938, 81.2860],    // IIT Bhilai
+  'bristol-nsqi':     [51.4584, -2.6030],    // U Bristol, UK
+  'sheffield-nano':   [53.3811, -1.4799],    // U Sheffield, UK
+  'cmu-nanofab':      [40.4433, -79.9436],   // Carnegie Mellon, Pittsburgh
+  'utd-cleanroom':    [32.9857, -96.7501],   // UT Dallas, Richardson TX
+  'unl-ncmn':         [40.8202, -96.7005],   // U Nebraska–Lincoln
+  'rutgers-nano':     [40.5218, -74.4610],   // Rutgers, Piscataway NJ
+  'kaust-corelabs':   [22.3095, 39.1044],    // KAUST, Thuwal, Saudi Arabia
+  'birmingham-nano':  [52.4508, -1.9305],    // U Birmingham, UK
+  'leeds-nano':       [53.8067, -1.5550],    // U Leeds, UK
+  'ncku-taiwan':      [22.9997, 120.2170],   // NCKU, Tainan, Taiwan
 
   // ── Decoy ──
   'decoy':          [40.0, -74.0],         // Placeholder

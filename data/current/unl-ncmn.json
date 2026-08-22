@@ -1,0 +1,112 @@
+{
+  "targetId": "unl-ncmn",
+  "name": "Nebraska Center for Materials & Nanoscience",
+  "url": "https://nanofab.unl.edu/equipment/",
+  "scrapedAt": "2026-08-22T04:03:27.246Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Electron Beam Lithography (EBL) System",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Heidelberg DWL 66FS",
+      "specifications": "laser lithography system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "SUSS MicroTec MJB4",
+      "specifications": "mask aligner",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "FEI Strata 200xp",
+      "specifications": "Focused-Ion Beam (FIB) Workstation",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Trion Minilock-Phantom III",
+      "specifications": "reactive ion etching (RIE) system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Oxford PlasmaPro 100",
+      "specifications": "deep RIE system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Intlvac Nanoquest-I",
+      "specifications": "ion beam etching and milling system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "AJA ATC-ORION 8000",
+      "specifications": "e-beam evaporation system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Bruker Dektak-XT",
+      "specifications": "stylus surface profiling system",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Wet etching bench",
+      "specifications": "",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Filmetrics F40",
+      "specifications": "Reflective Film Thickness Measurement System",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Nikon Eclipse L200N",
+      "specifications": "Optic Microscope with camera",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Lucas 302",
+      "specifications": "Four-probe Resistivity Measurement Stand",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Laurell WS-400-6NPP",
+      "specifications": "Spinner",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Super Nuova 120",
+      "specifications": "Hot Plate",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Thermo Scientific 3492M",
+      "specifications": "Oven",
+      "location": "",
+      "status": ""
+    },
+    {
+      "name": "Brason 2510",
+      "specifications": "UltraSonic Cleaner",
+      "location": "",
+      "status": ""
+    }
+  ]
+}

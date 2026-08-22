@@ -1,0 +1,51 @@
+{
+  "targetId": "kaust-corelabs",
+  "snapshotUrl": "http://web.archive.org/web/20240101000000/https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+  "snapshotTimestamp": "~20240101",
+  "snapshotVia": "brightdata-redirect",
+  "fetchedAt": "2026-08-22T04:05:51.251Z",
+  "equipment": [
+    {
+      "name": "Diamond dicing equipment",
+      "specifications": "Capable of dicing wafers down to 1 cm by 1 cm chips",
+      "location": "Nanofabrication Core Lab - Metrology and Bonding",
+      "status": ""
+    },
+    {
+      "name": "Gold/aluminum wire bonders",
+      "specifications": "Facilitates electrical connections with external characterization electronics",
+      "location": "Nanofabrication Core Lab - Metrology and Bonding",
+      "status": ""
+    },
+    {
+      "name": "Plasma etching equipment",
+      "specifications": "Connected to reactive gases (fluorides and chlorides), capable of etching more than 50 different types of materials",
+      "location": "Nanofabrication Core Lab - Etching Cleanroom",
+      "status": ""
+    },
+    {
+      "name": "Ion beam (argon-based) etching system",
+      "specifications": "Produces sub-micron dense and isolated features with minimal edge roughness",
+      "location": "Nanofabrication Core Lab - Etching",
+      "status": ""
+    },
+    {
+      "name": "Optical photolithography system",
+      "specifications": "Mask resolution of 700 nm",
+      "location": "Nanofabrication Core Lab - Lithography and mask making",
+      "status": ""
+    },
+    {
+      "name": "Electron beam lithography system",
+      "specifications": "Patterning features as small as 10 nm",
+      "location": "Nanofabrication Core Lab - Lithography and mask making",
+      "status": ""
+    },
+    {
+      "name": "Two-photon laser lithography system",
+      "specifications": "Prints 3D nanostructures with micron-range dimensions",
+      "location": "Nanofabrication Core Lab - Lithography and mask making",
+      "status": ""
+    }
+  ]
+}

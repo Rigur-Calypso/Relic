@@ -1,0 +1,160 @@
+{
+  "targetId": "leeds-nano",
+  "name": "Leeds Bragg Centre / Nanofabrication",
+  "url": "https://cleanroom.leeds.ac.uk/facility-overview/",
+  "scrapedAt": "2026-08-22T04:07:17.044Z",
+  "method": "ai-heal",
+  "healthy": true,
+  "equipment": [
+    {
+      "name": "Jeol 6300FS EBL system",
+      "specifications": "Allows patterning of sub-10-nm structures",
+      "location": "Electron Beam Lithography suite",
+      "status": ""
+    },
+    {
+      "name": "MLA 150 maskless lithography system",
+      "specifications": "Maskless lithography system",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "EVG 610 mask aligner",
+      "specifications": "Mask aligner",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "MJB 3 mask aligners",
+      "specifications": "Mask aligners",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "Sapphire MegPie megasonic cleaning and development system",
+      "specifications": "Megasonic cleaning and development system",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "Oxygen plasma ashers",
+      "specifications": "",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "Bright-field, darkfield and DIC microscopes",
+      "specifications": "Bright-field, darkfield and DIC microscopy",
+      "location": "Photolithography bay",
+      "status": ""
+    },
+    {
+      "name": "Stylus profilers",
+      "specifications": "Contact characterisation",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "AFM",
+      "specifications": "Atomic force microscopy characterisation",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "Optical reflectometers",
+      "specifications": "Non-contact characterisation",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "3D optical profilers",
+      "specifications": "Non-contact characterisation",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "SEM",
+      "specifications": "Scanning electron microscope imaging",
+      "location": "Metrology bay",
+      "status": ""
+    },
+    {
+      "name": "Sputtering system",
+      "specifications": "PVD system",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Thermal evaporators",
+      "specifications": "Three thermal evaporators for PVD",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Electron-beam evaporators",
+      "specifications": "Two electron-beam evaporators for PVD",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Wafer bonding instruments",
+      "specifications": "",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Die bonding instruments",
+      "specifications": "",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "Rapid thermal annealer",
+      "specifications": "",
+      "location": "Deposition bay",
+      "status": ""
+    },
+    {
+      "name": "ICP etching system",
+      "specifications": "ICP etching for III-V semiconductors",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "RIE etching system",
+      "specifications": "RIE etching of shallow silicon, silicon oxides and silicon nitrides",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "Ion beam etching system",
+      "specifications": "Includes CAIBE and RIBE capabilities",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "ALD system",
+      "specifications": "Atomic layer deposition for oxides and nitrides of Ti, Hf, Sn and Al",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "PECVD system",
+      "specifications": "Plasma-enhanced chemical vapor deposition of silicon oxides, nitrides and oxynitrides",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "Parylene coating system",
+      "specifications": "Parylene-C and parylene-N coating",
+      "location": "Dry Etch bay",
+      "status": ""
+    },
+    {
+      "name": "Probe stations",
+      "specifications": "Two probe stations with supporting electronics for DC-to-RF characterisation",
+      "location": "Test and Packaging rooms",
+      "status": ""
+    }
+  ]
+}

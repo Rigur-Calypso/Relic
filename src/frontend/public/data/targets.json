@@ -742,5 +742,75 @@
     "url": "https://wiki.nano.upenn.edu/wiki/index.php?title=Nanoscale_Characterization_Facility",
     "strategy": "ai",
     "note": "Discovered batch."
+  },
+  {
+    "id": "bristol-nsqi",
+    "name": "Bristol NSQI Cleanroom",
+    "url": "https://www.bristol.ac.uk/physics/facilities/university-cleanroom/",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 53."
+  },
+  {
+    "id": "sheffield-nano",
+    "name": "Sheffield Nanoscience & Technology (NMRC)",
+    "url": "https://sheffield.ac.uk/engineering/diamond-engineering/our-facilities/cleanroom",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 5."
+  },
+  {
+    "id": "cmu-nanofab",
+    "name": "Carnegie Mellon Nanofabrication Facility",
+    "url": "https://nanofab.ece.cmu.edu/facilities-equipment/equipment.html",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 35."
+  },
+  {
+    "id": "utd-cleanroom",
+    "name": "UT Dallas Cleanroom Research Lab",
+    "url": "https://cores.research.utdallas.edu/cleanroom/",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 5."
+  },
+  {
+    "id": "unl-ncmn",
+    "name": "Nebraska Center for Materials & Nanoscience",
+    "url": "https://nanofab.unl.edu/equipment/",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 18."
+  },
+  {
+    "id": "rutgers-nano",
+    "name": "Rutgers Nanofabrication Facility",
+    "url": "https://sites.rutgers.edu/ncf/capabilities-and-charges/",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 46."
+  },
+  {
+    "id": "kaust-corelabs",
+    "name": "KAUST Nanofabrication Core Lab",
+    "url": "https://corelabs.kaust.edu.sa/labs/nanofabrication-core-lab",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 10."
+  },
+  {
+    "id": "birmingham-nano",
+    "name": "Birmingham Nanoscale & Microscale Research Centre",
+    "url": "https://www.birmingham.ac.uk/research/centres-institutes/research-in-metallurgy-and-materials/characterisation-facility/equipment",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 8."
+  },
+  {
+    "id": "leeds-nano",
+    "name": "Leeds Bragg Centre / Nanofabrication",
+    "url": "https://cleanroom.leeds.ac.uk/facility-overview/",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 27."
+  },
+  {
+    "id": "ncku-taiwan",
+    "name": "NCKU Micro/Nano Fabrication",
+    "url": "https://researchoutput.ncku.edu.tw/en/organisations/center-for-micronano-science-and-technology/",
+    "strategy": "ai",
+    "note": "Discovered batch 2; equip-density 10."
   }
 ]
