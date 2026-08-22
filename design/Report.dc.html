@@ -1,0 +1,159 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+  <style>
+    body { margin: 0; font-family: 'Inter', system-ui, sans-serif; color: #15172B; background: #EEF0FA; -webkit-font-smoothing: antialiased; }
+    a { color: #A66BFF; text-decoration: none; } a:hover { color: #5B8CFF; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, monospace; font-variant-numeric: tabular-nums; }
+  </style>
+</helmet>
+
+<div style="width: 1080px; padding: 26px 32px 44px; box-sizing: border-box; background: radial-gradient(900px 500px at 10% -8%, #DCE6FF 0%, rgba(238,240,250,0) 58%), radial-gradient(800px 460px at 96% 4%, #F0DEFF 0%, rgba(238,240,250,0) 55%), #EEF0FA;">
+
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <span style="display: inline-flex; align-items: center; gap: 9px; height: 40px; padding: 0 18px 0 14px; border-radius: 999px; border: 1px solid rgba(255,255,255,.85); background: rgba(255,255,255,.72); box-shadow: 0 1px 2px rgba(21,23,43,.05), 0 18px 40px -22px rgba(52,40,120,.35); font-size: 13.5px; font-weight: 600;">← All facilities</span>
+    <div style="display: flex; gap: 8px;">
+      <span style="display: inline-flex; align-items: center; gap: 7px; height: 34px; padding: 0 14px; border-radius: 999px; border: 1px solid rgba(255,255,255,.85); background: rgba(255,255,255,.72); font-size: 12.5px; font-weight: 600; color: #565C77;">Watch this facility</span>
+      <span style="display: inline-flex; align-items: center; gap: 7px; height: 34px; padding: 0 14px; border-radius: 999px; border: 1px solid rgba(255,255,255,.85); background: rgba(255,255,255,.72); font-size: 12.5px; font-weight: 600; color: #565C77;">Export report</span>
+    </div>
+  </div>
+
+  <!-- hero -->
+  <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 28px; background: rgba(255,255,255,.72); border: 1px solid rgba(255,255,255,.85); border-radius: 26px; padding: 30px 32px; box-shadow: 0 2px 6px rgba(21,23,43,.06), 0 40px 80px -30px rgba(52,40,120,.42); margin-top: 22px;">
+    <div style="flex: 1;">
+      <div style="font-family: 'JetBrains Mono', monospace; font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: #A66BFF; font-weight: 600;">Cleanroom · Canada</div>
+      <div style="font-family: 'Bricolage Grotesque', sans-serif; font-weight: 800; font-size: 42px; letter-spacing: -.025em; line-height: 1.05; margin: 10px 0 12px;">Alberta nanoFAB</div>
+      <div style="font-family: 'JetBrains Mono', monospace; font-size: 12.5px; color: #565C77; border-bottom: 1px dashed #9AA0B8; display: inline-block; padding-bottom: 1px;">nanofab.ualberta.ca ↗</div>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px;">
+        <span style="font-size: 11.5px; color: #565C77; background: rgba(21,23,43,.04); border: 1px solid rgba(21,23,43,.08); border-radius: 999px; padding: 5px 11px;">✦ AI-healed extraction</span>
+        <span style="font-size: 11.5px; color: #565C77; background: rgba(21,23,43,.04); border: 1px solid rgba(21,23,43,.08); border-radius: 999px; padding: 5px 11px;">Checked 6h ago</span>
+        <span style="font-size: 11.5px; color: #565C77; background: rgba(21,23,43,.04); border: 1px solid rgba(21,23,43,.08); border-radius: 999px; padding: 5px 11px;">5 instruments tracked</span>
+      </div>
+    </div>
+    <div style="flex: none; text-align: center;">
+      <div style="width: 132px; height: 132px; border-radius: 32px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: radial-gradient(circle at 50% 30%, #FDEDEF, #FEF7F8); border: 2px solid #F0435A; box-shadow: 0 18px 40px -16px #F0435A;">
+        <span class="mono" style="font-size: 52px; font-weight: 600; line-height: 1; color: #F0435A; letter-spacing: -.03em;">40</span>
+        <span class="mono" style="font-size: 12px; color: #9AA0B8; margin-top: 4px;">/ 100</span>
+      </div>
+      <div style="font-weight: 700; font-size: 13px; margin-top: 12px; color: #F0435A;">Knowledge loss</div>
+      <div class="mono" style="font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: #9AA0B8; margin-top: 3px;">Vitality score</div>
+    </div>
+  </div>
+
+  <!-- THE decay timeline — vitality over successive archive snapshots -->
+  <div style="background: rgba(255,255,255,.72); border: 1px solid rgba(255,255,255,.85); border-radius: 22px; padding: 24px 28px; box-shadow: 0 1px 2px rgba(21,23,43,.05), 0 18px 40px -22px rgba(52,40,120,.35); margin-top: 20px;">
+    <div style="display: flex; align-items: baseline; justify-content: space-between;">
+      <div style="font-family: 'Bricolage Grotesque', sans-serif; font-weight: 700; font-size: 19px; letter-spacing: -.01em;">Knowledge decay over time</div>
+      <div class="mono" style="font-size: 11px; color: #9AA0B8;">7 archive snapshots · 2019 — 2026</div>
+    </div>
+
+    <svg width="1020" height="188" viewBox="0 0 1020 188" fill="none" style="display: block; margin-top: 18px;">
+      <line x1="44" y1="20" x2="1010" y2="20" stroke="rgba(21,23,43,.07)" stroke-width="1"></line>
+      <line x1="44" y1="63" x2="1010" y2="63" stroke="rgba(21,23,43,.07)" stroke-width="1"></line>
+      <line x1="44" y1="106" x2="1010" y2="106" stroke="rgba(21,23,43,.07)" stroke-width="1"></line>
+      <line x1="44" y1="149" x2="1010" y2="149" stroke="rgba(21,23,43,.07)" stroke-width="1"></line>
+      <text x="10" y="24" class="mono" fill="#9AA0B8" font-size="10">100</text>
+      <text x="16" y="67" class="mono" fill="#9AA0B8" font-size="10">75</text>
+      <text x="16" y="110" class="mono" fill="#9AA0B8" font-size="10">50</text>
+      <text x="16" y="153" class="mono" fill="#9AA0B8" font-size="10">25</text>
+
+      <path d="M78 24 L233 28 L388 33 L543 66 L698 92 L853 118 L975 129 L975 170 L78 170 Z" fill="url(#fade)"></path>
+      <defs>
+        <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#F0435A" stop-opacity="0.20"></stop>
+          <stop offset="100%" stop-color="#F0435A" stop-opacity="0"></stop>
+        </linearGradient>
+      </defs>
+      <polyline points="78,24 233,28 388,33 543,66 698,92 853,118 975,129" stroke="#F0435A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"></polyline>
+
+      <circle cx="78" cy="24" r="4.5" fill="#12B26B" stroke="#fff" stroke-width="2"></circle>
+      <circle cx="233" cy="28" r="4.5" fill="#12B26B" stroke="#fff" stroke-width="2"></circle>
+      <circle cx="388" cy="33" r="4.5" fill="#12B26B" stroke="#fff" stroke-width="2"></circle>
+      <circle cx="543" cy="66" r="5.5" fill="#E8990C" stroke="#fff" stroke-width="2"></circle>
+      <circle cx="698" cy="92" r="5.5" fill="#E8990C" stroke="#fff" stroke-width="2"></circle>
+      <circle cx="853" cy="118" r="5.5" fill="#F0435A" stroke="#fff" stroke-width="2"></circle>
+      <circle cx="975" cy="129" r="6.5" fill="#F0435A" stroke="#fff" stroke-width="2.5"></circle>
+
+      <text x="78" y="186" class="mono" fill="#9AA0B8" font-size="10" text-anchor="middle">2019</text>
+      <text x="233" y="186" class="mono" fill="#9AA0B8" font-size="10" text-anchor="middle">2020</text>
+      <text x="388" y="186" class="mono" fill="#9AA0B8" font-size="10" text-anchor="middle">2021</text>
+      <text x="543" y="186" class="mono" fill="#9AA0B8" font-size="10" text-anchor="middle">2022</text>
+      <text x="698" y="186" class="mono" fill="#9AA0B8" font-size="10" text-anchor="middle">2024</text>
+      <text x="853" y="186" class="mono" fill="#9AA0B8" font-size="10" text-anchor="middle">2025</text>
+      <text x="975" y="186" class="mono" fill="#9AA0B8" font-size="10" text-anchor="middle">now</text>
+
+      <line x1="543" y1="20" x2="543" y2="163" stroke="#E8990C" stroke-width="1" stroke-dasharray="3 3" opacity="0.6"></line>
+      <rect x="452" y="-2" width="182" height="19" rx="5" fill="#E8990C"></rect>
+      <text x="543" y="12" fill="#fff" font-size="10.5" font-weight="600" text-anchor="middle" font-family="Inter, sans-serif">S/TEM dropped here</text>
+    </svg>
+  </div>
+
+  <!-- tallies -->
+  <div style="display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 12px; margin-top: 20px;">
+    <div style="background: rgba(255,255,255,.72); border: 1px solid rgba(255,255,255,.85); border-radius: 18px; padding: 16px 18px; box-shadow: 0 1px 2px rgba(21,23,43,.05), 0 18px 40px -22px rgba(52,40,120,.35); text-align: center;">
+      <div class="mono" style="font-size: 30px; font-weight: 600; line-height: 1; color: #F0435A;">2</div>
+      <div style="font-size: 11.5px; color: #565C77; margin-top: 7px;">Removed</div>
+    </div>
+    <div style="background: rgba(255,255,255,.72); border: 1px solid rgba(255,255,255,.85); border-radius: 18px; padding: 16px 18px; box-shadow: 0 1px 2px rgba(21,23,43,.05), 0 18px 40px -22px rgba(52,40,120,.35); text-align: center;">
+      <div class="mono" style="font-size: 30px; font-weight: 600; line-height: 1; color: #12B26B;">3</div>
+      <div style="font-size: 11.5px; color: #565C77; margin-top: 7px;">Added</div>
+    </div>
+    <div style="background: rgba(255,255,255,.72); border: 1px solid rgba(255,255,255,.85); border-radius: 18px; padding: 16px 18px; box-shadow: 0 1px 2px rgba(21,23,43,.05), 0 18px 40px -22px rgba(52,40,120,.35); text-align: center;">
+      <div class="mono" style="font-size: 30px; font-weight: 600; line-height: 1; color: #E8990C;">2</div>
+      <div style="font-size: 11.5px; color: #565C77; margin-top: 7px;">Modified</div>
+    </div>
+    <div style="background: rgba(255,255,255,.72); border: 1px solid rgba(255,255,255,.85); border-radius: 18px; padding: 16px 18px; box-shadow: 0 1px 2px rgba(21,23,43,.05), 0 18px 40px -22px rgba(52,40,120,.35); text-align: center;">
+      <div class="mono" style="font-size: 30px; font-weight: 600; line-height: 1; color: #5B8CFF;">5</div>
+      <div style="font-size: 11.5px; color: #565C77; margin-top: 7px;">On live page</div>
+    </div>
+  </div>
+
+  <!-- removed, each with archive evidence: answers "how do I know this is real?" -->
+  <div style="margin-top: 30px;">
+    <div style="font-family: 'Bricolage Grotesque', sans-serif; font-weight: 700; font-size: 19px; color: #F0435A; display: flex; align-items: center; gap: 9px;">
+      Instruments the page silently lost
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 10px; margin-top: 15px;">
+      <sc-for list="{{lost}}" as="x" hint-placeholder-count="2">
+        <div style="background: rgba(255,255,255,.72); border: 1px solid rgba(255,255,255,.85); border-left: 3px solid #F0435A; border-radius: 16px; padding: 16px 20px; box-shadow: 0 1px 2px rgba(21,23,43,.05), 0 18px 40px -22px rgba(52,40,120,.35);">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <span style="font-weight: 600; font-size: 15px; text-decoration: line-through; text-decoration-color: rgba(240,67,90,.45);">{{x.name}}</span>
+            <span style="margin-left: auto; font-size: 9.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; padding: 3px 8px; border-radius: 6px; background: rgba(240,67,90,.13); color: #F0435A;">critical</span>
+          </div>
+          <div style="font-size: 13px; color: #565C77; line-height: 1.5; margin-top: 7px;">{{x.reason}}</div>
+          <div style="display: flex; align-items: center; gap: 14px; margin-top: 12px; padding-top: 11px; border-top: 1px solid rgba(21,23,43,.08);">
+            <span class="mono" style="font-size: 11px; color: #9AA0B8;">Last seen {{x.lastSeen}}</span>
+            <a href="#" style="font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 500;">View archived proof ↗</a>
+          </div>
+        </div>
+      </sc-for>
+    </div>
+  </div>
+
+</div>
+</x-dc>
+
+<script data-dc-script data-props='{}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {
+      lost: [
+        { name: 'nGauge AFM', reason: 'Present in every snapshot through Mar 2022, absent from the current equipment list.', lastSeen: 'Mar 2022 snapshot' },
+        { name: 'S/TEM', reason: 'Instrument completely removed from the current equipment list.', lastSeen: 'Jan 2024 snapshot' },
+      ],
+    };
+  }
+}
+</script>
+</body>
+</html>

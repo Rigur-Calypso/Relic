@@ -1,0 +1,13 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 1280, "h": 1180, "title": "Dashboard — ranked" },
+    { "file": "Report.dc.html", "x": 1400, "y": 0, "w": 1080, "h": 1400, "title": "Facility report — decay timeline" },
+    { "file": "Atlas.dc.html", "x": 2600, "y": 0, "w": 1080, "h": 1080, "title": "Instrument atlas" }
+  ],
+  "annotations": [
+    { "id": "note-index", "x": 0, "y": -150, "w": 420, "text": "1 — Dashboard, reframed\n\nOpens with the Global Knowledge-Loss Index instead of a decorative hero, and ranks facilities worst-first as dense rows with decay sparklines. Same tokens as the live app." },
+    { "id": "note-report", "x": 1400, "y": -150, "w": 420, "text": "2 — Facility report\n\nAdds the knowledge-decay timeline across 7 archive snapshots, and an archived-proof link on every removed instrument so a judge can verify the claim." },
+    { "id": "note-atlas", "x": 2600, "y": -150, "w": 420, "text": "3 — Instrument atlas (new)\n\nPivots the corpus by instrument rather than facility. Bars are real counts from data/analysis: 115 removals, TEM/STEM leading at 9. Region rates are illustrative." }
+  ],
+  "launch": { "view": "canvas" }
+}
