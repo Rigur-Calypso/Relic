@@ -382,3 +382,49 @@ footer{text-align:center; padding:0 22px 60px; color:var(--ink-3); font-size:13p
   .lrow-share{grid-column:2 / -1}
   .lrow-score{width:48px; height:48px; font-size:17px; border-radius:14px}
 }
+
+/* ── Instrument atlas ── */
+.atlas{max-width:1080px; margin:0 auto; padding:26px 22px 100px; animation:rise .5s both}
+.atlas-head{margin:22px 0 26px}
+.atlas-h{font-family:var(--disp); font-weight:800; font-size:clamp(28px,4.6vw,40px); letter-spacing:-.025em; line-height:1.06; margin:10px 0 12px; max-width:20ch; text-wrap:balance}
+.atlas-lead{font-size:14.5px; color:var(--ink-2); line-height:1.6; max-width:64ch; margin:0}
+.atlas-lead b{color:var(--ink); font-weight:600}
+.atlas-grid{display:grid; grid-template-columns:minmax(0,1fr) minmax(0,340px); gap:20px; align-items:start}
+@media(max-width:880px){.atlas-grid{grid-template-columns:1fr}}
+.atlas-card{background:var(--glass-2); border:1px solid var(--glass-line); border-radius:22px; padding:24px 28px; box-shadow:var(--shadow)}
+.atlas-card-h{display:flex; align-items:baseline; justify-content:space-between; margin-bottom:20px; gap:12px}
+.atlas-card-h h2{font-family:var(--disp); font-weight:700; font-size:18px; margin:0}
+.atlas-card-h .mono{font-size:10.5px; color:var(--ink-3); letter-spacing:.06em}
+.atlas-bars{display:flex; flex-direction:column; gap:11px}
+.abar{display:grid; grid-template-columns:124px minmax(0,1fr) 34px; align-items:center; gap:14px;
+  background:none; border:none; padding:4px 6px; margin:-4px -6px; border-radius:10px; text-align:left; transition:.15s}
+.abar:hover{background:rgba(21,23,43,.04)}
+.abar.on{background:rgba(166,107,255,.10)}
+.abar-l{font-size:13.5px; font-weight:600; color:var(--ink)}
+.abar-track{height:22px; background:rgba(21,23,43,.05); border-radius:6px; overflow:hidden}
+.abar-fill{display:block; height:100%; border-radius:6px; transition:width .5s cubic-bezier(.2,.7,.3,1)}
+.abar-n{font-size:14px; font-weight:600; color:var(--ink); text-align:right}
+.atlas-note{font-size:13px; color:var(--ink-2); line-height:1.55; margin:22px 0 0; padding-top:18px; border-top:1px solid var(--stroke)}
+.atlas-note b{color:var(--ink); font-weight:600}
+
+.atlas-drill{background:linear-gradient(150deg,#15172B,#241A48 60%,#3B1D4E); border-radius:22px; padding:24px 26px; box-shadow:var(--shadow-lg)}
+.adr-k{font-size:10.5px; letter-spacing:.12em; text-transform:uppercase; color:rgba(255,255,255,.45)}
+.adr-h{font-family:var(--disp); font-weight:700; font-size:25px; color:#fff; margin:10px 0 18px; letter-spacing:-.02em}
+.adr-tiles{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:9px}
+.adr-tiles div{background:rgba(255,255,255,.07); border-radius:14px; padding:12px 13px}
+.adr-tiles b{display:block; font-size:22px; font-weight:600; color:var(--g3); line-height:1}
+.adr-tiles div:nth-child(2) b,.adr-tiles div:nth-child(3) b{color:#fff}
+.adr-tiles span{display:block; font-size:10px; color:rgba(255,255,255,.55); margin-top:6px}
+.adr-list{display:flex; flex-direction:column; gap:2px; margin-top:11px}
+.adr-row{display:flex; align-items:center; gap:10px; width:100%; background:none; border:none; padding:7px 8px; margin:0 -8px; border-radius:9px; text-align:left; transition:.15s}
+.adr-row:hover{background:rgba(255,255,255,.08)}
+.adr-dot{width:6px; height:6px; border-radius:50%; background:var(--g3); flex:none}
+.adr-lab{font-size:12.5px; color:rgba(255,255,255,.86); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.adr-yr{margin-left:auto; font-size:10.5px; color:rgba(255,255,255,.4); flex:none}
+.adr-more{font-size:10.5px; color:rgba(255,255,255,.35); padding:6px 0 0 16px}
+
+.atlas-regions{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:14px}
+.areg{border:1px solid var(--stroke); border-radius:16px; padding:16px}
+.areg-n{font-size:12.5px; font-weight:600; color:var(--ink)}
+.areg-r{font-size:26px; font-weight:600; line-height:1; margin-top:10px}
+.areg-d{font-size:10.5px; color:var(--ink-2); margin-top:6px}

@@ -62,6 +62,12 @@ app.get('/api/labs', async (_req, res) => {
   catch (e) { res.status(500).json({ error: e.message }); }
 });
 
+// Instrument-centric aggregation across every facility.
+app.get('/api/atlas', async (_req, res) => {
+  try { res.json(await readJson(dataFile('atlas.json'))); }
+  catch { res.status(404).json({ error: 'atlas not built yet — run `npm run atlas`' }); }
+});
+
 // Full per-lab detail: target + current inventory + Wayback baseline + diff.
 app.get('/api/lab/:id', async (req, res) => {
   const id = req.params.id;

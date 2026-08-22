@@ -42,6 +42,12 @@ for (const t of targets) {
 }
 await writeFile(resolve(OUT, 'labs.json'), JSON.stringify(labs, null, 2));
 
+// instrument atlas → public/data/atlas.json (same shape as GET /api/atlas)
+try {
+  const atlas = await readFile(resolve(ROOT, 'data', 'atlas.json'), 'utf8');
+  await writeFile(resolve(OUT, 'atlas.json'), atlas);
+} catch { console.warn('[static-data] no data/atlas.json — run `npm run atlas` first'); }
+
 // full per-lab detail → public/data/labs/<id>.json (same shape as GET /api/lab/:id)
 const LAB_OUT = resolve(OUT, 'labs');
 await mkdir(LAB_OUT, { recursive: true });

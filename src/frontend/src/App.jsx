@@ -5,11 +5,15 @@ import LabCard from './components/LabCard.jsx';
 import LabDetail from './components/LabDetail.jsx';
 import LabRow from './components/LabRow.jsx';
 import IndexBand from './components/IndexBand.jsx';
+import Atlas from './components/Atlas.jsx';
 import Splash from './components/Splash.jsx';
 
 const parseRoute = () => {
-  const m = (window.location.hash || '').match(/^#\/lab\/(.+)$/);
-  return m ? { view: 'lab', id: decodeURIComponent(m[1]) } : { view: 'home' };
+  const h = window.location.hash || '';
+  const m = h.match(/^#\/lab\/(.+)$/);
+  if (m) return { view: 'lab', id: decodeURIComponent(m[1]) };
+  if (/^#\/atlas$/.test(h)) return { view: 'atlas' };
+  return { view: 'home' };
 };
 
 const FILTERS = [
@@ -68,7 +72,7 @@ export default function App() {
     return () => window.removeEventListener('hashchange', onHash);
   }, []);
   // A detail deep-link should skip the splash so the page is immediately usable.
-  useEffect(() => { if (route.view === 'lab') setSplashDone(true); }, [route.view]);
+  useEffect(() => { if (route.view !== 'home') setSplashDone(true); }, [route.view]);
 
   async function onAction(id, kind) {
     if (busy) return; setBusy({ id, kind });
@@ -94,6 +98,7 @@ export default function App() {
     if (!lab?.id) return;
     window.location.hash = `#/lab/${encodeURIComponent(lab.id)}`;
   }, []);
+  const openAtlas = useCallback(() => { window.location.hash = '#/atlas'; }, []);
   const closeLab = useCallback(() => {
     if (window.location.hash) { history.pushState('', document.title, window.location.pathname + window.location.search); }
     setRoute({ view: 'home' });
@@ -133,7 +138,9 @@ export default function App() {
       <div className={`app-main ${splashDone ? 'app-in' : ''}`}>
       <div className="aurora" /><div className="orb a" /><div className="orb b" /><div className="orb c" />
 
-      {route.view === 'lab' ? (
+      {route.view === 'atlas' ? (
+        <Atlas onBack={closeLab} onOpen={openLab} />
+      ) : route.view === 'lab' ? (
         <LabDetail id={route.id} live={live} seed={labs.find((l) => l.id === route.id)}
           onBack={closeLab} busy={busy?.id === route.id ? busy.kind : null} anyBusy={!!busy} onAction={onAction} />
       ) : (
@@ -143,6 +150,7 @@ export default function App() {
         <div className="links">
           <a href="#dash" onClick={(e) => { e.preventDefault(); scrollTo(dashRef); }}>Facilities</a>
           <a href="#dash" onClick={(e) => { e.preventDefault(); setFilter('loss'); scrollTo(dashRef); }}>Knowledge loss</a>
+          <a href="#/atlas" onClick={(e) => { e.preventDefault(); openAtlas(); }}>Instruments</a>
           <a href="#lookup" onClick={(e) => { e.preventDefault(); scrollTo(lookupRef); }}>On-demand</a>
         </div>
         <span className={`live ${live ? '' : 'ro'}`}><span className="p" />{live ? 'Live' : 'Snapshot'}</span>

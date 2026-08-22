@@ -1,0 +1,659 @@
+{
+  "generatedAt": "2026-08-22T20:51:41.539Z",
+  "totals": {
+    "facilities": 131,
+    "instruments": 3355,
+    "removed": 115,
+    "facilitiesLosing": 32
+  },
+  "classes": [
+    {
+      "key": "tem",
+      "label": "TEM / STEM",
+      "present": 50,
+      "removed": 9,
+      "facilities": 7,
+      "where": [
+        {
+          "id": "crf-iitd",
+          "name": "IIT Delhi Central Research Facility",
+          "instrument": "Cryo - HR TEM",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "crf-iitd",
+          "name": "IIT Delhi Central Research Facility",
+          "instrument": "HR-TEM Tecnai G2 20",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "iitkgp-crf",
+          "name": "IIT Kharagpur Central Research Facility",
+          "instrument": "FEG-High Resolution-Cryo-Analytical TEM",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "columbia-cni",
+          "name": "Columbia Nano Initiative",
+          "instrument": "FEI TALOS F200X STEM",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "kth-electrum",
+          "name": "KTH",
+          "instrument": "FE-TEM",
+          "severity": "critical",
+          "region": "Europe",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "alberta-nanofab",
+          "name": "Alberta",
+          "instrument": "S/TEM",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "nit-rourkela",
+          "name": "NIT Rourkela",
+          "instrument": "Transmission Electron Microscope",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "monash-mcem",
+          "name": "Monash MCEM",
+          "instrument": "FEI Tecnai G2 F20 S-TWIN TEM",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2023"
+        },
+        {
+          "id": "monash-mcem",
+          "name": "Monash MCEM",
+          "instrument": "FEI Tecnai G2 T20 TWIN TEM",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2023"
+        }
+      ]
+    },
+    {
+      "key": "dep",
+      "label": "Deposition",
+      "present": 284,
+      "removed": 8,
+      "facilities": 5,
+      "where": [
+        {
+          "id": "polymtl-nano",
+          "name": "Polytechnique Montreal",
+          "instrument": "Sputtering and E-beam evaporation system",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2025"
+        },
+        {
+          "id": "notredame-ndnf",
+          "name": "Notre Dame Nanofab Facility",
+          "instrument": "Denton Evaporator",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "notredame-ndnf",
+          "name": "Notre Dame Nanofab Facility",
+          "instrument": "Dual-Chamber Sputtering System",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "Thermal evaporators",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "Sputtering system",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "E-gun evaporators",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "manipal-cif",
+          "name": "Manipal",
+          "instrument": "Silver sputtering unit",
+          "severity": "minor",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "maryland-fablab",
+          "name": "Maryland NanoCenter FabLab",
+          "instrument": "SPECIAL: coin cell battery with ALD-protected electrode",
+          "severity": "minor",
+          "region": "North America",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "spec",
+      "label": "Spectroscopy",
+      "present": 235,
+      "removed": 8,
+      "facilities": 5,
+      "where": [
+        {
+          "id": "crf-iitd",
+          "name": "IIT Delhi Central Research Facility",
+          "instrument": "ESI-LC- MASS Spectrometry",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "crf-iitd",
+          "name": "IIT Delhi Central Research Facility",
+          "instrument": "MALDI-TOF/TOF MASS Spectrometry",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "jncasr",
+          "name": "JNCASR Facilities",
+          "instrument": "Thermogravimetric analysis, Gas Chromatography and mass Spectroscopy (TGA-GC-MS)",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "jncasr",
+          "name": "JNCASR Facilities",
+          "instrument": "UV-VIS spectroscopy (Perkin Elmer)",
+          "severity": "minor",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "kth-electrum",
+          "name": "KTH",
+          "instrument": "TGA/FTIR Interface",
+          "severity": "minor",
+          "region": "Europe",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "standrews-nano",
+          "name": "St Andrews",
+          "instrument": "Waters LCT ESI mass spectrometer",
+          "severity": "critical",
+          "region": "Europe",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "standrews-nano",
+          "name": "St Andrews",
+          "instrument": "Micromass GCT mass spectrometer",
+          "severity": "critical",
+          "region": "Europe",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "unist-ucrf",
+          "name": "UNIST",
+          "instrument": "600 MHz FT-NMR (Varian)",
+          "severity": "minor",
+          "region": "Asia-Pacific",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "etch",
+      "label": "Etching",
+      "present": 131,
+      "removed": 7,
+      "facilities": 4,
+      "where": [
+        {
+          "id": "ucsb-nano",
+          "name": "UC Santa Barbara Nanofab",
+          "instrument": "RIE 3 (MRC)",
+          "severity": "moderate",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "ucsb-nano",
+          "name": "UC Santa Barbara Nanofab",
+          "instrument": "ICP Etch 2 (Panasonic E640)",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "ucsb-nano",
+          "name": "UC Santa Barbara Nanofab",
+          "instrument": "ICP-Etch (Unaxis VLR)",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "rice-shared",
+          "name": "Rice University",
+          "instrument": "EMC Plasma Cleaner",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "Plasma cleaner",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "Reactive ion etch system",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "ntu-nanofab",
+          "name": "NTU Singapore",
+          "instrument": "ICP RIE",
+          "severity": "critical",
+          "region": "Asia-Pacific",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "litho",
+      "label": "Lithography",
+      "present": 98,
+      "removed": 6,
+      "facilities": 5,
+      "where": [
+        {
+          "id": "ucsb-nano",
+          "name": "UC Santa Barbara Nanofab",
+          "instrument": "Stepper 1 (GCA 6300)",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "Mask aligner",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "Optical mask aligners",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "kit-nano",
+          "name": "KIT",
+          "instrument": "Deep X-Ray Lithography (XRL)",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "ucdavis-cnm",
+          "name": "UC Davis",
+          "instrument": "NPGS Electron Beam Lithography",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "maryland-fablab",
+          "name": "Maryland NanoCenter FabLab",
+          "instrument": "EVG 620 Mask Aligner",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "thermal",
+      "label": "Thermal",
+      "present": 147,
+      "removed": 4,
+      "facilities": 4,
+      "where": [
+        {
+          "id": "mit-mrsec",
+          "name": "MIT DMSE Shared Facilities",
+          "instrument": "Furnaces and presses",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "jncasr",
+          "name": "JNCASR Facilities",
+          "instrument": "Thermogravimetric analysis (TGA) (Perkin Elmer)",
+          "severity": "moderate",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "annamalai-cif",
+          "name": "Annamalai University",
+          "instrument": "Muffle Furnace",
+          "severity": "minor",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "maryland-fablab",
+          "name": "Maryland NanoCenter FabLab",
+          "instrument": "TA Instruments DSC Q100",
+          "severity": "moderate",
+          "region": "North America",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "sem",
+      "label": "SEM",
+      "present": 126,
+      "removed": 4,
+      "facilities": 4,
+      "where": [
+        {
+          "id": "iitkgp-crf",
+          "name": "IIT Kharagpur Central Research Facility",
+          "instrument": "Field Emission Gun-Scanning Electron Microscope (Zeiss Supra 40)",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "columbia-cni",
+          "name": "Columbia Nano Initiative",
+          "instrument": "ZEISS SIGMA VP SEM",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "nit-rourkela",
+          "name": "NIT Rourkela",
+          "instrument": "Scanning Electron Microscope",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "monash-mcem",
+          "name": "Monash MCEM",
+          "instrument": "JEOL JSM-7001F FEGSEM",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2023"
+        }
+      ]
+    },
+    {
+      "key": "afm",
+      "label": "AFM / SPM",
+      "present": 71,
+      "removed": 3,
+      "facilities": 3,
+      "where": [
+        {
+          "id": "crf-iitd",
+          "name": "IIT Delhi Central Research Facility",
+          "instrument": "BIO - AFM",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "jncasr",
+          "name": "JNCASR Facilities",
+          "instrument": "Atomic force microscope (Bruker)",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "alberta-nanofab",
+          "name": "Alberta",
+          "instrument": "nGauge AFM",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "xrd",
+      "label": "XRD",
+      "present": 57,
+      "removed": 3,
+      "facilities": 2,
+      "where": [
+        {
+          "id": "jncasr",
+          "name": "JNCASR Facilities",
+          "instrument": "Powder XRD (Bruker)",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "jncasr",
+          "name": "JNCASR Facilities",
+          "instrument": "Powder XRD (Pan Analytical)",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "nit-rourkela",
+          "name": "NIT Rourkela",
+          "instrument": "Single Crystal X-ray Diffractometer",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "mech",
+      "label": "Mechanical test",
+      "present": 35,
+      "removed": 3,
+      "facilities": 3,
+      "where": [
+        {
+          "id": "mit-mrsec",
+          "name": "MIT DMSE Shared Facilities",
+          "instrument": "Tensile testing equipment",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "iitkgp-crf",
+          "name": "IIT Kharagpur Central Research Facility",
+          "instrument": "INSTRON Mechanical Testing System",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "ucla-cnsi",
+          "name": "UCLA CNSI",
+          "instrument": "Anton Paar Modular Compact Rheometer 302 (MCR 302)",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "profil",
+      "label": "Profilometry",
+      "present": 73,
+      "removed": 2,
+      "facilities": 2,
+      "where": [
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "Surface profilometer",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "kth-electrum",
+          "name": "KTH",
+          "instrument": "Dektak",
+          "severity": "moderate",
+          "region": "Europe",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "optical",
+      "label": "Optical imaging",
+      "present": 58,
+      "removed": 2,
+      "facilities": 2,
+      "where": [
+        {
+          "id": "jncasr",
+          "name": "JNCASR Facilities",
+          "instrument": "Confocal microscopy (LEICA)",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        },
+        {
+          "id": "bu-photonics",
+          "name": "Boston University",
+          "instrument": "High-resolution optical microscopes",
+          "severity": "critical",
+          "region": "North America",
+          "lastSeen": "2024"
+        }
+      ]
+    },
+    {
+      "key": "raman",
+      "label": "Raman",
+      "present": 11,
+      "removed": 1,
+      "facilities": 1,
+      "where": [
+        {
+          "id": "jncasr",
+          "name": "JNCASR Facilities",
+          "instrument": "Confocal Micro Raman Microscope (Horiba)",
+          "severity": "critical",
+          "region": "India",
+          "lastSeen": "2024"
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "name": "Europe",
+      "facilities": 20,
+      "losing": 6,
+      "removed": 18,
+      "rate": 30
+    },
+    {
+      "name": "Asia-Pacific",
+      "facilities": 7,
+      "losing": 2,
+      "removed": 3,
+      "rate": 29
+    },
+    {
+      "name": "North America",
+      "facilities": 67,
+      "losing": 17,
+      "removed": 53,
+      "rate": 25
+    },
+    {
+      "name": "India",
+      "facilities": 28,
+      "losing": 7,
+      "removed": 41,
+      "rate": 25
+    },
+    {
+      "name": "Middle East",
+      "facilities": 5,
+      "losing": 0,
+      "removed": 0,
+      "rate": 0
+    },
+    {
+      "name": "Other",
+      "facilities": 3,
+      "losing": 0,
+      "removed": 0,
+      "rate": 0
+    },
+    {
+      "name": "Latin America",
+      "facilities": 1,
+      "losing": 0,
+      "removed": 0,
+      "rate": 0
+    }
+  ]
+}
