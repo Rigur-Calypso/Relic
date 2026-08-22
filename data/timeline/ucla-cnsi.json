@@ -1,0 +1,41 @@
+{
+  "targetId": "ucla-cnsi",
+  "builtAt": "2026-08-22T20:58:36.118Z",
+  "points": [
+    {
+      "year": "2019",
+      "documented": 2,
+      "retained": 1,
+      "retentionPct": 50,
+      "snapshotUrl": "http://web.archive.org/web/20190601000000/https://cnsi.ucla.edu/technology-centers/"
+    },
+    {
+      "year": "2021",
+      "documented": 3,
+      "retained": 0,
+      "retentionPct": 0,
+      "snapshotUrl": "http://web.archive.org/web/20210601000000/https://cnsi.ucla.edu/technology-centers/"
+    },
+    {
+      "year": "2023",
+      "documented": 3,
+      "retained": 0,
+      "retentionPct": 0,
+      "snapshotUrl": "http://web.archive.org/web/20230601000000/https://cnsi.ucla.edu/technology-centers/"
+    },
+    {
+      "year": "2025",
+      "documented": 4,
+      "retained": 1,
+      "retentionPct": 25,
+      "snapshotUrl": "http://web.archive.org/web/20250601000000/https://cnsi.ucla.edu/technology-centers/"
+    },
+    {
+      "year": "now",
+      "documented": 12,
+      "retained": 12,
+      "retentionPct": 100,
+      "snapshotUrl": "https://cnsi.ucla.edu/technology-centers/"
+    }
+  ]
+}

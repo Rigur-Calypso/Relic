@@ -155,5 +155,46 @@
       }
     ],
     "modified": []
+  },
+  "timeline": {
+    "targetId": "cardiff-crf",
+    "builtAt": "2026-08-22T21:01:35.086Z",
+    "points": [
+      {
+        "year": "2019",
+        "documented": 14,
+        "retained": 3,
+        "retentionPct": 21,
+        "snapshotUrl": "http://web.archive.org/web/20190601000000/https://www.cardiff.ac.uk/research-equipment/equipment"
+      },
+      {
+        "year": "2021",
+        "documented": 14,
+        "retained": 3,
+        "retentionPct": 21,
+        "snapshotUrl": "http://web.archive.org/web/20210601000000/https://www.cardiff.ac.uk/research-equipment/equipment"
+      },
+      {
+        "year": "2023",
+        "documented": 8,
+        "retained": 5,
+        "retentionPct": 63,
+        "snapshotUrl": "http://web.archive.org/web/20230601000000/https://www.cardiff.ac.uk/research-equipment/equipment"
+      },
+      {
+        "year": "2025",
+        "documented": 8,
+        "retained": 8,
+        "retentionPct": 100,
+        "snapshotUrl": "http://web.archive.org/web/20250601000000/https://www.cardiff.ac.uk/research-equipment/equipment"
+      },
+      {
+        "year": "now",
+        "documented": 8,
+        "retained": 8,
+        "retentionPct": 100,
+        "snapshotUrl": "https://www.cardiff.ac.uk/research-equipment/equipment"
+      }
+    ]
   }
 }

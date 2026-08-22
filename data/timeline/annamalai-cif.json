@@ -1,0 +1,41 @@
+{
+  "targetId": "annamalai-cif",
+  "builtAt": "2026-08-22T21:00:16.492Z",
+  "points": [
+    {
+      "year": "2019",
+      "documented": 17,
+      "retained": 7,
+      "retentionPct": 41,
+      "snapshotUrl": "http://web.archive.org/web/20190601000000/https://annamalaiuniversity.ac.in/laboratory_cisl.php"
+    },
+    {
+      "year": "2021",
+      "documented": 17,
+      "retained": 7,
+      "retentionPct": 41,
+      "snapshotUrl": "http://web.archive.org/web/20210601000000/https://annamalaiuniversity.ac.in/laboratory_cisl.php"
+    },
+    {
+      "year": "2023",
+      "documented": 18,
+      "retained": 8,
+      "retentionPct": 44,
+      "snapshotUrl": "http://web.archive.org/web/20230601000000/https://annamalaiuniversity.ac.in/laboratory_cisl.php"
+    },
+    {
+      "year": "2025",
+      "documented": 18,
+      "retained": 8,
+      "retentionPct": 44,
+      "snapshotUrl": "http://web.archive.org/web/20250601000000/https://annamalaiuniversity.ac.in/laboratory_cisl.php"
+    },
+    {
+      "year": "now",
+      "documented": 8,
+      "retained": 8,
+      "retentionPct": 100,
+      "snapshotUrl": "https://annamalaiuniversity.ac.in/laboratory_cisl.php"
+    }
+  ]
+}

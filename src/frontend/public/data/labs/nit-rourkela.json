@@ -184,5 +184,46 @@
         "change": "Retained in the facility with updated location details."
       }
     ]
+  },
+  "timeline": {
+    "targetId": "nit-rourkela",
+    "builtAt": "2026-08-22T20:55:09.345Z",
+    "points": [
+      {
+        "year": "2019",
+        "documented": 6,
+        "retained": 1,
+        "retentionPct": 17,
+        "snapshotUrl": "http://web.archive.org/web/20190601000000/https://crf.nitrkl.ac.in/"
+      },
+      {
+        "year": "2021",
+        "documented": 6,
+        "retained": 1,
+        "retentionPct": 17,
+        "snapshotUrl": "http://web.archive.org/web/20210601000000/https://crf.nitrkl.ac.in/"
+      },
+      {
+        "year": "2023",
+        "documented": 6,
+        "retained": 1,
+        "retentionPct": 17,
+        "snapshotUrl": "http://web.archive.org/web/20230601000000/https://crf.nitrkl.ac.in/"
+      },
+      {
+        "year": "2025",
+        "documented": 6,
+        "retained": 1,
+        "retentionPct": 17,
+        "snapshotUrl": "http://web.archive.org/web/20250601000000/https://crf.nitrkl.ac.in/"
+      },
+      {
+        "year": "now",
+        "documented": 10,
+        "retained": 10,
+        "retentionPct": 100,
+        "snapshotUrl": "https://crf.nitrkl.ac.in/"
+      }
+    ]
   }
 }

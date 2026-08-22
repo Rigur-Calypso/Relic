@@ -62,6 +62,12 @@ app.get('/api/labs', async (_req, res) => {
   catch (e) { res.status(500).json({ error: e.message }); }
 });
 
+// Instrument-centric aggregation across every facility.
+app.get('/api/atlas', async (_req, res) => {
+  try { res.json(await readJson(dataFile('atlas.json'))); }
+  catch { res.status(404).json({ error: 'atlas not built yet — run `npm run atlas`' }); }
+});
+
 // Full per-lab detail: target + current inventory + Wayback baseline + diff.
 app.get('/api/lab/:id', async (req, res) => {
   const id = req.params.id;
@@ -70,10 +76,11 @@ app.get('/api/lab/:id', async (req, res) => {
     const targets = await readJson(resolve(ROOT, 'targets.json'));
     const target = targets.find(t => t.id === id);
     if (!target) return res.status(404).json({ error: 'unknown facility' });
-    const [current, historical, analysis] = await Promise.all([
-      readJ('current', `${id}.json`), readJ('historical', `${id}.json`), readJ('analysis', `${id}.json`),
+    const [current, historical, analysis, timeline] = await Promise.all([
+      readJ('current', `${id}.json`), readJ('historical', `${id}.json`),
+      readJ('analysis', `${id}.json`), readJ('timeline', `${id}.json`),
     ]);
-    res.json({ target, current, historical, analysis });
+    res.json({ target, current, historical, analysis, timeline });
   } catch (e) { res.status(500).json({ error: e.message }); }
 });
 
