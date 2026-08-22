@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { countryOf } from '../geo.js';
+import DecayChart from './DecayChart.jsx';
 
 const bandColor = (v) => v == null ? '#9AA0B8' : v >= 90 ? '#12B26B' : v >= 60 ? '#E8990C' : '#F0435A';
 const bandLabel = (v) => v == null ? 'No baseline' : v >= 90 ? 'Knowledge intact' : v >= 60 ? 'Partial drift' : 'Knowledge loss';
@@ -50,6 +51,7 @@ export default function LabDetail({ id, live, seed, onBack, busy, anyBusy, onAct
   const analysis = detail?.analysis;
   const current = detail?.current;
   const historical = detail?.historical;
+  const timeline = detail?.timeline;
 
   const v = analysis?.vitalityScore ?? seed?.vitalityScore ?? null;
   const color = bandColor(v);
@@ -116,6 +118,8 @@ export default function LabDetail({ id, live, seed, onBack, busy, anyBusy, onAct
             <div className="tally mod"><b>{modified.length}</b><span>Modified</span></div>
             <div className="tally keep"><b>{equipment.length}</b><span>On live page</span></div>
           </div>
+
+          {timeline?.points?.length >= 2 && <DecayChart points={timeline.points} />}
 
           {removed.length > 0 && (
             <section className="det-block">

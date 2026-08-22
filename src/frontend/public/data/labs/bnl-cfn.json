@@ -50,5 +50,6 @@
         "change": "Updated location and added operational status while preserving equipment specifications."
       }
     ]
-  }
+  },
+  "timeline": null
 }

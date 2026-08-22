@@ -350,5 +350,6 @@
         "change": "Location metadata for all equipment items was removed in the current listing."
       }
     ]
-  }
+  },
+  "timeline": null
 }

@@ -185,5 +185,46 @@
         "change": "Updated specifications text and added location details"
       }
     ]
+  },
+  "timeline": {
+    "targetId": "monash-mcem",
+    "builtAt": "2026-08-22T21:02:48.189Z",
+    "points": [
+      {
+        "year": "2019",
+        "documented": 8,
+        "retained": 4,
+        "retentionPct": 50,
+        "snapshotUrl": "http://web.archive.org/web/20190601000000/https://www.monash.edu/researchinfrastructure/mcem"
+      },
+      {
+        "year": "2021",
+        "documented": 8,
+        "retained": 5,
+        "retentionPct": 63,
+        "snapshotUrl": "http://web.archive.org/web/20210601000000/https://www.monash.edu/researchinfrastructure/mcem"
+      },
+      {
+        "year": "2023",
+        "documented": 9,
+        "retained": 6,
+        "retentionPct": 67,
+        "snapshotUrl": "http://web.archive.org/web/20230601000000/https://www.monash.edu/researchinfrastructure/mcem"
+      },
+      {
+        "year": "2025",
+        "documented": 10,
+        "retained": 8,
+        "retentionPct": 80,
+        "snapshotUrl": "http://web.archive.org/web/20250601000000/https://www.monash.edu/researchinfrastructure/mcem"
+      },
+      {
+        "year": "now",
+        "documented": 10,
+        "retained": 10,
+        "retentionPct": 100,
+        "snapshotUrl": "https://www.monash.edu/researchinfrastructure/mcem"
+      }
+    ]
   }
 }

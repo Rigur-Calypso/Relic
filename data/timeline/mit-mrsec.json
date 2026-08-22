@@ -1,0 +1,41 @@
+{
+  "targetId": "mit-mrsec",
+  "builtAt": "2026-08-22T20:53:57.651Z",
+  "points": [
+    {
+      "year": "2019",
+      "documented": 5,
+      "retained": 2,
+      "retentionPct": 40,
+      "snapshotUrl": "http://web.archive.org/web/20190601000000/https://dmse.mit.edu/research-impact/research-facilities/"
+    },
+    {
+      "year": "2021",
+      "documented": 8,
+      "retained": 2,
+      "retentionPct": 25,
+      "snapshotUrl": "http://web.archive.org/web/20210601000000/https://dmse.mit.edu/research-impact/research-facilities/"
+    },
+    {
+      "year": "2023",
+      "documented": 4,
+      "retained": 3,
+      "retentionPct": 75,
+      "snapshotUrl": "http://web.archive.org/web/20230601000000/https://dmse.mit.edu/research-impact/research-facilities/"
+    },
+    {
+      "year": "2025",
+      "documented": 3,
+      "retained": 3,
+      "retentionPct": 100,
+      "snapshotUrl": "http://web.archive.org/web/20250601000000/https://dmse.mit.edu/research-impact/research-facilities/"
+    },
+    {
+      "year": "now",
+      "documented": 3,
+      "retained": 3,
+      "retentionPct": 100,
+      "snapshotUrl": "https://dmse.mit.edu/research-impact/research-facilities/"
+    }
+  ]
+}

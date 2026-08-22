@@ -428,3 +428,18 @@ footer{text-align:center; padding:0 22px 60px; color:var(--ink-3); font-size:13p
 .areg-n{font-size:12.5px; font-weight:600; color:var(--ink)}
 .areg-r{font-size:26px; font-weight:600; line-height:1; margin-top:10px}
 .areg-d{font-size:10.5px; color:var(--ink-2); margin-top:6px}
+
+/* ── knowledge-decay chart ── */
+.decay-lead{font-size:13px; color:var(--ink-2); line-height:1.5; margin:-8px 0 14px}
+.decay-wrap{background:var(--glass-2); border:1px solid var(--glass-line); border-radius:18px; padding:16px 18px 8px; box-shadow:var(--shadow); overflow-x:auto}
+.decay-svg{display:block; width:100%; min-width:520px; height:auto}
+.decay-ax{font-family:var(--mono); font-size:10px; fill:var(--ink-3)}
+.decay-pts{display:grid; grid-template-columns:repeat(auto-fit,minmax(112px,1fr)); gap:10px; margin-top:14px}
+.decay-pt{background:var(--glass-2); border:1px solid var(--glass-line); border-radius:14px; padding:12px 14px; box-shadow:var(--shadow)}
+.decay-yr{font-size:10.5px; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-3)}
+.decay-pct{font-size:22px; font-weight:600; line-height:1; margin-top:7px}
+.decay-cap{font-size:10.5px; color:var(--ink-2); margin-top:6px}
+.decay-link{display:inline-block; font-size:10px; margin-top:8px; color:var(--g2); text-decoration:none; border-bottom:1px dashed currentColor}
+.decay-link:hover{color:var(--g1)}
+.decay-val{font-size:10.5px; fill:var(--ink-2); font-weight:600}
+.decay-lead b{font-weight:600}
