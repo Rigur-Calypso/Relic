@@ -3,6 +3,8 @@ import Cursor from './components/Cursor.jsx';
 import Globe from './components/Globe.jsx';
 import LabCard from './components/LabCard.jsx';
 import LabDetail from './components/LabDetail.jsx';
+import LabRow from './components/LabRow.jsx';
+import IndexBand from './components/IndexBand.jsx';
 import Splash from './components/Splash.jsx';
 
 const parseRoute = () => {
@@ -23,7 +25,11 @@ function CountUp({ to }) {
   useEffect(() => {
     let raf, t0; const dur = 1500;
     const step = (t) => { if (!t0) t0 = t; const k = Math.min(1, (t - t0) / dur); setN(Math.round(to * (1 - Math.pow(1 - k, 3)))); if (k < 1) raf = requestAnimationFrame(step); };
-    raf = requestAnimationFrame(step); return () => cancelAnimationFrame(raf);
+    raf = requestAnimationFrame(step);
+    // rAF is paused in a hidden tab; snap to the real value so the stat never
+    // sticks on a partial number.
+    const settle = setTimeout(() => setN(to), dur + 150);
+    return () => { cancelAnimationFrame(raf); clearTimeout(settle); };
   }, [to]);
   return <>{n.toLocaleString()}</>;
 }
@@ -35,6 +41,7 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [live, setLive] = useState(false);
   const [filter, setFilter] = useState('all');
+  const [view, setView] = useState('ranked');
   const [query, setQuery] = useState('');
   const [busy, setBusy] = useState(null);
   const [lookupQ, setLookupQ] = useState('');
@@ -98,12 +105,23 @@ export default function App() {
     loss: labs.filter((l) => l.knowledgeLoss).length,
     instruments: labs.reduce((s, l) => s + (l.trackingCount || 0), 0),
     withHistory: labs.filter((l) => l.vitalityScore != null).length,
+    intact: labs.filter((l) => l.vitalityScore != null && !l.knowledgeLoss).length,
+    none: labs.filter((l) => l.vitalityScore == null).length,
+    removed: labs.reduce((s2, l) => s2 + (l.removed || []).length, 0),
   }), [labs]);
   const shown = useMemo(() => {
     const q = query.trim().toLowerCase();
     return labs.filter((l) => (filter === 'all' || stateOf(l) === filter) &&
       (q === '' || l.name.toLowerCase().includes(q) || (l.url || '').toLowerCase().includes(q)));
   }, [labs, filter, query]);
+  // Worst-first ordering for the ranked view; unjudged facilities sink to the bottom.
+  const ranked = useMemo(() => [...shown].sort((a, b) => {
+    const av = a.vitalityScore, bv = b.vitalityScore;
+    if (av == null && bv == null) return (b.trackingCount || 0) - (a.trackingCount || 0);
+    if (av == null) return 1;
+    if (bv == null) return -1;
+    return av - bv || (b.removed || []).length - (a.removed || []).length;
+  }), [shown]);
   const marquee = useMemo(() => labs.filter((l) => l.vitalityScore != null).slice(0, 18).map((l) => l.name), [labs]);
 
   const scrollTo = (ref) => ref.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -156,6 +174,10 @@ export default function App() {
       )}
 
       <section className="dash" id="dash" ref={dashRef}>
+        {!loading && labs.length > 0 && (
+          <IndexBand stats={stats} onExplore={() => { setFilter('loss'); setView('ranked'); }} />
+        )}
+
         <h2>The knowledge continuity map</h2>
         <p className="lead">Every card is a live diff of a facility’s equipment page against its Wayback history. Point to any dot on the globe to jump to it.</p>
 
@@ -191,16 +213,29 @@ export default function App() {
               {f.key !== 'all' && <span className="dot" style={{ background: f.dot }} />}{f.label} <span className="c">{counts[f.key] ?? 0}</span>
             </button>
           ))}
-          <span className="count">{loading ? 'Loading…' : `Showing ${shown.length} of ${labs.length}`}</span>
+          <div className="vtoggle" role="group" aria-label="Result layout">
+            <button type="button" data-cursor aria-pressed={view === 'ranked'} onClick={() => setView('ranked')}>Ranked</button>
+            <button type="button" data-cursor aria-pressed={view === 'grid'} onClick={() => setView('grid')}>Grid</button>
+          </div>
+          <span className="count">{loading ? 'Loading…' : `Showing ${shown.length} of ${labs.length}`}{view === 'ranked' && !loading ? ' · worst first' : ''}</span>
         </div>
 
-        <div className="grid">
-          {loading ? <div className="skeleton">{Array.from({ length: 6 }).map((_, i) => <div className="sk" key={i} />)}</div>
-            : shown.length ? shown.map((l, i) => (
+        {loading ? (
+          <div className="grid"><div className="skeleton">{Array.from({ length: 6 }).map((_, i) => <div className="sk" key={i} />)}</div></div>
+        ) : !shown.length ? (
+          <div className="grid"><div className="empty">No facilities match this view.</div></div>
+        ) : view === 'ranked' ? (
+          <div className="lrows">
+            {ranked.map((l, i) => <LabRow key={l.id} lab={l} rank={i + 1} onOpen={openLab} />)}
+          </div>
+        ) : (
+          <div className="grid">
+            {shown.map((l, i) => (
               <LabCard key={l.id} lab={l} live={live} index={i} onOpen={openLab}
                 busy={busy?.id === l.id ? busy.kind : null} anyBusy={!!busy} onAction={onAction} />
-            )) : <div className="empty">No facilities match this view.</div>}
-        </div>
+            ))}
+          </div>
+        )}
       </section>
 
       <footer>RELIC · the self-healing web memory — a Bright Data × Gemini pipeline monitoring {labs.length || '100+'} facilities.</footer>
